@@ -1,0 +1,121 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:18 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210625
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 0.000 16.020 <o,f5,unknown> vokal
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 16.020 23.060 <o,f5,unknown> pataka
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 23.060 26.941 <o,f5,unknown> diaľnica mraky
+32lv9ppp01 1 excluded_region 26.941 27.980 <o,,unknown> ignore_time_segment_in_scoring
+32lv9ppp01 1 excluded_region 27.980 29.578 <o,,unknown> ignore_time_segment_in_scoring
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 29.578 33.280 <o,f5,unknown> [hez] most
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 33.280 36.000 <o,f5,unknown> hodinky
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 36.000 38.820 <o,f5,unknown> bubny
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 38.820 41.560 <o,f5,unknown> traktor
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 41.560 44.100 <o,f5,unknown> fajka
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 44.100 47.520 <o,f5,unknown> akvárium
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 47.520 50.116 <o,f5,unknown> [hez] lievik
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 50.116 51.040 <o,f5,unknown> víno
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 51.040 57.400 <o,f5,unknown> toto je kocka [ruch] [hez] domino
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 57.400 62.300 <o,f5,unknown> čo to je ponorka
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 62.300 65.500 <o,f5,unknown> písanie
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 65.500 68.660 <o,f5,unknown> [hez] sneh
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 68.660 72.840 <o,f5,unknown> [hez] váha
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 72.840 75.920 <o,f5,unknown> plač
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 75.920 79.400 <o,f5,unknown> varenie
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 79.400 82.980 <o,f5,unknown> telefonovanie
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 82.980 88.440 <o,f5,unknown> [hez] šije šijacia/šijaca mašina
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 88.440 93.100 <o,f5,unknown> krájanie syra
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 93.100 96.940 <o,f5,unknown> polievanie kvetín
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 96.940 101.600 <o,f5,unknown> pletenie štrikovanie
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 101.600 105.960 <o,f5,unknown> no tak toto je kráľ
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 105.960 109.200 <o,f5,unknown> topánky
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 109.200 115.502 <o,f5,unknown> [hez] no čo to je
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 115.502 117.846 <o,f5,unknown> jaj však to sú cigarety
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 117.846 120.280 <o,f5,unknown> ((xxxx))
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 120.280 123.060 <o,f5,unknown> hodiny
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 123.060 126.300 <o,f5,unknown> teplomer [ruch]
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 126.300 129.520 <o,f5,unknown> [ruch] električka
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 129.520 132.700 <o,f5,unknown> metla
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 132.700 136.180 <o,f5,unknown> hríby dubáky
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 136.180 139.110 <o,f5,unknown> toto je kotva
+32lv9ppp01 1 excluded_region 139.110 139.920 <o,,unknown> ignore_time_segment_in_scoring
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 139.920 144.220 <o,f5,unknown> toto je kozmonaut
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 144.220 148.800 <o,f5,unknown> no natieranie chleba
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 148.800 153.600 <o,f5,unknown> [hez] dievča ťahá povraz
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 153.600 159.360 <o,f5,unknown> [hez] žiarovka svieti
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 159.360 164.620 <o,f5,unknown> požiar horí
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 164.620 168.520 <o,f5,unknown> hádzanie oštepom
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 168.520 172.900 <o,f5,unknown> [hez] maliar maľuje
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 172.900 177.500 <o,f5,unknown> vŕtačka vŕtanie do steny
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 177.500 180.705 <o,f5,unknown> hrable na záhrade
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 180.705 183.320 <o,f5,unknown> hrabe
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 183.320 188.760 <o,f5,unknown> toto s pilkou piluje nejaké drevo
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 188.760 194.419 <o,f5,unknown> no toto su športovkyne športovci veslári
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 194.419 198.380 <o,f5,unknown> som bol na vojne tam
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 198.380 202.320 <o,f5,unknown> [spk] kniha
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 202.320 206.220 <o,f5,unknown> [hez] autobus
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 206.220 210.420 <o,f5,unknown> [hez] kráľovská koruna
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 210.420 215.280 <o,f5,unknown> [hez] koleso na auto
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 215.280 220.180 <o,f5,unknown> [hez] lavica v parku
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 220.180 223.120 <o,f5,unknown> zips
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 223.120 225.841 <o,f5,unknown> velbloud*
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 225.841 227.664 <o,f5,unknown> ťava
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 227.664 229.880 <o,f5,unknown> [hez] vešiak
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 229.880 233.300 <o,f5,unknown> [hez] žaluď/žalud
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 233.300 238.440 <o,f5,unknown> [hez] kaktus ((chlupatý))
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 238.440 243.580 <o,f5,unknown> dievčina spieva do mikrofónu
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 243.580 248.880 <o,f5,unknown> [hez] malé dieťa sa kúpe vo vaničke
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 248.880 254.040 <o,f5,unknown> meranie okna colštokom
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 254.040 258.840 <o,f5,unknown> [hez] dieťa pije vodu
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 258.840 265.820 <o,f5,unknown> [kasel] ide do ideme do bytu. klepeme. o otvorte.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 265.820 270.960 <o,f5,unknown> no švihadlom skáče športovkyňa
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 270.960 277.560 <o,f5,unknown> [hez] lyžovanie pripravený na s lyžami
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 277.560 282.640 <o,f5,unknown> fotografovanie môj koníček [spk]
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 282.640 289.480 <o,f5,unknown> [hez] cyklista cyklis cyk no bicykluje
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 289.480 294.820 <o,f5,unknown> [hez] žehlenie nohavíc doma
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 294.820 304.581 <o,f5,unknown> [ruch] no tak sme v kuchyni. v kuchyni kuchár [hez] vareškou hýbe s lampou.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 304.581 313.614 <o,f5,unknown> malé dieťa na stoličke sa kymáca. dočahuje ne niečo na tanieri.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 313.614 323.117 <o,f5,unknown> no [spk] ako keby chcelo no [hez] vyrovnáva rovnováhu na stoličke pretože je naklonený.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 323.117 335.097 <o,f5,unknown> na [hez] v kuchyni máme kuchynskú linku s poličkami: aj [hez] aj kuchynskú linku s dverami. otvoriť zatvoriť.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 335.097 353.158 <o,f5,unknown> tam vzadu je vodovod kde tečie voda. na na na linke je nejaký hrniec/hrnec z ktorého vykypelo tam niečo čo sa varil varilo no.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 353.158 370.667 <o,f5,unknown> takže ja neviem načo som zabudol. [hez] te:n otec je v modrej [hez] má mo mo modrú [hez] jak sa tomu povie no.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 370.667 379.033 <o,f5,unknown> v kuchyni potom má červené tepláky. [hez] dole má nejaké [hez] atypické papuče.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 379.033 383.860 <o,f5,unknown> plus je tam padnuté niečo na zemi čo zrejme asi tam nemá
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 383.860 389.737 <o,f5,unknown> no tak kde kde sa kde sa vôbec nachádzame?
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 389.737 394.604 <o,f5,unknown> asi je to z [hez] priestor kde sú deti. majú hračky.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 394.604 404.523 <o,f5,unknown> takže hore máme hodiny na ktorých je štvrť na jednu aj [hez] na áno aj päť minút. je je tam hrniec/hrnec.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 404.523 420.867 <o,f5,unknown> maminka drží v ľavej ruke ruke panvicu na ktorej robí praženicu praženicu. sú tam poličky. na poličkách sú knihy knihy. ďalej je tam nejaká mačka nejaká fľaška.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 420.867 426.189 <o,f5,unknown> hore sú tam znázornené topánky na podpätkoch.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 426.189 436.762 <o,f5,unknown> no a teraz maminka okrem toho že drží v rukách bábätko ešte aj telefonuje/telefónuje. pozerá sa zvláštnym spósobom/spôsobom doľava.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 436.762 454.707 <o,f5,unknown> no a: na s na tom stole alebo čo to je alebo je to šporák [hez] je hrniec na ktorom sa niečo varí varí. potom na na stole má má voľáke je to asi mlieko vyzerá to.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 454.707 468.747 <o,f5,unknown> no tuna: tieto str je tam vlastne nožík vyzerá to byť. potom neviem či to neni citrón alebo čo sú tie drob drobnosti tam.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 468.747 472.900 <o,f5,unknown> no tu vľavo sa jako s kvetiná
+32lv9ppp01 1 excluded_region 472.900 476.677 <o,,unknown> ignore_time_segment_in_scoring
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 476.677 499.516 <o,f5,unknown> takže máme tu tri osoby. je to rodinka kde je mamina v popredí [hez] telefonuje/telefónuje. je krásne očesaná. má oblečené nohavice n nočné papuče domáce potom nejaký nejaký svetrík. jeden dva tri štyri gombíky.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 499.516 514.033 <o,f5,unknown> po ľa po pravej ruke jej je je dieťa ktoré [hez] zrejme za zažíha vianočný stromček alebo sú tam pravdepodobne žiarovky rozsvietené.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 514.033 526.211 <o,f5,unknown> to dieťa je čiernovlasé/černovlasé. má taký nejaký svetrík/svetrik. oblečené žlté krátke nohavice akoby bola bola v pohybe [spk] .
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 526.211 534.050 <o,f5,unknown> no teraz po pravej strane sedí otec ktorý sa náramne diví celej tej akcie ktorá tu beží.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 534.050 557.856 <o,f5,unknown> no len zvláštnosť je to že má obuté jaj jaj že stojí noh [hez] pravou nohou na nejakom autíčku synovom. vedľa je ďalšia hračka. [spk] no s touto druhou nohou ako keby manželku mierne posúval alebo tak naznačil kopanie.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 557.856 561.960 <o,f5,unknown> v pozadí tej nohy vidím tam také malilinkavé vyzerá
+32lv9ppp01 1 excluded_region 561.960 564.932 <o,,unknown> ignore_time_segment_in_scoring
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 564.932 577.678 <o,f5,unknown> no takže popisujeme obrázok. zase sa nachádzame [hez] v kuchyni kde zoberieme/zobereme to z ľavej strany je je je je je ich dievčina dcérka.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 577.678 595.979 <o,f5,unknown> a chalan stojí na zvýšenej stoličke [hez] ktorá na na z z ktorej dočahuje ku hornej skrinke. [ruch-] ukladá tam ukladá tam. je tam nejaká jar. [-ruch] a ešte neviem čo to tam môže byť [spk] .
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 595.979 601.110 <o,f5,unknown> no a tá dievčina jako keby mu to sestra podávala podávala.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 601.110 613.967 <o,f5,unknown> no a a: [hez] dávajú to do hornej časti skriniek. po pravej strane sa dostávame k maminke k maminke ktorá je tiež v kuchyni no.
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 613.967 622.250 <o,f5,unknown> v kuchyni [hez] tiež má [hez] tú kuchársku zásteru na ktorú som si minule ((minule)) nevedel spomenúť [spk] .
+32lv9ppp01 1 32lv9ppp01_32lv9ppp01 622.250 642.222 <o,f5,unknown> nohy prekrížené [hez] no a je pri kuchynskej linke kde si hádam nevšimla že zabudla zatvorit [hez] vodovod a teda ich začína vytápať z čoho budú mať susedia určite veľkú radost radost. poznáme to z praxe.

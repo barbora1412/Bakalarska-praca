@@ -1,0 +1,130 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:27 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 210706
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665uckka01 1 665uckka01_665uckka01 0.000 14.880 <o,f0,unknown> vokal
+665uckka01 1 665uckka01_665uckka01 14.880 22.780 <o,f0,unknown> pataka
+665uckka01 1 665uckka01_665uckka01 22.780 26.980 <o,f0,unknown> mračná cesta
+665uckka01 1 665uckka01_665uckka01 26.980 29.880 <o,f0,unknown> ((to neviem)) most
+665uckka01 1 665uckka01_665uckka01 29.880 32.580 <o,f0,unknown> hodinky/kadinky
+665uckka01 1 665uckka01_665uckka01 32.580 35.020 <o,f0,unknown> bubon/buben
+665uckka01 1 665uckka01_665uckka01 35.020 38.000 <o,f0,unknown> traktor
+665uckka01 1 665uckka01_665uckka01 38.000 40.820 <o,f0,unknown> [ruch-] fajka [-ruch]
+665uckka01 1 665uckka01_665uckka01 40.820 44.960 <o,f0,unknown> akvárium/akvarium
+665uckka01 1 665uckka01_665uckka01 44.960 47.980 <o,f0,unknown> lievik
+665uckka01 1 665uckka01_665uckka01 47.980 52.380 <o,f0,unknown> domino
+665uckka01 1 665uckka01_665uckka01 52.380 55.780 <o,f0,unknown> ponorka
+665uckka01 1 665uckka01_665uckka01 55.780 58.280 <o,f0,unknown> píše
+665uckka01 1 665uckka01_665uckka01 58.280 61.320 <o,f0,unknown> smeje sa/še
+665uckka01 1 665uckka01_665uckka01 61.320 64.880 <o,f0,unknown> váži/važi jablko
+665uckka01 1 665uckka01_665uckka01 64.880 68.020 <o,f0,unknown> plače
+665uckka01 1 665uckka01_665uckka01 68.020 70.620 <o,f0,unknown> varí
+665uckka01 1 665uckka01_665uckka01 70.620 73.500 <o,f0,unknown> telefonuje
+665uckka01 1 665uckka01_665uckka01 73.500 75.980 <o,f0,unknown> šije
+665uckka01 1 665uckka01_665uckka01 75.980 79.400 <o,f0,unknown> reže jablko
+665uckka01 1 665uckka01_665uckka01 79.400 82.500 <o,f0,unknown> polieva kvet
+665uckka01 1 665uckka01_665uckka01 82.500 85.640 <o,f0,unknown> hačkuje
+665uckka01 1 665uckka01_665uckka01 85.640 88.195 <o,f0,unknown> ta kráľ/kraľ
+665uckka01 1 665uckka01_665uckka01 88.195 89.360 <o,f0,unknown> [spk]
+665uckka01 1 665uckka01_665uckka01 89.360 93.320 <o,f0,unknown> topánky
+665uckka01 1 665uckka01_665uckka01 93.320 96.220 <o,f0,unknown> [ned-] ciga [-ned]
+665uckka01 1 665uckka01_665uckka01 96.220 97.138 <o,f0,unknown> [smiech]
+665uckka01 1 665uckka01_665uckka01 97.138 101.000 <o,f0,unknown> hodinky budík
+665uckka01 1 665uckka01_665uckka01 101.000 104.420 <o,f0,unknown> ((ten)) teplomer
+665uckka01 1 665uckka01_665uckka01 104.420 108.360 <o,f0,unknown> električka
+665uckka01 1 665uckka01_665uckka01 108.360 111.860 <o,f0,unknown> metla
+665uckka01 1 665uckka01_665uckka01 111.860 114.660 <o,f0,unknown> huby
+665uckka01 1 665uckka01_665uckka01 114.660 119.520 <o,f0,unknown> ((xx)) kotva
+665uckka01 1 665uckka01_665uckka01 119.520 124.106 <o,f0,unknown> no vesmírny pracovník
+665uckka01 1 excluded_region 124.106 127.560 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 127.560 130.980 <o,f0,unknown> maže chlieb/chlib
+665uckka01 1 665uckka01_665uckka01 130.980 134.640 <o,f0,unknown> no preťahujú sa lanom
+665uckka01 1 665uckka01_665uckka01 134.640 138.740 <o,f0,unknown> žiarovka svieti
+665uckka01 1 665uckka01_665uckka01 138.740 142.160 <o,f0,unknown> horí oheň
+665uckka01 1 665uckka01_665uckka01 142.160 145.680 <o,f0,unknown> hod oštepom
+665uckka01 1 665uckka01_665uckka01 145.680 150.320 <o,f0,unknown> maliar maľuje obraz
+665uckka01 1 665uckka01_665uckka01 150.320 154.280 <o,f0,unknown> vŕtačka
+665uckka01 1 665uckka01_665uckka01 154.280 158.500 <o,f0,unknown> hrabky
+665uckka01 1 665uckka01_665uckka01 158.500 165.440 <o,f0,unknown> ((ta)) [hez] stará reže dosku
+665uckka01 1 665uckka01_665uckka01 165.440 169.360 <o,f0,unknown> veslovanie
+665uckka01 1 665uckka01_665uckka01 169.360 172.340 <o,f0,unknown> kniha
+665uckka01 1 665uckka01_665uckka01 172.340 175.380 <o,f0,unknown> autobus
+665uckka01 1 665uckka01_665uckka01 175.380 179.120 <o,f0,unknown> kráľovská koruna
+665uckka01 1 665uckka01_665uckka01 179.120 183.480 <o,f0,unknown> koleso auta
+665uckka01 1 665uckka01_665uckka01 183.480 187.040 <o,f0,unknown> lavička
+665uckka01 1 665uckka01_665uckka01 187.040 190.580 <o,f0,unknown> cibzar*
+665uckka01 1 665uckka01_665uckka01 190.580 193.500 <o,f0,unknown> ťava
+665uckka01 1 665uckka01_665uckka01 193.500 196.500 <o,f0,unknown> vešiak
+665uckka01 1 665uckka01_665uckka01 196.500 199.940 <o,f0,unknown> žaluď
+665uckka01 1 665uckka01_665uckka01 199.940 206.780 <o,f0,unknown> ((ja)) [hez] [hez] kaktus
+665uckka01 1 665uckka01_665uckka01 206.780 209.500 <o,f0,unknown> spieva
+665uckka01 1 665uckka01_665uckka01 209.500 212.580 <o,f0,unknown> kúpe sa malý
+665uckka01 1 665uckka01_665uckka01 212.580 216.800 <o,f0,unknown> meria okno
+665uckka01 1 665uckka01_665uckka01 216.800 220.180 <o,f0,unknown> pije vodu
+665uckka01 1 665uckka01_665uckka01 220.180 223.660 <o,f0,unknown> klope na dvere
+665uckka01 1 665uckka01_665uckka01 223.660 229.040 <o,f0,unknown> [hez] preskok švihadlom
+665uckka01 1 665uckka01_665uckka01 229.040 232.140 <o,f0,unknown> lyžovanie/lyžovane
+665uckka01 1 665uckka01_665uckka01 232.140 235.740 <o,f0,unknown> fotenie/tfotenie
+665uckka01 1 665uckka01_665uckka01 235.740 239.020 <o,f0,unknown> bicyklovanie/bicygľovane
+665uckka01 1 665uckka01_665uckka01 239.020 242.160 <o,f0,unknown> žehlenie/žehlene
+665uckka01 1 665uckka01_665uckka01 242.160 251.753 <o,f0,unknown> ruka detské prsty
+665uckka01 1 665uckka01_665uckka01 251.753 256.635 <o,f0,unknown> čo tam ((ešte))
+665uckka01 1 665uckka01_665uckka01 256.635 258.921 <o,f0,unknown> ruka a detské prsty sú tam.
+665uckka01 1 excluded_region 258.921 272.060 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 272.060 279.008 <o,f0,unknown> stolík [ruch-] stoličky káva na stolíku [-ruch]
+665uckka01 1 excluded_region 279.008 301.960 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 301.960 311.832 <o,f0,unknown> ((sú)) zelené skrinky stolík/tolík.
+665uckka01 1 665uckka01_665uckka01 311.832 317.354 <o,f0,unknown> čo tam čo tam torta či čo to má byť čo tam.
+665uckka01 1 665uckka01_665uckka01 317.354 320.052 <o,f0,unknown> chlapec banán berie.
+665uckka01 1 excluded_region 320.052 325.176 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 325.176 328.841 <o,f0,unknown> hore luster rozbil hen/hel ten nie?
+665uckka01 1 excluded_region 328.841 338.871 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 338.871 347.383 <o,f0,unknown> čo tam voda tečie z vodovodu ((no)).
+665uckka01 1 excluded_region 347.383 357.062 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 357.062 361.072 <o,f0,unknown> mačka čo/co tam čo/co tam viac [smiech]
+665uckka01 1 excluded_region 361.072 365.985 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 365.985 377.920 <o,f0,unknown> %hm stolička sa prevracia. [ruch-] voda vyteká [-ruch] . %hm
+665uckka01 1 excluded_region 377.920 389.919 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 389.919 391.860 <o,f0,unknown> ((ju)) bije s varechou/varechu.
+665uckka01 1 665uckka01_665uckka01 391.860 405.109 <o,f0,unknown> [hez] ((no)) ((pa)) kuchárka varí jesť zo špekáčky ((ja)) to sú no.
+665uckka01 1 665uckka01_665uckka01 405.109 409.354 <o,f0,unknown> mačka na: ci na poličke.
+665uckka01 1 665uckka01_665uckka01 409.354 415.896 <o,f0,unknown> kvety padajú do na zem.
+665uckka01 1 665uckka01_665uckka01 415.896 424.696 <o,f0,unknown> korkačky* ((nohu)) v hlave baba. no čo to.
+665uckka01 1 665uckka01_665uckka01 424.696 431.209 <o,f0,unknown> ta ša sú rev tam či čo tam okolo/kolo mačky %hm.
+665uckka01 1 665uckka01_665uckka01 431.209 441.479 <o,f0,unknown> ((zelenina)) na stole ((xx)) na tom paradajky/paradajke paprika.
+665uckka01 1 665uckka01_665uckka01 441.479 445.981 <o,f0,unknown> ((kapka)) lebo/bo varí/vari.
+665uckka01 1 665uckka01_665uckka01 445.981 450.068 <o,f0,unknown> a decko má na rukách a varí no.
+665uckka01 1 excluded_region 450.068 459.395 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 459.395 462.200 <o,f0,unknown> ((xx)) počítač má tam.
+665uckka01 1 excluded_region 462.200 468.898 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 468.898 471.554 <o,f0,unknown> knihy na poličke.
+665uckka01 1 excluded_region 471.554 475.598 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 475.598 481.760 <o,f0,unknown> a rozmýšľa nad topánkami baba. [spk]
+665uckka01 1 665uckka01_665uckka01 481.760 491.471 <o,f0,unknown> [hez] prišiel domov ((teraz zane sváry pad)) [smiech]
+665uckka01 1 665uckka01_665uckka01 491.471 498.222 <o,f0,unknown> zvonku ide [smiech-] syn šmyklo buchlo ((z nej mu chyhy)) [-smiech] stromček/stromik sa/še prevracia/prevraca.
+665uckka01 1 excluded_region 498.222 500.626 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 500.626 503.709 <o,f0,unknown> deti/diti okolo stromčeka. [ruch]
+665uckka01 1 665uckka01_665uckka01 503.709 513.567 <o,f0,unknown> %mm na ((has)) to/ta baba volá pohotovostnú a psík sebe odpočíva leží.
+665uckka01 1 665uckka01_665uckka01 513.567 518.144 <o,f0,unknown> [spk]
+665uckka01 1 665uckka01_665uckka01 518.144 520.682 <o,f0,unknown> ((no čo tam))
+665uckka01 1 665uckka01_665uckka01 520.682 526.221 <o,f0,unknown> bombule na stromíku sú/ša tam nie/ne. deti ťahajú.
+665uckka01 1 665uckka01_665uckka01 526.221 530.559 <o,f0,unknown> ((tak)) dvere. záclony.
+665uckka01 1 excluded_region 530.559 555.392 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 555.392 557.152 <o,f0,unknown> autíčka na zemi.
+665uckka01 1 excluded_region 557.152 561.091 <o,,unknown> ignore_time_segment_in_scoring
+665uckka01 1 665uckka01_665uckka01 561.091 565.646 <o,f0,unknown> [spk] a deti/decká bombule zo stromíku ťahajú.

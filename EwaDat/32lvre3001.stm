@@ -1,0 +1,122 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:19 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210703
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+32lvre3001 1 32lvre3001_32lvre3001 0.000 19.060 <o,f0,unknown> vokal
+32lvre3001 1 32lvre3001_32lvre3001 19.060 26.100 <o,f0,unknown> pataka
+32lvre3001 1 32lvre3001_32lvre3001 26.100 30.080 <o,f0,unknown> [hez] c cesta
+32lvre3001 1 32lvre3001_32lvre3001 30.080 32.760 <o,f0,unknown> m most
+32lvre3001 1 32lvre3001_32lvre3001 32.760 35.340 <o,f0,unknown> hodinky
+32lvre3001 1 32lvre3001_32lvre3001 35.340 37.780 <o,f0,unknown> bubon
+32lvre3001 1 32lvre3001_32lvre3001 37.780 40.200 <o,f0,unknown> traktor
+32lvre3001 1 32lvre3001_32lvre3001 40.200 42.520 <o,f0,unknown> fajka
+32lvre3001 1 32lvre3001_32lvre3001 42.520 45.080 <o,f0,unknown> akvárium
+32lvre3001 1 32lvre3001_32lvre3001 45.080 47.600 <o,f0,unknown> lievik
+32lvre3001 1 32lvre3001_32lvre3001 47.600 50.460 <o,f0,unknown> domino
+32lvre3001 1 32lvre3001_32lvre3001 50.460 53.840 <o,f0,unknown> motorka/modorka
+32lvre3001 1 excluded_region 53.840 55.216 <o,,unknown> ignore_time_segment_in_scoring
+32lvre3001 1 32lvre3001_32lvre3001 55.216 57.340 <o,f0,unknown> píše
+32lvre3001 1 32lvre3001_32lvre3001 57.340 60.140 <o,f0,unknown> s smeje sa
+32lvre3001 1 32lvre3001_32lvre3001 60.140 63.940 <o,f0,unknown> váži
+32lvre3001 1 32lvre3001_32lvre3001 63.940 66.600 <o,f0,unknown> plače
+32lvre3001 1 32lvre3001_32lvre3001 66.600 69.340 <o,f0,unknown> varí
+32lvre3001 1 32lvre3001_32lvre3001 69.340 72.340 <o,f0,unknown> telefonuje
+32lvre3001 1 32lvre3001_32lvre3001 72.340 76.540 <o,f0,unknown> šije na stroji šijacom
+32lvre3001 1 32lvre3001_32lvre3001 76.540 79.800 <o,f0,unknown> krája
+32lvre3001 1 32lvre3001_32lvre3001 79.800 82.780 <o,f0,unknown> zalieva
+32lvre3001 1 32lvre3001_32lvre3001 82.780 87.080 <o,f0,unknown> [hez] to je pletie
+32lvre3001 1 32lvre3001_32lvre3001 87.080 90.420 <o,f0,unknown> kráľ
+32lvre3001 1 32lvre3001_32lvre3001 90.420 93.760 <o,f0,unknown> [hez] topá topánky
+32lvre3001 1 32lvre3001_32lvre3001 93.760 96.600 <o,f0,unknown> cigarety
+32lvre3001 1 32lvre3001_32lvre3001 96.600 99.640 <o,f0,unknown> budík
+32lvre3001 1 32lvre3001_32lvre3001 99.640 102.420 <o,f0,unknown> teplomer
+32lvre3001 1 32lvre3001_32lvre3001 102.420 105.220 <o,f0,unknown> električka
+32lvre3001 1 32lvre3001_32lvre3001 105.220 107.680 <o,f0,unknown> metla
+32lvre3001 1 32lvre3001_32lvre3001 107.680 111.080 <o,f0,unknown> [hez] hríby
+32lvre3001 1 32lvre3001_32lvre3001 111.080 113.860 <o,f0,unknown> kotva
+32lvre3001 1 32lvre3001_32lvre3001 113.860 117.580 <o,f0,unknown> [hez] kozmonaut
+32lvre3001 1 32lvre3001_32lvre3001 117.580 120.980 <o,f0,unknown> natiera
+32lvre3001 1 32lvre3001_32lvre3001 120.980 125.340 <o,f0,unknown> [hez] ťahá
+32lvre3001 1 32lvre3001_32lvre3001 125.340 128.840 <o,f0,unknown> [hez] svieti
+32lvre3001 1 32lvre3001_32lvre3001 128.840 131.920 <o,f0,unknown> horí
+32lvre3001 1 32lvre3001_32lvre3001 131.920 135.700 <o,f0,unknown> vrhá
+32lvre3001 1 32lvre3001_32lvre3001 135.700 138.880 <o,f0,unknown> maľuje
+32lvre3001 1 32lvre3001_32lvre3001 138.880 141.580 <o,f0,unknown> vŕta
+32lvre3001 1 32lvre3001_32lvre3001 141.580 144.340 <o,f0,unknown> hrabe
+32lvre3001 1 32lvre3001_32lvre3001 144.340 147.220 <o,f0,unknown> reže
+32lvre3001 1 32lvre3001_32lvre3001 147.220 151.400 <o,f0,unknown> vesluje
+32lvre3001 1 32lvre3001_32lvre3001 151.400 155.000 <o,f0,unknown> kniha
+32lvre3001 1 32lvre3001_32lvre3001 155.000 158.320 <o,f0,unknown> autobus
+32lvre3001 1 32lvre3001_32lvre3001 158.320 161.300 <o,f0,unknown> koruna
+32lvre3001 1 32lvre3001_32lvre3001 161.300 163.940 <o,f0,unknown> koleso
+32lvre3001 1 32lvre3001_32lvre3001 163.940 166.460 <o,f0,unknown> lavica
+32lvre3001 1 32lvre3001_32lvre3001 166.460 168.440 <o,f0,unknown> zips
+32lvre3001 1 32lvre3001_32lvre3001 168.440 171.000 <o,f0,unknown> ťava
+32lvre3001 1 32lvre3001_32lvre3001 171.000 173.520 <o,f0,unknown> vešiak
+32lvre3001 1 32lvre3001_32lvre3001 173.520 179.080 <o,f0,unknown> [hez] [hez] to je žaluď/žalud
+32lvre3001 1 32lvre3001_32lvre3001 179.080 181.940 <o,f0,unknown> kaktus
+32lvre3001 1 32lvre3001_32lvre3001 181.940 185.820 <o,f0,unknown> spieva
+32lvre3001 1 32lvre3001_32lvre3001 185.820 188.800 <o,f0,unknown> kúpe sa
+32lvre3001 1 32lvre3001_32lvre3001 188.800 191.880 <o,f0,unknown> meria
+32lvre3001 1 32lvre3001_32lvre3001 191.880 194.480 <o,f0,unknown> pije
+32lvre3001 1 32lvre3001_32lvre3001 194.480 197.260 <o,f0,unknown> klope/krope
+32lvre3001 1 32lvre3001_32lvre3001 197.260 200.500 <o,f0,unknown> skáče
+32lvre3001 1 32lvre3001_32lvre3001 200.500 203.420 <o,f0,unknown> lyžuje
+32lvre3001 1 32lvre3001_32lvre3001 203.420 206.500 <o,f0,unknown> fotografuje
+32lvre3001 1 32lvre3001_32lvre3001 206.500 209.780 <o,f0,unknown> bicykluje
+32lvre3001 1 32lvre3001_32lvre3001 209.780 212.880 <o,f0,unknown> žehlí
+32lvre3001 1 32lvre3001_32lvre3001 212.880 217.363 <o,f0,unknown> [ruch]
+32lvre3001 1 32lvre3001_32lvre3001 217.363 229.072 <o,f0,unknown> muž [hez] v kuchyni s varechou v ruke. [hez] [hez] kypí mu [hez] niečo z hrnca.
+32lvre3001 1 32lvre3001_32lvre3001 229.072 231.008 <o,f0,unknown> preteká mu voda.
+32lvre3001 1 32lvre3001_32lvre3001 231.008 238.416 <o,f0,unknown> [spk] [hez] [hez] nešťastne udrel do [hez] lustra.
+32lvre3001 1 32lvre3001_32lvre3001 238.416 266.040 <o,f0,unknown> [spk] ((xx)) malý pozor na decko dával. [spk] [hez] [hez] [hez] dieťa vyberá niečo z ((a alebo vyzerá)) na ovocie alebo jedlo nejaké. otočený chrb chrbtom je.
+32lvre3001 1 32lvre3001_32lvre3001 266.040 271.594 <o,f0,unknown> no neviem čo by som ešte. [spk] [spk]
+32lvre3001 1 32lvre3001_32lvre3001 271.594 280.620 <o,f0,unknown> zo skrinky [hez] [hez] niečo vyteká.
+32lvre3001 1 32lvre3001_32lvre3001 280.620 288.629 <o,f0,unknown> to je asi všetko čo
+32lvre3001 1 excluded_region 288.629 301.940 <o,,unknown> ignore_time_segment_in_scoring
+32lvre3001 1 32lvre3001_32lvre3001 301.940 307.358 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 307.358 321.813 <o,f0,unknown> [hez] mačka zhodila z police niečo. dieťa [hez] v náručí plače.
+32lvre3001 1 32lvre3001_32lvre3001 321.813 342.311 <o,f0,unknown> matka robí naraz viacej prác. [spk] [hez] [hez] rozmýšľa pritom nad asi čo si kúpi nad topánkami.
+32lvre3001 1 32lvre3001_32lvre3001 342.311 370.177 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 370.177 373.916 <o,f0,unknown> no to je asi všech asi všetko.
+32lvre3001 1 excluded_region 373.916 374.332 <o,,unknown> ignore_time_segment_in_scoring
+32lvre3001 1 32lvre3001_32lvre3001 374.332 378.623 <o,f0,unknown> že viac že robí viacej prác naraz no.
+32lvre3001 1 excluded_region 378.623 383.320 <o,,unknown> ignore_time_segment_in_scoring
+32lvre3001 1 32lvre3001_32lvre3001 383.320 386.620 <o,f0,unknown> čo robia?
+32lvre3001 1 excluded_region 386.620 387.420 <o,,unknown> ignore_time_segment_in_scoring
+32lvre3001 1 32lvre3001_32lvre3001 387.420 402.557 <o,f0,unknown> [ruch] no dieťa sa teší asi z vianoc. [spk] matka telefonuje.
+32lvre3001 1 32lvre3001_32lvre3001 402.557 406.278 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 406.278 420.201 <o,f0,unknown> [hez] bol tam v izbe neporiadok že jak prišiel otec domov tak stúpil na [hez] hračku a [spk] padá.
+32lvre3001 1 32lvre3001_32lvre3001 420.201 429.054 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 429.054 432.474 <o,f0,unknown> vonku je vidieť že sneží.
+32lvre3001 1 32lvre3001_32lvre3001 432.474 438.923 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 438.923 443.877 <o,f0,unknown> ten muž nes doniesol nejaký nákup.
+32lvre3001 1 32lvre3001_32lvre3001 443.877 450.778 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 450.778 456.974 <o,f0,unknown> z vonka cez okno pozerá nejaké dieťa.
+32lvre3001 1 32lvre3001_32lvre3001 456.974 462.245 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 462.245 463.355 <o,f0,unknown> tak asi všetko
+32lvre3001 1 excluded_region 463.355 464.920 <o,,unknown> ignore_time_segment_in_scoring
+32lvre3001 1 32lvre3001_32lvre3001 464.920 478.269 <o,f0,unknown> [ruch] [spk] ((tak)) [hez]
+32lvre3001 1 32lvre3001_32lvre3001 478.269 489.865 <o,f0,unknown> žena umýva riad a preteká jej voda z drezu/dresu. [hez] b ona utiera p p práve ten riad.
+32lvre3001 1 32lvre3001_32lvre3001 489.865 495.106 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 495.106 519.061 <o,f0,unknown> chlapec [spk] [hez] ((po)) vylezení na taburetke a chcel niečo brať s zo skrinky alebo podať dievčaťu alebo sestre.
+32lvre3001 1 32lvre3001_32lvre3001 519.061 529.854 <o,f0,unknown> [spk]
+32lvre3001 1 32lvre3001_32lvre3001 529.854 532.774 <o,f0,unknown> ((čo tam ešte vidím))
+32lvre3001 1 32lvre3001_32lvre3001 532.774 539.673 <o,f0,unknown> [spk] [hez]
+32lvre3001 1 32lvre3001_32lvre3001 539.673 545.875 <o,f0,unknown> od roz [hez] od roztiahnutej záclony je vidieť von. [spk]
+32lvre3001 1 excluded_region 545.875 547.555 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,119 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:36 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 210704
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665u17q201 1 665u17q201_665u17q201 0.000 14.900 <o,f5,unknown> vokal
+665u17q201 1 665u17q201_665u17q201 14.900 22.800 <o,f5,unknown> pataka
+665u17q201 1 665u17q201_665u17q201 22.800 25.800 <o,f5,unknown> cesta
+665u17q201 1 665u17q201_665u17q201 25.800 28.440 <o,f5,unknown> most
+665u17q201 1 665u17q201_665u17q201 28.440 30.920 <o,f5,unknown> hodinky
+665u17q201 1 665u17q201_665u17q201 30.920 33.500 <o,f5,unknown> bubon/buben
+665u17q201 1 665u17q201_665u17q201 33.500 36.220 <o,f5,unknown> traktor
+665u17q201 1 665u17q201_665u17q201 36.220 38.880 <o,f5,unknown> fajka
+665u17q201 1 665u17q201_665u17q201 38.880 41.680 <o,f5,unknown> akvárium
+665u17q201 1 665u17q201_665u17q201 41.680 44.460 <o,f5,unknown> no lievik
+665u17q201 1 665u17q201_665u17q201 44.460 49.740 <o,f5,unknown> %joj domino či jak sa to [hez]
+665u17q201 1 665u17q201_665u17q201 49.740 52.880 <o,f5,unknown> ponorka
+665u17q201 1 665u17q201_665u17q201 52.880 55.660 <o,f5,unknown> píše
+665u17q201 1 665u17q201_665u17q201 55.660 58.700 <o,f5,unknown> smeje
+665u17q201 1 665u17q201_665u17q201 58.700 61.540 <o,f5,unknown> váži
+665u17q201 1 665u17q201_665u17q201 61.540 64.080 <o,f5,unknown> plače
+665u17q201 1 665u17q201_665u17q201 64.080 66.740 <o,f5,unknown> varí
+665u17q201 1 665u17q201_665u17q201 66.740 69.360 <o,f5,unknown> telefonuje
+665u17q201 1 665u17q201_665u17q201 69.360 72.200 <o,f5,unknown> šije
+665u17q201 1 665u17q201_665u17q201 72.200 74.900 <o,f5,unknown> reže
+665u17q201 1 665u17q201_665u17q201 74.900 77.420 <o,f5,unknown> polieva
+665u17q201 1 665u17q201_665u17q201 77.420 80.380 <o,f5,unknown> štrikuje
+665u17q201 1 665u17q201_665u17q201 80.380 83.020 <o,f5,unknown> kráľ/kraľ
+665u17q201 1 665u17q201_665u17q201 83.020 85.460 <o,f5,unknown> topánky
+665u17q201 1 665u17q201_665u17q201 85.460 88.320 <o,f5,unknown> cigarety
+665u17q201 1 665u17q201_665u17q201 88.320 90.700 <o,f5,unknown> hodinky
+665u17q201 1 665u17q201_665u17q201 90.700 93.080 <o,f5,unknown> teplomer
+665u17q201 1 665u17q201_665u17q201 93.080 96.020 <o,f5,unknown> električka
+665u17q201 1 665u17q201_665u17q201 96.020 98.520 <o,f5,unknown> metla
+665u17q201 1 665u17q201_665u17q201 98.520 101.380 <o,f5,unknown> kozare*
+665u17q201 1 665u17q201_665u17q201 101.380 103.820 <o,f5,unknown> kotva
+665u17q201 1 665u17q201_665u17q201 103.820 107.280 <o,f5,unknown> no/noa astronaut
+665u17q201 1 665u17q201_665u17q201 107.280 110.380 <o,f5,unknown> natiera
+665u17q201 1 665u17q201_665u17q201 110.380 112.740 <o,f5,unknown> ťahá
+665u17q201 1 665u17q201_665u17q201 112.740 115.020 <o,f5,unknown> svieti
+665u17q201 1 665u17q201_665u17q201 115.020 117.440 <o,f5,unknown> horí
+665u17q201 1 665u17q201_665u17q201 117.440 120.720 <o,f5,unknown> hádže
+665u17q201 1 665u17q201_665u17q201 120.720 123.140 <o,f5,unknown> maľuje
+665u17q201 1 665u17q201_665u17q201 123.140 125.780 <o,f5,unknown> vŕta
+665u17q201 1 665u17q201_665u17q201 125.780 128.200 <o,f5,unknown> hrabe
+665u17q201 1 665u17q201_665u17q201 128.200 130.660 <o,f5,unknown> reže
+665u17q201 1 665u17q201_665u17q201 130.660 133.340 <o,f5,unknown> pláve
+665u17q201 1 665u17q201_665u17q201 133.340 135.580 <o,f5,unknown> kniha
+665u17q201 1 665u17q201_665u17q201 135.580 138.580 <o,f5,unknown> autobus
+665u17q201 1 665u17q201_665u17q201 138.580 141.820 <o,f5,unknown> no koruna
+665u17q201 1 665u17q201_665u17q201 141.820 144.220 <o,f5,unknown> koleso
+665u17q201 1 665u17q201_665u17q201 144.220 146.800 <o,f5,unknown> lavička
+665u17q201 1 665u17q201_665u17q201 146.800 149.120 <o,f5,unknown> zips
+665u17q201 1 665u17q201_665u17q201 149.120 151.880 <o,f5,unknown> ťava
+665u17q201 1 665u17q201_665u17q201 151.880 154.460 <o,f5,unknown> vešiak
+665u17q201 1 665u17q201_665u17q201 154.460 157.520 <o,f5,unknown> gaštan/kaštan
+665u17q201 1 665u17q201_665u17q201 157.520 162.360 <o,f5,unknown> %jaj kaktus
+665u17q201 1 665u17q201_665u17q201 162.360 165.200 <o,f5,unknown> spieva
+665u17q201 1 665u17q201_665u17q201 165.200 167.840 <o,f5,unknown> kúpe
+665u17q201 1 665u17q201_665u17q201 167.840 170.440 <o,f5,unknown> meria/merá
+665u17q201 1 665u17q201_665u17q201 170.440 172.860 <o,f5,unknown> pije
+665u17q201 1 665u17q201_665u17q201 172.860 175.660 <o,f5,unknown> klope
+665u17q201 1 665u17q201_665u17q201 175.660 177.960 <o,f5,unknown> skáče
+665u17q201 1 665u17q201_665u17q201 177.960 180.480 <o,f5,unknown> lyžuje
+665u17q201 1 665u17q201_665u17q201 180.480 182.960 <o,f5,unknown> fotí
+665u17q201 1 665u17q201_665u17q201 182.960 185.520 <o,f5,unknown> bicykluje/bicygľuje
+665u17q201 1 665u17q201_665u17q201 185.520 188.100 <o,f5,unknown> žehlí
+665u17q201 1 665u17q201_665u17q201 188.100 191.673 <o,f5,unknown> drží ruku za palec
+665u17q201 1 excluded_region 191.673 218.000 <o,,unknown> ignore_time_segment_in_scoring
+665u17q201 1 665u17q201_665u17q201 218.000 233.417 <o,f5,unknown> no dve stoličky ((pripravené)) káva/kava tam a nikoho tam nikde nevidno. no bohužiaľ. [spk] prázdne to je.
+665u17q201 1 excluded_region 233.417 249.745 <o,,unknown> ignore_time_segment_in_scoring
+665u17q201 1 665u17q201_665u17q201 249.745 254.363 <o,f5,unknown> no kuchyňa zelená.
+665u17q201 1 665u17q201_665u17q201 254.363 257.687 <o,f5,unknown> muž v kuchyni rozbíja luster.
+665u17q201 1 665u17q201_665u17q201 257.687 263.831 <o,f5,unknown> chlapec sa šmýka [hez] [hez] dačo tam vylial. vodu.
+665u17q201 1 665u17q201_665u17q201 263.831 266.311 <o,f5,unknown> no robia bordel.
+665u17q201 1 665u17q201_665u17q201 266.311 269.325 <o,f5,unknown> mačka na nich pozerá.
+665u17q201 1 665u17q201_665u17q201 269.325 271.435 <o,f5,unknown> no je tam bordel.
+665u17q201 1 665u17q201_665u17q201 271.435 278.504 <o,f5,unknown> dačo tam na linke mu vyvaruje sa z hrnca. kypí mu tam.
+665u17q201 1 665u17q201_665u17q201 278.504 283.375 <o,f5,unknown> z linky mu dačo vyteká. takže tak.
+665u17q201 1 665u17q201_665u17q201 283.375 285.265 <o,f5,unknown> majú tam bordel.
+665u17q201 1 665u17q201_665u17q201 285.265 288.269 <o,f5,unknown> [spk]
+665u17q201 1 excluded_region 288.269 304.032 <o,,unknown> ignore_time_segment_in_scoring
+665u17q201 1 665u17q201_665u17q201 304.032 309.608 <o,f5,unknown> ((ta čo tam))zelená kuchynka %hm.
+665u17q201 1 excluded_region 309.608 318.069 <o,,unknown> ignore_time_segment_in_scoring
+665u17q201 1 665u17q201_665u17q201 318.069 324.879 <o,f5,unknown> chlapec sa šmýka na stoličke za banánom. za chvíľu spadne.
+665u17q201 1 665u17q201_665u17q201 324.879 326.106 <o,f5,unknown> [spk]
+665u17q201 1 excluded_region 326.106 337.820 <o,,unknown> ignore_time_segment_in_scoring
+665u17q201 1 665u17q201_665u17q201 337.820 348.677 <o,f5,unknown> no ta mamka v kuchyne drží chlapca na rukách/rukoch. ten plače. hej.
+665u17q201 1 665u17q201_665u17q201 348.677 352.883 <o,f5,unknown> kocúr sa smeje. ((drgli)) tam kvetináč.
+665u17q201 1 665u17q201_665u17q201 352.883 357.477 <o,f5,unknown> no zos* palačintovky* jej dačo vypaduje*.
+665u17q201 1 665u17q201_665u17q201 357.477 360.948 <o,f5,unknown> na linke má bordel.
+665u17q201 1 665u17q201_665u17q201 360.948 371.024 <o,f5,unknown> %hm sníva o topánkach/topánkoch jak vidím toto. no.
+665u17q201 1 665u17q201_665u17q201 371.024 380.090 <o,f5,unknown> niečo tam má pripravené. zeleninu. no a že nestíha robiť lebo/bo malý plače. [spk] %hm
+665u17q201 1 665u17q201_665u17q201 380.090 385.998 <o,f5,unknown> %hm a už je dvanásť dvadsať a ešte nemá obed navarený.
+665u17q201 1 665u17q201_665u17q201 385.998 399.194 <o,f5,unknown> %hm zato malý plače [spk] a kocúr sa smeje z toho.
+665u17q201 1 665u17q201_665u17q201 399.194 407.026 <o,f5,unknown> hej a ešte má telefón/telefon počúva tak tak to vyzerá v kuchyni keď má telefón/telefon ešte pri uchu.
+665u17q201 1 excluded_region 407.026 430.483 <o,,unknown> ignore_time_segment_in_scoring
+665u17q201 1 665u17q201_665u17q201 430.483 434.701 <o,f5,unknown> no vidím že tu sa blížia vianoce.
+665u17q201 1 665u17q201_665u17q201 434.701 441.186 <o,f5,unknown> chlapec ozdobuje. elektriku dáva. vianočné sviečky. stromček padá.
+665u17q201 1 665u17q201_665u17q201 441.186 447.903 <o,f5,unknown> ote otec išiel do domu. stanol* na autíčko sa pošmykol.
+665u17q201 1 665u17q201_665u17q201 447.903 451.825 <o,f5,unknown> mamka telefonuje. nemá času.
+665u17q201 1 665u17q201_665u17q201 451.825 456.098 <o,f5,unknown> pes odpočíva/odpočívat v kľude.
+665u17q201 1 665u17q201_665u17q201 456.098 467.275 <o,f5,unknown> vonku vidno že sneží [spk] %hm a ďalší kontroluje zvonka že čo sa robí dnu/dnuka v dome.
+665u17q201 1 665u17q201_665u17q201 467.275 478.266 <o,f5,unknown> všetko padá guľe padajú %hm a ta nálada ani psíka nezobudí [smiech] .
+665u17q201 1 665u17q201_665u17q201 478.266 486.777 <o,f5,unknown> otec nesie dajaký/dáky darček len že tak vidí že sa rozbije mu všetko jak spadne [spk] %hm.

@@ -1,0 +1,104 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:28 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210621
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjhwp901 1 kixjhwp901_kixjhwp901 0.000 14.940 <o,f0,unknown> special_vokal
+kixjhwp901 1 kixjhwp901_kixjhwp901 14.940 22.880 <o,f0,unknown> special_pataka
+kixjhwp901 1 kixjhwp901_kixjhwp901 22.880 26.820 <o,f0,unknown> [ruch] cesta
+kixjhwp901 1 kixjhwp901_kixjhwp901 26.820 30.180 <o,f0,unknown> kráľ
+kixjhwp901 1 kixjhwp901_kixjhwp901 30.180 33.060 <o,f0,unknown> kniha
+kixjhwp901 1 kixjhwp901_kixjhwp901 33.060 36.560 <o,f0,unknown> most
+kixjhwp901 1 kixjhwp901_kixjhwp901 36.560 39.860 <o,f0,unknown> topánky
+kixjhwp901 1 kixjhwp901_kixjhwp901 39.860 43.280 <o,f0,unknown> autobus
+kixjhwp901 1 kixjhwp901_kixjhwp901 43.280 46.420 <o,f0,unknown> hodinky
+kixjhwp901 1 kixjhwp901_kixjhwp901 46.420 49.980 <o,f0,unknown> cigarety
+kixjhwp901 1 kixjhwp901_kixjhwp901 49.980 53.260 <o,f0,unknown> koruna
+kixjhwp901 1 kixjhwp901_kixjhwp901 53.260 56.600 <o,f0,unknown> bubny
+kixjhwp901 1 excluded_region 56.600 62.064 <o,,unknown> ignore_time_segment_in_scoring
+kixjhwp901 1 kixjhwp901_kixjhwp901 62.064 65.060 <o,f0,unknown> [ned-] čj [-ned] budík [smiech]
+kixjhwp901 1 kixjhwp901_kixjhwp901 65.060 69.060 <o,f0,unknown> [hez] koleso
+kixjhwp901 1 kixjhwp901_kixjhwp901 69.060 72.300 <o,f0,unknown> traktor
+kixjhwp901 1 kixjhwp901_kixjhwp901 72.300 75.860 <o,f0,unknown> [ruch-] teplomer [-ruch]
+kixjhwp901 1 kixjhwp901_kixjhwp901 75.860 79.100 <o,f0,unknown> lavička
+kixjhwp901 1 kixjhwp901_kixjhwp901 79.100 82.980 <o,f0,unknown> [spk] fajka
+kixjhwp901 1 kixjhwp901_kixjhwp901 82.980 86.860 <o,f0,unknown> električka
+kixjhwp901 1 kixjhwp901_kixjhwp901 86.860 89.920 <o,f0,unknown> zips
+kixjhwp901 1 kixjhwp901_kixjhwp901 89.920 93.960 <o,f0,unknown> akvárium
+kixjhwp901 1 kixjhwp901_kixjhwp901 93.960 97.080 <o,f0,unknown> metla
+kixjhwp901 1 kixjhwp901_kixjhwp901 97.080 100.260 <o,f0,unknown> ťava
+kixjhwp901 1 kixjhwp901_kixjhwp901 100.260 103.880 <o,f0,unknown> lievik
+kixjhwp901 1 kixjhwp901_kixjhwp901 103.880 107.000 <o,f0,unknown> hríby
+kixjhwp901 1 kixjhwp901_kixjhwp901 107.000 110.320 <o,f0,unknown> vešiak
+kixjhwp901 1 kixjhwp901_kixjhwp901 110.320 113.900 <o,f0,unknown> domino
+kixjhwp901 1 kixjhwp901_kixjhwp901 113.900 117.100 <o,f0,unknown> [spk] kotva
+kixjhwp901 1 kixjhwp901_kixjhwp901 117.100 120.840 <o,f0,unknown> žaluď
+kixjhwp901 1 kixjhwp901_kixjhwp901 120.840 125.640 <o,f0,unknown> [ruch-] ponorka [-ruch]
+kixjhwp901 1 kixjhwp901_kixjhwp901 125.640 129.340 <o,f0,unknown> [spk] kozmonaut
+kixjhwp901 1 kixjhwp901_kixjhwp901 129.340 132.440 <o,f0,unknown> kaktus
+kixjhwp901 1 kixjhwp901_kixjhwp901 132.440 136.600 <o,f0,unknown> píše
+kixjhwp901 1 kixjhwp901_kixjhwp901 136.600 140.620 <o,f0,unknown> natiera
+kixjhwp901 1 kixjhwp901_kixjhwp901 140.620 143.820 <o,f0,unknown> spieva
+kixjhwp901 1 kixjhwp901_kixjhwp901 143.820 147.480 <o,f0,unknown> smeje sa
+kixjhwp901 1 kixjhwp901_kixjhwp901 147.480 151.440 <o,f0,unknown> ťahá
+kixjhwp901 1 kixjhwp901_kixjhwp901 151.440 154.940 <o,f0,unknown> kúpe sa
+kixjhwp901 1 kixjhwp901_kixjhwp901 154.940 158.380 <o,f0,unknown> váži
+kixjhwp901 1 kixjhwp901_kixjhwp901 158.380 162.580 <o,f0,unknown> žiari
+kixjhwp901 1 kixjhwp901_kixjhwp901 162.580 165.860 <o,f0,unknown> meria
+kixjhwp901 1 kixjhwp901_kixjhwp901 165.860 169.160 <o,f0,unknown> plače
+kixjhwp901 1 kixjhwp901_kixjhwp901 169.160 172.720 <o,f0,unknown> horí
+kixjhwp901 1 kixjhwp901_kixjhwp901 172.720 176.040 <o,f0,unknown> pije
+kixjhwp901 1 kixjhwp901_kixjhwp901 176.040 179.040 <o,f0,unknown> varí
+kixjhwp901 1 kixjhwp901_kixjhwp901 179.040 182.920 <o,f0,unknown> hádže
+kixjhwp901 1 kixjhwp901_kixjhwp901 182.920 185.860 <o,f0,unknown> klope
+kixjhwp901 1 kixjhwp901_kixjhwp901 185.860 189.420 <o,f0,unknown> telefonuje
+kixjhwp901 1 kixjhwp901_kixjhwp901 189.420 192.840 <o,f0,unknown> maľuje
+kixjhwp901 1 kixjhwp901_kixjhwp901 192.840 195.920 <o,f0,unknown> skáče
+kixjhwp901 1 kixjhwp901_kixjhwp901 195.920 199.220 <o,f0,unknown> šije
+kixjhwp901 1 kixjhwp901_kixjhwp901 199.220 202.400 <o,f0,unknown> vŕta
+kixjhwp901 1 kixjhwp901_kixjhwp901 202.400 205.580 <o,f0,unknown> lyžuje
+kixjhwp901 1 kixjhwp901_kixjhwp901 205.580 208.760 <o,f0,unknown> krája
+kixjhwp901 1 kixjhwp901_kixjhwp901 208.760 212.300 <o,f0,unknown> hrabe
+kixjhwp901 1 kixjhwp901_kixjhwp901 212.300 216.100 <o,f0,unknown> fotí
+kixjhwp901 1 kixjhwp901_kixjhwp901 216.100 219.560 <o,f0,unknown> polieva
+kixjhwp901 1 kixjhwp901_kixjhwp901 219.560 223.500 <o,f0,unknown> reže
+kixjhwp901 1 kixjhwp901_kixjhwp901 223.500 227.200 <o,f0,unknown> bicykluje
+kixjhwp901 1 kixjhwp901_kixjhwp901 227.200 230.260 <o,f0,unknown> štrikuje
+kixjhwp901 1 kixjhwp901_kixjhwp901 230.260 234.520 <o,f0,unknown> pádluje
+kixjhwp901 1 kixjhwp901_kixjhwp901 234.520 237.680 <o,f0,unknown> žehlí
+kixjhwp901 1 kixjhwp901_kixjhwp901 237.680 247.020 <o,f0,unknown> [ruch] %uhm [spk] ieťa drží [hez] dlaňou [hez] malíček dospelej ruky.
+kixjhwp901 1 kixjhwp901_kixjhwp901 247.020 256.360 <o,f0,unknown> [hez] je tam stôl so stoličkami:. na stole [ned-] je [-ned] sú pripravené dve kávy.
+kixjhwp901 1 kixjhwp901_kixjhwp901 256.360 261.480 <o,f0,unknown> muž je v kuchyni s dieťaťom.
+kixjhwp901 1 kixjhwp901_kixjhwp901 261.480 264.286 <o,f0,unknown> pripravuje nejaké jedlo.
+kixjhwp901 1 kixjhwp901_kixjhwp901 264.286 267.495 <o,f0,unknown> s vareškou rozbil luster.
+kixjhwp901 1 kixjhwp901_kixjhwp901 267.495 280.051 <o,f0,unknown> dieťa sa načahuje za ovocím a pritom sa mu šmýka stolička na rozliatej vody pretože z umývadla tečie voda a z hrnca kypí nejaké jedlo.
+kixjhwp901 1 kixjhwp901_kixjhwp901 280.051 285.262 <o,f0,unknown> takisto zo skrine sa vylieva: nejaký prípravok do toho jedla.
+kixjhwp901 1 kixjhwp901_kixjhwp901 285.262 289.593 <o,f0,unknown> [hez] nakúka nakúka tam mačka spoza rohu.
+kixjhwp901 1 kixjhwp901_kixjhwp901 289.593 295.220 <o,f0,unknown> je tam neporiadok na: na zemi aj na: kuchynskej linke [ruch] .
+kixjhwp901 1 kixjhwp901_kixjhwp901 295.220 307.418 <o,f0,unknown> [smiech] mama chystá [hez] nejakú večeru alebo nejaké jedlo:. na: [spk] v náručí drží plačúce dieťa [hez] .
+kixjhwp901 1 kixjhwp901_kixjhwp901 307.418 314.254 <o,f0,unknown> na poličke sedí mačka ktorá zhodila nejaký kvetináč s kvetinou.
+kixjhwp901 1 kixjhwp901_kixjhwp901 314.254 323.308 <o,f0,unknown> [spk] mama má ešte otvorený počítač do toho:. porozkladané potraviny rozkrájané nejaké rajčiny mlieko.
+kixjhwp901 1 kixjhwp901_kixjhwp901 323.308 326.251 <o,f0,unknown> [hez] mama telefonuje.
+kixjhwp901 1 kixjhwp901_kixjhwp901 326.251 327.553 <o,f0,unknown> vyzerá že je v strese
+kixjhwp901 1 kixjhwp901_kixjhwp901 327.553 330.160 <o,f0,unknown> [ex] .
+kixjhwp901 1 kixjhwp901_kixjhwp901 330.160 336.945 <o,f0,unknown> v izbe je vianočný stromček ozdobený.
+kixjhwp901 1 kixjhwp901_kixjhwp901 336.945 346.308 <o,f0,unknown> [hez] [ned-] s: [-ned] [hez] je tam jedno dieťa: s dvomi dospelými. dieťa ťahá nejaké/nejake vianočné ozdoby: zo stromčeka.
+kixjhwp901 1 kixjhwp901_kixjhwp901 346.308 350.557 <o,f0,unknown> čo vyzerá že stromček [hez] sa začal kývať že to spadne naňho.
+kixjhwp901 1 kixjhwp901_kixjhwp901 350.557 357.067 <o,f0,unknown> do toho mama telefonuje niečo rieši. otec prišiel domov z vonka s nejakým nákupom.
+kixjhwp901 1 kixjhwp901_kixjhwp901 357.067 358.990 <o,f0,unknown> drží nejakú sieťovku.
+kixjhwp901 1 kixjhwp901_kixjhwp901 358.990 364.223 <o,f0,unknown> [hez] pošmykol sa na autíčku ktoré je pohodené na koberci.
+kixjhwp901 1 kixjhwp901_kixjhwp901 364.223 372.589 <o,f0,unknown> vedľa koberca spokojne spí psík a: zvonka cez okno pozerá dovnútra nejaké ďalšie dieťa a vonku sneží

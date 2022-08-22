@@ -1,0 +1,103 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:38 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210909
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvy09501 1 lpvvy09501_lpvvy09501 0.000 14.920 <o,f0,unknown> special_vokal
+lpvvy09501 1 lpvvy09501_lpvvy09501 14.920 22.840 <o,f0,unknown> special_pataka
+lpvvy09501 1 excluded_region 22.840 23.679 <o,,unknown> ignore_time_segment_in_scoring
+lpvvy09501 1 lpvvy09501_lpvvy09501 23.679 25.580 <o,f0,unknown> cesta
+lpvvy09501 1 lpvvy09501_lpvvy09501 25.580 28.480 <o,f0,unknown> kráľ
+lpvvy09501 1 lpvvy09501_lpvvy09501 28.480 30.620 <o,f0,unknown> kniha
+lpvvy09501 1 lpvvy09501_lpvvy09501 30.620 32.960 <o,f0,unknown> most
+lpvvy09501 1 lpvvy09501_lpvvy09501 32.960 35.180 <o,f0,unknown> topánky
+lpvvy09501 1 lpvvy09501_lpvvy09501 35.180 37.720 <o,f0,unknown> autobus
+lpvvy09501 1 lpvvy09501_lpvvy09501 37.720 39.860 <o,f0,unknown> hodinky
+lpvvy09501 1 lpvvy09501_lpvvy09501 39.860 42.380 <o,f0,unknown> cigarety
+lpvvy09501 1 lpvvy09501_lpvvy09501 42.380 44.440 <o,f0,unknown> koruna/korunu
+lpvvy09501 1 lpvvy09501_lpvvy09501 44.440 46.700 <o,f0,unknown> bubon
+lpvvy09501 1 lpvvy09501_lpvvy09501 46.700 48.720 <o,f0,unknown> hodiny
+lpvvy09501 1 lpvvy09501_lpvvy09501 48.720 50.960 <o,f0,unknown> koleso
+lpvvy09501 1 lpvvy09501_lpvvy09501 50.960 53.440 <o,f0,unknown> traktor
+lpvvy09501 1 lpvvy09501_lpvvy09501 53.440 56.200 <o,f0,unknown> teplomer
+lpvvy09501 1 lpvvy09501_lpvvy09501 56.200 58.700 <o,f0,unknown> lavička
+lpvvy09501 1 lpvvy09501_lpvvy09501 58.700 61.100 <o,f0,unknown> fajka
+lpvvy09501 1 lpvvy09501_lpvvy09501 61.100 64.020 <o,f0,unknown> električka
+lpvvy09501 1 lpvvy09501_lpvvy09501 64.020 66.480 <o,f0,unknown> zips
+lpvvy09501 1 lpvvy09501_lpvvy09501 66.480 69.200 <o,f0,unknown> akvárium
+lpvvy09501 1 lpvvy09501_lpvvy09501 69.200 71.700 <o,f0,unknown> metla
+lpvvy09501 1 lpvvy09501_lpvvy09501 71.700 72.993 <o,f0,unknown> ťava
+lpvvy09501 1 excluded_region 72.993 74.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvvy09501 1 lpvvy09501_lpvvy09501 74.900 78.860 <o,f0,unknown> trk [hez] lj nj lievik
+lpvvy09501 1 lpvvy09501_lpvvy09501 78.860 81.760 <o,f0,unknown> hríby
+lpvvy09501 1 lpvvy09501_lpvvy09501 81.760 84.580 <o,f0,unknown> vešiak
+lpvvy09501 1 lpvvy09501_lpvvy09501 84.580 87.480 <o,f0,unknown> domino
+lpvvy09501 1 lpvvy09501_lpvvy09501 87.480 90.100 <o,f0,unknown> kotva
+lpvvy09501 1 lpvvy09501_lpvvy09501 90.100 93.000 <o,f0,unknown> žaluď
+lpvvy09501 1 lpvvy09501_lpvvy09501 93.000 97.340 <o,f0,unknown> maják pravdepodobne nie/ne: ponorka
+lpvvy09501 1 lpvvy09501_lpvvy09501 97.340 100.960 <o,f0,unknown> kozmonaut
+lpvvy09501 1 lpvvy09501_lpvvy09501 100.960 103.640 <o,f0,unknown> kaktus
+lpvvy09501 1 lpvvy09501_lpvvy09501 103.640 107.437 <o,f0,unknown> to bude úradník pravdepodobne
+lpvvy09501 1 excluded_region 107.437 108.923 <o,,unknown> ignore_time_segment_in_scoring
+lpvvy09501 1 lpvvy09501_lpvvy09501 108.923 109.577 <o,f0,unknown> píše
+lpvvy09501 1 excluded_region 109.577 110.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvy09501 1 lpvvy09501_lpvvy09501 110.700 113.260 <o,f0,unknown> %mhm natiera
+lpvvy09501 1 lpvvy09501_lpvvy09501 113.260 116.100 <o,f0,unknown> spieva
+lpvvy09501 1 lpvvy09501_lpvvy09501 116.100 118.940 <o,f0,unknown> smeje sa
+lpvvy09501 1 lpvvy09501_lpvvy09501 118.940 121.980 <o,f0,unknown> preťahuje sa
+lpvvy09501 1 lpvvy09501_lpvvy09501 121.980 125.040 <o,f0,unknown> %hm kúpe sa
+lpvvy09501 1 lpvvy09501_lpvvy09501 125.040 128.040 <o,f0,unknown> váži
+lpvvy09501 1 lpvvy09501_lpvvy09501 128.040 130.600 <o,f0,unknown> svieti
+lpvvy09501 1 lpvvy09501_lpvvy09501 130.600 133.240 <o,f0,unknown> meria
+lpvvy09501 1 lpvvy09501_lpvvy09501 133.240 135.980 <o,f0,unknown> plače
+lpvvy09501 1 lpvvy09501_lpvvy09501 135.980 138.560 <o,f0,unknown> horí
+lpvvy09501 1 lpvvy09501_lpvvy09501 138.560 140.920 <o,f0,unknown> pije
+lpvvy09501 1 lpvvy09501_lpvvy09501 140.920 143.400 <o,f0,unknown> varí
+lpvvy09501 1 lpvvy09501_lpvvy09501 143.400 146.720 <o,f0,unknown> hádže oštep
+lpvvy09501 1 lpvvy09501_lpvvy09501 146.720 149.900 <o,f0,unknown> klope na dvere
+lpvvy09501 1 lpvvy09501_lpvvy09501 149.900 153.400 <o,f0,unknown> telefonuje
+lpvvy09501 1 lpvvy09501_lpvvy09501 153.400 156.080 <o,f0,unknown> kreslí
+lpvvy09501 1 lpvvy09501_lpvvy09501 156.080 159.500 <o,f0,unknown> švihadlo preskakuje
+lpvvy09501 1 lpvvy09501_lpvvy09501 159.500 162.340 <o,f0,unknown> šije
+lpvvy09501 1 lpvvy09501_lpvvy09501 162.340 165.060 <o,f0,unknown> vŕta/vrta:
+lpvvy09501 1 lpvvy09501_lpvvy09501 165.060 167.680 <o,f0,unknown> lyžuje
+lpvvy09501 1 lpvvy09501_lpvvy09501 167.680 170.400 <o,f0,unknown> [spk] krája
+lpvvy09501 1 lpvvy09501_lpvvy09501 170.400 173.260 <o,f0,unknown> hrabe
+lpvvy09501 1 lpvvy09501_lpvvy09501 173.260 177.360 <o,f0,unknown> [hez] fotografuje
+lpvvy09501 1 lpvvy09501_lpvvy09501 177.360 180.280 <o,f0,unknown> zalieva
+lpvvy09501 1 lpvvy09501_lpvvy09501 180.280 183.040 <o,f0,unknown> reže
+lpvvy09501 1 lpvvy09501_lpvvy09501 183.040 185.660 <o,f0,unknown> bicykluje
+lpvvy09501 1 lpvvy09501_lpvvy09501 185.660 188.140 <o,f0,unknown> pletie
+lpvvy09501 1 lpvvy09501_lpvvy09501 188.140 190.940 <o,f0,unknown> vesluje
+lpvvy09501 1 lpvvy09501_lpvvy09501 190.940 194.020 <o,f0,unknown> žehlí
+lpvvy09501 1 excluded_region 194.020 195.918 <o,,unknown> ignore_time_segment_in_scoring
+lpvvy09501 1 lpvvy09501_lpvvy09501 195.918 223.960 <o,f0,unknown> je to ľudská ruka ktorá má päť prstov palec ukazovák prostredník [hez] prstenník/prsteník a malíček a za malíček [hez] ju drží detská ruka ktorá má [hez] zatknuté/zatnutie štyri prsty a palec má mimo. na prstoch je vidieť články a na dlani [hez] je vidieť čiaru života a ešte aj
+lpvvy09501 1 lpvvy09501_lpvvy09501 223.960 253.900 <o,f0,unknown> máme tu/tady stolček a dve pekné stoličky ktoré sú pravdepodobne aj z kovu lebo majú také pekné ozdobenie vzadu/nazadu. [hez] ten stolček má nohy ktoré sú trošičku [hez] roztiahnuté aby bol pevnejší a na ňom stojí dve šálky/šialky s podšálkami/podšialkami s l s dvoma lyžičkami a tá/ta káva bude určite teplá lebo sa z nej kúri:. je to teda len pre dve osoby takže
+lpvvy09501 1 lpvvy09501_lpvvy09501 253.900 271.230 <o,f0,unknown> v kuchyni je muž/mož č muž čo nie je práve typické. varechou sa snaží zabiť [hez] osu ktorá [hez] si sadla na [hez] lampu [hez] ktorá je upevnená na s:trope.
+lpvvy09501 1 lpvvy09501_lpvvy09501 271.230 300.509 <o,f0,unknown> má modrú zásteru [spk] hnedé nohavice a žlté tričko a vykypela mu práve polievka/poliefka na sporáku/šporáku a vôbec/vo:bec nedáva pozor [spk] na svojho syna ktorý stojí na stoličke. naťahuje sa za banánom a určite spadne. okrem toho ešte [hez] tečie voda do [hez] do [hez] ktorá preteká s [spk] .
+lpvvy09501 1 lpvvy09501_lpvvy09501 300.509 308.393 <o,f0,unknown> má tam ružovú utierku a nakúka na to jeden čierny/černý kocúr s s veľkými zelenými očami.
+lpvvy09501 1 lpvvy09501_lpvvy09501 308.393 316.829 <o,f0,unknown> chlapček má červené tričko červené topánky alebo ponožky to nevidím a modré nohavice.
+lpvvy09501 1 lpvvy09501_lpvvy09501 316.829 343.900 <o,f0,unknown> samozrejme že sa tomu otcovi podarilo tú [hez] lampu rozbiť ako sa naháňal. okrem toho [hez] z/s skrinky nad [hez] pracovnou doskou [hez] vyteká nejaký ružový pravdepodobne čistiaci prostriedok a sú v tej kuchyni dve skrinky jedna väčšia jedna menšia. a vše
+lpvvy09501 1 lpvvy09501_lpvvy09501 343.900 366.132 <o,f0,unknown> maminka. [spk] maminka robí ako všetky maminky desať vecí naraz. je síce v kuchyni ale drží v ruke aj plačúce dieťa v jednej ruke. v druhej má [hez] rajnicu v ktorej robí raňajky a ešte pritom aj telefonuje lebo jej pravdepodobne zavolal manžel.
+lpvvy09501 1 lpvvy09501_lpvvy09501 366.132 387.428 <o,f0,unknown> na rozpálenej dvojplatničke/dvojplatenke je hrniec/hrnec asi s polievkou/poliefkou. je tam [spk] na pracovnom pulte má zeleninu pripravenú asi do polievky/poliefky nôž ktorým to bude krájať. potom je tam mlieko a ešte aj [hez] [hez] počítač teda [hez] [hez] ((to)).
+lpvvy09501 1 lpvvy09501_lpvvy09501 387.428 407.737 <o,f0,unknown> [hez] v kuchyni je práve dvaná dvadsať minút po dvanástej čiže už sa obed meškal. v tej kuchyni je aj polička na ktorej/ktore: sú knihy možno aj kuchárka a tri poháriky [hez] s nejakou [hez] s nejakou/nejak_kou rastlinou.
+lpvvy09501 1 lpvvy09501_lpvvy09501 407.737 433.900 <o,f0,unknown> mačka sedí na polici za mamičkou a samozrejme robí neplechu. zhodila tam odtiaľ kvetináč a rozbili sa nie/ne to asi neni kvetináč to bude niečo s vodou. a mamička ešte rozmýšľa nad tým že aké topánky si má obliecť keď pôjde/pojde niekam inam. na poličke ešte stojí jedna fľaša pravdepodobne s olejom.
+lpvvy09501 1 lpvvy09501_lpvvy09501 433.900 452.001 <o,f0,unknown> sú vianoce. mamička [hez] ktorá [hez] stojí v popredí s niekým telefonuje. má červené papuče modré nohavice ružovú blúzku a zelený svetrík.
+lpvvy09501 1 lpvvy09501_lpvvy09501 452.001 469.167 <o,f0,unknown> vedľa nej spí spokojne pes a otec [spk] ktorý práve vošiel/vošel donútra zo zasneženého [hez] vo [hez] vonkajška teda si stúpol na malé autíčko ktoré tam asi nechal jeho syn a už padá na zem.
+lpvvy09501 1 lpvvy09501_lpvvy09501 469.167 483.362 <o,f0,unknown> [hez] je oblečený [hez] do zimy. má na hlave čiapku/čapku má sveter [hez] [hez] šál teplejší nejaké tričko hnedé nohavice a hnedé topánky.
+lpvvy09501 1 lpvvy09501_lpvvy09501 483.362 499.765 <o,f0,unknown> chlapec v pozadí stojí pri okne a práve na seba strháva [hez] stromček vianočný lebo chytil do ruky [hez] s svetelnú reťaz a potiahol ju k sebe.
+lpvvy09501 1 lpvvy09501_lpvvy09501 499.765 514.983 <o,f0,unknown> ten je oblečený veľmi ľahko. má len tren tren nejaké krátke nohavice a [hez] tričko a je pri okne cez ktoré sa donútra pozerá niekto. neviem kto to je.

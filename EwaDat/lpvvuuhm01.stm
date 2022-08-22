@@ -1,0 +1,128 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:40 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 210725
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 0.000 14.920 <o,f0,unknown> vokal
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 14.920 22.840 <o,f0,unknown> pataka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 22.840 26.800 <o,f0,unknown> cesta
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 26.800 30.140 <o,f0,unknown> most
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 30.140 32.940 <o,f0,unknown> hodinky
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 32.940 36.480 <o,f0,unknown> bubon
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 36.480 39.680 <o,f0,unknown> traktor
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 39.680 42.760 <o,f0,unknown> fajka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 42.760 46.840 <o,f0,unknown> akvárium
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 46.840 50.020 <o,f0,unknown> lievik
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 50.020 53.620 <o,f0,unknown> domino
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 53.620 57.080 <o,f0,unknown> ponorka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 57.080 61.580 <o,f0,unknown> muž píšuci
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 61.580 65.580 <o,f0,unknown> smeje sa dievčina
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 65.580 71.300 <o,f0,unknown> jabĺčko na váhe
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 71.300 75.900 <o,f0,unknown> plačúca žena
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 75.900 80.340 <o,f0,unknown> žena varí
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 80.340 84.200 <o,f0,unknown> muž telefonuje
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 84.200 89.140 <o,f0,unknown> žena šije
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 89.140 96.460 <o,f0,unknown> [hez] krájanie jablka žena asi ženské ruky vyzerajú byť
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 96.460 101.260 <o,f0,unknown> polieva kvetinky
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 101.260 106.560 <o,f0,unknown> [hez] pletie alebo štrikuje
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 106.560 112.140 <o,f0,unknown> [hez] asi kráľ
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 112.140 115.120 <o,f0,unknown> topánky
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 115.120 118.200 <o,f0,unknown> cigarety
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 118.200 121.700 <o,f0,unknown> budík
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 121.700 125.060 <o,f0,unknown> teplomer
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 125.060 128.260 <o,f0,unknown> električka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 128.260 131.040 <o,f0,unknown> metla
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 131.040 134.200 <o,f0,unknown> hríby
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 134.200 137.020 <o,f0,unknown> kotva
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 137.020 141.200 <o,f0,unknown> [hez] astronaut
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 141.200 147.300 <o,f0,unknown> [hez] natiera s [hez] maslo na chlieb
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 147.300 151.640 <o,f0,unknown> [hez] ťahá lano dievčatko
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 151.640 155.740 <o,f0,unknown> žiarovka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 155.740 160.800 <o,f0,unknown> horiaci dom alebo/abo dom
+lpvvuuhm01 1 excluded_region 160.800 168.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 168.160 174.040 <o,f0,unknown> oštepárka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 174.040 181.520 <o,f0,unknown> m maliar maľuje na palete ((x)) ((má)) ((stojan))
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 181.520 188.900 <o,f0,unknown> [hez] vŕta do steny vŕtačkou
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 188.900 194.280 <o,f0,unknown> [hez] hrabe hrabľami
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 194.280 201.240 <o,f0,unknown> [hez] muž píli dosku
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 201.240 209.780 <o,f0,unknown> to sú veslári. dva štyri šesť to bude asi osemveslica nie šesťveslica
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 209.780 214.560 <o,f0,unknown> knižka
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 214.560 218.200 <o,f0,unknown> autobus
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 218.200 222.593 <o,f0,unknown> koruna kráľovská
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 222.593 227.840 <o,f0,unknown> [hez] koleso z/s: auta
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 227.840 232.120 <o,f0,unknown> [hez] lavička
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 232.120 235.540 <o,f0,unknown> zips
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 235.540 239.920 <o,f0,unknown> ťava dvojhrbá
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 239.920 244.580 <o,f0,unknown> vešiak alebo ramienko
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 244.580 248.760 <o,f0,unknown> [hez] žaluď
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 248.760 252.980 <o,f0,unknown> kaktus
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 252.980 258.300 <o,f0,unknown> [hez] dievča spieva do mikrofónu
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 258.300 265.360 <o,f0,unknown> [hez] dieťatko vo vaničke sa kúpe
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 265.360 273.620 <o,f0,unknown> [hez] mera meria rozmery okna
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 273.620 278.100 <o,f0,unknown> pije vodu
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 278.100 283.980 <o,f0,unknown> [hez] klope na dvere
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 283.980 289.940 <o,f0,unknown> [hez] skáče cez švihadlo
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 289.940 293.420 <o,f0,unknown> lyžuje sa
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 293.420 297.200 <o,f0,unknown> fotografuje
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 297.200 300.540 <o,f0,unknown> bicykluje
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 300.540 304.500 <o,f0,unknown> žehlí
+lpvvuuhm01 1 excluded_region 304.500 307.186 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 307.186 319.414 <o,f0,unknown> [hez] je tam [hez] [hez] dieťatko sa drží za prst rodiča alebo dosť veľkej ruky ((tak)). za malíček sa drží/drži.
+lpvvuuhm01 1 excluded_region 319.414 324.883 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 324.883 329.930 <o,f0,unknown> ruka je otvorená a to mal dieťatko sa drží teda za malíček.
+lpvvuuhm01 1 excluded_region 329.930 334.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 excluded_region 334.420 336.508 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 336.508 357.282 <o,f0,unknown> tu je stolík s dvomi stoličkami a na stolíku/stoliku: sú dve [hez] šálky s kávou [hez] [hez] asi alebo s čajom ale asi z ik s kávou alebo sú malé tie šálky majú podšálky. no/n káva je teplá. stúpa z nich para. sú tam aj lyžičky.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 357.282 364.340 <o,f0,unknown> nikto na stoličkách nesedí. asi všetko.
+lpvvuuhm01 1 excluded_region 364.340 368.462 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 368.462 371.371 <o,f0,unknown> no tu je [hez] v kuchyni.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 371.371 379.168 <o,f0,unknown> [hez] muž zjavne varí. [spk] z hrnca mu už vyteká nejaký pokrm.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 379.168 385.094 <o,f0,unknown> [hez] v polici: má nejakú fľašu. z tej mu tiež vyteká všeličo.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 385.094 389.321 <o,f0,unknown> varechou naháňa včelu: a rozbije lampu.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 389.321 397.358 <o,f0,unknown> chlapček [hez] sa snaží zobrať banán [hez] z kuchynskej linky ale: z padá zo stoličky.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 397.358 406.791 <o,f0,unknown> voda: [hez] z drezu/dresu vyteká vonku a ešte o nakúka tam mačička je zvedavá/zvedava.
+lpvvuuhm01 1 excluded_region 406.791 407.965 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 407.965 413.089 <o,f0,unknown> asi všetko čo som si tak stihla.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 413.089 424.106 <o,f0,unknown> a ešte to/tol že [hez] [hez] dieťatko chce/chci si/se zobrať banán. asi tam je ešte neviem či tam má byť červené jablko [hez] na tanieri položené/položene.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 424.106 434.500 <o,f0,unknown> a ešte môžem ((povedať)) že vo vode zjavne: [hez] nejaký prostriedok lebo sa pení a vedľa je ešte aj u nejaká utierka alebo handrička položená/položena.
+lpvvuuhm01 1 excluded_region 434.500 439.597 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 439.597 441.408 <o,f0,unknown> muž má zásteru na sebe.
+lpvvuuhm01 1 excluded_region 441.408 454.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 excluded_region 454.340 457.125 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 457.125 461.124 <o,f0,unknown> je tiež zjavne v kuchyni: matka.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 461.124 468.763 <o,f0,unknown> [hez] na panvici neviem či to má tam zjavne vajíčka. neviem či to má byť ešte aj slanina ku tomu.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 468.763 472.990 <o,f0,unknown> vedľa v hrnci má tiež nejaké jedlo tam varí.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 472.990 489.133 <o,f0,unknown> na vedľa [hez] na [hez] kuchynskom pulte má položenú paradajky: nejakú zeleninu. ešte ku tomu nožík [hez] mlieko v krabici ale má tam otvorený ešte aj laptop.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 489.133 497.960 <o,f0,unknown> [hez] v rukách drží [hez] kriču kričiace dieťa. na uchu má telefón prilepený.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 497.960 506.964 <o,f0,unknown> [hez] za ňou: [hez] sú hodiny kde je: o desať minút ((no)) nie je to veľmi presne pol jednej.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 506.964 511.402 <o,f0,unknown> na polici sú nejaké kvetinky a tri knižky.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 511.402 536.910 <o,f0,unknown> [hez] na ďalšej polici sedí mačka ktorá zhodila vázu s kvetmi. je tam ešte aj fľaša a nejaké [hez] ďalšie [hez] poháre alebo zaváraniny alebo med to je vo fľaške a táto mamička ktorá stihne aj variť aj dieťa tíšiť aj: [hez] pripravovať obed a pozerať jedným okom asi do [hez] do: na laptop tak rozmýšľa o o alebo r baví sa s niekým o topánkach.
+lpvvuuhm01 1 excluded_region 536.910 540.234 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 540.234 542.328 <o,f0,unknown> takže to asi dobre nedopadne.
+lpvvuuhm01 1 excluded_region 542.328 544.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 excluded_region 544.280 547.217 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 547.217 561.079 <o,f0,unknown> no toto je cez vianoce lebo majú st [hez] vianočný stromček spravený. neviem či už má byť akože dokončený. ale chlapček ťahá za reťaz takže stromček sa váľa.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 561.079 572.615 <o,f0,unknown> otec prišiel domov a rovno [hez] sa pošmykol na: hračkách teda na autíčku čo sú tam detské hračky [hez] porozhadzované po zemi.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 572.615 574.620 <o,f0,unknown> v ruke nesie nákup.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 574.620 582.859 <o,f0,unknown> vonku sneží takže prišiel aj v čiapke o [hez] aj šál má na sebe.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 582.859 590.698 <o,f0,unknown> a [hez] pani je otočená chrbtom nevšíma/nevšíman si nič. telefonuje.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 590.698 597.955 <o,f0,unknown> jediný ktorý/ktorých si nič ne ďalší ktorý si nič nevšíma je psík ktorý je schúlený a spí.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 597.955 607.597 <o,f0,unknown> a [hez] z vonku cez okno pozerá nejaký chlapček čo sa tam vo vnútri deje.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 607.597 614.043 <o,f0,unknown> [hez] stromček už má aj: [hez] to sú ozdoby aj sviečky aj aj:
+lpvvuuhm01 1 excluded_region 614.043 614.412 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 614.412 620.240 <o,f0,unknown> hviezdu na na: vrchu. tak dúfam že celý nespadne.
+lpvvuuhm01 1 lpvvuuhm01_lpvvuuhm01 620.240 630.281 <o,f0,unknown> ináč doma majú asi teplo lebo chlapča chodí len [hez] v krátkych gatiach keď mamička má aj sveter na sebe.

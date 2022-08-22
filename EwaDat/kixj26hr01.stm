@@ -1,0 +1,138 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:17 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 210519
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj26hr01 1 kixj26hr01_kixj26hr01 0.000 14.940 <o,f0,unknown> special_vokal
+kixj26hr01 1 kixj26hr01_kixj26hr01 14.940 22.880 <o,f0,unknown> special_pataka
+kixj26hr01 1 kixj26hr01_kixj26hr01 22.880 26.020 <o,f0,unknown> cesta
+kixj26hr01 1 kixj26hr01_kixj26hr01 26.020 29.320 <o,f0,unknown> kráľ
+kixj26hr01 1 kixj26hr01_kixj26hr01 29.320 30.985 <o,f0,unknown> kniha
+kixj26hr01 1 excluded_region 30.985 31.680 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 excluded_region 31.680 32.324 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 32.324 32.817 <o,f0,unknown> most
+kixj26hr01 1 excluded_region 32.817 34.300 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 34.300 37.140 <o,f0,unknown> topánky
+kixj26hr01 1 kixj26hr01_kixj26hr01 37.140 39.900 <o,f0,unknown> autobus
+kixj26hr01 1 kixj26hr01_kixj26hr01 39.900 42.760 <o,f0,unknown> hodiny
+kixj26hr01 1 kixj26hr01_kixj26hr01 42.760 45.520 <o,f0,unknown> cigarety
+kixj26hr01 1 kixj26hr01_kixj26hr01 45.520 48.900 <o,f0,unknown> koruna
+kixj26hr01 1 kixj26hr01_kixj26hr01 48.900 51.960 <o,f0,unknown> bubon
+kixj26hr01 1 kixj26hr01_kixj26hr01 51.960 55.280 <o,f0,unknown> budík/budik
+kixj26hr01 1 kixj26hr01_kixj26hr01 55.280 57.900 <o,f0,unknown> koleso
+kixj26hr01 1 kixj26hr01_kixj26hr01 57.900 60.860 <o,f0,unknown> traktor
+kixj26hr01 1 kixj26hr01_kixj26hr01 60.860 63.500 <o,f0,unknown> teplomer
+kixj26hr01 1 kixj26hr01_kixj26hr01 63.500 66.760 <o,f0,unknown> [hez] lavica
+kixj26hr01 1 kixj26hr01_kixj26hr01 66.760 68.493 <o,f0,unknown> fajka
+kixj26hr01 1 excluded_region 68.493 69.920 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 69.920 72.680 <o,f0,unknown> električka
+kixj26hr01 1 kixj26hr01_kixj26hr01 72.680 75.380 <o,f0,unknown> zips
+kixj26hr01 1 kixj26hr01_kixj26hr01 75.380 78.140 <o,f0,unknown> akvárium
+kixj26hr01 1 kixj26hr01_kixj26hr01 78.140 80.620 <o,f0,unknown> metla
+kixj26hr01 1 kixj26hr01_kixj26hr01 80.620 83.400 <o,f0,unknown> ťava
+kixj26hr01 1 kixj26hr01_kixj26hr01 83.400 92.580 <o,f0,unknown> [hez] [ned-] cč [-ned] [hez] ((to)) čo sa dáva do neviem/n:eviem spisovným [ned-] bm [-ned] lievik
+kixj26hr01 1 kixj26hr01_kixj26hr01 92.580 95.780 <o,f0,unknown> hríby
+kixj26hr01 1 excluded_region 95.780 97.457 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 97.457 101.960 <o,f0,unknown> %be [hez] vešiak
+kixj26hr01 1 kixj26hr01_kixj26hr01 101.960 105.080 <o,f0,unknown> domino
+kixj26hr01 1 kixj26hr01_kixj26hr01 105.080 107.600 <o,f0,unknown> kotva
+kixj26hr01 1 kixj26hr01_kixj26hr01 107.600 111.380 <o,f0,unknown> žaluď
+kixj26hr01 1 kixj26hr01_kixj26hr01 111.380 112.992 <o,f0,unknown> ponorka
+kixj26hr01 1 excluded_region 112.992 114.340 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 114.340 117.240 <o,f0,unknown> kozmonaut
+kixj26hr01 1 kixj26hr01_kixj26hr01 117.240 120.200 <o,f0,unknown> kaktus
+kixj26hr01 1 kixj26hr01_kixj26hr01 120.200 123.280 <o,f0,unknown> píše
+kixj26hr01 1 kixj26hr01_kixj26hr01 123.280 126.000 <o,f0,unknown> natiera
+kixj26hr01 1 kixj26hr01_kixj26hr01 126.000 128.600 <o,f0,unknown> spieva
+kixj26hr01 1 kixj26hr01_kixj26hr01 128.600 131.180 <o,f0,unknown> smeje sa
+kixj26hr01 1 kixj26hr01_kixj26hr01 131.180 133.960 <o,f0,unknown> ťahá/ťaha
+kixj26hr01 1 kixj26hr01_kixj26hr01 133.960 137.100 <o,f0,unknown> kúpe sa
+kixj26hr01 1 kixj26hr01_kixj26hr01 137.100 139.880 <o,f0,unknown> váži
+kixj26hr01 1 kixj26hr01_kixj26hr01 139.880 143.880 <o,f0,unknown> žiarovka
+kixj26hr01 1 kixj26hr01_kixj26hr01 143.880 146.980 <o,f0,unknown> meria
+kixj26hr01 1 kixj26hr01_kixj26hr01 146.980 149.780 <o,f0,unknown> plače
+kixj26hr01 1 kixj26hr01_kixj26hr01 149.780 152.960 <o,f0,unknown> horí
+kixj26hr01 1 kixj26hr01_kixj26hr01 152.960 155.680 <o,f0,unknown> pije
+kixj26hr01 1 kixj26hr01_kixj26hr01 155.680 158.800 <o,f0,unknown> varí/vari
+kixj26hr01 1 kixj26hr01_kixj26hr01 158.800 162.580 <o,f0,unknown> hádže
+kixj26hr01 1 kixj26hr01_kixj26hr01 162.580 165.620 <o,f0,unknown> klope
+kixj26hr01 1 kixj26hr01_kixj26hr01 165.620 168.260 <o,f0,unknown> telefonuje
+kixj26hr01 1 kixj26hr01_kixj26hr01 168.260 171.020 <o,f0,unknown> maľuje
+kixj26hr01 1 kixj26hr01_kixj26hr01 171.020 173.960 <o,f0,unknown> skáče
+kixj26hr01 1 kixj26hr01_kixj26hr01 173.960 176.580 <o,f0,unknown> šije
+kixj26hr01 1 kixj26hr01_kixj26hr01 176.580 179.520 <o,f0,unknown> vŕta
+kixj26hr01 1 kixj26hr01_kixj26hr01 179.520 183.280 <o,f0,unknown> lyžuje
+kixj26hr01 1 kixj26hr01_kixj26hr01 183.280 186.520 <o,f0,unknown> krája
+kixj26hr01 1 kixj26hr01_kixj26hr01 186.520 190.060 <o,f0,unknown> [hez] hrabe
+kixj26hr01 1 kixj26hr01_kixj26hr01 190.060 192.980 <o,f0,unknown> fotí
+kixj26hr01 1 kixj26hr01_kixj26hr01 192.980 195.860 <o,f0,unknown> polieva
+kixj26hr01 1 kixj26hr01_kixj26hr01 195.860 199.120 <o,f0,unknown> [hez] reže
+kixj26hr01 1 kixj26hr01_kixj26hr01 199.120 202.000 <o,f0,unknown> bicykluje
+kixj26hr01 1 kixj26hr01_kixj26hr01 202.000 217.420 <o,f0,unknown> [hez] vyšíva [ned-] %š [-ned] ((šije/šije:)) háčkuje nie [ned-] ((hadž [-ned] )) [hez] čo to je mamina to robila s tými dvoma* ihlami ihličný ((dcéru)) šije nie šije pletie
+kixj26hr01 1 kixj26hr01_kixj26hr01 217.420 223.360 <o,f0,unknown> kajakuje kajakujú veslujú
+kixj26hr01 1 kixj26hr01_kixj26hr01 223.360 226.100 <o,f0,unknown> žehlí
+kixj26hr01 1 kixj26hr01_kixj26hr01 226.100 235.777 <o,f0,unknown> no je tam ruka s piatimi prstami pričom malíček veľkej ruky drží menšia ruka ktorá má tiež nečakane päť prštekov.
+kixj26hr01 1 kixj26hr01_kixj26hr01 235.777 244.052 <o,f0,unknown> stíska ten malíček a [hez] ďalej tam už nevidím** vôbec nič. je to možno nejaký prejav dôvery.
+kixj26hr01 1 kixj26hr01_kixj26hr01 244.052 247.182 <o,f0,unknown> a mám si ako/ago vymýšľať/vymýšat čo za tým je?
+kixj26hr01 1 kixj26hr01_kixj26hr01 247.182 254.364 <o,f0,unknown> alebo ťahá ho že že poď niečo ti chcem ukázať rodič alebo [ned-] ma [-ned] asi ocino.
+kixj26hr01 1 kixj26hr01_kixj26hr01 254.364 256.040 <o,f0,unknown> predpokladám je to mužská ruka.
+kixj26hr01 1 kixj26hr01_kixj26hr01 256.040 262.112 <o,f0,unknown> %hm tak vidím stôl pričom stôl má dve/dve: tri nohy.
+kixj26hr01 1 kixj26hr01_kixj26hr01 262.112 264.838 <o,f0,unknown> dve stoličky sú pri ňom ktoré majú nohy štyri.
+kixj26hr01 1 kixj26hr01_kixj26hr01 264.838 270.254 <o,f0,unknown> na na tom stole sú dve kávičky z ktorých sa parí čiže sú čerstvo uvarené.
+kixj26hr01 1 kixj26hr01_kixj26hr01 270.254 271.889 <o,f0,unknown> [hez] čakajú už iba na vypitie.
+kixj26hr01 1 kixj26hr01_kixj26hr01 271.889 276.549 <o,f0,unknown> chýba na stole bohužiaľ koláčik alebo koláčiky.
+kixj26hr01 1 kixj26hr01_kixj26hr01 276.549 285.980 <o,f0,unknown> [hez] pričom vidno že sa aj svieti slnko pretože %z stoličky ((trach)) zo z východu z východu/východuz áno lebo [ned-] s [-ned] stoličky ((cez)) vrhajú tieň na západ.
+kixj26hr01 1 excluded_region 285.980 288.678 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 288.678 293.556 <o,f0,unknown> [hez] tak jednoznačne vidíme tu kuchyňu zelenú kvázi asi modernú.
+kixj26hr01 1 kixj26hr01_kixj26hr01 293.556 297.091 <o,f0,unknown> pričom vidíme že [hez] v kuchyni sa nachádzajú dve osoby.
+kixj26hr01 1 kixj26hr01_kixj26hr01 297.091 303.281 <o,f0,unknown> je to muž a určite jeho dieťa pričom môžeme/môžme vyčítať z tohto obrázku že muž to zjavne nezvláda.
+kixj26hr01 1 kixj26hr01_kixj26hr01 303.281 304.898 <o,f0,unknown> moderný muž v domácnosti.
+kixj26hr01 1 kixj26hr01_kixj26hr01 304.898 311.545 <o,f0,unknown> čiže/čiže: v/v: sú tu dve poličky dve skrine ktoré vysia/vysia:. z jednej skrine má otvorené dvierka.
+kixj26hr01 1 kixj26hr01_kixj26hr01 311.545 319.564 <o,f0,unknown> z tej vyteká nejaká ružová tekutina. alkohol to asi nebude lebo/bo ružový alkohol neexistuje podľa mňa.
+kixj26hr01 1 kixj26hr01_kixj26hr01 319.564 337.703 <o,f0,unknown> potom [hez] muž popritom všetkom vlastne naháňa osu alebo včelu ktorá sa nachádza pri lustri ktorý nemá/nema asi spravenú elektriku ale už vidíme že raz do toho do tej/te [hez] včely chcel bachnúť ale iba trafil asi luster.
+kixj26hr01 1 kixj26hr01_kixj26hr01 337.703 340.682 <o,f0,unknown> čiže včela žije ďalej a lieta si.
+kixj26hr01 1 kixj26hr01_kixj26hr01 340.682 352.313 <o,f0,unknown> popritom všetkom vlastne popritom všetkom jeho syn ktorý je vzrastovo nižší potrebuje stoličku aby mohol pomôcť otcovi s umývaním riadov.
+kixj26hr01 1 kixj26hr01_kixj26hr01 352.313 354.618 <o,f0,unknown> pričom syn sa potatil*.
+kixj26hr01 1 kixj26hr01_kixj26hr01 354.618 361.827 <o,f0,unknown> to znamená že [ned-] p [-ned] robotu absolútne nezvláda pričom to [ned-] v [-ned] môžeme/môžme spoznať na vytekaní vody z dresu.
+kixj26hr01 1 kixj26hr01_kixj26hr01 361.827 368.334 <o,f0,unknown> pričom/pričom: nejaká no [hez] ochrana životného prostredia [ned-] ni [-ned] nič nehovoria lebo tam voda tečie/teče prúdom.
+kixj26hr01 1 kixj26hr01_kixj26hr01 368.334 375.920 <o,f0,unknown> popri tomto všetkom si ešte tato naložil a chce/chce: uvariť určite je to guláš ktorý mu taktiež vyteká a má strašne.
+kixj26hr01 1 kixj26hr01_kixj26hr01 375.920 378.424 <o,f0,unknown> áno máme tu jeho manželku.
+kixj26hr01 1 kixj26hr01_kixj26hr01 378.424 380.868 <o,f0,unknown> hneď na druhej [ned-] s [-ned] na druhom obrázku.
+kixj26hr01 1 kixj26hr01_kixj26hr01 380.868 387.181 <o,f0,unknown> vidíme že je/je: čas obeda a manželka/ma:nželka sa rozhodla teda že uvarí dieťaťu.
+kixj26hr01 1 kixj26hr01_kixj26hr01 387.181 395.482 <o,f0,unknown> no to neviem či to lebo to je podľa mňa slanina/slanina: s vajcom a/a: to má asi nejakého no neviem. detská strava to nebude.
+kixj26hr01 1 kixj26hr01_kixj26hr01 395.482 403.983 <o,f0,unknown> čiže vidíme tu [hez] na obrázku maminu s deckom ktoré plače. vidíme tu mačku ktorá je na poličke ktorá tam nemá čo robiť.
+kixj26hr01 1 kixj26hr01_kixj26hr01 403.983 410.373 <o,f0,unknown> mačka zhodou okolností/okolnosti ((net)) a nečakane [ned-] roz [-ned] [hez] zhodila kvetináč.
+kixj26hr01 1 kixj26hr01_kixj26hr01 410.373 418.005 <o,f0,unknown> ten kvetináč padá na laptop*/leptop ktorý sa nachádza taktiež na kuchynskej linky ktorej tam nemá absolútne čo robiť.
+kixj26hr01 1 kixj26hr01_kixj26hr01 418.005 429.817 <o,f0,unknown> na kuchynskej linke vidíme ešte okrem laptopu/leptopu mlieko vidíme nôž vidíme paradajky/paradajky: vidíme zas dve rozžeravené platne pričom na na jednom je hrniec asi ten guláš od toho [ned-] o [-ned] manžela a.
+kixj26hr01 1 kixj26hr01_kixj26hr01 429.817 436.474 <o,f0,unknown> teda už spomínaná panvica so slaninou kto drží vo vzduchu nad a otáča tie slaniny alebo čo to tam je.
+kixj26hr01 1 kixj26hr01_kixj26hr01 436.474 444.441 <o,f0,unknown> popritom inak čo je naj naj také zaujímavejšie že ona popritom všetkom telefonuje a myslí na samozrejme hlúposti.
+kixj26hr01 1 kixj26hr01_kixj26hr01 444.441 448.696 <o,f0,unknown> to znamená že nové topánky ktoré/ktorej by sa jej asi hodilo popri varení.
+kixj26hr01 1 excluded_region 448.696 449.565 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 449.565 457.909 <o,f0,unknown> [hez] namiesto toho aby sa starala teda teraz o dieťa a o to aby mala poriadok a manažment v kuchyni.
+kixj26hr01 1 kixj26hr01_kixj26hr01 457.909 465.860 <o,f0,unknown> no/no: %hm no/no: namiesto teda telefonuje ((a)) myslí na/nad nákupmi možno aj nad niečim iným jako* topánkami. a sú tam ešte tri.
+kixj26hr01 1 excluded_region 465.860 468.427 <o,,unknown> ignore_time_segment_in_scoring
+kixj26hr01 1 kixj26hr01_kixj26hr01 468.427 471.645 <o,f0,unknown> no máme tu vianočný obrázok.
+kixj26hr01 1 kixj26hr01_kixj26hr01 471.645 475.865 <o,f0,unknown> pričom sa konečne stretli všetci na jednom obrázku manžel manželka dieťa.
+kixj26hr01 1 kixj26hr01_kixj26hr01 475.865 487.365 <o,f0,unknown> vidíme že už prešlo niekoľko rokov pretože všetci už podrástli aj ten manažment sa zjavne zlepšil pretože manažment rodiny pretože ten psík si v pohodičke* spinká.
+kixj26hr01 1 kixj26hr01_kixj26hr01 487.365 493.509 <o,f0,unknown> čiže/čižek hovorí sa že zvieratká keď sú pokojné tak je aj [ned-] pokojn [-ned] vlastne odzrkadľujú [ned-] po [-ned] [hez] správanie rodiny.
+kixj26hr01 1 kixj26hr01_kixj26hr01 493.509 501.327 <o,f0,unknown> pričom [hez] mamina telefonuje asi ježiškovi že nedoniesol správne darčeky.
+kixj26hr01 1 kixj26hr01_kixj26hr01 501.327 513.127 <o,f0,unknown> syn v pozadí [hez] [ned-] zha [-ned] [hez] akurát zhadzuje ozdoby alebo stromček celý na seba pričom teda potiahol ozdoby/ozdoby: a tým pádom padá naňho stromček.
+kixj26hr01 1 kixj26hr01_kixj26hr01 513.127 520.003 <o,f0,unknown> toto všetko sleduje zvonka [hez] asi spolužiak toho malého nazvyme ho že Janka.
+kixj26hr01 1 kixj26hr01_kixj26hr01 520.003 524.456 <o,f0,unknown> môžme/možme z toho vychádzať že Janko asi nemá rodinu a je sám na ulici.
+kixj26hr01 1 kixj26hr01_kixj26hr01 524.456 527.006 <o,f0,unknown> ako toto sa tam píše veľmi smutný príbeh.
+kixj26hr01 1 kixj26hr01_kixj26hr01 527.006 536.210 <o,f0,unknown> %he to je zaujímavé prečo ho nezoberú** do vnútra lebo na štedrý večer takto sám [ned-] zvo [-ned] . vonku niekto je veľmi zaujímavé zaujímavý paradox sa/ša týka tohto obrázku.
+kixj26hr01 1 kixj26hr01_kixj26hr01 536.210 545.917 <o,f0,unknown> no a tretia osoba ktorá je ((na x už)) spomínaný manžel ktorý nemal manažment ale už ho/ho: zjavne má pretože/pretože: nesie niečo v ruke niečo teda bol vybaviť.

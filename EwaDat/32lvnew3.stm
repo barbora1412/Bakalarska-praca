@@ -1,0 +1,134 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:47 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 210129
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+32lvnew3 1 excluded_region 0.000 26.145 <o,,unknown> ignore_time_segment_in_scoring
+32lvnew3 1 32lvnew3_32lvnew3 26.145 27.478 <o,f0,male> [i] [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 27.478 28.196 <o,f0,male> cesta.
+32lvnew3 1 32lvnew3_32lvnew3 28.196 29.719 <o,f0,male> [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 29.719 30.451 <o,f0,male> most.
+32lvnew3 1 32lvnew3_32lvnew3 30.451 32.066 <o,f0,male> [ruch] [i]
+32lvnew3 1 32lvnew3_32lvnew3 32.066 33.180 <o,f0,male> hodinky.
+32lvnew3 1 32lvnew3_32lvnew3 33.180 34.780 <o,f0,male> bubon.
+32lvnew3 1 32lvnew3_32lvnew3 34.780 36.680 <o,f0,male> traktor.
+32lvnew3 1 32lvnew3_32lvnew3 36.680 38.320 <o,f0,male> [i] fajka.
+32lvnew3 1 32lvnew3_32lvnew3 38.320 42.668 <o,f0,male> [i] %@ %@:
+32lvnew3 1 32lvnew3_32lvnew3 42.668 44.860 <o,f0,male> rybičky v akváriu. [i]
+32lvnew3 1 32lvnew3_32lvnew3 44.860 45.864 <o,f0,male> [spk] [i]
+32lvnew3 1 32lvnew3_32lvnew3 45.864 46.780 <o,f0,male> lievik.
+32lvnew3 1 inter_segment_gap 46.780 48.063 <o,f0,> 
+32lvnew3 1 32lvnew3_32lvnew3 48.063 49.660 <o,f0,male> tu je nejaké (()) asi.
+32lvnew3 1 32lvnew3_32lvnew3 49.660 51.580 <o,f0,male> [i] [spk] ponorka.
+32lvnew3 1 32lvnew3_32lvnew3 51.580 54.000 <o,f0,male> [spk] [i] písanie.
+32lvnew3 1 32lvnew3_32lvnew3 54.000 56.000 <o,f0,male> smiech.
+32lvnew3 1 32lvnew3_32lvnew3 56.000 58.220 <o,f0,male> [i] váha.
+32lvnew3 1 32lvnew3_32lvnew3 58.220 59.940 <o,f0,male> [i] plač.
+32lvnew3 1 32lvnew3_32lvnew3 59.940 61.803 <o,f0,male> varenie.
+32lvnew3 1 32lvnew3_32lvnew3 61.803 63.843 <o,f0,male> [i] telefonovanie.
+32lvnew3 1 32lvnew3_32lvnew3 63.843 65.660 <o,f0,male> [spk] šitie.
+32lvnew3 1 32lvnew3_32lvnew3 65.660 67.508 <o,f0,male> [i] %@
+32lvnew3 1 32lvnew3_32lvnew3 67.508 68.932 <o,f0,male> krájanie jablka.
+32lvnew3 1 32lvnew3_32lvnew3 68.932 70.913 <o,f0,male> [spk] zalievanie kvetov.
+32lvnew3 1 32lvnew3_32lvnew3 70.913 72.835 <o,f0,male> [ruch] háčkovanie.
+32lvnew3 1 32lvnew3_32lvnew3 72.835 73.807 <o,f0,male> [ruch] [spk] [i]
+32lvnew3 1 32lvnew3_32lvnew3 73.807 74.700 <o,f0,male> kráľ.
+32lvnew3 1 32lvnew3_32lvnew3 74.700 76.512 <o,f0,male> [i] topánky.
+32lvnew3 1 32lvnew3_32lvnew3 76.512 78.280 <o,f0,male> cigarety.
+32lvnew3 1 32lvnew3_32lvnew3 78.280 79.780 <o,f0,male> hodiny.
+32lvnew3 1 32lvnew3_32lvnew3 79.780 81.460 <o,f0,male> [i] teplomer.
+32lvnew3 1 32lvnew3_32lvnew3 81.460 83.200 <o,f0,male> električka.
+32lvnew3 1 32lvnew3_32lvnew3 83.200 84.700 <o,f0,male> metla.
+32lvnew3 1 32lvnew3_32lvnew3 84.700 86.660 <o,f0,male> [i] huby.
+32lvnew3 1 32lvnew3_32lvnew3 86.660 88.200 <o,f0,male> kotva.
+32lvnew3 1 32lvnew3_32lvnew3 88.200 90.702 <o,f0,male> [spk] %@:
+32lvnew3 1 32lvnew3_32lvnew3 90.702 91.780 <o,f0,male> kozmonaut.
+32lvnew3 1 32lvnew3_32lvnew3 91.780 94.100 <o,f0,male> [i] maže chlieb.
+32lvnew3 1 32lvnew3_32lvnew3 94.100 96.020 <o,f0,male> [ruch] ťahá lano.
+32lvnew3 1 32lvnew3_32lvnew3 96.020 98.160 <o,f0,male> svieti sa lampa.
+32lvnew3 1 32lvnew3_32lvnew3 98.160 100.020 <o,f0,male> [i] horí dom.
+32lvnew3 1 32lvnew3_32lvnew3 100.020 101.987 <o,f0,male> [spk] oštepárka.
+32lvnew3 1 32lvnew3_32lvnew3 101.987 104.080 <o,f0,male> [i] maliar.
+32lvnew3 1 32lvnew3_32lvnew3 104.080 106.613 <o,f0,male> [i] vŕtanie do steny.
+32lvnew3 1 32lvnew3_32lvnew3 106.613 108.680 <o,f0,male> hrabanie.
+32lvnew3 1 32lvnew3_32lvnew3 108.680 110.617 <o,f0,male> [i] %@
+32lvnew3 1 32lvnew3_32lvnew3 110.617 111.640 <o,f0,male> pílenie.
+32lvnew3 1 32lvnew3_32lvnew3 111.640 113.731 <o,f0,male> [i] kajakári.
+32lvnew3 1 32lvnew3_32lvnew3 113.731 115.427 <o,f0,male> [i] kniha.
+32lvnew3 1 32lvnew3_32lvnew3 115.427 116.364 <o,f0,male> [ruch] [i]
+32lvnew3 1 32lvnew3_32lvnew3 116.364 117.200 <o,f0,male> autobus.
+32lvnew3 1 32lvnew3_32lvnew3 117.200 119.040 <o,f0,male> [ruch] koruna.
+32lvnew3 1 32lvnew3_32lvnew3 119.040 120.700 <o,f0,male> [spk] [i] koleso.
+32lvnew3 1 32lvnew3_32lvnew3 120.700 122.380 <o,f0,male> [ruch] lavička.
+32lvnew3 1 32lvnew3_32lvnew3 122.380 123.860 <o,f0,male> [spk] zips.
+32lvnew3 1 32lvnew3_32lvnew3 123.860 125.300 <o,f0,male> [i] ťava.
+32lvnew3 1 32lvnew3_32lvnew3 125.300 127.160 <o,f0,male> [ruch] %@ vešiak.
+32lvnew3 1 32lvnew3_32lvnew3 127.160 128.410 <o,f0,male> alebo ramienko.
+32lvnew3 1 32lvnew3_32lvnew3 128.410 129.660 <o,f0,male> [i] žehliť.
+32lvnew3 1 32lvnew3_32lvnew3 129.660 131.580 <o,f0,male> [spk] [i] kaktus.
+32lvnew3 1 32lvnew3_32lvnew3 131.580 133.300 <o,f0,male> [ruch] [i] spev.
+32lvnew3 1 32lvnew3_32lvnew3 133.300 136.033 <o,f0,male> [ruch] [spk-] umývanie [-spk] batoľaťa.
+32lvnew3 1 32lvnew3_32lvnew3 136.033 137.498 <o,f0,male> [spk] [i]
+32lvnew3 1 32lvnew3_32lvnew3 137.498 138.920 <o,f0,male> odmeranie skla.
+32lvnew3 1 32lvnew3_32lvnew3 138.920 140.880 <o,f0,male> pitie vody.
+32lvnew3 1 32lvnew3_32lvnew3 140.880 143.015 <o,f0,male> [spk] klopanie na dvere.
+32lvnew3 1 32lvnew3_32lvnew3 143.015 145.198 <o,f0,male> [spk] [i] švihadlové skoky.
+32lvnew3 1 32lvnew3_32lvnew3 145.198 146.900 <o,f0,male> [spk] [i] lyžiar. [mic]
+32lvnew3 1 32lvnew3_32lvnew3 146.900 148.920 <o,f0,male> [spk] [i] fotograf.
+32lvnew3 1 32lvnew3_32lvnew3 148.920 150.702 <o,f0,male> [spk] cyklista.
+32lvnew3 1 32lvnew3_32lvnew3 150.702 154.506 <o,f0,male> [i] [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 154.506 156.111 <o,f0,male> no [spk-] žehlička [-spk] .
+32lvnew3 1 32lvnew3_32lvnew3 156.111 158.674 <o,f0,male> [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 158.674 160.058 <o,f0,male> muž v kuchyni.
+32lvnew3 1 inter_segment_gap 160.058 162.442 <o,f0,> 
+32lvnew3 1 32lvnew3_32lvnew3 162.442 165.771 <o,f0,male> tak čo tam [spk] [ned-] roz [-ned] rozbíja luster.
+32lvnew3 1 32lvnew3_32lvnew3 165.771 167.715 <o,f0,male> [i]
+32lvnew3 1 32lvnew3_32lvnew3 167.715 176.797 <o,f0,male> pečie. [i] niečo varí dieťaťu [ned-] zeleni [-ned] . %@ dieťa berie zeleninu. [i] dieťa pustilo vodu.
+32lvnew3 1 32lvnew3_32lvnew3 176.797 178.791 <o,f0,male> [i] [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 178.791 181.288 <o,f0,male> vylieva sa niečo z [mic-] poličky [-mic] .
+32lvnew3 1 32lvnew3_32lvnew3 181.288 185.672 <o,f0,male> [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 185.672 191.273 <o,f0,male> po zemi je špina. na zemi voda alebo pena.
+32lvnew3 1 32lvnew3_32lvnew3 191.273 193.792 <o,f0,male> [i]
+32lvnew3 1 32lvnew3_32lvnew3 193.792 196.253 <o,f0,male> (()) všetko čo tam.
+32lvnew3 1 inter_segment_gap 196.253 202.701 <o,f0,> 
+32lvnew3 1 32lvnew3_32lvnew3 202.701 206.650 <o,f0,male> neviem čo by tu ešte, [i] aká činnosť.
+32lvnew3 1 excluded_region 206.650 209.747 <o,,unknown> ignore_time_segment_in_scoring
+32lvnew3 1 32lvnew3_32lvnew3 209.747 212.889 <o,f0,male> že asi utierka by mohla byť.
+32lvnew3 1 32lvnew3_32lvnew3 212.889 215.020 <o,f0,male> [spk]
+32lvnew3 1 32lvnew3_32lvnew3 215.020 218.033 <o,f0,male> [ruch] Ježiš/je:žiš Mária.
+32lvnew3 1 32lvnew3_32lvnew3 218.033 219.378 <o,f0,male> [spk]
+32lvnew3 1 32lvnew3_32lvnew3 219.378 220.667 <o,f0,male> a to je čo robí?
+32lvnew3 1 excluded_region 220.667 221.291 <o,,unknown> ignore_time_segment_in_scoring
+32lvnew3 1 32lvnew3_32lvnew3 221.291 228.926 <o,f0,male> [i] tak matka niečo opeká na sporáku/šporáku, [i] varí.
+32lvnew3 1 32lvnew3_32lvnew3 228.926 246.215 <o,f0,male> [i] [spk] varí niečo z mlieka alebo pre dieťa mlieko tu má. [i] reže ovocie a zeleninu. [i] sleduje hodiny, pozerá [ned-] pop [-ned] na počítač.
+32lvnew3 1 32lvnew3_32lvnew3 246.215 249.733 <o,f0,male> [spk] [i] [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 249.733 274.121 <o,f0,male> (()) mačka skočila na poličku, zhodila vázu dole. [spk] [i] ešte asi matka rozmýšľa o nákúpe topánok asi pravdepodobne alebo čo s nimi s obuvou. [spk] [i] je tu ešte nejaká šálka alebo to bude asi zaváraninová fľaša a nejaká [i] vinná.
+32lvnew3 1 32lvnew3_32lvnew3 274.121 276.475 <o,f0,male> [mic] [i]
+32lvnew3 1 32lvnew3_32lvnew3 276.475 278.823 <o,f0,male> ((áno)) takže.
+32lvnew3 1 32lvnew3_32lvnew3 278.823 292.247 <o,f0,male> [spk] [i] no skôr nie opitý [spk-] ale [-spk] [ned-] ši [-ned] %@ otec prichádzajúci domov [i] stúpil na [ned-] v@ [-ned] na autíčko. šmýkol sa a padá.
+32lvnew3 1 32lvnew3_32lvnew3 292.247 294.056 <o,f0,male> [i] [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 294.056 312.990 <o,f0,male> chlapec [ruch] synátor odviazal [spk] ((či)) %@ ťahá za šnúru [i] elektrickú zo stromčeka. [i] za oknami je chlapec, ktorý sa na to všetko pozerá. mamička [i] nič nevidí a telefonuje.
+32lvnew3 1 32lvnew3_32lvnew3 312.990 315.681 <o,f0,male> [i]
+32lvnew3 1 32lvnew3_32lvnew3 315.681 330.159 <o,f0,male> a čo ešte. [ned-] si [-ned] vonku sneží. [i] ocinko má asi niečo pod [ned-] pap [-ned] pod čapicou. [spk] [i] %@ červené závesy tam sú.
+32lvnew3 1 32lvnew3_32lvnew3 330.159 333.089 <o,f0,male> [i] [ned-] hvie [-ned]
+32lvnew3 1 32lvnew3_32lvnew3 333.089 339.813 <o,f0,male> [ruch] [i] %@ [i] [mic]
+32lvnew3 1 32lvnew3_32lvnew3 339.813 341.762 <o,f0,male> (())
+32lvnew3 1 32lvnew3_32lvnew3 341.762 353.791 <o,f0,male> ((jar)) čo to má. %aha tam má sladkosti. chlapec si vyberá nejaké [i] do [spk-] doz@ [-spk] z dózy nejaké sladkosti. [spk] [i] dievča
+32lvnew3 1 excluded_region 353.791 357.207 <o,,unknown> ignore_time_segment_in_scoring
+32lvnew3 1 32lvnew3_32lvnew3 357.207 369.033 <o,f0,male> ((syn)) zle stúpil na stoličku. začína padať dievča si zakrýva ústa. [i] mamička umýva riady a tiež je najaká nešikovná pretože sa jej tam vylieva voda.
+32lvnew3 1 32lvnew3_32lvnew3 369.033 372.200 <o,f0,male> [ruch]
+32lvnew3 1 32lvnew3_32lvnew3 372.200 377.193 <o,f0,male> niečo už má ešte na na stole nejaké mištičky, tanierik.

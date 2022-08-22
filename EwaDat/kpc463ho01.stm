@@ -1,0 +1,110 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:26 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 211017
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kpc463ho01 1 kpc463ho01_kpc463ho01 0.000 10.660 <o,f5,unknown> special_vokal
+kpc463ho01 1 kpc463ho01_kpc463ho01 10.660 18.600 <o,f5,unknown> special_pataka
+kpc463ho01 1 kpc463ho01_kpc463ho01 18.600 21.460 <o,f5,unknown> cesta
+kpc463ho01 1 kpc463ho01_kpc463ho01 21.460 24.060 <o,f5,unknown> cez [ruch-] kráľ [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 24.060 27.560 <o,f5,unknown> [ruch-] [spk] učebnica [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 27.560 30.100 <o,f5,unknown> [ruch-] [spk] most ((vysutý)) [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 30.100 33.240 <o,f5,unknown> [ruch-] [spk] topánky [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 33.240 35.800 <o,f5,unknown> [ruch-] [spk] autobus [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 35.800 38.000 <o,f5,unknown> [ruch-] hodinky [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 38.000 40.580 <o,f5,unknown> [ruch-] cigarety [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 40.580 43.960 <o,f5,unknown> [ruch-] koruna kráľovská [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 43.960 46.480 <o,f5,unknown> [ruch-] bubon a paličky [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 46.480 48.501 <o,f5,unknown> ((teraz)) hodinky
+kpc463ho01 1 excluded_region 48.501 50.100 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 50.100 52.680 <o,f5,unknown> koleso [ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 52.680 54.960 <o,f5,unknown> [ruch-] [spk] traktor [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 54.960 57.360 <o,f5,unknown> [ruch-] teplomer [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 57.360 59.840 <o,f5,unknown> [ruch-] [spk] lavička [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 59.840 62.120 <o,f5,unknown> [ruch-] fajka [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 62.120 65.020 <o,f5,unknown> [ruch-] električka/eletrička [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 65.020 67.360 <o,f5,unknown> [ruch-] zips [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 67.360 69.820 <o,f5,unknown> [ruch-] [spk] akvárium [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 69.820 71.980 <o,f5,unknown> metla [ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 71.980 74.120 <o,f5,unknown> [ruch-] [spk] ťava [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 74.120 77.240 <o,f5,unknown> [ruch-] [spk] [hez] lievik [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 77.240 79.680 <o,f5,unknown> [ruch-] huby [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 79.680 81.960 <o,f5,unknown> [ruch-] vešiak [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 81.960 85.200 <o,f5,unknown> [ruch-] [hez] domino [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 85.200 87.620 <o,f5,unknown> [ruch-] kotva [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 87.620 90.740 <o,f5,unknown> [ruch-] [spk] žaluď [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 90.740 93.300 <o,f5,unknown> ponorka
+kpc463ho01 1 kpc463ho01_kpc463ho01 93.300 95.760 <o,f5,unknown> [spk] kozmonaut
+kpc463ho01 1 kpc463ho01_kpc463ho01 95.760 98.480 <o,f5,unknown> [spk] kaktus
+kpc463ho01 1 kpc463ho01_kpc463ho01 98.480 100.840 <o,f5,unknown> %hm píše
+kpc463ho01 1 kpc463ho01_kpc463ho01 100.840 103.780 <o,f5,unknown> [ruch-] [spk] mastí chlieb [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 103.780 106.160 <o,f5,unknown> [spk] spieva
+kpc463ho01 1 kpc463ho01_kpc463ho01 106.160 109.220 <o,f5,unknown> usmieva sa
+kpc463ho01 1 kpc463ho01_kpc463ho01 109.220 111.780 <o,f5,unknown> [ruch-] ťahá [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 111.780 114.660 <o,f5,unknown> [ruch-] kúpe sa [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 114.660 117.240 <o,f5,unknown> [ruch-] váži sa [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 117.240 119.480 <o,f5,unknown> [spk] svieti
+kpc463ho01 1 kpc463ho01_kpc463ho01 119.480 122.820 <o,f5,unknown> [ruch-] meria [ruch] [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 122.820 124.940 <o,f5,unknown> [ruch-] plače [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 124.940 127.880 <o,f5,unknown> [ruch-] horí oheň [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 127.880 130.100 <o,f5,unknown> [ruch-] [spk] pije [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 130.100 132.600 <o,f5,unknown> [ruch-] varí [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 132.600 135.440 <o,f5,unknown> [ruch-] [spk] hádže [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 135.440 137.760 <o,f5,unknown> [ruch-] klope [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 137.760 140.460 <o,f5,unknown> [ruch-] [spk] telefonuje [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 140.460 143.380 <o,f5,unknown> [ruch-] [hez] maľuje [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 143.380 145.920 <o,f5,unknown> [ruch-] skáče [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 145.920 149.340 <o,f5,unknown> [ruch-] [hez] šije [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 149.340 151.620 <o,f5,unknown> [ruch-] vŕta [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 151.620 154.080 <o,f5,unknown> [ruch-] %hm lyžuje [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 154.080 156.560 <o,f5,unknown> [ruch-] krája/kraja [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 156.560 159.220 <o,f5,unknown> [ruch-] [spk] hrabe [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 159.220 161.900 <o,f5,unknown> [ruch-] fotí [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 161.900 164.320 <o,f5,unknown> [ruch-] polieva [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 164.320 166.860 <o,f5,unknown> [ruch-] reže [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 166.860 169.140 <o,f5,unknown> [ruch-] [spk] bicykluje [-ruch]
+kpc463ho01 1 kpc463ho01_kpc463ho01 169.140 171.820 <o,f5,unknown> pletie
+kpc463ho01 1 kpc463ho01_kpc463ho01 171.820 174.740 <o,f5,unknown> vesluje
+kpc463ho01 1 kpc463ho01_kpc463ho01 174.740 177.400 <o,f5,unknown> žehlí
+kpc463ho01 1 excluded_region 177.400 179.555 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 179.555 190.859 <o,f5,unknown> [spk] otec sa hraje s dieťaťom ktoré ho chytá za: prsť prst a: hraje sa s tým ((ja)) hrajú sa spolu. tešia sa z toho spolu že sú spolu.
+kpc463ho01 1 kpc463ho01_kpc463ho01 190.859 202.849 <o,f5,unknown> ((decko) prejavuje lásku k tomu otcovi tým že ho chytá za [ned-] pršte [-ned] za pr za palec a otec asi má radosť z toho že ho ten synček chytá za ten prst a že sú spolu v kontakte.
+kpc463ho01 1 excluded_region 202.849 204.500 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 204.500 207.340 <o,f5,unknown> toľko asi všetko/všecko
+kpc463ho01 1 kpc463ho01_kpc463ho01 207.340 221.023 <o,f5,unknown> stoličky [hez] a stôl kde sú pripravené dve šálky na kávu zrejme tam prídu [hez] dvaja [hez] blízki [hez] si [hez] veľmi blízki ľudia ktorí budú tú kávičku popíjať a budú o tom spolu komunikovať.
+kpc463ho01 1 kpc463ho01_kpc463ho01 221.023 232.532 <o,f5,unknown> majú ((XX))zrejme asi asi [hez] to prostredie také ((vytvára)) také nejaké podmienky k tomu že sú blízko ((pri)) sebe tie osoby a že sa majú radi alebo si navzájom rozumejú. toľko asi.
+kpc463ho01 1 excluded_region 232.532 237.280 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 excluded_region 237.280 240.165 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 240.165 255.356 <o,f5,unknown> otec so synom je v kuchyni: [hez] syn ho veľmi zlostí lebo vidím že tam púšťa vodu a [hez] je tam neporiadok dokonca vidím tam že vykypela mu [hez] z tej [hez] formy nejaké cesto.
+kpc463ho01 1 kpc463ho01_kpc463ho01 255.356 289.863 <o,f5,unknown> [hez] otec sa hnevá na toho syna a hrozí mu [hez] varechou že ho asi [hez] vymláti no a syn k tomu všetkému [hez] sa postavil na stoličku chytá ovocie [hez] a hrozí mu to že spadne [hez] na zem a [hez] dokonca tam ešte aj vidno tu mačičku ktorá by tam mala s nimi byť v tom: tej kuchyni a tiež robí neplechu:. otec zrejme v tej [hez] zlosti [hez] zhodil dole fľašu z ktorej tečie voda do tej plnky do toho čo majú ako: [hez] idú piesť tú tú tortu nejakú.
+kpc463ho01 1 kpc463ho01_kpc463ho01 289.863 309.825 <o,f5,unknown> no [hez] je tam aj nejaký ten [hez] rozbitý pohár na: na zemi na dlážke v tej kuchyni a hrozí tomu chlapčekovi že sa zraní keď bude [hez] chytať ten to ovocie ((ktoré mu na tanieri ktoré xxx chce)) za každú cenu získať pre seba ako ((mamina)) zrejme ho mohol potom skonzumovať.
+kpc463ho01 1 kpc463ho01_kpc463ho01 309.825 321.042 <o,f5,unknown> otec [hez] pritom ako/jak ako/jak hrozí tomu synovi tak narazil do [hez] lampy a zrejme [hez] tá žiarovka z toho z tej lampy vypadla na: dlážku ktorá je tam ((niekde)) no:.
+kpc463ho01 1 kpc463ho01_kpc463ho01 321.042 327.200 <o,f5,unknown> to asi toľko by som povedal k tomu všetkému. viac už nemám čo povedať.
+kpc463ho01 1 kpc463ho01_kpc463ho01 327.200 351.461 <o,f5,unknown> [ruch] matka so synčekom [hez] pripravujú nejaké jedlo v kuchyni matka pritom aj telefonuje chlapček je z toho nervózny. chce aby sa mu venovala iba jemu a plače z toho dôvodu:. k tomu všetkému tam robí neplechu aj mačička ktorá tam sa usídlila na: [hez] poličke s [ned-] nap [-ned] s pohármi a: s nápojmi/napojmi.
+kpc463ho01 1 kpc463ho01_kpc463ho01 351.461 377.741 <o,f5,unknown> pritom keď tam skočila na tú poličku tak zhodila nejaký tovar na: zem nejakú nejakú vec na zem ktorá sa rozbila. aj z nej nejaká voda vyteká. matka [hez] prehadzuje na panvici [hez] klobásky a slaninku kúsky je tam aj [hez] vajíčko [hez] dokonca na druhej panvi na druhej platni [hez] varí [hez] [ned-] zemiak [-ned] nejakú polievku zemiakovú a pritom sa pozerá aj do toho to do počítača.
+kpc463ho01 1 kpc463ho01_kpc463ho01 377.741 383.951 <o,f5,unknown> na stole s sú [hez] je je ešte nožík. je tam ovocie je tam cesnak je tam: mlieko.
+kpc463ho01 1 excluded_region 383.951 384.825 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 384.825 400.969 <o,f5,unknown> [hez] chlapec sa dožaduje dožaduje tej tej tej pozornosti. matka dokonca telefonuje a v ruke má dokonca ešte aj aj mobilný telefón s [hez] ((ktorý)) zrejme použila. čiže je v strese a [hez] dnes situáciu nezvláda ktorá tam je.
+kpc463ho01 1 excluded_region 400.969 404.761 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 404.761 417.140 <o,f5,unknown> je tam hrozba. a je tam ešte ešte %aha ona telefonuje zrejme telefonuje ohľadne tých kúpi týchto to topánok nejakých slávnostných lebo sú to topánočky na vysokom opätku takže zrejme [hez] .
+kpc463ho01 1 excluded_region 417.140 420.161 <o,,unknown> ignore_time_segment_in_scoring
+kpc463ho01 1 kpc463ho01_kpc463ho01 420.161 448.812 <o,f5,unknown> a tak zrejme tu sú [hez] čas sviatkov vianoc lebo: otec prichádza [hez] z vonku [hez] kde už stromček bol ozdobený zrejme spolu zdobili ho s manželkou a s chlapčekom. ale chlapec ako neposlušný [hez] zrejme: robí neplechu v izbe a: [hez] sa snaží ten stromček schytil [hez] tu výzdobu zrejme sviečky: farebné svetelné za chytil do ruky a strava ten stromček dole.
+kpc463ho01 1 kpc463ho01_kpc463ho01 448.812 454.392 <o,f5,unknown> na neho pozerá zvonku chlapček [hez] asi bu je to zrejme jeho brat ktorý bol vonku sa hrať.
+kpc463ho01 1 kpc463ho01_kpc463ho01 454.392 460.338 <o,f5,unknown> sneží vonku je chladno takže: zrejme sa bol vonku sánkovať alebo ako/jak alebo lyžovať.
+kpc463ho01 1 kpc463ho01_kpc463ho01 460.338 483.513 <o,f5,unknown> otec keď ((vchádza/chadza)) do do: [hez] izby tak [hez] stúpil na autíčko ktoré tam mal pohodené [hez] jeho syn [hez] a na tom aute sa pošmykol a hrozí že spadne na toho: psíka ktorý tam: [hez] odpočíva v tej izbičke spolu s mať s má s paničkou a: so svojím pánom a spinká je v pohode ale zrejme tam hrozí tam nebezpečie že jeho naňho spadne.
+kpc463ho01 1 kpc463ho01_kpc463ho01 483.513 498.888 <o,f5,unknown> no a mat manžel manželka [hez] zrejme volá [hez] svojho otca svojho manžela cez mobilný telefón a nevie že on už kráča do izby nesie nejaké darčeky z [hez] v tom vrecúšku a: zrejme chce tie tie darčeky dať pod stromček no.
+kpc463ho01 1 kpc463ho01_kpc463ho01 498.888 501.908 <o,f5,unknown> toľko asi by som povedal k tomu všetkému.

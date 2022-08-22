@@ -1,0 +1,137 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:14 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210725
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 0.000 14.920 <o,f0,unknown> vokal
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 14.920 22.860 <o,f0,unknown> pataka
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 22.860 27.000 <o,f0,unknown> cesta
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 27.000 29.780 <o,f0,unknown> most
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 29.780 32.600 <o,f0,unknown> hodiny
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 32.600 35.500 <o,f0,unknown> bubon
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 35.500 38.300 <o,f0,unknown> traktor
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 38.300 41.160 <o,f0,unknown> fajka
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 41.160 44.740 <o,f0,unknown> akvárium
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 44.740 48.700 <o,f0,unknown> lievik
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 48.700 52.180 <o,f0,unknown> domino
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 52.180 60.440 <o,f0,unknown> ostrov? maják? neviem
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 60.440 64.520 <o,f0,unknown> %jaj píše
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 64.520 67.800 <o,f0,unknown> smeje sa
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 67.800 71.000 <o,f0,unknown> váži
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 71.000 73.880 <o,f0,unknown> plače
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 73.880 76.900 <o,f0,unknown> varí
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 76.900 80.040 <o,f0,unknown> telefonuje
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 80.040 83.580 <o,f0,unknown> šije
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 83.580 86.820 <o,f0,unknown> krája
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 86.820 91.280 <o,f0,unknown> polieva
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 91.280 94.900 <o,f0,unknown> štrikuje
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 94.900 97.489 <o,f0,unknown> predmet?
+lpvvgcwo01 1 excluded_region 97.489 98.386 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 98.386 103.609 <o,f0,unknown> kráľ alebo koruna alebo kabát alebo neviem čo
+lpvvgcwo01 1 excluded_region 103.609 105.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 105.480 108.460 <o,f0,unknown> topánky
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 108.460 111.840 <o,f0,unknown> cigarety
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 111.840 114.820 <o,f0,unknown> hodiny
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 114.820 117.800 <o,f0,unknown> teplomer
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 117.800 121.680 <o,f0,unknown> električka
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 121.680 124.300 <o,f0,unknown> metla
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 124.300 128.000 <o,f0,unknown> hríbiky krásne
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 128.000 130.960 <o,f0,unknown> kotva
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 130.960 139.380 <o,f0,unknown> %hm to je vo vesmíre to je nejaký kozmonaut
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 139.380 144.420 <o,f0,unknown> natiera chlieb
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 144.420 148.000 <o,f0,unknown> ťahá lano
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 148.000 152.500 <o,f0,unknown> žiarovka svieti
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 152.500 157.200 <o,f0,unknown> horí dom %jaj činnosť horí
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 157.200 161.100 <o,f0,unknown> hádže oštep
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 161.100 165.120 <o,f0,unknown> [ned-] malia [-ned] maľuje
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 165.120 169.500 <o,f0,unknown> vŕta
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 169.500 172.540 <o,f0,unknown> hrabe
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 172.540 176.200 <o,f0,unknown> píli
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 176.200 180.800 <o,f0,unknown> veslujú/vesl_lujú
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 180.800 184.100 <o,f0,unknown> kniha
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 184.100 187.420 <o,f0,unknown> autobus
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 187.420 190.460 <o,f0,unknown> koruna
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 190.460 194.200 <o,f0,unknown> koleso
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 194.200 197.080 <o,f0,unknown> lavička
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 197.080 199.760 <o,f0,unknown> zips
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 199.760 202.380 <o,f0,unknown> ťava
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 202.380 205.220 <o,f0,unknown> vešiak
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 205.220 208.780 <o,f0,unknown> žaluď
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 208.780 212.760 <o,f0,unknown> kaktus
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 212.760 215.760 <o,f0,unknown> spieva
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 215.760 218.327 <o,f0,unknown> kúpe sa
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 218.327 219.180 <o,f0,unknown> [smiech]
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 219.180 223.080 <o,f0,unknown> m:eria
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 223.080 226.120 <o,f0,unknown> pije
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 226.120 229.380 <o,f0,unknown> klope
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 229.380 232.500 <o,f0,unknown> skáče
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 232.500 235.860 <o,f0,unknown> lyžuje
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 235.860 239.280 <o,f0,unknown> fotografuje
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 239.280 243.120 <o,f0,unknown> bicykluje
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 243.120 246.120 <o,f0,unknown> žehlí
+lpvvgcwo01 1 excluded_region 246.120 250.057 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 250.057 262.594 <o,f0,unknown> tak vidím ruku. mám povedať že ruka má päť prstov? a za malíček [hez] [hez] drží zrejme dieťa ten malíček tú ruku za ten malíček.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 262.594 264.493 <o,f0,unknown> stačí/stači?
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 264.493 267.915 <o,f0,unknown> %jaj skúste hovoriť ďalej no tak neviem čo.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 267.915 269.909 <o,f0,unknown> ruka je otvorená.
+lpvvgcwo01 1 excluded_region 269.909 274.728 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 274.728 276.080 <o,f0,unknown> neviem čo by som [ned-] eš [-ned] .
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 276.080 285.312 <o,f0,unknown> no vidím stôl s dvomi stoličkami. na stole [hez] sú postavené dve šálky.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 285.312 289.656 <o,f0,unknown> sú to malé šálky tak predpokladám že tam bude káva.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 289.656 293.225 <o,f0,unknown> tá káva je horúca lebo sa z nej parí.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 293.225 298.255 <o,f0,unknown> pri stole nikto nesedí nie je tam žiadna osoba prítomná.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 298.255 306.080 <o,f0,unknown> [hez] stôl. na stole %aha sú tam tri nohy. no a stoličky samozrejme majú štyri.
+lpvvgcwo01 1 excluded_region 306.080 309.622 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 309.622 312.073 <o,f0,unknown> no vidím muža.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 312.073 322.150 <o,f0,unknown> muž má žltý pulóver tmavé nohavice modrú zásteru. v ruke má varečku*/varičku a s tou varečkou* mláti na lampu.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 322.150 327.485 <o,f0,unknown> odlomil z nej ešte aj kúsok tej lampy nechápem prečo to robí.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 327.485 330.316 <o,f0,unknown> no jeto: v kuchyni.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 330.316 334.256 <o,f0,unknown> v kuchyni okrem neho je ešte dieťa.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 334.256 340.242 <o,f0,unknown> to dieťa [hez] je na stoličke. tá stolička je šikmo. padá dole.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 340.242 345.226 <o,f0,unknown> načahuje sa to dieťa zrejme je to chlapec za banánom.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 345.226 359.730 <o,f0,unknown> tam [hez] ten banán je: na tanieri. okrem banána je na tanieri %mhm možno paradajka možno jablko. neviem niečo červené guľaté*.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 359.730 367.204 <o,f0,unknown> no okrem toho je tam umývadlo. z umývadla vyteká voda. no to je hrúza* toto.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 367.204 369.742 <o,f0,unknown> z umývadla vyteká voda.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 369.742 374.982 <o,f0,unknown> okrem toho vidím mačku ktorá sa pozerá na mňa a nie na tú pohromu v tej kuchyni.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 374.982 382.052 <o,f0,unknown> [hez] nad umývadlom je [hez] [hez] [hez] link skrinka z kuchynskej linky.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 382.052 396.020 <o,f0,unknown> no a okrem toho ešte za tým chlapom [hez] je: je hrniec: z ktorého kypí. no z ktorého k . mám aj farby popisovať?
+lpvvgcwo01 1 excluded_region 396.020 399.773 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 399.773 409.768 <o,f0,unknown> no vidím ženu asi je v kuchyni lebo sa mi zdá že je tam šporák s dvomi s dvomi tými varnými plotňami*.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 409.768 417.488 <o,f0,unknown> má na ruke no v jednej ruke má v jednej ruke má pánev* a prevracia niečo.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 417.488 420.759 <o,f0,unknown> v druhej ruke má dieťa ktoré reve.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 420.759 439.687 <o,f0,unknown> okrem toho má ešte na stole nôž a nejaké [hez] ne asi zeleninu a neviem neviem či toto neni aj tablet alebo [hez] ten malý počítač ktorý tam má na poličke.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 439.687 447.393 <o,f0,unknown> tuto je to je veverica či čo to je? to neni ani veverica ani mačka. mačka? s takým chvostom?
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 447.393 454.575 <o,f0,unknown> no na polici/police je nejaké zviera asi mačka ktoré zhadzuje dole čo na polici/police je.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 454.575 461.809 <o,f0,unknown> sú to k váza s kvetinami a okrem toho sú tam ešte aj fľaša a nejaký pohárik.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 461.809 470.215 <o,f0,unknown> no a tá žena okrem toho že tam má [hez] tie proste plné ruky tak v hlave má topánky. myslí na boty.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 470.215 475.262 <o,f0,unknown> okrem toho sú tam ešte aj hodinky. je tam ďalšia polica.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 475.262 481.609 <o,f0,unknown> to sú kvety možno na tej polici a nejaké povedzme malovátka*.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 481.609 484.282 <o,f0,unknown> niečo tam je. neviem.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 484.282 485.960 <o,f0,unknown> no a ešte na tom [ned-] š [-ned] .
+lpvvgcwo01 1 excluded_region 485.960 490.937 <o,,unknown> ignore_time_segment_in_scoring
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 490.937 492.889 <o,f0,unknown> vianoce.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 492.889 499.114 <o,f0,unknown> no keby to santa klaus liezol z toho ok . %jaj nie to sú dvere.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 499.114 502.051 <o,f0,unknown> to niekto vchádza donútra z vonku.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 502.051 505.111 <o,f0,unknown> už je tma lebo sú tam hviezdičky.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 505.111 511.530 <o,f0,unknown> v ruke má nejakú tašku no ale šlapol* na detské autíčko tak asi capne*.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 511.530 516.190 <o,f0,unknown> okrem toho je tam žienka. tá žienka telefonuje.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 516.190 530.160 <o,f0,unknown> no a je tam chlapec ktorého si tým pádom nikto nevšíma. chlapec ťahá [hez] za za za čo sú to svietidlá tú reťaz svetelnú ťahá.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 530.160 539.005 <o,f0,unknown> ten stromček zhadzuje. ten stromček ho pricapí* a niekto zvonku cez okno sa na nich díva.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 539.005 551.442 <o,f0,unknown> možno je to santa klaus keď má nejakú červenú čiapku. a okrem toho je tam ešte aj pes ktorý tam v tomto blázninci kľudne spí.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 551.442 558.933 <o,f0,unknown> no mám hovoriť ďalej. no tak ten chlap prichádza evidentne zvonku lebo ma čiapku má šál.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 558.933 567.022 <o,f0,unknown> má v ruke niečo čo je asi nákup možno nejaké hračky priniesol keď sú to vianoce.
+lpvvgcwo01 1 lpvvgcwo01_lpvvgcwo01 567.022 572.509 <o,f0,unknown> no a tá žena si toho chlapca vôbec nevšíma. je jej akurát tak.

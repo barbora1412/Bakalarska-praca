@@ -1,0 +1,113 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:20 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210824
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 14.940 22.860 <o,f0,unknown> special_pataka
+lpvvomrx01 1 excluded_region 22.860 23.659 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 23.659 25.660 <o,f0,unknown> cesta
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 25.660 28.700 <o,f0,unknown> ((xx)) a sa zmráka kráľ
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 28.700 31.980 <o,f0,unknown> [hez] k knižka
+lpvvomrx01 1 excluded_region 31.980 32.833 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 32.833 34.640 <o,f0,unknown> most
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 34.640 37.100 <o,f0,unknown> topánky/topanky
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 37.100 40.300 <o,f0,unknown> [hez] a autobus
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 40.300 42.840 <o,f0,unknown> hodinky
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 42.840 47.640 <o,f0,unknown> hodink [smiech-] cigarety [-smiech]
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 47.640 50.560 <o,f0,unknown> [hez] koruna
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 50.560 54.100 <o,f0,unknown> [hez] bubon/buon
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 54.100 56.960 <o,f0,unknown> budík
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 56.960 59.520 <o,f0,unknown> koleso
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 59.520 62.200 <o,f0,unknown> traktor
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 62.200 64.600 <o,f0,unknown> teplomer
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 64.600 68.680 <o,f0,unknown> [spk] lavička [kasel] [spk]
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 68.680 71.840 <o,f0,unknown> [hez] fajka
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 71.840 74.540 <o,f0,unknown> električka
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 74.540 76.920 <o,f0,unknown> zips
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 76.920 79.940 <o,f0,unknown> [hez] akvárium
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 79.940 82.580 <o,f0,unknown> metla [smiech]
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 82.580 85.360 <o,f0,unknown> ť ťava dvojhrbá
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 85.360 87.960 <o,f0,unknown> [hez] lievik
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 87.960 91.680 <o,f0,unknown> h:ríby
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 91.680 94.380 <o,f0,unknown> vešiak
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 94.380 98.720 <o,f0,unknown> [hez] domino hra hra domino
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 98.720 105.820 <o,f0,unknown> [hez] ježiš jak sa to volá/vola %aha kotva
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 105.820 109.020 <o,f0,unknown> žaluď
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 109.020 112.520 <o,f0,unknown> [hez] ponorka
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 112.520 119.760 <o,f0,unknown> [hez] do vesmíru ježiš mária/maria astronaut/astonaut
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 119.760 123.300 <o,f0,unknown> [hez] kaktus
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 123.300 127.680 <o,f0,unknown> osoba píše/piše
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 127.680 132.880 <o,f0,unknown> natiera si maslo no chleba s maslom
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 132.880 135.580 <o,f0,unknown> spieva
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 135.580 139.020 <o,f0,unknown> [hez] smeje sa
+lpvvomrx01 1 excluded_region 139.020 139.852 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 139.852 143.440 <o,f0,unknown> ťa [hez] ťa [hez] preťahuje sa
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 143.440 150.320 <o,f0,unknown> [smiech] [hez] umýva sa no kúpe/kupe: umýva sa
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 150.320 159.760 <o,f0,unknown> no váži sa?
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 159.760 164.180 <o,f0,unknown> [hez] žiarovka/žiarofka svieti
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 164.180 168.420 <o,f0,unknown> [hez] meria okno
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 168.420 170.056 <o,f0,unknown> [spk] plače
+lpvvomrx01 1 excluded_region 170.056 171.300 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 171.300 174.020 <o,f0,unknown> [ex] horí/hori
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 174.020 177.100 <o,f0,unknown> [hez] pije
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 177.100 180.700 <o,f0,unknown> [hez] mieša
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 180.700 185.280 <o,f0,unknown> h:ádže oštepom
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 185.280 188.700 <o,f0,unknown> [hez] klope
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 188.700 192.480 <o,f0,unknown> [hez] telefonuje
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 192.480 196.220 <o,f0,unknown> [hez] maľuje
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 196.220 200.260 <o,f0,unknown> [hez] na švihadle skáče
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 200.260 203.040 <o,f0,unknown> šije
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 203.040 206.200 <o,f0,unknown> vŕta
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 206.200 209.300 <o,f0,unknown> [hez] lyžuje
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 209.300 214.780 <o,f0,unknown> krája jablko/jabko [hez] jablko
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 214.780 218.620 <o,f0,unknown> hrabe lístie [smiech-] hrabe [-smiech]
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 218.620 222.740 <o,f0,unknown> t [hez] fotí/foti
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 222.740 226.020 <o,f0,unknown> pol polieva
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 226.020 229.180 <o,f0,unknown> píli
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 229.180 232.080 <o,f0,unknown> bicykluje/bisiguje
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 232.080 235.520 <o,f0,unknown> [hez] štrikuje
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 235.520 241.200 <o,f0,unknown> %aha vesluje
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 241.200 245.280 <o,f0,unknown> žehlí/žehli to je žehlička
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 245.280 248.075 <o,f0,unknown> ruka
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 248.075 260.766 <o,f0,unknown> ruk nie/ne v ruke mám päť prstov malíček ukazováčik na ktorom nosím prsteň. no a čo ešte?
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 260.766 267.701 <o,f0,unknown> no ruku používame na prácu.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 267.701 275.200 <o,f0,unknown> a s tým s rukami používam [hez] na pečenie pre [hez] ko
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 275.200 288.863 <o,f0,unknown> %aha tak [hez] [hez] n vidíme na obrázku vidíme dve stoličky a stôl/stol kde pijeme kávu.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 288.863 305.140 <o,f0,unknown> káva [hez] káva [hez] [hez] [hez] ježiš mária/maria kávu ktorá ktorá je veľmi dobrá. je čierna väčšinou [hez] [hez] [hez] väčšinou ju pijú ľu
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 305.140 319.082 <o,f0,unknown> [hez] no vidíme chlapca a ((muža)) v kuchyni ktor ktorý sa snaží variť a ale podľa všetkého je veľmi nešikovný.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 319.082 327.674 <o,f0,unknown> no chce prekvapiť svoju pani a: [smiech-] veľmi veľmi [-smiech] mu to nejde.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 327.674 342.151 <o,f0,unknown> no vykypo vykypel mu hrniec hrniec/hrnies. z hrnca niečo tečie a pritom h [hez] pritom ch chlapec padá zo stoličky.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 342.151 348.543 <o,f0,unknown> no je to je to proste muž [smiech] .
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 348.543 350.120 <o,f0,unknown> stačí/stači?
+lpvvomrx01 1 excluded_region 350.120 352.676 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 excluded_region 352.676 352.716 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 352.716 372.868 <o,f0,unknown> [hez] [hez] [hez] tak [hez] manžel sa pokúša navariť/navarit tú večeru a nev neviem čo z toho bude neviem [smiech-] čo z toho bude [-smiech] . snaží sa navariť tak keď dojde s jeho manželka z práce [hez] [smiech-] že ((bude)) bude mať nava navarené večeru [-smiech] .
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 372.868 391.561 <o,f0,unknown> no: pritom [hez] ned pritom [smiech-] ženy ženy [-smiech] robia viacej robôt/robot naraz. jak vidíme chlapca ktorý skoro [hez] skoro padol zo stoličky pretože sa nag nadrapuje za banánom naťahuje no.
+lpvvomrx01 1 excluded_region 391.561 395.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 395.140 405.713 <o,f0,unknown> no/noh na obrázku vidíme/vimije tip typickú mamu ktorá chudera [hez] robí dvadsať vecí naraz.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 405.713 422.290 <o,f0,unknown> varí pritom v rukách má plačujúce plačúce/pla_čú_ce [hez] plačúce dec dieťa ktoré [smiech] nieže/neže narieka ale vreští no a ona mu robí obed.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 422.290 435.935 <o,f0,unknown> [hez] v hrncoch v hrncoch [hez] [hez] nevie neviem čo to robí robí podľa všetkého ne buď palacinky alebo lievance pretože to hádže hore dole.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 435.935 441.634 <o,f0,unknown> na hodink [hez] na hodinkách je pol dvanástej tak robí asi obed.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 441.634 447.650 <o,f0,unknown> chlapec/chlapes plače možno preto že je: [hez] že je: [hez] tak hladný.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 447.650 463.752 <o,f0,unknown> na: [hez] [smiech-] na: [-smiech] na: [hez] poličke je: mačička ktorá zhodila z ((áno)) zhodila a padlo to rovno do hrnca.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 463.752 479.160 <o,f0,unknown> m ma mama ktorá/ktora va žena ktorá/ktora varí [hez] rozmýšľa ešte/eštej [hez] nad/na topánkach ktoré by si kúpila keď pôjde von.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 479.160 488.176 <o,f0,unknown> [kasel] no tak to sú vianoce najkrajšie obdobie v roku.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 488.176 506.911 <o,f0,unknown> n [hez] vidíme [hez] vidíme [hez] vidíme: [hez] vidíme [hez] na: fotografii fotografii/fotogafi maminku ktorá telefonuje/teefonuje a: tatina/takina. vonku [hez] [hez] vonku padá sneh vonku padá sneh.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 506.911 520.136 <o,f0,unknown> [ruch-] a pri: pri: [-ruch] nohách mu spí spí havko/hafko ktorý [smiech] ktorý sa asi napapal tak te na:žral tak asi: spí.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 520.136 537.389 <o,f0,unknown> [hez] pán o:tec alebo/anebo [hez] ja neviem presne skočil [hez] chlapcovi chlapcovi na autíčko. sú tam dve autíčka červené a žlté. on skočil na žlté autíčko.
+lpvvomrx01 1 lpvvomrx01_lpvvomrx01 537.389 559.173 <o,f0,unknown> [hez] pozadí je chlapec ktorý je veľmi roztopašný [hez] veľmi roztopašný a zhodil h:odil vianoce n [hez] stromček stromček na seba pretože/petože nevie o nevie v rýchlosti [spk] pardon čo by mal robiť.

@@ -1,0 +1,110 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:49 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210719
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjt4a301 1 kixjt4a301_kixjt4a301 0.000 9.640 <o,f0,unknown> vokal
+kixjt4a301 1 kixjt4a301_kixjt4a301 9.640 14.940 <o,f0,unknown> finíto. čo málo?
+kixjt4a301 1 kixjt4a301_kixjt4a301 14.940 22.880 <o,f0,unknown> pataka
+kixjt4a301 1 kixjt4a301_kixjt4a301 22.880 29.180 <o,f0,unknown> diaľnica obloha s mrakmi
+kixjt4a301 1 kixjt4a301_kixjt4a301 29.180 32.840 <o,f0,unknown> most
+kixjt4a301 1 kixjt4a301_kixjt4a301 32.840 35.820 <o,f0,unknown> hodinky
+kixjt4a301 1 kixjt4a301_kixjt4a301 35.820 38.980 <o,f0,unknown> bubon s paličkami
+kixjt4a301 1 kixjt4a301_kixjt4a301 38.980 42.420 <o,f0,unknown> traktor
+kixjt4a301 1 kixjt4a301_kixjt4a301 42.420 45.460 <o,f0,unknown> fajka
+kixjt4a301 1 kixjt4a301_kixjt4a301 45.460 48.960 <o,f0,unknown> akvárium
+kixjt4a301 1 kixjt4a301_kixjt4a301 48.960 55.440 <o,f0,unknown> lievik plechový
+kixjt4a301 1 kixjt4a301_kixjt4a301 55.440 61.960 <o,f0,unknown> kocky z [hez] domina
+kixjt4a301 1 kixjt4a301_kixjt4a301 61.960 65.660 <o,f0,unknown> ponorka
+kixjt4a301 1 kixjt4a301_kixjt4a301 65.660 71.780 <o,f0,unknown> pán zrejme niečo zapisuje
+kixjt4a301 1 kixjt4a301_kixjt4a301 71.780 76.100 <o,f0,unknown> smiech smeje sa dáma
+kixjt4a301 1 kixjt4a301_kixjt4a301 76.100 80.820 <o,f0,unknown> váži jabĺčko na váhe kuchynskej
+kixjt4a301 1 kixjt4a301_kixjt4a301 80.820 84.220 <o,f0,unknown> plače
+kixjt4a301 1 kixjt4a301_kixjt4a301 84.220 87.740 <o,f0,unknown> varí
+kixjt4a301 1 kixjt4a301_kixjt4a301 87.740 91.760 <o,f0,unknown> telefonuje
+kixjt4a301 1 kixjt4a301_kixjt4a301 91.760 96.380 <o,f0,unknown> šije na šijacom stroji
+kixjt4a301 1 kixjt4a301_kixjt4a301 96.380 102.560 <o,f0,unknown> krája syr? asi syr
+kixjt4a301 1 kixjt4a301_kixjt4a301 102.560 106.460 <o,f0,unknown> zalieva kvetinku [spk]
+kixjt4a301 1 kixjt4a301_kixjt4a301 106.460 110.480 <o,f0,unknown> štrikuje
+kixjt4a301 1 kixjt4a301_kixjt4a301 110.480 116.880 <o,f0,unknown> zrejme kráľ alebo taký nejaký má korunu
+kixjt4a301 1 excluded_region 116.880 117.760 <o,,unknown> ignore_time_segment_in_scoring
+kixjt4a301 1 kixjt4a301_kixjt4a301 117.760 120.580 <o,f0,unknown> topánky
+kixjt4a301 1 kixjt4a301_kixjt4a301 120.580 123.740 <o,f0,unknown> cigarety
+kixjt4a301 1 kixjt4a301_kixjt4a301 123.740 127.840 <o,f0,unknown> budík starý klasický
+kixjt4a301 1 kixjt4a301_kixjt4a301 127.840 133.420 <o,f0,unknown> teplomer starý tiež ortuťový
+kixjt4a301 1 kixjt4a301_kixjt4a301 133.420 137.680 <o,f0,unknown> električka tiež stará [smiech]
+kixjt4a301 1 kixjt4a301_kixjt4a301 137.680 141.400 <o,f0,unknown> metla košte*
+kixjt4a301 1 kixjt4a301_kixjt4a301 141.400 146.820 <o,f0,unknown> hríbiky pekné dubáky zrejme vyzerajú byť [spk]
+kixjt4a301 1 kixjt4a301_kixjt4a301 146.820 150.140 <o,f0,unknown> kotva
+kixjt4a301 1 kixjt4a301_kixjt4a301 150.140 154.660 <o,f0,unknown> kozmonaut/kozmonal vo vesmíre %i:ha
+kixjt4a301 1 kixjt4a301_kixjt4a301 154.660 161.400 <o,f0,unknown> natiera si nejakú pomazánku na chlebík alebo také niečo
+kixjt4a301 1 kixjt4a301_kixjt4a301 161.400 166.260 <o,f0,unknown> %i: preťahuje sa s niekým lanom
+kixjt4a301 1 kixjt4a301_kixjt4a301 166.260 171.960 <o,f0,unknown> %haha: žiarovka stará ešte svieti
+kixjt4a301 1 kixjt4a301_kixjt4a301 171.960 176.940 <o,f0,unknown> oheň horí dom požiar [spk]
+kixjt4a301 1 kixjt4a301_kixjt4a301 176.940 181.160 <o,f0,unknown> hádže oštepom
+kixjt4a301 1 kixjt4a301_kixjt4a301 181.160 182.071 <o,f0,unknown> pekný záber
+kixjt4a301 1 kixjt4a301_kixjt4a301 182.071 185.220 <o,f0,unknown> maliar maľuje
+kixjt4a301 1 kixjt4a301_kixjt4a301 185.220 191.140 <o,f0,unknown> vŕtačka príklepová do steny ide robiť dieru/die:ru.
+kixjt4a301 1 kixjt4a301_kixjt4a301 191.140 201.660 <o,f0,unknown> hrable teda hrable no. neviem či to sú drevené alebo železné ale ide niečo zhrabávať.
+kixjt4a301 1 kixjt4a301_kixjt4a301 201.660 210.280 <o,f0,unknown> reže pílkou zvanou fuksšvanc* teda líščí chvost [smiech]
+kixjt4a301 1 kixjt4a301_kixjt4a301 210.280 219.760 <o,f0,unknown> %ojo:j to je štvorveslica? jeden dva tri štyri päť šesť asi šesťveslica
+kixjt4a301 1 kixjt4a301_kixjt4a301 219.760 223.760 <o,f0,unknown> otvorená kniha
+kixjt4a301 1 kixjt4a301_kixjt4a301 223.760 230.340 <o,f0,unknown> autobus diaľkový nejaký ale starý typ zrejme
+kixjt4a301 1 kixjt4a301_kixjt4a301 230.340 236.580 <o,f0,unknown> kráľovská koruna no taká akože
+kixjt4a301 1 kixjt4a301_kixjt4a301 236.580 241.680 <o,f0,unknown> koleso z auta zrejme z osobáku
+kixjt4a301 1 kixjt4a301_kixjt4a301 241.680 245.260 <o,f0,unknown> lavička parkov
+kixjt4a301 1 kixjt4a301_kixjt4a301 245.260 248.300 <o,f0,unknown> zips obyčajný nie su
+kixjt4a301 1 kixjt4a301_kixjt4a301 248.300 252.500 <o,f0,unknown> ťava dvojhrbá
+kixjt4a301 1 kixjt4a301_kixjt4a301 252.500 258.180 <o,f0,unknown> vešiak na nohavice alebo sako
+kixjt4a301 1 kixjt4a301_kixjt4a301 258.180 261.480 <o,f0,unknown> žaluď
+kixjt4a301 1 kixjt4a301_kixjt4a301 261.480 266.020 <o,f0,unknown> kaktus ale nekvitne asi
+kixjt4a301 1 kixjt4a301_kixjt4a301 266.020 271.020 <o,f0,unknown> spieva do mikrofónu dievčina
+kixjt4a301 1 kixjt4a301_kixjt4a301 271.020 278.220 <o,f0,unknown> %he:j zlaté bábo vo vo vaničke s vodou s penou na hlave chalan
+kixjt4a301 1 kixjt4a301_kixjt4a301 278.220 282.480 <o,f0,unknown> niečo meria metrom ocelo
+kixjt4a301 1 kixjt4a301_kixjt4a301 282.480 286.340 <o,f0,unknown> pije vodičku dieťa
+kixjt4a301 1 kixjt4a301_kixjt4a301 286.340 291.000 <o,f0,unknown> klope/klpe na dvere asi chce ísť dnu
+kixjt4a301 1 kixjt4a301_kixjt4a301 291.000 296.560 <o,f0,unknown> %fi: skáče cez/čez cez švihadlo pekný záber
+kixjt4a301 1 kixjt4a301_kixjt4a301 296.560 302.760 <o,f0,unknown> na lyžiach zjazd
+kixjt4a301 1 kixjt4a301_kixjt4a301 302.760 306.840 <o,f0,unknown> fotografuje
+kixjt4a301 1 kixjt4a301_kixjt4a301 306.840 311.560 <o,f0,unknown> bicyklista to neni Sagan určite
+kixjt4a301 1 kixjt4a301_kixjt4a301 311.560 318.520 <o,f0,unknown> žehlí rukáv na nejakom svetríku alebo čo ja viem asi
+kixjt4a301 1 kixjt4a301_kixjt4a301 318.520 329.674 <o,f0,unknown> ruka z neviem či chlapská alebo ženská ale drží ju za malíček malinké bábo.
+kixjt4a301 1 kixjt4a301_kixjt4a301 329.674 336.655 <o,f0,unknown> ju drží teda toho tú osobu za malíček.
+kixjt4a301 1 kixjt4a301_kixjt4a301 336.655 340.770 <o,f0,unknown> pevne zviera.
+kixjt4a301 1 kixjt4a301_kixjt4a301 340.770 348.460 <o,f0,unknown> zrejme ho má asi rado alebo neviem.
+kixjt4a301 1 kixjt4a301_kixjt4a301 348.460 361.662 <o,f0,unknown> stolík zrejme reštauračný s dvomi kávami pekne pripravené na na posedenie niekde niekde osamote.
+kixjt4a301 1 kixjt4a301_kixjt4a301 361.662 366.885 <o,f0,unknown> slniečko slniečko svieti z jednej strany.
+kixjt4a301 1 kixjt4a301_kixjt4a301 366.885 373.000 <o,f0,unknown> to by bolo asi všetko.
+kixjt4a301 1 kixjt4a301_kixjt4a301 373.000 386.882 <o,f0,unknown> otec v kuchyni sa zaháňa varechou. je tam nejaká osa. tú osu chcel asi zabiť.
+kixjt4a301 1 kixjt4a301_kixjt4a301 386.882 390.388 <o,f0,unknown> odrazil zrejme z lustra.
+kixjt4a301 1 kixjt4a301_kixjt4a301 390.388 397.606 <o,f0,unknown> tam sa mu neviem čo mu to tam kypí mu z hrnca. niečo tam niečo tam varí.
+kixjt4a301 1 kixjt4a301_kixjt4a301 397.606 413.440 <o,f0,unknown> [hez] umýval asi riady. voda mu tam tečie. pení. vyteká von a chlapča si berie banán ale zrejme zrejme: spadne lebo stoličku má nakrivo.
+kixjt4a301 1 kixjt4a301_kixjt4a301 413.440 427.430 <o,f0,unknown> sa šmykne na tej vode a ešte ešte do toho tam aj mačička zvedavá sa pozerá a zabudol otec zatvoriť skrinku z ktorej mu tečie na zem obsah nejakej fľašky.
+kixjt4a301 1 excluded_region 427.430 431.281 <o,,unknown> ignore_time_segment_in_scoring
+kixjt4a301 1 kixjt4a301_kixjt4a301 431.281 437.480 <o,f0,unknown> toť vsjo [smiech] .
+kixjt4a301 1 kixjt4a301_kixjt4a301 437.480 446.156 <o,f0,unknown> no maminka toho má veľmi veľa na starosti. chce zvládnuť veľa vecí.
+kixjt4a301 1 kixjt4a301_kixjt4a301 446.156 451.731 <o,f0,unknown> pod ľavým uchom má telefón. telefonuje.
+kixjt4a301 1 kixjt4a301_kixjt4a301 451.731 459.511 <o,f0,unknown> na panvici niečo niečo prehadzuje. neviem čo to tam vypeká volské oko či čo to.
+kixjt4a301 1 kixjt4a301_kixjt4a301 459.511 468.311 <o,f0,unknown> má postavený hrniec na sporáku. ešte tam zrejme tam zrejme niečo niečo varí.
+kixjt4a301 1 kixjt4a301_kixjt4a301 468.311 472.837 <o,f0,unknown> mačka tam vyliezla hore na policu.
+kixjt4a301 1 kixjt4a301_kixjt4a301 472.837 479.731 <o,f0,unknown> zhodila zhodila niečo. tam nejaký obsah sa vysypáva na zem.
+kixjt4a301 1 kixjt4a301_kixjt4a301 479.731 493.159 <o,f0,unknown> s niekým tá maminka s niekým telefonuje zrejme ohľadom lodičiek a v rukách drží malinké bábänko ktoré zúrivo zúrivo sa dožaduje pozornosti.
+kixjt4a301 1 excluded_region 493.159 502.240 <o,,unknown> ignore_time_segment_in_scoring
+kixjt4a301 1 kixjt4a301_kixjt4a301 502.240 514.960 <o,f0,unknown> %ajaja:j no deti deti robia robia neplechu.
+kixjt4a301 1 kixjt4a301_kixjt4a301 514.960 533.740 <o,f0,unknown> [hez] asi chcú stiahnuť svetielká alebo čo. stromček stromček padá. maminka zaujatá telefóno telefonovaním zrejme s kamarátkou o nejakých dôležitých ešte veciach vianočných čo treba ešte spraviť.
+kixjt4a301 1 kixjt4a301_kixjt4a301 533.740 535.762 <o,f0,unknown> psík tam spinká.
+kixjt4a301 1 kixjt4a301_kixjt4a301 535.762 551.870 <o,f0,unknown> tatino došiel z vonka z nákupu ale galiba veľká/veliká lebo deti tam nechali porozhadzované hračky a stúpil na jedno auto a padá na zem aj s tým nákupom. galiba veľká/veliká.

@@ -1,0 +1,106 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:43 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210909
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 0.000 14.920 <o,f0,unknown> special_vokal
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 14.920 22.860 <o,f0,unknown> special_pataka
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 22.860 25.000 <o,f0,unknown> cesta
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 25.000 28.400 <o,f0,unknown> vládca
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 28.400 30.680 <o,f0,unknown> kniha
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 30.680 33.060 <o,f0,unknown> most
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 33.060 35.600 <o,f0,unknown> topánky
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 35.600 37.760 <o,f0,unknown> autobus
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 37.760 40.040 <o,f0,unknown> hodiny hodi
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 40.040 40.994 <o,f0,unknown> hodinky
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 40.994 42.760 <o,f0,unknown> cigarety
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 42.760 45.380 <o,f0,unknown> koruna
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 45.380 48.040 <o,f0,unknown> [spk] bubon
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 48.040 51.480 <o,f0,unknown> [hez] budík
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 51.480 53.960 <o,f0,unknown> koleso
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 53.960 56.600 <o,f0,unknown> traktor
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 56.600 60.140 <o,f0,unknown> teplomer
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 60.140 63.220 <o,f0,unknown> [hez] lavička
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 63.220 65.680 <o,f0,unknown> fajka
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 65.680 68.600 <o,f0,unknown> [spk] električka
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 68.600 71.120 <o,f0,unknown> zips
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 71.120 73.880 <o,f0,unknown> akvárium
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 73.880 77.500 <o,f0,unknown> [spk] metla
+lpvvzb4o01 1 excluded_region 77.500 78.552 <o,,unknown> ignore_time_segment_in_scoring
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 78.552 80.920 <o,f0,unknown> [hez] ťava
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 80.920 85.780 <o,f0,unknown> [hez] lievik/trychtyř to je taký/tak lievik
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 85.780 88.620 <o,f0,unknown> huby
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 88.620 92.840 <o,f0,unknown> [hez] ramienko vešia
+lpvvzb4o01 1 excluded_region 92.840 94.117 <o,,unknown> ignore_time_segment_in_scoring
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 94.117 97.060 <o,f0,unknown> [hez] domino kocky tri
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 97.060 100.100 <o,f0,unknown> [spk] kotva
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 100.100 105.980 <o,f0,unknown> [spk] [hez] [hez] bukvica žaluď [smiech] žaluď
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 105.980 112.700 <o,f0,unknown> žaluď asi ostrov nie to je ponorka ponorka pardon
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 112.700 116.060 <o,f0,unknown> [spk] astronaut
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 116.060 118.680 <o,f0,unknown> kaktus
+lpvvzb4o01 1 excluded_region 118.680 119.821 <o,,unknown> ignore_time_segment_in_scoring
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 119.821 121.460 <o,f0,unknown> píše/piše
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 121.460 124.920 <o,f0,unknown> natiera
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 124.920 127.960 <o,f0,unknown> spieva
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 127.960 130.960 <o,f0,unknown> smeje sa
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 130.960 133.800 <o,f0,unknown> ťahá [spk]
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 133.800 137.221 <o,f0,unknown> sedí umýva sa
+lpvvzb4o01 1 excluded_region 137.221 138.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 138.700 141.700 <o,f0,unknown> váži
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 141.700 144.700 <o,f0,unknown> [hez] svieti
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 144.700 147.880 <o,f0,unknown> meria
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 147.880 150.460 <o,f0,unknown> plače
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 150.460 153.180 <o,f0,unknown> horí
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 153.180 155.940 <o,f0,unknown> pije
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 155.940 158.740 <o,f0,unknown> [spk] varí
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 158.740 161.640 <o,f0,unknown> hádže
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 161.640 164.160 <o,f0,unknown> klope
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 164.160 167.020 <o,f0,unknown> telefonuje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 167.020 169.600 <o,f0,unknown> maľuje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 169.600 172.480 <o,f0,unknown> skáče [spk]
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 172.480 175.180 <o,f0,unknown> šije
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 175.180 177.720 <o,f0,unknown> vŕta/vrta [spk]
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 177.720 180.760 <o,f0,unknown> lyžuje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 180.760 183.140 <o,f0,unknown> krája
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 183.140 185.660 <o,f0,unknown> hrabe
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 185.660 189.020 <o,f0,unknown> [hez] fotografuje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 189.020 191.880 <o,f0,unknown> zalieva
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 191.880 194.660 <o,f0,unknown> píli [spk]
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 194.660 197.120 <o,f0,unknown> bicykluje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 197.120 199.840 <o,f0,unknown> štrikuje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 199.840 202.840 <o,f0,unknown> vesluje
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 202.840 205.500 <o,f0,unknown> žehlí
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 205.500 235.420 <o,f0,unknown> [spk] dve ruky [spk] ľavá ruka prsty sú vystreté [spk] dlaňou ku mne. [hez] [hez] ruka dospelého človeka [hez] alebo dospievajúceho. druhá ruka je detská ruka. je to pravá ruka. drží ľavú ruku za malíček. drží ju [hez] zovretú štyrmi prstami. [hez] obrázok je čierno biely a: sú/su ta
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 235.420 265.360 <o,f0,unknown> [hez] [spk] stolík [hez] s dvomi stoličkami okrúhly. [hez] má tri nohy. stoličky [hez] aj stolík sú pravdepodobne kovové. [hez] na okrúhlom stolíku sú položené dve [hez] šálky [hez] s kávou/kavou alebo s čajom. šálka každá šálka má podšálku. dymí sa z/s nej. stoličky sú oproti sebe.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 265.360 286.721 <o,f0,unknown> [hez] kuchyňa:. je to zelená linka. [hez] spodné skrinky [hez] elková do rohu. hore sú skrinky [hez] dve. jedna je tá ľavá je otvorená. sú v nej tri police. [hez] vylialo sa tam niečo tekutina. je ružovo fialová. tečie z fľaše dole.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 286.721 304.205 <o,f0,unknown> [hez] [spk] muž ktorý stojí pred [hez] ľavou časťou tou tejto kuchynskej linky [hez] je dospelý. drží v rukách muchárku/mucharku. snaží sa zabiť muchu. pritom [hez] rozbil lampu. lampa je oranžová. je visiaca. je to taký cylinder.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 304.205 313.739 <o,f0,unknown> [hez] muž má modrú kuchynskú zásteru hnedé nohavice [hez] hnedé papuče žlté tričko s dlhým rukávom.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 313.739 337.375 <o,f0,unknown> [hez] pri druhej časti linky takzvanej pravej z rohu je: [hez] dieťa [hez] ktoré stojí na stoličke:. stolička je [hez] [spk] [hez] pošmyklo sa. [hez] dieťa sa pošmyklo ale ešte stojí na stoličke ľavou nohou. pravú má vo vzduchu. [hez] snaží sa totiž dočiahnuť na ovocie. to je niekde v strede tej linky.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 337.375 355.320 <o,f0,unknown> [hez] drží v ľavej ruke banán. je tam ešte aj neviem jablko alebo paradajka. je to na tanieri. a: pravou rukou sa snaží umývať riad ale keďže nedávalo pozor ta:k voda vyteká z [hez] drezu/dresu [hez] na zem. úplne v pravom rohu je
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 355.320 373.542 <o,f0,unknown> %aha dobre. matka v kuchyni [hez] [spk] varí. drží dieťa malé dieťa bábätko ktoré plače a zároveň telefonuje. má červené tričko s krátkym rukávom. je hnedovlasá. má cop. má svetlú zásteru s [hez] vreckom.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 373.542 397.511 <o,f0,unknown> v pravej ruke teda drží dieťa ktoré plače a ona v ľavej ruke drží panvicu na ktorej robí hemendex. sú tam dve vajíčka dve slaniny. má [hez] zapnutú [hez] sklokeramickú dosku. svietia tam dve zapnuté miesta. [hez] jedno je pre tú panvicu ale tú ona drží vo vzduchu v ľavej ruke. druhé je pre hrniec. ten hrniec je plný. je tam asi aj nejaká polievka.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 397.511 409.154 <o,f0,unknown> pred touto matkou [hez] je [hez] hnedá krájacia doska s nožom so zeleninou. sú/su tam dve paradajky jedna paprika dve neviem čo asi [hez] zemiaky.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 409.154 420.845 <o,f0,unknown> potom [hez] má tam ešte aj apple/epl počítač notebook teda. má tam [hez] [hez] [spk] mlieko v takej tetrapakovej [hez] v tetrapakovom obale.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 420.845 426.852 <o,f0,unknown> za ňou vzadu sú hodiny. hodiny ukazujú dvanásť/dvanác hodín o osemnásť/osemnác minút.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 426.852 432.579 <o,f0,unknown> pod hodinami je polica s tromi mini kaktusmi tromi knihami ktoré sú o seba opreté.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 432.579 445.320 <o,f0,unknown> %aha s niekým volá a rozpráva sa o nákupoch lebo hore nad ňou je bublina s [hez] s nejakými topánkami a potom je tam ešte za ňou polica s mačkou vínom [hez] s [hez] kvetmi ktoré pada
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 445.320 464.042 <o,f0,unknown> [spk] [hez] takže je to v dome:. cez dvere prichádza dospelý člove:k ktorý sa potkne o [hez] rozhádzané hračky konkrétne žlté auto. [hez] potkýna sa pravou nohou. ľavá vo vzduchu. je momentálne [hez] v polohe že padá.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 464.042 467.897 <o,f0,unknown> dvere ktorými prišiel/prišel sú ešte otvorené. vonku sneží.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 467.897 483.794 <o,f0,unknown> on má oblečené čierne nohavice fialový neviem čo tričko hnedý nejaký pulóver fialový šál čiapku. nemá rukavice. v ľavej ruke drží [hez] tyrkysovú [hez] tašku.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 483.794 509.535 <o,f0,unknown> [hez] okrem žltého auta je tam aj červené auto. to je na kľúčik. [hez] v izbe je zelený a fialový koberec pes ktorý spí [hez] pani ktorá telefonuje. tá má modré nohavice ružovú halenku. na tom má [hez] zelené sako. telefón je červen [hez] pardon žltý. červený rúž hnedé vlasy červené [hez] papuče.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 509.535 517.405 <o,f0,unknown> [hez] potom je tam stromček ktorý je už obvešaný. sú na ňom gule. úplne navrchu je zlatá alebo žltá hviezda.
+lpvvzb4o01 1 lpvvzb4o01_lpvvzb4o01 517.405 527.017 <o,f0,unknown> [hez] [hez] zdá sa že stromček ide spadnúť lebo chlapček ťahá za šnúru s guľami a stromček je už naklonený smerom doľava. inak pôvodne stál v rohu.

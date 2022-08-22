@@ -1,0 +1,150 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:23 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210805
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 0.000 11.140 <o,f0,unknown> special_vokal
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 11.140 19.060 <o,f0,unknown> special_pataka
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 19.060 23.652 <o,f0,unknown> [ruch] [spk] no je to: cesta
+lpvv7ndk01 1 excluded_region 23.652 24.039 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 24.039 25.129 <o,f0,unknown> asfaltová
+lpvv7ndk01 1 excluded_region 25.129 26.740 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 26.740 28.166 <o,f0,unknown> ((travnaté)) [ruch-] lány [-ruch]
+lpvv7ndk01 1 excluded_region 28.166 30.663 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 30.663 33.090 <o,f0,unknown> tu je: [hez] most
+lpvv7ndk01 1 inter_segment_gap 33.090 35.260 <o,f0,> 
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 35.260 41.403 <o,f0,unknown> [ned-] eš [-ned] [ruch-] kovový [-ruch] [ruch-] hodinky [-ruch] [ruch] [ruch-] náramkové [-ruch] [ruch] pánske veľké
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 41.403 42.774 <o,f0,unknown> [spk] bubon [ruch]
+lpvv7ndk01 1 excluded_region 42.774 43.337 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 43.337 46.140 <o,f0,unknown> s paličkami [ruch] [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 46.140 53.080 <o,f0,unknown> [spk] to je nejaký poľnohospodársky stroj [ruch] [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 53.080 57.972 <o,f0,unknown> [ruch] fajka na [ruch-] fajčenie [-ruch] [ruch-] tabaku [-ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 57.972 67.855 <o,f0,unknown> [spk] toto: jak* [hez] by som to nazvala to sú rybičky rastliny akvárium [ruch]
+lpvv7ndk01 1 excluded_region 67.855 70.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 70.060 72.666 <o,f0,unknown> také/take [ruch] lievik
+lpvv7ndk01 1 excluded_region 72.666 74.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 74.080 78.558 <o,f0,unknown> [spk] [hez]
+lpvv7ndk01 1 excluded_region 78.558 84.730 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 84.730 89.309 <o,f0,unknown> [hez] s tým som sa nestretla. čo sú to?
+lpvv7ndk01 1 excluded_region 89.309 91.703 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 91.703 93.532 <o,f0,unknown> hracie kocky nejaké
+lpvv7ndk01 1 excluded_region 93.532 94.728 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 94.728 95.537 <o,f0,unknown> [spk] áno
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 95.537 97.735 <o,f0,unknown> [spk] to je ponorka asi
+lpvv7ndk01 1 excluded_region 97.735 99.940 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 99.940 102.992 <o,f0,unknown> [ex] ujo píše
+lpvv7ndk01 1 excluded_region 102.992 103.924 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 103.924 105.155 <o,f0,unknown> [smiech]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 105.155 108.110 <o,f0,unknown> slečna sa smeje
+lpvv7ndk01 1 excluded_region 108.110 109.840 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 109.840 116.460 <o,f0,unknown> slečna váži [ruch-] jabĺčko [-ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 116.460 123.140 <o,f0,unknown> maminka je plače
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 123.140 128.520 <o,f0,unknown> teta varí v [ned-] kuchy [-ned]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 128.520 132.613 <o,f0,unknown> jej manžel telefonuje
+lpvv7ndk01 1 excluded_region 132.613 133.228 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 133.228 134.220 <o,f0,unknown> preto plače [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 134.220 142.980 <o,f0,unknown> [smiech] [ruch] áno a babka šije
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 142.980 153.046 <o,f0,unknown> no to je syr nôž/no:ž krája
+lpvv7ndk01 1 excluded_region 153.046 153.503 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 153.503 157.041 <o,f0,unknown> [ruch] [ruch] syr [ruch] [ruch] na plátky
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 157.041 164.240 <o,f0,unknown> polieva kvietok [hez] nejakú bylinku [ruch] [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 164.240 169.780 <o,f0,unknown> štrikuje: s ihlicami
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 169.780 175.750 <o,f0,unknown> to je postava nejakého/nejakéhoho hodnostára
+lpvv7ndk01 1 excluded_region 175.750 176.208 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 176.208 179.380 <o,f0,unknown> kráľa alebo [ruch] [ruch] [ned-] cirkev [-ned]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 179.380 187.043 <o,f0,unknown> ((xx)) ((nie je)) [spk] [ruch-] topánky [-ruch] pánske alebo dámske
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 187.043 192.896 <o,f0,unknown> cigarety s filtrom
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 192.896 196.660 <o,f0,unknown> [ned-] ho [-ned] budík
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 196.660 203.267 <o,f0,unknown> [spk] teplomer [ruch] [ruch] [ruch] [ruch] lekársky
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 203.267 208.708 <o,f0,unknown> [spk] električka alebo čo trolejbus
+lpvv7ndk01 1 excluded_region 208.708 212.753 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 212.753 216.980 <o,f0,unknown> [spk] metla
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 216.980 222.078 <o,f0,unknown> [spk] hríbiky na [ned-] zbie [-ned] [ned-] ne [-ned]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 222.078 225.800 <o,f0,unknown> [ruch] kotva
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 225.800 234.996 <o,f0,unknown> toto je: [ex] ako/jak by/bych to astronaut nejaký
+lpvv7ndk01 1 excluded_region 234.996 237.120 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 237.120 243.138 <o,f0,unknown> natiera sa chlieb [ruch] [ruch] [ned-] čím [-ned]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 243.138 248.860 <o,f0,unknown> dieťa ťahá š:núru [ruch] [ruch] neviem čo robí
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 248.860 254.500 <o,f0,unknown> [ruch] [spk] [ruch] [ruch] žiarovka svieti
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 254.500 263.200 <o,f0,unknown> [spk] [hez] požiar [ruch] veľký domy horia [ruch]
+lpvv7ndk01 1 excluded_region 263.200 266.073 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 266.073 270.160 <o,f0,unknown> no: tak [hez] maľuje [ruch-] obraz [-ruch] pán umelec
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 270.160 274.760 <o,f0,unknown> [ruch] tento vŕta do steny [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 274.760 281.020 <o,f0,unknown> [ruch] [ruch] ten by hrabal/hrabau len/ln [ruch-] nemá [-ruch] čo [ruch] [smiech]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 281.020 286.560 <o,f0,unknown> [ruch] píli drevo asi [ruch] [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 286.560 294.560 <o,f0,unknown> [spk] aj %jej tí [ruch] športujú na člne
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 294.560 298.320 <o,f0,unknown> no kniha: [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 298.320 302.000 <o,f0,unknown> [spk] [ruch] autobus
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 302.000 308.040 <o,f0,unknown> [hez] koruna [ruch-] alebo [-ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 308.040 312.220 <o,f0,unknown> koleso od auta [ruch] [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 312.220 315.260 <o,f0,unknown> lavička [ned-] záh [-ned]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 315.260 319.200 <o,f0,unknown> a zips [ruch] [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 319.200 323.780 <o,f0,unknown> [ruch] [ruch] dvojhrbá ťava
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 323.780 329.825 <o,f0,unknown> [spk] [hez] vešiak pánsky na [ruch-] nohavice [-ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 329.825 339.820 <o,f0,unknown> [spk] [ruch] [ruch] to je: [hez] žaluď [ruch-] alebo [-ruch] také niečo
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 339.820 346.500 <o,f0,unknown> [spk] aj %jaj to pichá [ruch] [ruch] [ruch-] kaktus [-ruch] nejaký
+lpvv7ndk01 1 excluded_region 346.500 347.399 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 347.399 349.780 <o,f0,unknown> [spk] spieva
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 349.780 356.093 <o,f0,unknown> [spk] ale** malý sa kúpe [ex] malý lavór dali
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 356.093 360.320 <o,f0,unknown> tu sa meria okno [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 360.320 366.180 <o,f0,unknown> pije [ruch-] di [-ruch] dievčatko/dievčasko vodu
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 366.180 371.140 <o,f0,unknown> [ruch] [ruch] [ruch-] klopká [-ruch] na dvere
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 371.140 379.992 <o,f0,unknown> [ruch] [spk] cez ako/jak sa to volá %phu už som vyšla z tych [smiech-] rokov [-smiech] [ned-] on [-ned]
+lpvv7ndk01 1 excluded_region 379.992 381.398 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 381.398 383.333 <o,f0,unknown> skáče cez/čes
+lpvv7ndk01 1 excluded_region 383.333 385.285 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 385.285 385.960 <o,f0,unknown> ako
+lpvv7ndk01 1 excluded_region 385.960 398.249 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 398.249 404.200 <o,f0,unknown> [ruch] pán lyžuje alebo/aebo sa pokúša lyžovať
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 404.200 409.020 <o,f0,unknown> [spk] fotí pán [ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 409.020 413.100 <o,f0,unknown> [spk] [ruch] [ruch-] bicykluje [-ruch] pán
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 413.100 418.852 <o,f0,unknown> [hez] [ruch-] chcela [-ruch] som povedať baba* [ruch-] žehlí [-ruch]
+lpvv7ndk01 1 excluded_region 418.852 419.256 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 419.256 421.180 <o,f0,unknown> [smiech]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 421.180 426.224 <o,f0,unknown> [ruch] [spk] no tak sú tu dve ručičky.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 426.224 431.377 <o,f0,unknown> [ruch-] odtiaľto [-ruch] [ruch] [ruch] [ruch] [ruch] [ruch] dlane teda [hez] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 431.377 447.010 <o,f0,unknown> dospelá dlaň [ruch-] a [-ruch] decká dlaň drží [ruch] takto [ruch-] za [-ruch] malíček [ruch] maminku alebo tatinka [ruch] .
+lpvv7ndk01 1 excluded_region 447.010 451.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 451.140 467.966 <o,f0,unknown> no/n toto je záber z reštaurácie alebo [ruch] [ruch] [ruch] [ruch-] to je z [ruch-] terasy [-ruch] lebo tiene [-ruch] od [ruch-] nožičiek [-ruch] sú tu [spk] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 467.966 470.868 <o,f0,unknown> [ruch-] slnko [-ruch] [ruch-] svieti [-ruch] odtiaľ.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 470.868 481.100 <o,f0,unknown> [spk] no stolík [ruch] [ruch] [ruch] po káve tanierik/vtanierik a [ruch-] šálka [-ruch] dva krát [ruch] [ruch-] po [-ruch] dve [ned-] stoli [-ned] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 481.100 487.613 <o,f0,unknown> to je záber z kuchyne.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 487.613 495.931 <o,f0,unknown> to je/j zrejme ocinko [spk] ale čo [ruch-] tam [-ruch] robia [ruch] [ruch] [ruch] [ruch] [ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 495.931 499.993 <o,f0,unknown> hrajú sa s jedlom [ruch] [ruch] [ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 499.993 503.129 <o,f0,unknown> [ruch] [ruch] toto je čo?
+lpvv7ndk01 1 excluded_region 503.129 507.972 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 507.972 513.325 <o,f0,unknown> [ruch] ((jaj)) on má [ruch-] varešku [-ruch] v rukách. [ruch] niečo mu kypí z hrnca.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 513.325 519.997 <o,f0,unknown> malý [ruch-] ide [-ruch] spadnúť [ruch] lebo sa [ruch-] nahýba [-ruch] nad [ned-] ban [-ned] [hez] za banánom.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 519.997 529.236 <o,f0,unknown> [ruch] [ruch] tu tečie/teče voda:. mačka [ruch] [ruch] sa kuká na [ruch-] mňa [-ruch] [ruch] a už niečo sa rozbilo.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 529.236 532.630 <o,f0,unknown> [ruch] %eh [ruch-] to je z toho [-ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 532.630 534.705 <o,f0,unknown> a toto je čo? to žlté.
+lpvv7ndk01 1 excluded_region 534.705 544.983 <o,,unknown> ignore_time_segment_in_scoring
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 544.983 547.970 <o,f0,unknown> jaj to je [ruch-] luster [-ruch] [ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 547.970 556.024 <o,f0,unknown> teraz [ruch-] vidím [-ruch] [ruch] [ruch] [ruch] že vysí [ruch] [ruch] . on buchol do lustra a tú sú [ruch-] črepy [-ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 556.024 558.275 <o,f0,unknown> [ruch] tu je pustená [ruch-] voda. [-ruch]
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 558.275 561.089 <o,f0,unknown> [ruch] [ruch] malý padne.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 561.089 563.920 <o,f0,unknown> [ruch] [ruch] to bude úraz.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 563.920 567.428 <o,f0,unknown> [ruch] malé [ruch-] díte* [-ruch] [spk] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 567.428 571.040 <o,f0,unknown> tato sa hrá [ruch] [ruch-] ne [-ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 571.040 577.335 <o,f0,unknown> [spk] a: vianoce [ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 577.335 582.804 <o,f0,unknown> no [spk] to je z obývačky.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 582.804 597.280 <o,f0,unknown> stojí vianočný stromček ktorý sa [ruch] rúti [ruch] lebo/bolo deti sa mu [ruch-] venujú. [-ruch] šklbú [ruch-] za [-ruch] tie šnúry a strhli [ned-] s: [-ned] [ruch] %c.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 597.280 599.830 <o,f0,unknown> jedno dieťa [ex] [ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 599.830 606.583 <o,f0,unknown> psík. mama [ruch] [ruch] [ruch] s niekým klebetí.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 606.583 615.895 <o,f0,unknown> [ex] nestráži [ruch-] si [-ruch] dieťa [ruch] a tato prišiel a šmykol sa na [ruch-] autíčku [-ruch] .
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 615.895 619.905 <o,f0,unknown> [spk] už padá na zadok.
+lpvv7ndk01 1 lpvv7ndk01_lpvv7ndk01 619.905 624.776 <o,f0,unknown> [spk] [ruch] a havinko [ruch-] spinká [-ruch] .

@@ -1,0 +1,145 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:41 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210621
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 0.000 14.940 <o,f0,unknown> special_vokal
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 14.940 22.880 <o,f0,unknown> special_pataka
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 22.880 26.440 <o,f0,unknown> diaľnica [hez] [ruch] [ruch]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 26.440 29.380 <o,f0,unknown> kráľ
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 29.380 32.340 <o,f0,unknown> knižka
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 32.340 35.360 <o,f0,unknown> most
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 35.360 38.400 <o,f0,unknown> topánky
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 38.400 41.920 <o,f0,unknown> [hez] autobus
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 41.920 44.940 <o,f0,unknown> hodinky
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 44.940 48.260 <o,f0,unknown> cigarety
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 48.260 51.420 <o,f0,unknown> [hez] koruna
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 51.420 54.560 <o,f0,unknown> bubon
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 54.560 58.880 <o,f0,unknown> [hez] hodinky
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 58.880 61.960 <o,f0,unknown> [hez] koleso
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 61.960 65.080 <o,f0,unknown> traktor
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 65.080 68.300 <o,f0,unknown> [spk] teplomer
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 68.300 71.180 <o,f0,unknown> lavička
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 71.180 74.460 <o,f0,unknown> [hez] fajka
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 74.460 77.560 <o,f0,unknown> [hez] električka
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 77.560 80.660 <o,f0,unknown> zips
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 80.660 84.240 <o,f0,unknown> [spk] akvárko*
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 84.240 87.020 <o,f0,unknown> metla
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 87.020 90.940 <o,f0,unknown> [hez] ťava [ex]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 90.940 95.000 <o,f0,unknown> [hez] toto je lievik
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 95.000 97.880 <o,f0,unknown> huby
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 97.880 100.920 <o,f0,unknown> [hez] vešiak
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 100.920 106.940 <o,f0,unknown> [hez] [hez] bože [smiech] domino
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 106.940 110.020 <o,f0,unknown> a kotva
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 110.020 113.380 <o,f0,unknown> [hez] žaluď/zaluď
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 113.380 116.940 <o,f0,unknown> [hez] ponorka
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 116.940 120.140 <o,f0,unknown> [spk] kozmonaut
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 120.140 123.820 <o,f0,unknown> [hez] kaktus
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 123.820 126.295 <o,f0,unknown> [hez] píše tak [ruch]
+kixjv8xl01 1 excluded_region 126.295 127.340 <o,,unknown> ignore_time_segment_in_scoring
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 127.340 131.960 <o,f0,unknown> [hez] chleba natiera [smiech]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 131.960 135.400 <o,f0,unknown> spieva
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 135.400 138.740 <o,f0,unknown> smeje sa
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 138.740 142.200 <o,f0,unknown> preťahujem lanom
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 142.200 145.620 <o,f0,unknown> kúpeme sa
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 145.620 149.000 <o,f0,unknown> vážime
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 149.000 154.100 <o,f0,unknown> svetlo svietime [smiech]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 154.100 157.180 <o,f0,unknown> meriame [ruch]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 157.180 160.280 <o,f0,unknown> plačeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 160.280 163.380 <o,f0,unknown> horíme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 163.380 166.420 <o,f0,unknown> pijeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 166.420 169.500 <o,f0,unknown> varíme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 169.500 173.140 <o,f0,unknown> [hez] hádžeme oštepom
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 173.140 176.380 <o,f0,unknown> klopeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 176.380 179.640 <o,f0,unknown> telefonujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 179.640 183.440 <o,f0,unknown> kreslíme maľujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 183.440 189.600 <o,f0,unknown> [hez] cvičíme %hm skáčeme cez švihadlo [ex]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 189.600 192.820 <o,f0,unknown> šijeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 192.820 195.960 <o,f0,unknown> [hez] vŕtame
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 195.960 199.020 <o,f0,unknown> lyžujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 199.020 202.300 <o,f0,unknown> krájame
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 202.300 207.280 <o,f0,unknown> [hez] čo to je no hrabeme lístie [smiech]
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 207.280 210.980 <o,f0,unknown> ((ne)) fotografujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 210.980 214.680 <o,f0,unknown> [hez] polievame kvietok
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 214.680 218.200 <o,f0,unknown> [hez] pílime
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 218.200 221.680 <o,f0,unknown> [hez] bicyklujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 221.680 224.780 <o,f0,unknown> štrikujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 224.780 228.060 <o,f0,unknown> [hez] veslujeme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 228.060 231.200 <o,f0,unknown> žehlíme
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 231.200 238.176 <o,f0,unknown> [hez] takže ruka: prsty dlaň [hez] vrásky [hez] nechty.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 238.176 241.096 <o,f0,unknown> [hez] je to ako kresba robená.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 241.096 242.749 <o,f0,unknown> [hez] čierno-biele.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 242.749 246.248 <o,f0,unknown> [hez] [spk] zápästie.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 246.248 249.026 <o,f0,unknown> všetkých päť prstov tam vidím. ďalších päť prstov.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 249.026 261.120 <o,f0,unknown> detská ruka: dospelá ruka: [hez] čo ja viem čo tam ešte môže byť také [hez] ((no)) neviem čo ešte.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 261.120 263.753 <o,f0,unknown> ok/okej takže kávička:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 263.753 269.554 <o,f0,unknown> [hez] [ned-] s [-ned] [ruch-] je [-ruch] teplá. dymí sa z nej. máme tam lyžičku: takže možno že tam už je/jej v nej cukor alebo mliečko:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 269.554 277.062 <o,f0,unknown> vidíme tam stolík stoličky:. nikto tam není*. takže buď si odišli na vecko* alebo išli na nejakú/nejak [hez] fajčiarsku pauzičku:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 277.062 285.503 <o,f0,unknown> [hez] budú to: možno partneri alebo nejakí manželia alebo možno. môže to byť aj káva môže to byť aj čaj.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 285.503 288.827 <o,f0,unknown> [hez] je to čierno-biele. je to kreslené.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 288.827 291.040 <o,f0,unknown> stolička je v tvare srdca. ta má.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 291.040 294.670 <o,f0,unknown> ježiš/je:žis takže bordel.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 294.670 301.412 <o,f0,unknown> [spk] takže je tam muž v domácnosti ktorý je očividne bez [ruch-] manželky [-ruch] a má na starosti dieťa: s mačkou.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 301.412 303.768 <o,f0,unknown> [hez] behá mu [ruch-] tam [-ruch] mucha:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 303.768 306.670 <o,f0,unknown> teda mu tam je na: lustri ktorú sa snaží zabiť.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 306.670 309.431 <o,f0,unknown> medzitým niečo varí čo mu vykypilo*.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 309.431 316.462 <o,f0,unknown> [spk] [hez] z toho sa parí. zhora: z poličky mu: sa leje niečo. môže to byť možno víno možno nejaký kečup.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 316.462 323.626 <o,f0,unknown> [spk] [hez] súbežne dieťa umýva riad pričom [hez] toho tej vody je tam veľa. takže už vyteká vonka.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 323.626 327.565 <o,f0,unknown> snaží sa zobrať banán aj možno jablko z taniera.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 327.565 330.467 <o,f0,unknown> pritom zo stoličky vyzerá že skoro spadne.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 330.467 335.609 <o,f0,unknown> [spk] do toho má z toho veľkú zábavu kocúr ktorý kuká do objektívu.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 335.609 337.867 <o,f0,unknown> [spk] má zelené oči.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 337.867 347.107 <o,f0,unknown> je to celé/cele farebné. otec má na sebe: nejaké gate nejaké topánky [hez] zásteru modrú žlté tričko:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 347.107 352.692 <o,f0,unknown> chlapec má. tomu je teplejšie takže má šortky modré tričko a: červené ponožky.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 352.692 354.938 <o,f0,unknown> dieťa by mohlo mať aj papuče. no nemá.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 354.938 359.385 <o,f0,unknown> vidíme tam aj utierku ružovú ktorá je vyzerá že suchá.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 359.385 363.511 <o,f0,unknown> [spk] [hez] máme tam teda tú/tu osu spomínanú.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 363.511 365.413 <o,f0,unknown> [hez] luster je oranžový.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 365.413 370.294 <o,f0,unknown> [hez] otec doňho asi trepol lebo z neho spadla spadlo už niečo takže je zlomený.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 370.294 372.405 <o,f0,unknown> takže manželka sa nepoteší.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 372.405 380.980 <o,f0,unknown> [hez] celá kuchyňa je v zelenom tóne [hez] a steny sú biele ((%uhm na)) [hez] a majú asi [ned-] podla [-ned] .
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 380.980 389.131 <o,f0,unknown> %u: takže to je mamička v domácnosti sama ktorá očividne nestíha/nestíba. dieťa vyzerá byť také menšie: asi ešte: bude sa plienkovať.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 389.131 392.666 <o,f0,unknown> má na sebe tričko: s: [hez] [spk] hviezdou.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 392.666 394.917 <o,f0,unknown> takže je možno [ruch-] obdivovateľ [-ruch] avengerovs*.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 394.917 402.798 <o,f0,unknown> [hez] [ruch-] plače [-ruch] jej/je. má ho v objatí. do toho drží panvicu kde robí volské oko: [spk] so slaninkou.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 402.798 412.826 <o,f0,unknown> takže to bude niečo asi čerstvé/čerstve. takže bude to/toch pripravovať možno že: a: nie je to obed lebo vidíme na hodinkách že je dvanásť hodín [ruch] dvadsať takže sa snaží uvariť obed.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 412.826 419.512 <o,f0,unknown> do toho má počítač otvorený. takže buď/bud ráta/rata [hez] chce vedieť recept alebo: možno že robí z domu.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 419.512 421.208 <o,f0,unknown> vidíme tam aj mlieko:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 421.208 429.133 <o,f0,unknown> do toho [ned-] kra [-ned] [hez] má obidve ruky: v podstate zaneprázdnené ale vidíme tam že krájala predtým paradajku: a: nejaké zemiaky.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 429.133 433.445 <o,f0,unknown> [spk] je tam nožík. takže to keby [ruch-] chytilo [-ruch] dieťa tak je to dosť nebezpečné.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 433.445 438.597 <o,f0,unknown> takisto varí ešte niečo v hrnci:. nejakú vodu teplú. možno že ten zemiak/zemák tam potom hodí.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 438.597 443.390 <o,f0,unknown> vidíme tam súbežne poličku:. kde má nejaké/nejake tri knižky tri kvetináče.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 443.390 449.205 <o,f0,unknown> [hez] pritom táto žena ako nestíha tak rozmýšľa nad tým že či si kúpi červené topánky alebo nie:.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 449.205 452.845 <o,f0,unknown> možno preto tam má ten notebook/notebu:k. možno že: kupovala niečo.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 452.845 462.212 <o,f0,unknown> medzičasom má/ma má na poličke ešte mačičku [ned-] k [-ned] . vedľa nej je vínko alebo olivový olej a asi med a bol tam aj kvetináč.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 462.212 466.954 <o,f0,unknown> teda/tda nie kvetináč ale váza s kvetmi ktorá bohužiaľ spadla lebo do nej placla labkou.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 466.954 470.960 <o,f0,unknown> takže je to dosť ťažký deň a to sme len na: poludnie máme.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 470.960 474.524 <o,f0,unknown> [ruch] %u: takže máme tu vianoce.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 474.524 483.966 <o,f0,unknown> [spk] [hez] bude to zhon. otecko práve pichádza domov. otvára dvere a hneď sa šmykne na: jednom autíčku žlto:m a druhom červenom autíčku.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 483.966 486.954 <o,f0,unknown> vyzerá že asi spadne ale: nevieme.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 486.954 495.601 <o,f0,unknown> [hez] vonka sneží. súbežne tam ešte je aj nejaké dieťa: ktoré kuká spoza: [hez] okna že či ide teda dovnútra alebo nejde dovnútra.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 495.601 501.433 <o,f0,unknown> otecko aj s dieťaťom [hez] sú celkom slušne oblečení. obidve majú čiapky nejaký kabát šál.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 501.433 505.460 <o,f0,unknown> otec má ešte aj gate [ned-] hne [-ned] čierne a: pulóvrik.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 505.460 506.979 <o,f0,unknown> niečo nesie asi darčeky.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 506.979 509.248 <o,f0,unknown> ((žeby))ešte dodatočne boli možno na nákupe.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 509.248 514.165 <o,f0,unknown> majú aj psíka ktorý sa tvári že teda o ničom nevie a spí si ako keby nespal celú noc.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 514.165 518.157 <o,f0,unknown> [hez] vidíme tam koberec [hez] fialový/fialovy a zelený/zeleny.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 518.157 525.809 <o,f0,unknown> stromček je za dverami: ktorý ozdobuje alebo sa snažia ozdobovať ďalšie dieťa ktoré je teda dosť naľahko oblečené a má iba šortky a tričko.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 525.809 530.592 <o,f0,unknown> [hez] tričko je modré a šortky sú: žlté s modrými bodkami.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 530.592 536.085 <o,f0,unknown> do toho mama sa tiež tvári že teda: neočakáva žiadnu navštevu ani teda manžela naspäť. telefonuje.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 536.085 549.123 <o,f0,unknown> [hez] je slušne oblečená už pripravená na večeru. má modré gate [spk] nejaký pulóvrik zelený a nejakú/nejaku blúzku:. %f [hez] bože čo to je. ružová s modro s bielymi: [hez] gombíkmi.
+kixjv8xl01 1 kixjv8xl01_kixjv8xl01 549.123 558.563 <o,f0,unknown> je tiež už naružovaná. má výrazný červený rúž také/take dlhšie vlasy hnedé a modré oči a červené topánočky. možno by aj lodičky už mohla si dať.

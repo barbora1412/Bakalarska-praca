@@ -1,0 +1,108 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:31 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 210201
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+32lvaz8y 1 excluded_region 0.000 28.080 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 28.080 47.060 <o,f0,female> vokal
+32lvaz8y 1 32lvaz8y_32lvaz8y 47.060 55.198 <o,f0,female> pataka
+32lvaz8y 1 32lvaz8y_32lvaz8y 55.198 57.072 <o,f0,female> %@ cesta
+32lvaz8y 1 32lvaz8y_32lvaz8y 57.072 59.023 <o,f0,female> [i] most
+32lvaz8y 1 32lvaz8y_32lvaz8y 59.023 60.800 <o,f0,female> hodinky
+32lvaz8y 1 32lvaz8y_32lvaz8y 60.800 62.765 <o,f0,female> [i] bubon
+32lvaz8y 1 32lvaz8y_32lvaz8y 62.765 64.394 <o,f0,female> [i] [ned-] trakto [-ned]
+32lvaz8y 1 32lvaz8y_32lvaz8y 64.394 66.080 <o,f0,female> [i] fajka
+32lvaz8y 1 32lvaz8y_32lvaz8y 66.080 69.550 <o,f0,female> %@: akvárium
+32lvaz8y 1 32lvaz8y_32lvaz8y 69.550 72.954 <o,f0,female> [i] no toto je: š:*
+32lvaz8y 1 32lvaz8y_32lvaz8y 72.954 75.954 <o,f0,female> ((Ježiš ja fajn neviem si [ned-] spomína [-ned] je))
+32lvaz8y 1 32lvaz8y_32lvaz8y 75.954 81.788 <o,f0,female> sitko? nie sitko, ale také %@ no %@: neviem nemám [i] teraz momentálne ma to [ned-] n [-ned]
+32lvaz8y 1 excluded_region 81.788 82.531 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 82.531 83.257 <o,f0,female> lievik.
+32lvaz8y 1 32lvaz8y_32lvaz8y 83.257 88.157 <o,f0,female> [i] no a toto [spk] sú hracie kocky
+32lvaz8y 1 excluded_region 88.157 88.936 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 88.936 91.027 <o,f0,female> [spk-] loď [-spk]
+32lvaz8y 1 32lvaz8y_32lvaz8y 91.027 91.859 <o,f0,female> more
+32lvaz8y 1 inter_segment_gap 91.859 94.158 <o,f0,> 
+32lvaz8y 1 32lvaz8y_32lvaz8y 94.158 96.026 <o,f0,female> %@ píše
+32lvaz8y 1 32lvaz8y_32lvaz8y 96.026 98.578 <o,f0,female> [i] smeje sa
+32lvaz8y 1 inter_segment_gap 98.578 99.944 <o,f0,> 
+32lvaz8y 1 32lvaz8y_32lvaz8y 99.944 101.480 <o,f0,female> váži
+32lvaz8y 1 32lvaz8y_32lvaz8y 101.480 103.500 <o,f0,female> [i] plače
+32lvaz8y 1 32lvaz8y_32lvaz8y 103.500 105.571 <o,f0,female> [i] varí
+32lvaz8y 1 32lvaz8y_32lvaz8y 105.571 107.888 <o,f0,female> [i] telefonuje
+32lvaz8y 1 32lvaz8y_32lvaz8y 107.888 110.700 <o,f0,female> [i] %@: [spk-] šije [-spk]
+32lvaz8y 1 32lvaz8y_32lvaz8y 110.700 112.580 <o,f0,female> reže
+32lvaz8y 1 32lvaz8y_32lvaz8y 112.580 115.223 <o,f0,female> [i] %@ zalieva
+32lvaz8y 1 32lvaz8y_32lvaz8y 115.223 117.059 <o,f0,female> štrikuje
+32lvaz8y 1 32lvaz8y_32lvaz8y 117.059 120.780 <o,f0,female> [i] %@ %@ panovník [spk]
+32lvaz8y 1 32lvaz8y_32lvaz8y 120.780 123.500 <o,f0,female> [i] topánky [mic]
+32lvaz8y 1 32lvaz8y_32lvaz8y 123.500 126.080 <o,f0,female> [ruch-] [i] cigarety [-ruch]
+32lvaz8y 1 32lvaz8y_32lvaz8y 126.080 128.280 <o,f0,female> [ruch] hodiny
+32lvaz8y 1 32lvaz8y_32lvaz8y 128.280 130.375 <o,f0,female> [i] teplomer
+32lvaz8y 1 32lvaz8y_32lvaz8y 130.375 132.200 <o,f0,female> [ned-] električk@ [-ned]
+32lvaz8y 1 32lvaz8y_32lvaz8y 132.200 134.073 <o,f0,female> [i] metla
+32lvaz8y 1 32lvaz8y_32lvaz8y 134.073 136.091 <o,f0,female> [i] hríby
+32lvaz8y 1 32lvaz8y_32lvaz8y 136.091 138.269 <o,f0,female> [i] kotva
+32lvaz8y 1 32lvaz8y_32lvaz8y 138.269 140.799 <o,f0,female> kozmonaut
+32lvaz8y 1 32lvaz8y_32lvaz8y 140.799 143.863 <o,f0,female> [reč] [i] natiera sa [ned-] chlie [-ned]
+32lvaz8y 1 32lvaz8y_32lvaz8y 143.863 146.117 <o,f0,female> ťahala som
+32lvaz8y 1 32lvaz8y_32lvaz8y 146.117 148.828 <o,f0,female> [i] lampa svieti
+32lvaz8y 1 32lvaz8y_32lvaz8y 148.828 151.708 <o,f0,female> [i] %@ horí dom [spk]
+32lvaz8y 1 32lvaz8y_32lvaz8y 151.708 155.081 <o,f0,female> %@ športuje
+32lvaz8y 1 32lvaz8y_32lvaz8y 155.081 157.483 <o,f0,female> ((maľuje))
+32lvaz8y 1 32lvaz8y_32lvaz8y 157.483 159.992 <o,f0,female> [i] vŕta
+32lvaz8y 1 32lvaz8y_32lvaz8y 159.992 162.242 <o,f0,female> [spk] zametá
+32lvaz8y 1 32lvaz8y_32lvaz8y 162.242 165.039 <o,f0,female> [i] píli
+32lvaz8y 1 32lvaz8y_32lvaz8y 165.039 167.455 <o,f0,female> vesluje
+32lvaz8y 1 32lvaz8y_32lvaz8y 167.455 169.534 <o,f0,female> [i] kniha
+32lvaz8y 1 32lvaz8y_32lvaz8y 169.534 171.541 <o,f0,female> %@ autobus
+32lvaz8y 1 32lvaz8y_32lvaz8y 171.541 174.360 <o,f0,female> [i] %@ koruna
+32lvaz8y 1 32lvaz8y_32lvaz8y 174.360 176.473 <o,f0,female> [spk] koleso
+32lvaz8y 1 32lvaz8y_32lvaz8y 176.473 178.350 <o,f0,female> [i] lavička
+32lvaz8y 1 32lvaz8y_32lvaz8y 178.350 180.368 <o,f0,female> [i] zips
+32lvaz8y 1 32lvaz8y_32lvaz8y 180.368 182.065 <o,f0,female> [i] ťava
+32lvaz8y 1 32lvaz8y_32lvaz8y 182.065 184.960 <o,f0,female> [i] [ruch-] %@ vešiak [-ruch]
+32lvaz8y 1 32lvaz8y_32lvaz8y 184.960 187.518 <o,f0,female> %@: nejaké ovocie
+32lvaz8y 1 32lvaz8y_32lvaz8y 187.518 188.845 <o,f0,female> [spk] [ned-] hr [-ned]
+32lvaz8y 1 32lvaz8y_32lvaz8y 188.845 191.225 <o,f0,female> %@ [i] toto je kaktus?
+32lvaz8y 1 excluded_region 191.225 192.691 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 192.691 195.138 <o,f0,female> [i] spieva
+32lvaz8y 1 32lvaz8y_32lvaz8y 195.138 197.298 <o,f0,female> [i] kúpe
+32lvaz8y 1 32lvaz8y_32lvaz8y 197.298 199.851 <o,f0,female> [i] meria
+32lvaz8y 1 32lvaz8y_32lvaz8y 199.851 202.402 <o,f0,female> [i] pije vodu
+32lvaz8y 1 32lvaz8y_32lvaz8y 202.402 204.853 <o,f0,female> [i] klope
+32lvaz8y 1 32lvaz8y_32lvaz8y 204.853 208.673 <o,f0,female> [i] ((slovom)) no skáče cez švihadlo
+32lvaz8y 1 32lvaz8y_32lvaz8y 208.673 211.185 <o,f0,female> [i] lyžuje
+32lvaz8y 1 32lvaz8y_32lvaz8y 211.185 214.094 <o,f0,female> [i] %@ fotí
+32lvaz8y 1 32lvaz8y_32lvaz8y 214.094 216.556 <o,f0,female> [i] bicykluje
+32lvaz8y 1 32lvaz8y_32lvaz8y 216.556 226.359 <o,f0,female> %@: to neviem tu meria niečo ((alebo)) [spk] [i] no to [spk] neviem meria?
+32lvaz8y 1 excluded_region 226.359 227.202 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 227.202 235.180 <o,f0,female> [i] no [spk-] čo [-spk] . muž čo rozbíja lampu alebo v akom to myslíte?
+32lvaz8y 1 excluded_region 235.180 237.177 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 237.177 256.986 <o,f0,female> %ja:j ((áno)) rozbíja lampu. dieťa sa hrá na [i] %@ so [ned-] stoj [-ned] no na stoličke a so zeleninou. [i] no a [spk] varí sa tam niečo. [spk] voda tečie, [i] no aj vyteká voda. [spk] no už ((to)) neviem.
+32lvaz8y 1 excluded_region 256.986 265.199 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 265.199 268.668 <o,f0,female> no čo [spk-] ešte [-spk] ? neviem.
+32lvaz8y 1 inter_segment_gap 268.668 270.990 <o,f0,> 
+32lvaz8y 1 32lvaz8y_32lvaz8y 270.990 272.246 <o,f0,female> neviem už [reč-] čo [-reč] .
+32lvaz8y 1 excluded_region 272.246 273.625 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 273.625 291.078 <o,f0,female> [spk] [i] tak žena %@ varí, stará sa o dieťa. [i] no %@ [spk] má tam hodinky, hej [i] no a zároveň ((tieto)) topánky to myslí na topánky?
+32lvaz8y 1 excluded_region 291.078 291.974 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 291.974 332.550 <o,f0,female> no [i] je tam zvieratko áno a [i] tak [i] neviem no ona všelijak varí aj ručne aj na na sporáku/šporáku aj tuším pozerá počítač. áno [i] no: tuto niečo padá. no [i] neviem. [spk] knihy sú tam. [spk] no [i] už už neviem čo čo by tam ešte [spk] možno nejak býva hore [spk] zodratá žena, [i] malý plače. [i] no už som ((ešte)) neviem [ned-] vo [-ned]
+32lvaz8y 1 32lvaz8y_32lvaz8y 332.550 351.465 <o,f0,female> [spk] [i] no [spk-] tak [-spk] no tu sú vianoce, vianočný stromček. [i] muž prichádza domov, otvorím dvere. [spk] žena telefonuje [i] neviem to ju kope alebo to čo sa mi to iba zdá ((reku)).
+32lvaz8y 1 excluded_region 351.465 352.358 <o,,unknown> ignore_time_segment_in_scoring
+32lvaz8y 1 32lvaz8y_32lvaz8y 352.358 391.583 <o,f0,female> či iba tak ide [i] %jaj ide on na tom %@ autíčku. [spk] tak ako keby padal, [i] hej. dieťa sa hrá okolo stromčeka, tam behá. [i] no a nuž %@ žena len stojí a telefonuje. vonku sneží. [i] sú otvorené dvere, no odkryté [spk-] okno [-spk] . [i] stromček akoby padal alebo [ned-] s: [-ned] neviem sa mi tak zdá. [reč] je taký naklonený. [reč] [i] no [spk] nuž [ned-] č [-ned] neviem.
+32lvaz8y 1 excluded_region 391.583 393.257 <o,,unknown> ignore_time_segment_in_scoring

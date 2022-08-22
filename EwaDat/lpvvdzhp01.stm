@@ -1,0 +1,97 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:49 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 210918
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 0.000 14.960 <o,f0,unknown> special_vokal
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 14.960 22.880 <o,f0,unknown> special_pataka
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 22.880 25.480 <o,f0,unknown> [spk] cesta
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 25.480 27.560 <o,f0,unknown> kráľ
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 27.560 29.820 <o,f0,unknown> kniha
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 29.820 31.940 <o,f0,unknown> most
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 31.940 33.980 <o,f0,unknown> topánky [ex]
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 33.980 36.340 <o,f0,unknown> autobus
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 36.340 38.440 <o,f0,unknown> hodinky
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 38.440 40.960 <o,f0,unknown> cigarety
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 40.960 43.240 <o,f0,unknown> koruna
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 43.240 45.520 <o,f0,unknown> bubon
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 45.520 48.000 <o,f0,unknown> budík
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 48.000 50.440 <o,f0,unknown> koleso
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 50.440 52.900 <o,f0,unknown> traktor
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 52.900 55.580 <o,f0,unknown> teplomer
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 55.580 58.380 <o,f0,unknown> lavička
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 58.380 60.940 <o,f0,unknown> fajka
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 60.940 63.900 <o,f0,unknown> električka
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 63.900 66.620 <o,f0,unknown> zips
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 66.620 69.340 <o,f0,unknown> akvárium
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 69.340 71.460 <o,f0,unknown> metla
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 71.460 73.540 <o,f0,unknown> ťava
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 73.540 75.900 <o,f0,unknown> lievik
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 75.900 78.500 <o,f0,unknown> hríby
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 78.500 80.740 <o,f0,unknown> vešiak
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 80.740 83.220 <o,f0,unknown> domino
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 83.220 85.320 <o,f0,unknown> kotva
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 85.320 87.600 <o,f0,unknown> žaluď
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 87.600 90.160 <o,f0,unknown> ponorka
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 90.160 93.000 <o,f0,unknown> [hez] kozmonaut
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 93.000 95.300 <o,f0,unknown> kaktus
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 95.300 97.580 <o,f0,unknown> písanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 97.580 100.060 <o,f0,unknown> natieranie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 100.060 102.380 <o,f0,unknown> spievanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 102.380 105.880 <o,f0,unknown> smie smiatie [spk]
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 105.880 108.240 <o,f0,unknown> [hez] ťahanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 108.240 110.720 <o,f0,unknown> kúpanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 110.720 113.240 <o,f0,unknown> váženie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 113.240 115.800 <o,f0,unknown> svietenie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 115.800 118.040 <o,f0,unknown> meranie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 118.040 120.420 <o,f0,unknown> plakanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 120.420 123.020 <o,f0,unknown> horenie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 123.020 125.200 <o,f0,unknown> pitie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 125.200 127.380 <o,f0,unknown> varenie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 127.380 130.300 <o,f0,unknown> hádzanie oštepom na jednom [smiech-] hádzanie [-smiech]
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 130.300 133.020 <o,f0,unknown> [spk] [hez] klopanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 133.020 135.520 <o,f0,unknown> telefonovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 135.520 137.840 <o,f0,unknown> maľovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 137.840 140.280 <o,f0,unknown> skákanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 140.280 142.580 <o,f0,unknown> šitie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 142.580 144.920 <o,f0,unknown> vŕtanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 144.920 147.500 <o,f0,unknown> lyžovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 147.500 149.920 <o,f0,unknown> krájanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 149.920 152.140 <o,f0,unknown> hrabanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 152.140 155.220 <o,f0,unknown> fotografovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 155.220 157.740 <o,f0,unknown> polievanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 157.740 160.140 <o,f0,unknown> rezanie pílenie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 160.140 162.740 <o,f0,unknown> bicyklovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 162.740 165.440 <o,f0,unknown> štrikovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 165.440 169.300 <o,f0,unknown> [hez] [hez] veslovanie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 169.300 172.060 <o,f0,unknown> žehlenie
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 172.060 198.627 <o,f0,unknown> [ruch] [hez] dieťa drží za malíček dospelého. drží sa ho pevne. [hez] dospelý má malíček mierne oddelený od ostatných štyroch prstov [hez] má tam nejaké čiary podľa ktorých sa veští budúcnosť. [spk] [hez] malé dieťa je bacuľaté drží sa tromi prstami. ukazovák má vo vzduchu a palec má vzpriamený.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 198.627 202.000 <o,f0,unknown> dospelý má tiež palec o nič
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 202.000 215.068 <o,f0,unknown> [ruch] je tu stolík akokeby v kaviarni. na stolíku sú dve šálky na tanierikoch s lyžičkami vnútri z obidvoch sa parí môže tam byť čaj alebo káva vyzerá to skôr na kávu.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 215.068 232.487 <o,f0,unknown> [hez] sú tu tiež dve stoličky ktoré [hez] nevyzerajú veľmi pohodlne ale sú tak filigránsky vyzdobené že majú kovové operadlá so zahnutým zahnutou ozdobou. vyzerá že teda sú kovové možno polstrované.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 232.487 251.846 <o,f0,unknown> v [ex-] kuchyni je [-ex] veľký neporiadok. muž sa snaží variť kypí mu z hrnca polievka. dieťa vyliezlo na stoličku ktorú si ale nedalo dostatočne blízko ku kuchynskému pultu z ktorého si berie banán čiže stolička sa nahýba* vyzerá že spadne.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 251.846 288.377 <o,f0,unknown> z dresu tečie voda a je tam pena preteká von pretože nezavreli kohútik. muž sa snaží zabiť včelu ktorá sedí na lampe pritom ju rozbil. je otvorená polica na stene respektíve skrinka kde je spadnutá fľaša z ktorej vyteká tekutina. [hez] z rohu sa pozerá mačka so zelenými [hez] očami [hez] a pri dreze/drese ešte teda visí ružová utierka. muž má na sebe modrú zásteru a papuče.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 288.377 300.210 <o,f0,unknown> druhá skrinka ktorá visí na stene je zatvorená. spodné skrinky sú obidve zatvorené. na zemi ležia oranžové črepy z lampy.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 300.210 307.443 <o,f0,unknown> muchu sa mužovi nepodarilo zatiaľ zabiť. a snaží sa ju teda zabiť varechou.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 307.443 321.900 <o,f0,unknown> [hez] mačka teda sa pozerá udivene neverí tomu čo sa v kuchyni deje. zjavne tam chýba mama ktorá by ich všetkých usmernila čo majú robiť. muž by mal siahnuť [hez]
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 321.900 349.447 <o,f0,unknown> mama je v kuchyni. [ex] [hez] snaží sa telefonovať má telefón prichytený medzi plecom a uchom. je vystresovaná v jednej ruke drží plačúce malé dieťa v druhej ruke má panvicu kde robí volské oká na slanine alebo teda so slaninou. slanina lieta vo vzduchu.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 349.447 369.262 <o,f0,unknown> [hez] ďalej má na sporáku ešte hrniec s nejakým ďalším jedlom. popritom sa snažila krájať zeleninu. má tam paradajku zemiaky [hez] a nôž je tam prichystaný plus teda ešte na stole mlieko krabica mlieka. má tam ešte aj otvorený počítač.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 369.262 401.304 <o,f0,unknown> zrejme sa snažila pracovať. je za [ex] nejakých dvanásť minút pol jednej takže nestíha rozmýšľať nad tým aké topánky by si mala obuť alebo aké by chcela. na polici za ženou je mačka ktorá práve zhodila vázu s kvetmi/kvetami a tie padajú na počítač. plus je tam fľaša vína a medu. možno je to ocot na druhej polici sú tri kvetináče možno s pažítkou a tri knihy.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 401.304 412.681 <o,f0,unknown> [hez] na zástere ktorú má žena oblečenú je fľak. má na sebe ešte červené tričko [ex] a:
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 412.681 428.586 <o,f0,unknown> je čas Vianoc. otec sa vracia z nákupu domov vchádza otvorenými dverami ale hneď pri vchode sa pošmykne na žltom autíčku ktorý tam nechal jeho syn. vonku sneží.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 428.586 456.888 <o,f0,unknown> [hez] v izbe je fialový koberec a vianočný stromček. [hez] za [spk] [hez] svia za svetielkujúcu reťaz práve potiahlo ich dieťa a stromček padá na stromčeku sú vianočné gule ktoré sú modré červené fialové na vrchole je žltá hviezda [hez] dolu na zemi už sú popadané a rozbité niektoré z tých gulí.
+lpvvdzhp01 1 lpvvdzhp01_lpvvdzhp01 456.888 474.311 <o,f0,unknown> [hez] manželka muža je otočená chrbtom aj k nemu aj k dieťaťu a telefonuje a za oknom je vidieť kamarát ich syna ktorý má červenú vzorovanú čapicu a pozerá sa na to ako ten stromček padá.

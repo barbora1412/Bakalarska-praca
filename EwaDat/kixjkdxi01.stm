@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:40 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 210707
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 0.000 14.940 <o,f0,unknown> vokal
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 14.940 22.880 <o,f0,unknown> pataka
+kixjkdxi01 1 excluded_region 22.880 23.712 <o,,unknown> ignore_time_segment_in_scoring
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 23.712 26.300 <o,f0,unknown> cesta
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 26.300 29.560 <o,f0,unknown> most
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 29.560 32.320 <o,f0,unknown> hodiny
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 32.320 35.420 <o,f0,unknown> bubon
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 35.420 38.440 <o,f0,unknown> traktor
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 38.440 41.560 <o,f0,unknown> fajka
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 41.560 44.760 <o,f0,unknown> akvárium
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 44.760 47.980 <o,f0,unknown> lievik
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 47.980 51.500 <o,f0,unknown> domino
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 51.500 55.000 <o,f0,unknown> ponorka
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 55.000 60.480 <o,f0,unknown> profesor
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 60.480 64.140 <o,f0,unknown> smiech
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 64.140 68.620 <o,f0,unknown> jablko
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 68.620 71.960 <o,f0,unknown> plač
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 71.960 75.120 <o,f0,unknown> varenie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 75.120 79.580 <o,f0,unknown> telefonovanie/telefón_novanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 79.580 83.180 <o,f0,unknown> šitie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 83.180 86.800 <o,f0,unknown> krájanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 86.800 90.560 <o,f0,unknown> [hez] polievanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 90.560 94.180 <o,f0,unknown> štrikovanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 94.180 97.660 <o,f0,unknown> kráľ
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 97.660 100.520 <o,f0,unknown> topánky
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 100.520 104.220 <o,f0,unknown> [hez] cigarety
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 104.220 107.020 <o,f0,unknown> hodiny
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 107.020 109.980 <o,f0,unknown> teplomer
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 109.980 112.940 <o,f0,unknown> električka
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 112.940 115.840 <o,f0,unknown> metla
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 115.840 119.460 <o,f0,unknown> [hez] hríby
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 119.460 122.460 <o,f0,unknown> kotva
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 122.460 126.000 <o,f0,unknown> kozmonaut
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 126.000 130.200 <o,f0,unknown> [hez] natieranie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 130.200 133.700 <o,f0,unknown> preťahovanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 133.700 138.820 <o,f0,unknown> žiarovka svetlo
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 138.820 143.100 <o,f0,unknown> [hez] požiar
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 143.100 148.080 <o,f0,unknown> hod [hez]
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 148.080 151.220 <o,f0,unknown> maľovanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 151.220 154.600 <o,f0,unknown> vŕtanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 154.600 157.620 <o,f0,unknown> hrabanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 157.620 161.160 <o,f0,unknown> pílenie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 161.160 164.620 <o,f0,unknown> veslovanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 164.620 168.180 <o,f0,unknown> kniha
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 168.180 171.560 <o,f0,unknown> autobus
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 171.560 174.940 <o,f0,unknown> koruna
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 174.940 178.140 <o,f0,unknown> koleso
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 178.140 181.380 <o,f0,unknown> lavička
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 181.380 184.280 <o,f0,unknown> zips
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 184.280 187.200 <o,f0,unknown> ťava
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 187.200 190.280 <o,f0,unknown> vešiak
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 190.280 195.400 <o,f0,unknown> lieskovec
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 195.400 198.820 <o,f0,unknown> kaktus
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 198.820 202.440 <o,f0,unknown> spev
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 202.440 205.720 <o,f0,unknown> kúpanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 205.720 208.940 <o,f0,unknown> meranie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 208.940 213.660 <o,f0,unknown> pi pitie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 213.660 217.680 <o,f0,unknown> klopkanie/kloppkanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 217.680 223.240 <o,f0,unknown> [hez] skok cez švihadl
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 223.240 226.700 <o,f0,unknown> lyžovanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 226.700 229.880 <o,f0,unknown> fotenie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 229.880 233.500 <o,f0,unknown> bicyklovanie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 233.500 236.740 <o,f0,unknown> žehlenie
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 236.740 245.380 <o,f0,unknown> [hez] držanie za ruku. bábätko.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 245.380 253.700 <o,f0,unknown> stoličky. káva. vôňa.
+kixjkdxi01 1 excluded_region 253.700 256.585 <o,,unknown> ignore_time_segment_in_scoring
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 256.585 258.279 <o,f0,unknown> muž v kuchyni.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 258.279 264.627 <o,f0,unknown> chaos [hez] [hez] veľký [smiech-] chaos [-smiech] .
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 264.627 269.024 <o,f0,unknown> vyliate rozliate špinavé.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 269.024 273.997 <o,f0,unknown> dieťa padá [smiech] .
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 273.997 277.268 <o,f0,unknown> [hez] umývadlo preteká.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 277.268 282.051 <o,f0,unknown> mačka [smiech] zúri [smiech] .
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 282.051 284.907 <o,f0,unknown> chaos veľký chaos. muž v kuchyni.
+kixjkdxi01 1 excluded_region 284.907 287.871 <o,,unknown> ignore_time_segment_in_scoring
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 287.871 290.780 <o,f0,unknown> ani neviem čo [smiech-] ďalej [-smiech] .
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 290.780 297.030 <o,f0,unknown> matka v kuchyni varí. telefonuje.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 297.030 299.675 <o,f0,unknown> dieťa plače.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 299.675 305.319 <o,f0,unknown> vyliate kvetinky.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 305.319 309.575 <o,f0,unknown> zvieratko na poličke.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 309.575 313.162 <o,f0,unknown> dieťa plače.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 313.162 317.752 <o,f0,unknown> veľký chaos veľký krik.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 317.752 320.987 <o,f0,unknown> veľký neporiadok. notebook/notbuk.
+kixjkdxi01 1 excluded_region 320.987 328.900 <o,,unknown> ignore_time_segment_in_scoring
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 328.900 334.865 <o,f0,unknown> vianoce najkrajšie ročné obdobie.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 334.865 337.450 <o,f0,unknown> stromček padá.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 337.450 339.876 <o,f0,unknown> matka telefonuje.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 339.876 343.657 <o,f0,unknown> otec šmýka sa na autíčku.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 343.657 345.046 <o,f0,unknown> neporiadok.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 345.046 348.528 <o,f0,unknown> dieťa ťahá stromček.
+kixjkdxi01 1 kixjkdxi01_kixjkdxi01 348.528 350.885 <o,f0,unknown> vonku sneží.

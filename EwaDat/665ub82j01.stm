@@ -1,0 +1,151 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:48 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210321
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665ub82j01 1 665ub82j01_665ub82j01 0.000 14.900 <o,f0,unknown> vokal
+665ub82j01 1 665ub82j01_665ub82j01 14.900 22.800 <o,f0,unknown> pataka
+665ub82j01 1 665ub82j01_665ub82j01 22.800 25.960 <o,f0,unknown> %@ %@: cesta
+665ub82j01 1 665ub82j01_665ub82j01 25.960 28.920 <o,f0,unknown> %@l ((xxx)) most
+665ub82j01 1 665ub82j01_665ub82j01 28.920 31.240 <o,f0,unknown> hodinky
+665ub82j01 1 665ub82j01_665ub82j01 31.240 33.460 <o,f0,unknown> bubon
+665ub82j01 1 665ub82j01_665ub82j01 33.460 35.760 <o,f0,unknown> traktor
+665ub82j01 1 665ub82j01_665ub82j01 35.760 37.940 <o,f0,unknown> fajka
+665ub82j01 1 665ub82j01_665ub82j01 37.940 41.160 <o,f0,unknown> %@:k akvárium
+665ub82j01 1 665ub82j01_665ub82j01 41.160 43.520 <o,f0,unknown> a lievik
+665ub82j01 1 665ub82j01_665ub82j01 43.520 47.540 <o,f0,unknown> %@: domino
+665ub82j01 1 665ub82j01_665ub82j01 47.540 50.100 <o,f0,unknown> %@ ponorka
+665ub82j01 1 665ub82j01_665ub82j01 50.100 52.540 <o,f0,unknown> píše
+665ub82j01 1 665ub82j01_665ub82j01 52.540 55.060 <o,f0,unknown> %@ smeje sa
+665ub82j01 1 665ub82j01_665ub82j01 55.060 58.100 <o,f0,unknown> %@ váži jablko
+665ub82j01 1 665ub82j01_665ub82j01 58.100 60.420 <o,f0,unknown> plače
+665ub82j01 1 665ub82j01_665ub82j01 60.420 62.760 <o,f0,unknown> varí
+665ub82j01 1 665ub82j01_665ub82j01 62.760 65.160 <o,f0,unknown> telefonuje
+665ub82j01 1 665ub82j01_665ub82j01 65.160 67.860 <o,f0,unknown> %@: šije na stroji/stroju
+665ub82j01 1 665ub82j01_665ub82j01 67.860 70.880 <o,f0,unknown> reže/reže: syr/syra
+665ub82j01 1 665ub82j01_665ub82j01 70.880 73.540 <o,f0,unknown> zalieva kytku
+665ub82j01 1 665ub82j01_665ub82j01 73.540 76.020 <o,f0,unknown> %@ pletie
+665ub82j01 1 665ub82j01_665ub82j01 76.020 78.620 <o,f0,unknown> %@ kráľ
+665ub82j01 1 665ub82j01_665ub82j01 78.620 80.920 <o,f0,unknown> %@ topánky
+665ub82j01 1 665ub82j01_665ub82j01 80.920 83.560 <o,f0,unknown> %@ cigarety
+665ub82j01 1 665ub82j01_665ub82j01 83.560 85.860 <o,f0,unknown> hodinky
+665ub82j01 1 665ub82j01_665ub82j01 85.860 88.280 <o,f0,unknown> %@ teplomer
+665ub82j01 1 665ub82j01_665ub82j01 88.280 90.700 <o,f0,unknown> električka
+665ub82j01 1 665ub82j01_665ub82j01 90.700 93.020 <o,f0,unknown> metla
+665ub82j01 1 665ub82j01_665ub82j01 93.020 95.760 <o,f0,unknown> %@: kozare
+665ub82j01 1 665ub82j01_665ub82j01 95.760 98.460 <o,f0,unknown> %@ kotva
+665ub82j01 1 665ub82j01_665ub82j01 98.460 101.560 <o,f0,unknown> %@: %u kozmonaut
+665ub82j01 1 665ub82j01_665ub82j01 101.560 104.420 <o,f0,unknown> %@: mastím chleba
+665ub82j01 1 665ub82j01_665ub82j01 104.420 107.320 <o,f0,unknown> %@: ťahám povraz
+665ub82j01 1 665ub82j01_665ub82j01 107.320 109.960 <o,f0,unknown> %@ svieti žiarovka/žarovka
+665ub82j01 1 665ub82j01_665ub82j01 109.960 112.760 <o,f0,unknown> %@ horí dom
+665ub82j01 1 665ub82j01_665ub82j01 112.760 117.000 <o,f0,unknown> %@: hod oštepom
+665ub82j01 1 665ub82j01_665ub82j01 117.000 119.761 <o,f0,unknown> %@: maľuje obraz
+665ub82j01 1 excluded_region 119.761 121.140 <o,,unknown> ignore_time_segment_in_scoring
+665ub82j01 1 665ub82j01_665ub82j01 121.140 123.940 <o,f0,unknown> vŕtak
+665ub82j01 1 665ub82j01_665ub82j01 123.940 126.520 <o,f0,unknown> a/a: diaľnica
+665ub82j01 1 665ub82j01_665ub82j01 126.520 128.560 <o,f0,unknown> most
+665ub82j01 1 665ub82j01_665ub82j01 128.560 130.580 <o,f0,unknown> hodinky
+665ub82j01 1 665ub82j01_665ub82j01 130.580 132.680 <o,f0,unknown> bubon
+665ub82j01 1 665ub82j01_665ub82j01 132.680 134.820 <o,f0,unknown> traktor
+665ub82j01 1 665ub82j01_665ub82j01 134.820 136.800 <o,f0,unknown> fajka
+665ub82j01 1 665ub82j01_665ub82j01 136.800 139.200 <o,f0,unknown> akvárium/akvarium
+665ub82j01 1 665ub82j01_665ub82j01 139.200 141.620 <o,f0,unknown> %@: lievik
+665ub82j01 1 665ub82j01_665ub82j01 141.620 143.800 <o,f0,unknown> domino
+665ub82j01 1 665ub82j01_665ub82j01 143.800 146.260 <o,f0,unknown> ponorka
+665ub82j01 1 665ub82j01_665ub82j01 146.260 148.780 <o,f0,unknown> %@: píše
+665ub82j01 1 665ub82j01_665ub82j01 148.780 151.160 <o,f0,unknown> smeje sa
+665ub82j01 1 665ub82j01_665ub82j01 151.160 153.580 <o,f0,unknown> váži/važí
+665ub82j01 1 665ub82j01_665ub82j01 153.580 155.820 <o,f0,unknown> plače
+665ub82j01 1 665ub82j01_665ub82j01 155.820 158.080 <o,f0,unknown> varí
+665ub82j01 1 665ub82j01_665ub82j01 158.080 160.400 <o,f0,unknown> telefonuje
+665ub82j01 1 665ub82j01_665ub82j01 160.400 162.780 <o,f0,unknown> šije
+665ub82j01 1 665ub82j01_665ub82j01 162.780 165.260 <o,f0,unknown> %@ reže
+665ub82j01 1 665ub82j01_665ub82j01 165.260 167.600 <o,f0,unknown> zalieva
+665ub82j01 1 665ub82j01_665ub82j01 167.600 169.980 <o,f0,unknown> pletie
+665ub82j01 1 665ub82j01_665ub82j01 169.980 172.460 <o,f0,unknown> kráľ
+665ub82j01 1 665ub82j01_665ub82j01 172.460 174.520 <o,f0,unknown> topánky/topanky
+665ub82j01 1 665ub82j01_665ub82j01 174.520 176.820 <o,f0,unknown> cigarety
+665ub82j01 1 665ub82j01_665ub82j01 176.820 179.820 <o,f0,unknown> %eua %@: budík
+665ub82j01 1 665ub82j01_665ub82j01 179.820 182.060 <o,f0,unknown> teplomer
+665ub82j01 1 665ub82j01_665ub82j01 182.060 184.400 <o,f0,unknown> električka
+665ub82j01 1 665ub82j01_665ub82j01 184.400 186.500 <o,f0,unknown> metla
+665ub82j01 1 665ub82j01_665ub82j01 186.500 189.040 <o,f0,unknown> hríby
+665ub82j01 1 665ub82j01_665ub82j01 189.040 191.260 <o,f0,unknown> kotva
+665ub82j01 1 665ub82j01_665ub82j01 191.260 194.460 <o,f0,unknown> %@ kozmonaut
+665ub82j01 1 665ub82j01_665ub82j01 194.460 197.240 <o,f0,unknown> mastí
+665ub82j01 1 665ub82j01_665ub82j01 197.240 199.360 <o,f0,unknown> ťahá
+665ub82j01 1 665ub82j01_665ub82j01 199.360 201.620 <o,f0,unknown> svieti
+665ub82j01 1 665ub82j01_665ub82j01 201.620 203.720 <o,f0,unknown> horí
+665ub82j01 1 665ub82j01_665ub82j01 203.720 206.160 <o,f0,unknown> hádže
+665ub82j01 1 665ub82j01_665ub82j01 206.160 208.680 <o,f0,unknown> maľuje
+665ub82j01 1 665ub82j01_665ub82j01 208.680 210.840 <o,f0,unknown> vŕta/vrta:
+665ub82j01 1 665ub82j01_665ub82j01 210.840 212.960 <o,f0,unknown> hrabe
+665ub82j01 1 665ub82j01_665ub82j01 212.960 215.660 <o,f0,unknown> reže
+665ub82j01 1 665ub82j01_665ub82j01 215.660 218.180 <o,f0,unknown> vesluje
+665ub82j01 1 665ub82j01_665ub82j01 218.180 221.000 <o,f0,unknown> číta/čita: %u
+665ub82j01 1 665ub82j01_665ub82j01 221.000 223.580 <o,f0,unknown> ((xx)) autobus
+665ub82j01 1 665ub82j01_665ub82j01 223.580 226.620 <o,f0,unknown> %@ kráľovská koruna
+665ub82j01 1 665ub82j01_665ub82j01 226.620 229.420 <o,f0,unknown> %@: koleso
+665ub82j01 1 665ub82j01_665ub82j01 229.420 231.760 <o,f0,unknown> lavička
+665ub82j01 1 665ub82j01_665ub82j01 231.760 233.860 <o,f0,unknown> zips/zip
+665ub82j01 1 665ub82j01_665ub82j01 233.860 236.800 <o,f0,unknown> %t: ťava
+665ub82j01 1 665ub82j01_665ub82j01 236.800 239.160 <o,f0,unknown> vešiak
+665ub82j01 1 665ub82j01_665ub82j01 239.160 242.040 <o,f0,unknown> %@ gaštan ((ja))
+665ub82j01 1 665ub82j01_665ub82j01 242.040 244.400 <o,f0,unknown> spieva
+665ub82j01 1 665ub82j01_665ub82j01 244.400 247.020 <o,f0,unknown> kúpe sa/kupe sa
+665ub82j01 1 665ub82j01_665ub82j01 247.020 249.860 <o,f0,unknown> meria
+665ub82j01 1 665ub82j01_665ub82j01 249.860 252.120 <o,f0,unknown> pije
+665ub82j01 1 665ub82j01_665ub82j01 252.120 254.460 <o,f0,unknown> klope
+665ub82j01 1 665ub82j01_665ub82j01 254.460 257.240 <o,f0,unknown> %@: skáče
+665ub82j01 1 665ub82j01_665ub82j01 257.240 259.680 <o,f0,unknown> lyžuje
+665ub82j01 1 665ub82j01_665ub82j01 259.680 262.080 <o,f0,unknown> fotí
+665ub82j01 1 665ub82j01_665ub82j01 262.080 264.400 <o,f0,unknown> bicykluje
+665ub82j01 1 665ub82j01_665ub82j01 264.400 266.840 <o,f0,unknown> žehlí
+665ub82j01 1 665ub82j01_665ub82j01 266.840 274.580 <o,f0,unknown> ruka/ruka: drží/drží:. maličká ruka/ruka: malíček veľkej ruky.
+665ub82j01 1 665ub82j01_665ub82j01 274.580 279.328 <o,f0,unknown> je to/to: kreslená táto/tota nie je/není farebná.
+665ub82j01 1 665ub82j01_665ub82j01 279.328 285.500 <o,f0,unknown> no: čo by som ešte k/ku tomu dal/dau.
+665ub82j01 1 665ub82j01_665ub82j01 285.500 293.291 <o,f0,unknown> skrátka maličká ruka drží veľkú ruku za malíček. kreslená kreslený obrázok.
+665ub82j01 1 excluded_region 293.291 296.740 <o,,unknown> ignore_time_segment_in_scoring
+665ub82j01 1 665ub82j01_665ub82j01 296.740 301.930 <o,f0,unknown> %hou je tu stolík plus dva stoličky.
+665ub82j01 1 665ub82j01_665ub82j01 301.930 311.145 <o,f0,unknown> %@ na %@: tom stolíku sú dve zrejme kávy %he %uu [ned-] %dv [-ned] dva šálky takže dve kávy.
+665ub82j01 1 665ub82j01_665ub82j01 311.145 313.765 <o,f0,unknown> šálky sú/sús s tanierikmi.
+665ub82j01 1 665ub82j01_665ub82j01 313.765 326.640 <o,f0,unknown> %@ stoly sú zrejme kovové pekne ladené ku sebe a zase je to len ako/jako skica.
+665ub82j01 1 665ub82j01_665ub82j01 326.640 335.193 <o,f0,unknown> no %@: tu vidím peknú kuchyňu %@: na zelenú zariadenú.
+665ub82j01 1 665ub82j01_665ub82j01 335.193 343.599 <o,f0,unknown> %@: je tu chlapček ktorý si berie/bere banánik ale pritom z tej stoličky zrejme spadne aj s tým banánom.
+665ub82j01 1 665ub82j01_665ub82j01 343.599 356.654 <o,f0,unknown> zase/zase: oco %@ v zástere modrej varí lebo/bo %@ má v ruke %@: %vv varešku lenže ťukol po svetle.
+665ub82j01 1 665ub82j01_665ub82j01 356.654 358.712 <o,f0,unknown> zrejme ho rozbil.
+665ub82j01 1 665ub82j01_665ub82j01 358.712 378.063 <o,f0,unknown> no a vzadu za ním na sporáku/šporáku v modrom hrnci dačo varí lenže mu to vyteká na sporák/šporák a z vrchu z poličky je tam dajaká fľaška vyvalená a z toho tečie do toho hrnca zrejme/zrejme:.
+665ub82j01 1 665ub82j01_665ub82j01 378.063 395.004 <o,f0,unknown> no a/a: %@ voda tečie v umývadle už pekne dole a v pravom rohu kocúrik na všetko pozerá s peknými zelenými očami čo sa to v tej kuchyni vlastne deje
+665ub82j01 1 665ub82j01_665ub82j01 395.004 413.339 <o,f0,unknown> %mf no viacej čo ja viem. %@a neviem čo viacej povedať. no: ((ale)) ta. %@ svetlo som povedal. toto som povedal no.
+665ub82j01 1 665ub82j01_665ub82j01 413.339 416.540 <o,f0,unknown> chlapčisko padá/pada.
+665ub82j01 1 665ub82j01_665ub82j01 416.540 421.541 <o,f0,unknown> na:a mamička zrejme v kuchyni.
+665ub82j01 1 665ub82j01_665ub82j01 421.541 429.824 <o,f0,unknown> má bábätko na rukách telefón na uchu panvicu v ruke nevie čo má skôr robiť.
+665ub82j01 1 665ub82j01_665ub82j01 429.824 437.656 <o,f0,unknown> hodinky ukazujú dajakých dvanásť hodín dvadsať minút devätnásť možno/možna no.
+665ub82j01 1 665ub82j01_665ub82j01 437.656 451.654 <o,f0,unknown> mamka %@ zrejme pritom telefóne vyberá s kamarátkou topánky lebo sú tam na hore/ho:re nad mozgom % vyznačené/vy:značene topánočky a pekné lodičky.
+665ub82j01 1 665ub82j01_665ub82j01 451.654 455.751 <o,f0,unknown> no/no: a kocúrik hore na poličke robí poriadky.
+665ub82j01 1 665ub82j01_665ub82j01 455.751 459.785 <o,f0,unknown> mamke na počítač tam dačo vysypal.
+665ub82j01 1 665ub82j01_665ub82j01 459.785 478.010 <o,f0,unknown> no a/a: %@ za ním ešte stojí fľaška. a keď potiahne dobre/dobre: so schvostikom pôjdu aj tá veľká fľaška zrejme ocot zelená fľaška a tam dajaké čo ja viem mi pripadá ako/jak dakeby boli výživy maličké.
+665ub82j01 1 665ub82j01_665ub82j01 478.010 506.440 <o,f0,unknown> no a/a: [i] toto mliečko neviem neviem či či by nemala mamka dať %@ tomu bábätku napiť a nestarať sa o topánky ale pekne variť lebo/bo z tej panvice jej všetko vypadá keď bude aj bábätko držať na rukách/rukoch aj panvicu a telefon ešte na uchu.
+665ub82j01 1 665ub82j01_665ub82j01 506.440 512.873 <o,f0,unknown> na/na: parádne parádny koniec roku.
+665ub82j01 1 665ub82j01_665ub82j01 512.873 515.792 <o,f0,unknown> vianoce vianočný stromček.
+665ub82j01 1 665ub82j01_665ub82j01 515.792 518.943 <o,f0,unknown> vidno že/že: za dverami sneží.
+665ub82j01 1 665ub82j01_665ub82j01 518.943 533.091 <o,f0,unknown> ocko prišiel domov zrejme z roboty lebo/bo tašku má v ruke peknú modrú lenže čo bolo prvé stál na autíčko a zrejme sa natiahne/naťa:hne: na kríže i/i: to.
+665ub82j01 1 665ub82j01_665ub82j01 533.091 542.376 <o,f0,unknown> no/no: a mamka nevie čo %@ so s chlapcom robiť tak telefonuje. neviem komu.
+665ub82j01 1 665ub82j01_665ub82j01 542.376 553.631 <o,f0,unknown> %n na chlapčeka pozerá ďalší chlapec ale už spoza okna kde sú pekné červené červené pasované závesy/zavesy: i/i: to.
+665ub82j01 1 665ub82j01_665ub82j01 553.631 556.058 <o,f0,unknown> vonku pekne sneží.
+665ub82j01 1 665ub82j01_665ub82j01 556.058 563.426 <o,f0,unknown> no a psík pekne oddychuje i/i: to jeho sa to netýka.

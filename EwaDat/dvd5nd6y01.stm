@@ -1,0 +1,103 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:35 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210920
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 0.000 6.700 <o,f0,unknown> special_vokal
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 6.700 14.600 <o,f0,unknown> special_pataka
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 14.600 17.740 <o,f0,unknown> diaľni cesta
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 17.740 20.580 <o,f0,unknown> krája
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 20.580 22.760 <o,f0,unknown> kniha
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 22.760 25.660 <o,f0,unknown> [ruch-] most [-ruch]
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 25.660 28.140 <o,f0,unknown> topánky
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 28.140 30.460 <o,f0,unknown> autobus
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 30.460 32.640 <o,f0,unknown> hodinky
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 32.640 35.380 <o,f0,unknown> cigarety
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 35.380 37.780 <o,f0,unknown> koruna
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 37.780 39.920 <o,f0,unknown> bubon
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 39.920 42.420 <o,f0,unknown> budík/budik
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 42.420 44.560 <o,f0,unknown> koleso
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 44.560 46.620 <o,f0,unknown> traktor
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 46.620 49.460 <o,f0,unknown> teplomer
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 49.460 51.540 <o,f0,unknown> lavička
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 51.540 53.500 <o,f0,unknown> fajka
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 53.500 56.300 <o,f0,unknown> električka/eletrička
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 56.300 58.440 <o,f0,unknown> zips
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 58.440 60.980 <o,f0,unknown> akvárium
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 60.980 62.940 <o,f0,unknown> metla
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 62.940 65.240 <o,f0,unknown> ťava
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 65.240 67.560 <o,f0,unknown> lievik
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 67.560 69.800 <o,f0,unknown> huby
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 69.800 72.020 <o,f0,unknown> vešiak
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 72.020 74.540 <o,f0,unknown> domino
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 74.540 77.040 <o,f0,unknown> [hez] kotva
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 77.040 79.380 <o,f0,unknown> žaluď
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 79.380 81.940 <o,f0,unknown> ponorka
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 81.940 84.580 <o,f0,unknown> kozmonaut
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 84.580 87.660 <o,f0,unknown> kaktus
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 87.660 90.880 <o,f0,unknown> píše
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 90.880 93.780 <o,f0,unknown> natiera
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 93.780 96.380 <o,f0,unknown> spieva
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 96.380 99.160 <o,f0,unknown> smeje sa
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 99.160 101.880 <o,f0,unknown> ťahá lano
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 101.880 104.400 <o,f0,unknown> kúpe sa
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 104.400 107.200 <o,f0,unknown> váži:
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 107.200 109.428 <o,f0,unknown> žiari žiarovka
+dvd5nd6y01 1 excluded_region 109.428 110.360 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 excluded_region 110.360 111.037 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 111.037 112.900 <o,f0,unknown> meria meter metrom
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 112.900 115.340 <o,f0,unknown> plače
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 115.340 117.800 <o,f0,unknown> horí/horíl dom
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 117.800 120.300 <o,f0,unknown> pije vodu
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 120.300 123.200 <o,f0,unknown> varí v kuchyni
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 123.200 125.900 <o,f0,unknown> hádže oštep
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 125.900 128.600 <o,f0,unknown> klope na dvere
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 128.600 131.300 <o,f0,unknown> telefonuje
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 131.300 134.160 <o,f0,unknown> maľuje obraz
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 134.160 137.180 <o,f0,unknown> skáče cez švihadlo
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 137.180 140.680 <o,f0,unknown> š šije na šijacom stroji
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 140.680 143.580 <o,f0,unknown> vŕta vŕtačkou
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 143.580 146.060 <o,f0,unknown> lyžuje
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 146.060 148.720 <o,f0,unknown> [spk] krája
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 148.720 151.060 <o,f0,unknown> hrabe
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 151.060 153.940 <o,f0,unknown> f:otografuje
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 153.940 157.060 <o,f0,unknown> zalieva kvet
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 157.060 160.540 <o,f0,unknown> píli s pílou
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 160.540 162.840 <o,f0,unknown> bicykluje
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 162.840 165.480 <o,f0,unknown> háčkuje/hačkuje
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 165.480 168.020 <o,f0,unknown> veslujú/vesluju
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 168.020 170.540 <o,f0,unknown> žehlí
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 170.540 182.220 <o,f0,unknown> stláča palec malíček rukou s stlačiť silnejšie
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 182.220 192.114 <o,f0,unknown> na stolíku je položená káva. očakávajú hostia. káva je teplá. z nej sa dymí.
+dvd5nd6y01 1 excluded_region 192.114 194.700 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 excluded_region 194.700 198.694 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 198.694 204.436 <o,f0,unknown> v kuchyni decko vystrája. berie si ovocie. stolička sa s/z ním/nim pod ním padá/spadá.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 204.436 212.509 <o,f0,unknown> otec je nešťastný. rozbil s varechou luster. vykypelo mu. potraviny na peci.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 212.509 221.118 <o,f0,unknown> mačka pozerá na to. [hez] preteká voda cez [hez] umývací drez. voda stále tečie.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 221.118 227.640 <o,f0,unknown> [hez] na polici nad šporákom spadla fľaška z ktorej vyteká tekutina.
+dvd5nd6y01 1 excluded_region 227.640 230.560 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 230.560 238.220 <o,f0,unknown> [ex] matka v kuchyni varí obed a pritom [hez] opatruje dieťa na rukách.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 238.220 247.117 <o,f0,unknown> mačka jej zhodila z police potraviny. nestačí [hez] robiť [hez] ohrievať na panvici.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 247.117 254.406 <o,f0,unknown> je nešťastná z toho. obáva sa že jej to všetko prihorí rozvarí sa.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 254.406 261.495 <o,f0,unknown> má pripravené má pripravené potraviny na krájacej doske aj s nožíkom.
+dvd5nd6y01 1 excluded_region 261.495 265.100 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 265.100 270.363 <o,f0,unknown> je: š je: sú vianoce.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 270.363 277.955 <o,f0,unknown> [hez] decká vystrájajú. [hez] zhodili [hez] hádžu/zhádžu:. vianočný stromček padá.
+dvd5nd6y01 1 excluded_region 277.955 279.188 <o,,unknown> ignore_time_segment_in_scoring
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 279.188 284.391 <o,f0,unknown> prišiel domov otec. stúpil/stúpol na: hračku. spa padá/spadá.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 284.391 288.124 <o,f0,unknown> matka ((tu)) s: kľudom telefonuje. pes kľudne si leží.
+dvd5nd6y01 1 dvd5nd6y01_dvd5nd6y01 288.124 297.585 <o,f0,unknown> vonku sneží. spoza okna pozerá kamarát na: domáceho chlapca ktorý ten stromček prevrátil.

@@ -1,0 +1,105 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:14 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210830
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 0.000 14.960 <o,f0,unknown> special_vokal
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 14.960 22.920 <o,f0,unknown> special_pataka
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 22.920 25.340 <o,f0,unknown> cesta oblaky
+lpvvqb8501 1 excluded_region 25.340 26.429 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 26.429 28.240 <o,f0,unknown> kráľ
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 28.240 30.400 <o,f0,unknown> kniha
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 30.400 32.840 <o,f0,unknown> most
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 32.840 35.080 <o,f0,unknown> topánky
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 35.080 37.460 <o,f0,unknown> autobus
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 37.460 39.720 <o,f0,unknown> hodiny
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 39.720 42.160 <o,f0,unknown> [spk] cigarety
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 42.160 44.640 <o,f0,unknown> koruna
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 44.640 46.920 <o,f0,unknown> bubon
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 46.920 49.600 <o,f0,unknown> budík/budik
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 49.600 51.940 <o,f0,unknown> koleso
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 51.940 54.320 <o,f0,unknown> traktor
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 54.320 56.880 <o,f0,unknown> teplomer
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 56.880 59.100 <o,f0,unknown> lavička/hlavička
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 59.100 61.360 <o,f0,unknown> fajka
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 61.360 64.040 <o,f0,unknown> električka
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 64.040 66.160 <o,f0,unknown> zips
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 66.160 68.700 <o,f0,unknown> akvárium
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 68.700 71.040 <o,f0,unknown> metla
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 71.040 72.251 <o,f0,unknown> ťava
+lpvvqb8501 1 excluded_region 72.251 73.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 73.220 75.800 <o,f0,unknown> lievik
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 75.800 78.340 <o,f0,unknown> hríby
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 78.340 86.860 <o,f0,unknown> [hez] ježiš/ješiš mária/maria to používam ramienko alebo jak sa to povie po: správne [smiech]
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 86.860 92.300 <o,f0,unknown> [hez] [hez] jak sa volá/vola? domino
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 92.300 94.920 <o,f0,unknown> kotva
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 94.920 97.720 <o,f0,unknown> žaluď
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 97.720 100.340 <o,f0,unknown> ponorka
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 100.340 102.900 <o,f0,unknown> kozmonaut
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 102.900 105.260 <o,f0,unknown> kaktus
+lpvvqb8501 1 excluded_region 105.260 106.034 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 106.034 107.640 <o,f0,unknown> píše
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 107.640 110.200 <o,f0,unknown> natiera
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 110.200 112.420 <o,f0,unknown> spieva
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 112.420 115.100 <o,f0,unknown> smeje sa
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 115.100 117.400 <o,f0,unknown> ťahá
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 117.400 119.780 <o,f0,unknown> kúpe
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 119.780 122.600 <o,f0,unknown> váži
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 122.600 125.000 <o,f0,unknown> svieti
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 125.000 127.440 <o,f0,unknown> meria
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 127.440 129.560 <o,f0,unknown> plače
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 129.560 132.220 <o,f0,unknown> horí/hori
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 132.220 134.580 <o,f0,unknown> pije
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 134.580 137.000 <o,f0,unknown> [spk] varí
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 137.000 140.160 <o,f0,unknown> z [hez] hádže
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 140.160 142.420 <o,f0,unknown> [spk] klope
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 142.420 144.520 <o,f0,unknown> telefonuje
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 144.520 146.820 <o,f0,unknown> [spk] maľuje
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 146.820 149.120 <o,f0,unknown> skáče
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 149.120 151.380 <o,f0,unknown> šije
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 151.380 153.740 <o,f0,unknown> vŕta
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 153.740 156.560 <o,f0,unknown> lyžuje sa
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 156.560 158.860 <o,f0,unknown> krája
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 158.860 161.100 <o,f0,unknown> hrabe
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 161.100 163.720 <o,f0,unknown> [hez] fotí/foti
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 163.720 166.380 <o,f0,unknown> zalieva
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 166.380 169.340 <o,f0,unknown> [hez] píli
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 169.340 171.900 <o,f0,unknown> bicykluje
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 171.900 174.540 <o,f0,unknown> háčkuje ((alebo)) štrikuje
+lpvvqb8501 1 excluded_region 174.540 175.947 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 175.947 178.740 <o,f0,unknown> [hez] vesluje
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 178.740 181.120 <o,f0,unknown> žehlí/žehli
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 181.120 187.337 <o,f0,unknown> ťahá si prst teda dieťa [hez] drží prst. má palec.
+lpvvqb8501 1 excluded_region 187.337 194.286 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 194.286 211.060 <o,f0,unknown> [ruch-] no je tam láska [hez] láska dieťaťa a teda k dieťaťu. [hez] [hez] [hez] je tam podpora nejaká. cit. [-ruch]
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 211.060 223.453 <o,f0,unknown> %mhm elegancia. vôňa. čas. [hez]
+lpvvqb8501 1 excluded_region 223.453 235.438 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 235.438 241.000 <o,f0,unknown> opisujem. sú tam dve stoličky jedna jeden stôl. na stole sú dve kávy.
+lpvvqb8501 1 excluded_region 241.000 243.496 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 243.496 266.309 <o,f0,unknown> no otec varí. má neporiadok/neporiado v kuchyni:. [hez] [ex] nedarí sa mu zjavne:. [hez] má tam dieťa ktoré mu pri po síce pomáha ale aj mu pomáha aj upratovať aj aj aj neporiadok robiť. je z toho zúfalý tak [hez] má pocit že: zlyháva.
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 266.309 281.310 <o,f0,unknown> [hez] všade naokolo vládne neporiadok. [hez] v v hrnci mu ky z hrnca mu kypí/kypi. dieťa mu padá zo stoličky a ešte k tomu aj vytápa susedov a ešte k tomu rozbil aj luster.
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 281.310 294.366 <o,f0,unknown> ((xxx)) z poličky mu niečo vyteká. [hez] [ex] a dieťa drží banán [hez] teda išiel pre banán a [hez] [hez] padá zo stoličky.
+lpvvqb8501 1 excluded_region 294.366 297.300 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 excluded_region 297.300 298.878 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 298.878 319.707 <o,f0,unknown> no tá ((x)) zaneprázdnená mamina ktorá chce súčasne telefonovať variť a ešte aj pestovať dieťa. je neskoro poobe [hez] teda už by mal byť čas obeda. ešte stále nemá navarené ale má čas lebo rozmýšľa nad tým že si chce kúpiť topánky a zrejme to rozpráva svojej priateľke.
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 319.707 342.441 <o,f0,unknown> mačka: je na poličke: [hez] zr prevrhla jej [hez] vázu s kvetinami a samozrejme ešte nechýba tablet v ktorom určite má recept napísaný ako má uvariť polievku ktorú má na plynovom šporáku* a: prevracia/prevraca: rezne.
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 342.441 346.449 <o,f0,unknown> súčasne jej dieťa plače v náručí.
+lpvvqb8501 1 excluded_region 346.449 349.453 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 349.453 362.544 <o,f0,unknown> máme tam paradajky ktoré chce pokrájať [hez] mliečko ktoré chce pridať určite do polievky ale má tu/ftu chaos lebo: všetko chce robiť naraz.
+lpvvqb8501 1 excluded_region 362.544 367.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 367.560 397.737 <o,f0,unknown> je čas/čias vianoc. vonku sneží a: prichádza otec [ruch] ktorý sa zrejme pri [hez] hračkách ktoré rozhádzal ich syn [hez] šmykol a padá a pritom zhadzuje s dverami vianočný stromček ktorý prácne určite manželka so synom pripravovali.
+lpvvqb8501 1 lpvvqb8501_lpvvqb8501 397.737 418.308 <o,f0,unknown> [hez] hneď telefonuje [hez] priateľke čo sa stalo. syn [hez] zachraňuje stromček a [hez] na to všetko že aký chaos je v byte tak [hez] ich pes kľudne: [hez] leží a spí a vychutnáva si vianočný čas.

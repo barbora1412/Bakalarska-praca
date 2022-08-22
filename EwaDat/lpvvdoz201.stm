@@ -1,0 +1,99 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:29 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210825
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 14.940 22.880 <o,f0,unknown> special_pataka
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 22.880 25.680 <o,f0,unknown> cesta
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 25.680 28.700 <o,f0,unknown> kráľ
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 28.700 31.240 <o,f0,unknown> kniha
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 31.240 33.780 <o,f0,unknown> most
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 33.780 36.540 <o,f0,unknown> topánky
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 36.540 38.980 <o,f0,unknown> autobus
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 38.980 41.600 <o,f0,unknown> [spk] hodinky náramkové
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 41.600 44.080 <o,f0,unknown> cigarety
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 44.080 46.500 <o,f0,unknown> koruna
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 46.500 49.200 <o,f0,unknown> bubon
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 49.200 52.040 <o,f0,unknown> budík
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 52.040 54.940 <o,f0,unknown> koleso
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 54.940 57.460 <o,f0,unknown> traktor
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 57.460 59.980 <o,f0,unknown> teplomer
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 59.980 62.480 <o,f0,unknown> lavička
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 62.480 64.660 <o,f0,unknown> fajka
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 64.660 67.220 <o,f0,unknown> električka
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 67.220 69.680 <o,f0,unknown> zips
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 69.680 71.880 <o,f0,unknown> akvárium
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 71.880 73.980 <o,f0,unknown> metla
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 73.980 77.380 <o,f0,unknown> ťava
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 77.380 81.120 <o,f0,unknown> lievik
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 81.120 84.080 <o,f0,unknown> hríby
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 84.080 86.760 <o,f0,unknown> vešiak
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 86.760 89.200 <o,f0,unknown> domino kocky [ex]
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 89.200 91.740 <o,f0,unknown> kotva
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 91.740 95.420 <o,f0,unknown> [hez] žaluď
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 95.420 98.720 <o,f0,unknown> ponorka
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 98.720 101.380 <o,f0,unknown> kozmonaut
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 101.380 104.180 <o,f0,unknown> kaktus
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 104.180 107.000 <o,f0,unknown> písanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 107.000 109.820 <o,f0,unknown> natieranie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 109.820 112.100 <o,f0,unknown> spievanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 112.100 117.480 <o,f0,unknown> s smiatie [hez] u [ex]
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 117.480 120.080 <o,f0,unknown> ťahanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 120.080 122.760 <o,f0,unknown> kúpanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 122.760 125.320 <o,f0,unknown> váženie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 125.320 129.180 <o,f0,unknown> svietenie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 129.180 131.700 <o,f0,unknown> meranie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 131.700 134.200 <o,f0,unknown> plakanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 134.200 137.720 <o,f0,unknown> horenie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 137.720 140.220 <o,f0,unknown> pitie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 140.220 143.200 <o,f0,unknown> varenie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 143.200 147.440 <o,f0,unknown> hádzanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 147.440 150.820 <o,f0,unknown> klopanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 150.820 154.440 <o,f0,unknown> telefonovanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 154.440 157.260 <o,f0,unknown> maľovanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 157.260 161.140 <o,f0,unknown> skákanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 161.140 164.660 <o,f0,unknown> šitie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 164.660 167.600 <o,f0,unknown> vŕtanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 167.600 171.080 <o,f0,unknown> lyžovanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 171.080 173.900 <o,f0,unknown> krájanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 173.900 177.120 <o,f0,unknown> hrabanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 177.120 179.860 <o,f0,unknown> fotenie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 179.860 183.420 <o,f0,unknown> polievanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 183.420 187.740 <o,f0,unknown> pílenie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 187.740 190.140 <o,f0,unknown> bicyklovanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 190.140 192.560 <o,f0,unknown> šitie [hez]
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 192.560 196.260 <o,f0,unknown> ((x)) [hez] veslovanie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 196.260 198.520 <o,f0,unknown> žehlenie
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 198.520 208.729 <o,f0,unknown> [spk] takže vidím veľkú ruku s malou rukou pričom vlastne malá ruka drží malíček [hez] veľkej ruky.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 208.729 216.244 <o,f0,unknown> veľká ruka je ľavá ruka a: tá malá ruka je zas z pravej strany čiže pravá ruka.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 216.244 228.460 <o,f0,unknown> [hez] zároveň teda tie tá veľká ruka je k dispozícii na držanie tej malej ruke a tá malá ruka sa jej drží [ex] .
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 228.460 244.629 <o,f0,unknown> na obrázku vidím stôl [hez] dve stoličky je to kaviarenský stôl dve kaviarenské stoličky stoličky sú uložené oproti sebe na stole sú položené dve [hez] kávy ktoré sú ešte horúce z ktorých sa vlastne dymí ešte para.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 244.629 258.460 <o,f0,unknown> v obidvoch [hez] kávových [hez] hrnčekoch alebo teda šálkach sú lyžičky [hez] pod kávovými [hez] šálkami sú dv teda podtanieriky [hez] pričom stôl ktorý stojí v strede má tri nohy.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 258.460 266.299 <o,f0,unknown> ((dobre)) čiže vidím [hez] [hez] dospelého človeka pravdepodobne otca s dieťaťom v kuchyni.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 266.299 296.041 <o,f0,unknown> na obrázku je zelená kuchynská linka v rámci v rámci kuchyne sa vykonávajú teda činnosť teda [hez] v kuchyni je veľký neporiadok to znamená že z umývadla ute vyteká voda [hez] na sporáku je jedlo ktoré kypí alebo teda [hez] vrie [hez] na strope visí lampa [hez] zavesená ktorá je vlastne rozbitá pričom malé dieťa je stojí na stoličke snaží sa chytiť banán
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 296.041 328.732 <o,f0,unknown> [hez] [hez] na pravej strane v pravom rohu je čierna mačka pravdepodobne teda ide o situáciu kedy: [hez] je v kuchyni veľký neporiadok [hez] ktorý pravdepodobne urobil možno aj dieťa ale aj otec [hez] otec sa snaží teda varechou [hez] no varechou asi teda sa snažil [hez] zabiť osu ktorá lieta v tom priestore ale nechtiac trafil do lampy ktorá sa rozbila.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 328.732 348.400 <o,f0,unknown> [hez] kuchynské dvierka teda tej linky sú na vrchnej časti otvorené a vyteká z nich [hez] nejaká voda alebo teda minerálka a: otec má na sebe zásteru modrej farby a: ((to)) ((je)) ((všetko)).
+lpvvdoz201 1 inter_segment_gap 348.400 350.840 <o,f0,> 
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 350.840 363.647 <o,f0,unknown> ((bre*)) čiže obrázku vidím matku ktorá drží v náručí dieťa. matka s dieťaťom sa nachádzajú sa pravdepodobne v kuchyni pričom [hez] mama vykonáva viacero činností naraz.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 363.647 384.901 <o,f0,unknown> jednou z nich je teda telefonovanie [hez] druhé je varenie alebo teda [hez] v podstate [hez] varenie alebo opekanie vajíčok so slaninou na druhej strane pravdepodobne pracuje pretože má na kuchynskej linke položený notebook a zároveň [hez] je má v povinnosti dieťa ktoré drží v náručí v pravej ruke.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 384.901 404.395 <o,f0,unknown> [hez] na obrázku vládne chaos [hez] napriek tomu že má matka veľa činností [hez] ktoré aktuálne vykonáva tak ešte zvláda časovo myslieť na niečo čo pravdepodobne chce alebo čo by si rada kúpila ide o topánky na vysokom opätku.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 404.395 437.960 <o,f0,unknown> momentálne je vlastne [hez] štvrť na jednu aj [hez] štyri minúty čiže pravdepodobne varí obed. v kuchyni sa ďalej nachádzajú dve poličky na jednej z nich sú knihy pravdepodobne kuchynské a: teda izbové rastliny na druhej [hez] sa nachádzajú olej a med [hez] na tejto poličke bol predtým aj kvetináč [hez] avšak keďže na tú poličku vyskočila mačka tak [hez] zabrala mrie priestor alebo miesto a kvetináč tým pádom padá nadol.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 437.960 440.800 <o,f0,unknown> [hez] [hez]
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 440.800 470.205 <o,f0,unknown> čiže na obrázku vidím [hez] pravdepodobne teda vianočnú atmosféru alebo teda obdobie Vianoc nakoľko v [hez] [hez] obytnom priestore sa nachádza vianočný stromček [hez] konkrétne vo vnútri obytného priestoru sú tri osoby pravdepodobne je to matka otec a dieťa kdežto z vonkajšieho prostredia v ktorom padá sneh [hez] a je teda už večer z okna pozerá do vnútornej strany [hez] ďalšie dieťa.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 470.205 487.776 <o,f0,unknown> v [hez] izbe okrem ľudí sa nachádza teda aj spiaci pes ktorý je hnedej fa farby nespí na koberci ale na podlahe. otec vstupuje vlastne [hez] [hez] do bytu pravdepodobne prichádza z nákupu pretože v ruke drží nákupnú tašku ktorá je plná.
+lpvvdoz201 1 lpvvdoz201_lpvvdoz201 487.776 500.589 <o,f0,unknown> pri vstupe do [hez] izby však po [hez] zakopne alebo teda pošmykne sa na hracom autíčku a [spk] podľa sklonu jeho tela padá vlastne [hez] chrbticou smerom nadol.

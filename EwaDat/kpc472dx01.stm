@@ -1,0 +1,168 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:42 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 211014
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kpc472dx01 1 kpc472dx01_kpc472dx01 0.000 14.960 <o,f0,unknown> special_vokal
+kpc472dx01 1 kpc472dx01_kpc472dx01 14.960 22.920 <o,f0,unknown> special_pataka
+kpc472dx01 1 kpc472dx01_kpc472dx01 22.920 25.440 <o,f0,unknown> cesta
+kpc472dx01 1 kpc472dx01_kpc472dx01 25.440 28.000 <o,f0,unknown> kráľ
+kpc472dx01 1 kpc472dx01_kpc472dx01 28.000 30.280 <o,f0,unknown> kniha
+kpc472dx01 1 kpc472dx01_kpc472dx01 30.280 32.780 <o,f0,unknown> most
+kpc472dx01 1 kpc472dx01_kpc472dx01 32.780 35.080 <o,f0,unknown> topánky
+kpc472dx01 1 kpc472dx01_kpc472dx01 35.080 37.520 <o,f0,unknown> [ruch-] autobus [-ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 37.520 39.840 <o,f0,unknown> hodinky
+kpc472dx01 1 kpc472dx01_kpc472dx01 39.840 42.820 <o,f0,unknown> cigarety
+kpc472dx01 1 kpc472dx01_kpc472dx01 42.820 45.340 <o,f0,unknown> koruna kráľovská
+kpc472dx01 1 kpc472dx01_kpc472dx01 45.340 47.740 <o,f0,unknown> [ruch] bubon
+kpc472dx01 1 kpc472dx01_kpc472dx01 47.740 49.552 <o,f0,unknown> hodiny
+kpc472dx01 1 kpc472dx01_kpc472dx01 49.552 50.200 <o,f0,unknown> [ned-] budí [-ned]
+kpc472dx01 1 kpc472dx01_kpc472dx01 50.200 53.260 <o,f0,unknown> koleso z auta
+kpc472dx01 1 kpc472dx01_kpc472dx01 53.260 55.660 <o,f0,unknown> traktor
+kpc472dx01 1 kpc472dx01_kpc472dx01 55.660 58.080 <o,f0,unknown> teplomer
+kpc472dx01 1 kpc472dx01_kpc472dx01 58.080 60.440 <o,f0,unknown> [ruch-] lavička [-ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 60.440 62.940 <o,f0,unknown> [ruch-] fajka [-ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 62.940 65.560 <o,f0,unknown> električka
+kpc472dx01 1 kpc472dx01_kpc472dx01 65.560 67.780 <o,f0,unknown> [ruch-] zips [-ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 67.780 70.360 <o,f0,unknown> akvárium
+kpc472dx01 1 kpc472dx01_kpc472dx01 70.360 72.540 <o,f0,unknown> metla
+kpc472dx01 1 kpc472dx01_kpc472dx01 72.540 74.900 <o,f0,unknown> ťava
+kpc472dx01 1 kpc472dx01_kpc472dx01 74.900 77.260 <o,f0,unknown> [ruch-] lievik [-ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 77.260 79.540 <o,f0,unknown> huby
+kpc472dx01 1 kpc472dx01_kpc472dx01 79.540 82.100 <o,f0,unknown> vešiak
+kpc472dx01 1 kpc472dx01_kpc472dx01 82.100 84.700 <o,f0,unknown> [hez] domino
+kpc472dx01 1 kpc472dx01_kpc472dx01 84.700 87.040 <o,f0,unknown> kotva
+kpc472dx01 1 kpc472dx01_kpc472dx01 87.040 92.979 <o,f0,unknown> [hez] lieskové [hez] oriešok či nie tento [spk]
+kpc472dx01 1 kpc472dx01_kpc472dx01 92.979 95.923 <o,f0,unknown> %hm
+kpc472dx01 1 kpc472dx01_kpc472dx01 95.923 97.795 <o,f0,unknown> no teraz nespomeniem
+kpc472dx01 1 kpc472dx01_kpc472dx01 97.795 103.640 <o,f0,unknown> na strome čo padajú tie [smiech] [hez] neviem
+kpc472dx01 1 kpc472dx01_kpc472dx01 103.640 105.943 <o,f0,unknown> loď
+kpc472dx01 1 excluded_region 105.943 107.340 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 107.340 110.560 <o,f0,unknown> kozmonaut
+kpc472dx01 1 kpc472dx01_kpc472dx01 110.560 113.060 <o,f0,unknown> kaktus
+kpc472dx01 1 kpc472dx01_kpc472dx01 113.060 115.900 <o,f0,unknown> [spk] píše
+kpc472dx01 1 kpc472dx01_kpc472dx01 115.900 118.122 <o,f0,unknown> mastí chlieb
+kpc472dx01 1 kpc472dx01_kpc472dx01 118.122 119.814 <o,f0,unknown> natiera [ned-] ((ale [-ned] tak))
+kpc472dx01 1 kpc472dx01_kpc472dx01 119.814 121.820 <o,f0,unknown> spieva
+kpc472dx01 1 kpc472dx01_kpc472dx01 121.820 124.600 <o,f0,unknown> smeje sa
+kpc472dx01 1 kpc472dx01_kpc472dx01 124.600 127.660 <o,f0,unknown> ťahá lano
+kpc472dx01 1 kpc472dx01_kpc472dx01 127.660 130.700 <o,f0,unknown> kúpe sa [smiech]
+kpc472dx01 1 kpc472dx01_kpc472dx01 130.700 133.480 <o,f0,unknown> váži
+kpc472dx01 1 kpc472dx01_kpc472dx01 133.480 135.948 <o,f0,unknown> žiarovka
+kpc472dx01 1 excluded_region 135.948 138.980 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 138.980 142.520 <o,f0,unknown> [ruch] meria
+kpc472dx01 1 kpc472dx01_kpc472dx01 142.520 144.960 <o,f0,unknown> plače
+kpc472dx01 1 excluded_region 144.960 146.522 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 146.522 148.400 <o,f0,unknown> horí
+kpc472dx01 1 kpc472dx01_kpc472dx01 148.400 151.000 <o,f0,unknown> pije [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 151.000 153.600 <o,f0,unknown> varí [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 153.600 156.700 <o,f0,unknown> hádže oštep [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 156.700 159.460 <o,f0,unknown> klope [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 159.460 162.220 <o,f0,unknown> telefonuje [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 162.220 165.160 <o,f0,unknown> maľuje
+kpc472dx01 1 kpc472dx01_kpc472dx01 165.160 167.840 <o,f0,unknown> skáče
+kpc472dx01 1 kpc472dx01_kpc472dx01 167.840 170.320 <o,f0,unknown> šije [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 170.320 172.940 <o,f0,unknown> vŕta [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 172.940 175.760 <o,f0,unknown> lyžuje sa [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 175.760 178.840 <o,f0,unknown> krája
+kpc472dx01 1 kpc472dx01_kpc472dx01 178.840 181.320 <o,f0,unknown> hrabe
+kpc472dx01 1 kpc472dx01_kpc472dx01 181.320 184.420 <o,f0,unknown> [hez] fotí
+kpc472dx01 1 kpc472dx01_kpc472dx01 184.420 187.300 <o,f0,unknown> [ruch] polieva
+kpc472dx01 1 kpc472dx01_kpc472dx01 187.300 190.600 <o,f0,unknown> píli [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 190.600 193.580 <o,f0,unknown> bicykluje [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 193.580 196.720 <o,f0,unknown> pletie [ruch]
+kpc472dx01 1 kpc472dx01_kpc472dx01 196.720 201.200 <o,f0,unknown> [hez] [ruch] vesluje
+kpc472dx01 1 kpc472dx01_kpc472dx01 201.200 203.660 <o,f0,unknown> [spk] žehlí [ruch]
+kpc472dx01 1 excluded_region 203.660 207.233 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 207.233 209.817 <o,f0,unknown> [ruch] drží sa za prst.
+kpc472dx01 1 excluded_region 209.817 211.730 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 211.730 213.999 <o,f0,unknown> má vystretú dlaň.
+kpc472dx01 1 excluded_region 213.999 217.427 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 217.427 220.020 <o,f0,unknown> [ruch] neviem čo tam ((hovoriť na to tak))
+kpc472dx01 1 excluded_region 220.020 222.612 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 222.612 225.490 <o,f0,unknown> päť dlaň päť prstov [ruch] .
+kpc472dx01 1 excluded_region 225.490 226.557 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 226.557 229.072 <o,f0,unknown> drží sa malička:.
+kpc472dx01 1 excluded_region 229.072 229.957 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 229.957 232.231 <o,f0,unknown> je tam druhá menšia ruka.
+kpc472dx01 1 excluded_region 232.231 233.580 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 excluded_region 233.580 235.142 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 235.142 237.957 <o,f0,unknown> [spk] stôl a stoličky.
+kpc472dx01 1 kpc472dx01_kpc472dx01 237.957 241.255 <o,f0,unknown> šálky. v šálkach je káva.
+kpc472dx01 1 excluded_region 241.255 242.934 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 242.934 251.847 <o,f0,unknown> %hm aspoň si myslím alebo čaj no môže byť tiež. [spk] v teple je to lebo sa z toho ((parí)) [smiech] .
+kpc472dx01 1 kpc472dx01_kpc472dx01 251.847 256.204 <o,f0,unknown> [hez] ((čo)) ešte že to niekde asi v kaviarni.
+kpc472dx01 1 excluded_region 256.204 260.387 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 260.387 263.520 <o,f0,unknown> neviem. ďalej už neviem čo mám povedať.
+kpc472dx01 1 excluded_region 263.520 267.480 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 267.480 269.682 <o,f0,unknown> je je to v kuchyni.
+kpc472dx01 1 excluded_region 269.682 271.112 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 271.112 275.162 <o,f0,unknown> [ruch-] varí sa [-ruch] tam niečo. kypí z hrnca [ruch] .
+kpc472dx01 1 kpc472dx01_kpc472dx01 275.162 282.309 <o,f0,unknown> [ruch-] [hez] chlapec stojí na stoličke. [-ruch] padá z nej. chcel si zobrať banán [ruch] .
+kpc472dx01 1 excluded_region 282.309 284.117 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 284.117 289.230 <o,f0,unknown> [hez] ešte čo tam ((mám)) rozbil [ned-] s [-ned] rozbil [hez] luster [smiech] s varechou.
+kpc472dx01 1 excluded_region 289.230 291.203 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 291.203 293.536 <o,f0,unknown> mačka je tam čierna.
+kpc472dx01 1 excluded_region 293.536 295.637 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 295.637 300.513 <o,f0,unknown> no [spk] a ešte čo tam môže byť také %hm. tečie tam voda.
+kpc472dx01 1 excluded_region 300.513 307.375 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 307.375 311.905 <o,f0,unknown> otvorená skrinka. zo skrinky niečo [hez] vyteká.
+kpc472dx01 1 excluded_region 311.905 314.292 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 314.292 317.704 <o,f0,unknown> na linke je ovocie tanier.
+kpc472dx01 1 excluded_region 317.704 324.852 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 324.852 328.004 <o,f0,unknown> neviem už asi stačí [smiech] .
+kpc472dx01 1 kpc472dx01_kpc472dx01 328.004 338.846 <o,f0,unknown> neviem čo ešte mám také povedať. voda tečie na [hez] zemi je mláka už. [ruch] je tam ešte nejaká/dajaká utierka či čo to je toto ružové.
+kpc472dx01 1 kpc472dx01_kpc472dx01 338.846 341.514 <o,f0,unknown> [spk] %hm.
+kpc472dx01 1 excluded_region 341.514 347.192 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 347.192 350.810 <o,f0,unknown> no [spk] luster je tam. odbité je z neho.
+kpc472dx01 1 excluded_region 350.810 353.460 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 excluded_region 353.460 355.226 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 355.226 356.762 <o,f0,unknown> [ruch-] je tam kuchyňa. [-ruch]
+kpc472dx01 1 excluded_region 356.762 358.090 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 358.090 368.955 <o,f0,unknown> [ruch-] [hez] žena varí niečo pečie na panvici. [-ruch] pozerá do počítača. [hez] na: sporáku má/ma hrniec.
+kpc472dx01 1 excluded_region 368.955 370.195 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 370.195 382.143 <o,f0,unknown> potom čo tam je tam na linke tam [hez] nôž tam má. neviem čo to je či nejaké/dajaké ovocie či zelenina. [ruch] na polici [ex] je tam polica. na polici sedí mačka?
+kpc472dx01 1 kpc472dx01_kpc472dx01 382.143 394.162 <o,f0,unknown> je tam na polici je ešte aj fľaša a nejaký pohár. hodiny sú na stene. je na nich koľko je dvanásť dvadsať ((ako)) hodín.
+kpc472dx01 1 kpc472dx01_kpc472dx01 394.162 398.822 <o,f0,unknown> [spk] na druhej polici [ex] sú nejaké knihy.
+kpc472dx01 1 excluded_region 398.822 400.659 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 400.659 402.650 <o,f0,unknown> čo to ešte také.
+kpc472dx01 1 excluded_region 402.650 407.779 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 407.779 412.771 <o,f0,unknown> [spk] mlieko je tam na t na tom stole či na linke či čo to je a.
+kpc472dx01 1 kpc472dx01_kpc472dx01 412.771 414.155 <o,f0,unknown> %hm
+kpc472dx01 1 excluded_region 414.155 416.676 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 416.676 422.078 <o,f0,unknown> %jáj takže/taže varí varí sa tam. má dieťa na ruke ktoré plače.
+kpc472dx01 1 excluded_region 422.078 424.866 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 424.866 425.971 <o,f0,unknown> %hm
+kpc472dx01 1 excluded_region 425.971 428.543 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 428.543 430.976 <o,f0,unknown> neviem neviem už čo tam písať.
+kpc472dx01 1 kpc472dx01_kpc472dx01 430.976 434.277 <o,f0,unknown> či písať [smiech] rozprávať.
+kpc472dx01 1 kpc472dx01_kpc472dx01 434.277 443.400 <o,f0,unknown> hodinky ((toto víno víno)) neviem toto niečo/dačo padá tam z poličky to žlté ale neviem čo to je. [hez]
+kpc472dx01 1 excluded_region 443.400 445.885 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 445.885 448.571 <o,f0,unknown> [spk] vianoce sú.
+kpc472dx01 1 excluded_region 448.571 450.593 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 450.593 453.807 <o,f0,unknown> pod stromčekom asi boli darčeky a.
+kpc472dx01 1 excluded_region 453.807 455.255 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 455.255 462.214 <o,f0,unknown> [hez] chlap chlapci sa tam čo? naťahujú sa tam niečo/dačo berú zo stromčeka.
+kpc472dx01 1 kpc472dx01_kpc472dx01 462.214 467.952 <o,f0,unknown> [spk] žena je tam ktorá telefonuje. pes [hez] spí na zemi.
+kpc472dx01 1 excluded_region 467.952 470.333 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 470.333 488.238 <o,f0,unknown> [hez] ten muž sa postavil na auto na autíčko padá. stromček padá. je na ňom hviezda žltá. okno. za oknom [hez] s [hez] s [hez] sne [hez] sneží. na okne je záves [ruch] .
+kpc472dx01 1 kpc472dx01_kpc472dx01 488.238 498.581 <o,f0,unknown> [ruch-] otvorené dvere sú tam. sneží až do vnútra. potom stromček je ozdobený s farebnými [spk] guľami [-ruch] .
+kpc472dx01 1 excluded_region 498.581 500.500 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 500.500 504.402 <o,f0,unknown> [ruch-] no. za oknom nejaký/dajaký chlapec pozerá dovnútra [-ruch] .
+kpc472dx01 1 excluded_region 504.402 507.278 <o,,unknown> ignore_time_segment_in_scoring
+kpc472dx01 1 kpc472dx01_kpc472dx01 507.278 509.117 <o,f0,unknown> [ruch-] a neviem [-ruch] .
+kpc472dx01 1 kpc472dx01_kpc472dx01 509.117 518.121 <o,f0,unknown> [ruch-] žena je oblečená. má m [hez] modré nohavice červené papuče [hez] zelený sveter [-ruch] .

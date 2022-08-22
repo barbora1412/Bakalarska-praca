@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:16 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210826
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvon6301 1 lpvvon6301_lpvvon6301 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvon6301 1 lpvvon6301_lpvvon6301 14.940 22.880 <o,f0,unknown> special_pataka
+lpvvon6301 1 lpvvon6301_lpvvon6301 22.880 26.060 <o,f0,unknown> cesta
+lpvvon6301 1 lpvvon6301_lpvvon6301 26.060 28.380 <o,f0,unknown> kráľ
+lpvvon6301 1 lpvvon6301_lpvvon6301 28.380 30.620 <o,f0,unknown> kniha
+lpvvon6301 1 lpvvon6301_lpvvon6301 30.620 33.000 <o,f0,unknown> most
+lpvvon6301 1 lpvvon6301_lpvvon6301 33.000 35.380 <o,f0,unknown> topánky
+lpvvon6301 1 lpvvon6301_lpvvon6301 35.380 37.720 <o,f0,unknown> autobus
+lpvvon6301 1 lpvvon6301_lpvvon6301 37.720 40.180 <o,f0,unknown> hodinky
+lpvvon6301 1 lpvvon6301_lpvvon6301 40.180 42.520 <o,f0,unknown> cigarety
+lpvvon6301 1 lpvvon6301_lpvvon6301 42.520 44.980 <o,f0,unknown> koruna
+lpvvon6301 1 lpvvon6301_lpvvon6301 44.980 47.200 <o,f0,unknown> bubon
+lpvvon6301 1 lpvvon6301_lpvvon6301 47.200 50.020 <o,f0,unknown> %aha budík/budik [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 50.020 52.540 <o,f0,unknown> koleso [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 52.540 54.900 <o,f0,unknown> traktor
+lpvvon6301 1 lpvvon6301_lpvvon6301 54.900 57.380 <o,f0,unknown> teplomer
+lpvvon6301 1 lpvvon6301_lpvvon6301 57.380 59.740 <o,f0,unknown> lavička
+lpvvon6301 1 lpvvon6301_lpvvon6301 59.740 62.020 <o,f0,unknown> fajka
+lpvvon6301 1 lpvvon6301_lpvvon6301 62.020 63.829 <o,f0,unknown> električka/ejektrička
+lpvvon6301 1 lpvvon6301_lpvvon6301 63.829 64.580 <o,f0,unknown> [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 64.580 66.760 <o,f0,unknown> zips
+lpvvon6301 1 lpvvon6301_lpvvon6301 66.760 69.820 <o,f0,unknown> [hez] akvárium
+lpvvon6301 1 lpvvon6301_lpvvon6301 69.820 71.980 <o,f0,unknown> metla
+lpvvon6301 1 lpvvon6301_lpvvon6301 71.980 74.260 <o,f0,unknown> ťava
+lpvvon6301 1 lpvvon6301_lpvvon6301 74.260 76.740 <o,f0,unknown> lievik
+lpvvon6301 1 lpvvon6301_lpvvon6301 76.740 79.300 <o,f0,unknown> hríby
+lpvvon6301 1 lpvvon6301_lpvvon6301 79.300 81.600 <o,f0,unknown> vešiak
+lpvvon6301 1 lpvvon6301_lpvvon6301 81.600 83.940 <o,f0,unknown> domino kocky
+lpvvon6301 1 lpvvon6301_lpvvon6301 83.940 86.660 <o,f0,unknown> kotva
+lpvvon6301 1 lpvvon6301_lpvvon6301 86.660 88.275 <o,f0,unknown> žaluď
+lpvvon6301 1 lpvvon6301_lpvvon6301 88.275 89.280 <o,f0,unknown> [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 89.280 92.100 <o,f0,unknown> [spk] ponorka
+lpvvon6301 1 lpvvon6301_lpvvon6301 92.100 94.820 <o,f0,unknown> kozmonaut
+lpvvon6301 1 lpvvon6301_lpvvon6301 94.820 98.340 <o,f0,unknown> [hez] kaktus
+lpvvon6301 1 lpvvon6301_lpvvon6301 98.340 102.520 <o,f0,unknown> [hez] píše list
+lpvvon6301 1 lpvvon6301_lpvvon6301 102.520 105.760 <o,f0,unknown> natiera
+lpvvon6301 1 lpvvon6301_lpvvon6301 105.760 108.400 <o,f0,unknown> spieva
+lpvvon6301 1 lpvvon6301_lpvvon6301 108.400 111.020 <o,f0,unknown> smeje sa
+lpvvon6301 1 lpvvon6301_lpvvon6301 111.020 114.380 <o,f0,unknown> ťahá
+lpvvon6301 1 lpvvon6301_lpvvon6301 114.380 117.340 <o,f0,unknown> kúpe sa
+lpvvon6301 1 lpvvon6301_lpvvon6301 117.340 119.920 <o,f0,unknown> váži
+lpvvon6301 1 lpvvon6301_lpvvon6301 119.920 122.680 <o,f0,unknown> svieti
+lpvvon6301 1 lpvvon6301_lpvvon6301 122.680 124.022 <o,f0,unknown> meria
+lpvvon6301 1 lpvvon6301_lpvvon6301 124.022 125.200 <o,f0,unknown> [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 125.200 127.700 <o,f0,unknown> plače
+lpvvon6301 1 excluded_region 127.700 129.728 <o,,unknown> ignore_time_segment_in_scoring
+lpvvon6301 1 lpvvon6301_lpvvon6301 129.728 131.820 <o,f0,unknown> horí/hori
+lpvvon6301 1 lpvvon6301_lpvvon6301 131.820 134.260 <o,f0,unknown> pije
+lpvvon6301 1 lpvvon6301_lpvvon6301 134.260 136.500 <o,f0,unknown> varí
+lpvvon6301 1 lpvvon6301_lpvvon6301 136.500 139.260 <o,f0,unknown> hádže
+lpvvon6301 1 lpvvon6301_lpvvon6301 139.260 141.640 <o,f0,unknown> klope
+lpvvon6301 1 lpvvon6301_lpvvon6301 141.640 144.220 <o,f0,unknown> telefonuje
+lpvvon6301 1 lpvvon6301_lpvvon6301 144.220 146.660 <o,f0,unknown> maľuje
+lpvvon6301 1 lpvvon6301_lpvvon6301 146.660 148.980 <o,f0,unknown> skáče
+lpvvon6301 1 lpvvon6301_lpvvon6301 148.980 151.380 <o,f0,unknown> šije
+lpvvon6301 1 lpvvon6301_lpvvon6301 151.380 153.700 <o,f0,unknown> vŕta
+lpvvon6301 1 lpvvon6301_lpvvon6301 153.700 154.953 <o,f0,unknown> lyžuje
+lpvvon6301 1 lpvvon6301_lpvvon6301 154.953 156.140 <o,f0,unknown> [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 156.140 158.700 <o,f0,unknown> [spk] krája [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 158.700 161.240 <o,f0,unknown> hrabe
+lpvvon6301 1 lpvvon6301_lpvvon6301 161.240 163.880 <o,f0,unknown> fotí/foti
+lpvvon6301 1 lpvvon6301_lpvvon6301 163.880 166.140 <o,f0,unknown> polieva
+lpvvon6301 1 lpvvon6301_lpvvon6301 166.140 171.620 <o,f0,unknown> piluje
+lpvvon6301 1 lpvvon6301_lpvvon6301 171.620 174.180 <o,f0,unknown> bicykluje
+lpvvon6301 1 lpvvon6301_lpvvon6301 174.180 176.780 <o,f0,unknown> štrikuje
+lpvvon6301 1 lpvvon6301_lpvvon6301 176.780 179.740 <o,f0,unknown> veslujú
+lpvvon6301 1 lpvvon6301_lpvvon6301 179.740 181.204 <o,f0,unknown> žehlí
+lpvvon6301 1 lpvvon6301_lpvvon6301 181.204 182.360 <o,f0,unknown> [spk]
+lpvvon6301 1 lpvvon6301_lpvvon6301 182.360 212.360 <o,f0,unknown> tak na obrázku vidím ruky. sú to dve [hez] ruky. jedna je ruka dospelého. druhá je ruka dieťaťa. [hez] ruka ru ruka dieťaťa drží ruku dospelého a to konkrétne za malíček. [hez] obidve ruky: majú [hez] päť [hez] prstov. [hez] na rukách sú palec ukazovák prostredník [hez] prstenník mal
+lpvvon6301 1 excluded_region 212.360 213.335 <o,,unknown> ignore_time_segment_in_scoring
+lpvvon6301 1 lpvvon6301_lpvvon6301 213.335 242.300 <o,f0,unknown> tak [hez] na obrázku vidím [hez] ako keby zariadenie kaviarne:. sedia [hez] sú tam [hez] dve stoličky k tomu jeden stôl/stvol. [hez] na stole: sú dve kávy. tie kávy budú asi horúce lebo sa z/s nich dymí. [hez] v káve je: položená [hez] lyžička aby si ju mohol pijúci zamiešať. [hez] obrázo
+lpvvon6301 1 excluded_region 242.300 244.691 <o,,unknown> ignore_time_segment_in_scoring
+lpvvon6301 1 lpvvon6301_lpvvon6301 244.691 251.816 <o,f0,unknown> [hez] na obrázku: [hez] je vidieť ako vyzerá/vyzera kuchyňa keď [hez] varí muž.
+lpvvon6301 1 lpvvon6301_lpvvon6301 251.816 270.558 <o,f0,unknown> [hez] je [hez] na ňom [hez] sú na ňom kuchynské linky [hez] umývadlo ktorého preteká voda muž ktorý sa snaží [hez] chytiť [hez] ((no)) ((to)) ((vyzerá)) ((x)) skôr na včelu [hez] včelu a: pritom rozbil lampu varechou.
+lpvvon6301 1 lpvvon6301_lpvvon6301 270.558 279.427 <o,f0,unknown> [hez] dieťa sa snaží na stoličke dosiahnuť banán čo vyzerá veľmi nebezpečne lebo asi za chvíľku spadne.
+lpvvon6301 1 lpvvon6301_lpvvon6301 279.427 285.582 <o,f0,unknown> okrem [hez] banánu má [hez] dieťa na dosah aj [hez] jablko.
+lpvvon6301 1 lpvvon6301_lpvvon6301 285.582 301.505 <o,f0,unknown> [hez] [hez] d muž s s popri všetkom sa snaží aj variť [hez] pričom [hez] hrniec je položený/položeny na sporáku [hez] . v dôsledku zapnutého sporáka začína jedlo z hrnca kypiť.
+lpvvon6301 1 lpvvon6301_lpvvon6301 301.505 318.167 <o,f0,unknown> [spk] zároveň [hez] celý ten obrázok [hez] jeho atmosféru vyjadruje v rohu prizerajúca sa čierna mačka [hez] s vyvalenými čiern [hez] zelenými očami.
+lpvvon6301 1 lpvvon6301_lpvvon6301 318.167 332.240 <o,f0,unknown> [hez] chlapček na obrázku má oblečené červené tričko: modré nohavice a [hez] červené topánky. [hez] muž na obrázku má obleče
+lpvvon6301 1 lpvvon6301_lpvvon6301 332.240 344.656 <o,f0,unknown> %h to som ja [smiech] . na obrázku je vidieť [hez] ženu: ktorá/ktora sa snaží [hez] naraz [hez] urobiť niekoľko činností.
+lpvvon6301 1 lpvvon6301_lpvvon6301 344.656 356.418 <o,f0,unknown> [hez] vidíme že jedno z tých/tych činností je [hez] varenie. snaží sa [hez] aby sa jej nepripálila slanina s volskými ok okami.
+lpvvon6301 1 lpvvon6301_lpvvon6301 356.418 371.665 <o,f0,unknown> [hez] zároveň [hez] sa snaží utíšiť [hez] na: [hez] jej rukách plačúce dieťa. [hez] dieťatko: je chlapček a a má oblečené modré dupačky.
+lpvvon6301 1 lpvvon6301_lpvvon6301 371.665 389.986 <o,f0,unknown> okrem toho [hez] má [hez] [hez] po pravej ruke položený notebook [hez] čiže zrejme sa snaží [hez] byť spojená aj so s [hez] zamestnávateľom a teda pracovať. možno je na homeoffice/houmofise.
+lpvvon6301 1 lpvvon6301_lpvvon6301 389.986 403.611 <o,f0,unknown> [hez] nad [hez] ženou je: taká/taka bublinka kde sú znázornené topánky. zrejme rozmýšľa popri/propri tom všetkom kedy odnesie topánky [hez] do opravy.
+lpvvon6301 1 lpvvon6301_lpvvon6301 403.611 422.240 <o,f0,unknown> [hez] taktiež je tam na poličke sediaca mačka ktorá sa na to prizerá/prizera alebo ktorá sa tomu prizerá/prizera. [hez] podarilo sa jej zhodiť práve z poličky [hez] vázu ktorú vidíme [hez] padať aj s kvetmi na zem.
+lpvvon6301 1 lpvvon6301_lpvvon6301 422.240 451.070 <o,f0,unknown> [hez] vianoce [hez] sú na obrázku znázornené. [hez] je to vlastne rodina [hez] pri ktorej otec [hez] prichádza domov. deti sa zrejme predtým hrali s autíčkami. [hez] zabudli ich upratať a tak sa [hez] [hez] otec alebo muž v na: žltom autíčku pošmykol. okrem toho na zemi ešte leží aj červené autíčko.
+lpvvon6301 1 lpvvon6301_lpvvon6301 451.070 459.036 <o,f0,unknown> zároveň je tu: [hez] žena ktorá je zrejme matkou rodiny. [hez] táto momentálne telefonuje.
+lpvvon6301 1 lpvvon6301_lpvvon6301 459.036 477.063 <o,f0,unknown> [hez] v pozadí je ešte vnútri vidieť hrajúci sa chlapec ktorý ťahá za [hez] svetelnú šnúru ktorá je na stromčeku. [hez] v dôsledku toho stromček [hez] sa nakláňa a začína padať.
+lpvvon6301 1 lpvvon6301_lpvvon6301 477.063 482.175 <o,f0,unknown> takisto v izbe: je [spk] ležiaci a spiaci pes.
+lpvvon6301 1 lpvvon6301_lpvvon6301 482.175 503.917 <o,f0,unknown> [hez] čo sa týka vonkajšieho prostredia tam je vidieť že sneží. [hez] za oknom je vidieť [hez] chlapec ktorý sa na to všetko cez okno: pozerá/pozera. [hez] chlapec má na hlave oblečenú [hez] čiapočku na ktorej je [hez] červený [hez] brmbolec. [spk]

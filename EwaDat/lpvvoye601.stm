@@ -1,0 +1,120 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:48 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210829
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvoye601 1 lpvvoye601_lpvvoye601 0.000 15.000 <o,f0,unknown> special_vokal
+lpvvoye601 1 lpvvoye601_lpvvoye601 15.000 22.940 <o,f0,unknown> special_pataka
+lpvvoye601 1 excluded_region 22.940 23.917 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 23.917 25.660 <o,f0,unknown> cesta
+lpvvoye601 1 excluded_region 25.660 26.116 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 26.116 27.067 <o,f0,unknown> [hez] kráľ
+lpvvoye601 1 excluded_region 27.067 28.200 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 excluded_region 28.200 29.029 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 29.029 30.760 <o,f0,unknown> kniha
+lpvvoye601 1 lpvvoye601_lpvvoye601 30.760 33.120 <o,f0,unknown> most
+lpvvoye601 1 lpvvoye601_lpvvoye601 33.120 35.860 <o,f0,unknown> topánky/topanky
+lpvvoye601 1 lpvvoye601_lpvvoye601 35.860 38.620 <o,f0,unknown> autobus
+lpvvoye601 1 lpvvoye601_lpvvoye601 38.620 41.120 <o,f0,unknown> hodinky
+lpvvoye601 1 lpvvoye601_lpvvoye601 41.120 44.040 <o,f0,unknown> cigarety
+lpvvoye601 1 lpvvoye601_lpvvoye601 44.040 46.387 <o,f0,unknown> kráľovská koruna
+lpvvoye601 1 excluded_region 46.387 47.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 47.420 49.940 <o,f0,unknown> bubon
+lpvvoye601 1 lpvvoye601_lpvvoye601 49.940 52.500 <o,f0,unknown> [ex-] hodiny [-ex] [ex-] budíky/budiky [-ex]
+lpvvoye601 1 lpvvoye601_lpvvoye601 52.500 55.120 <o,f0,unknown> koleso
+lpvvoye601 1 lpvvoye601_lpvvoye601 55.120 58.000 <o,f0,unknown> traktor
+lpvvoye601 1 excluded_region 58.000 58.779 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 58.779 61.000 <o,f0,unknown> te:plomer
+lpvvoye601 1 lpvvoye601_lpvvoye601 61.000 64.080 <o,f0,unknown> lavička
+lpvvoye601 1 lpvvoye601_lpvvoye601 64.080 65.820 <o,f0,unknown> fajka
+lpvvoye601 1 excluded_region 65.820 67.180 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 67.180 70.000 <o,f0,unknown> električka
+lpvvoye601 1 lpvvoye601_lpvvoye601 70.000 72.620 <o,f0,unknown> zips
+lpvvoye601 1 lpvvoye601_lpvvoye601 72.620 75.420 <o,f0,unknown> akvárium [ex]
+lpvvoye601 1 lpvvoye601_lpvvoye601 75.420 78.220 <o,f0,unknown> me:tla
+lpvvoye601 1 lpvvoye601_lpvvoye601 78.220 81.520 <o,f0,unknown> ťava dvojhrbá
+lpvvoye601 1 lpvvoye601_lpvvoye601 81.520 83.488 <o,f0,unknown> lievik/lieik
+lpvvoye601 1 excluded_region 83.488 84.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 84.620 87.820 <o,f0,unknown> hríbiky/hribiky
+lpvvoye601 1 lpvvoye601_lpvvoye601 87.820 90.740 <o,f0,unknown> vešiačik
+lpvvoye601 1 lpvvoye601_lpvvoye601 90.740 93.640 <o,f0,unknown> domino
+lpvvoye601 1 lpvvoye601_lpvvoye601 93.640 96.840 <o,f0,unknown> kotva
+lpvvoye601 1 lpvvoye601_lpvvoye601 96.840 101.860 <o,f0,unknown> [hez] ((to)) ((je)) žaluďka tuším/tušim [ex]
+lpvvoye601 1 lpvvoye601_lpvvoye601 101.860 105.120 <o,f0,unknown> ponorka
+lpvvoye601 1 lpvvoye601_lpvvoye601 105.120 108.320 <o,f0,unknown> kozmonaut
+lpvvoye601 1 lpvvoye601_lpvvoye601 108.320 111.400 <o,f0,unknown> kaktus
+lpvvoye601 1 lpvvoye601_lpvvoye601 111.400 113.880 <o,f0,unknown> píše/piše
+lpvvoye601 1 lpvvoye601_lpvvoye601 113.880 117.180 <o,f0,unknown> natiera si chlebík/chlebik
+lpvvoye601 1 lpvvoye601_lpvvoye601 117.180 119.760 <o,f0,unknown> spieva
+lpvvoye601 1 lpvvoye601_lpvvoye601 119.760 122.800 <o,f0,unknown> smeje sa
+lpvvoye601 1 lpvvoye601_lpvvoye601 122.800 125.800 <o,f0,unknown> ťahá lano
+lpvvoye601 1 lpvvoye601_lpvvoye601 125.800 128.760 <o,f0,unknown> kúpe sa [smiech] drobec
+lpvvoye601 1 lpvvoye601_lpvvoye601 128.760 131.760 <o,f0,unknown> váži
+lpvvoye601 1 lpvvoye601_lpvvoye601 131.760 134.420 <o,f0,unknown> svieti žiarovka
+lpvvoye601 1 lpvvoye601_lpvvoye601 134.420 137.200 <o,f0,unknown> meria
+lpvvoye601 1 lpvvoye601_lpvvoye601 137.200 139.880 <o,f0,unknown> plače
+lpvvoye601 1 lpvvoye601_lpvvoye601 139.880 142.680 <o,f0,unknown> horí
+lpvvoye601 1 lpvvoye601_lpvvoye601 142.680 145.420 <o,f0,unknown> pije
+lpvvoye601 1 lpvvoye601_lpvvoye601 145.420 148.040 <o,f0,unknown> varí
+lpvvoye601 1 lpvvoye601_lpvvoye601 148.040 151.480 <o,f0,unknown> hod oštepom
+lpvvoye601 1 lpvvoye601_lpvvoye601 151.480 154.420 <o,f0,unknown> klope
+lpvvoye601 1 lpvvoye601_lpvvoye601 154.420 157.240 <o,f0,unknown> telefonuje [ruch]
+lpvvoye601 1 lpvvoye601_lpvvoye601 157.240 160.180 <o,f0,unknown> maľuje
+lpvvoye601 1 lpvvoye601_lpvvoye601 160.180 163.620 <o,f0,unknown> skáče cez švihadlo [ruch]
+lpvvoye601 1 lpvvoye601_lpvvoye601 163.620 166.580 <o,f0,unknown> šije
+lpvvoye601 1 excluded_region 166.580 167.370 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 167.370 169.140 <o,f0,unknown> vŕta/vrta
+lpvvoye601 1 lpvvoye601_lpvvoye601 169.140 171.780 <o,f0,unknown> lyžuje
+lpvvoye601 1 lpvvoye601_lpvvoye601 171.780 174.620 <o,f0,unknown> krája ((syrík))
+lpvvoye601 1 lpvvoye601_lpvvoye601 174.620 177.300 <o,f0,unknown> hrabe
+lpvvoye601 1 lpvvoye601_lpvvoye601 177.300 180.380 <o,f0,unknown> fotografuje
+lpvvoye601 1 lpvvoye601_lpvvoye601 180.380 182.201 <o,f0,unknown> polieva
+lpvvoye601 1 excluded_region 182.201 183.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 183.460 186.560 <o,f0,unknown> píli
+lpvvoye601 1 lpvvoye601_lpvvoye601 186.560 189.700 <o,f0,unknown> bicykluje
+lpvvoye601 1 lpvvoye601_lpvvoye601 189.700 191.826 <o,f0,unknown> štrikuje
+lpvvoye601 1 excluded_region 191.826 192.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 192.500 195.440 <o,f0,unknown> veslujú/vesluju
+lpvvoye601 1 lpvvoye601_lpvvoye601 195.440 198.200 <o,f0,unknown> žehlí
+lpvvoye601 1 excluded_region 198.200 200.081 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 200.081 206.941 <o,f0,unknown> dieťa drží [ruch-] za ruku dospelého človeka. [-ruch] [ruch]
+lpvvoye601 1 lpvvoye601_lpvvoye601 206.941 221.266 <o,f0,unknown> [ruch-] môžem aj tak že s skúša [-ruch] alebo buď ((ho)) ((volá)) alebo: [hez] dožaduje sa pozornosti: ((alebo)) potrebuje proste cítiť mamu alebo ocka.
+lpvvoye601 1 lpvvoye601_lpvvoye601 221.266 228.200 <o,f0,unknown> [hez] ide o hmatové dotyky ktoré/ktore sú/su dôleži
+lpvvoye601 1 lpvvoye601_lpvvoye601 228.200 241.780 <o,f0,unknown> no kávička. pohoda. [hez] z kávy sa parí ((xxx)). stoličky čakajú na ľudí/ľudi kedy si prídu sadnúť/sadnuť a kávička tiež.
+lpvvoye601 1 lpvvoye601_lpvvoye601 241.780 258.140 <o,f0,unknown> asi bude dobrá [ex] [hez] . niekto to tam pripravil a: možno bude nejaký/nejaky zaujímavý/zaujímavy rozhovor tam prebiehať. stretnú sa možno dvaja ľudia ktorí sa majú radi.
+lpvvoye601 1 excluded_region 258.140 261.337 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 261.337 267.950 <o,f0,unknown> %e:j muž je tuším/tušim nervózny lebo klepe o luster. [ruch]
+lpvvoye601 1 lpvvoye601_lpvvoye601 267.950 272.539 <o,f0,unknown> má tam dieťa ktoré narobilo neporiadok. [ruch]
+lpvvoye601 1 lpvvoye601_lpvvoye601 272.539 283.007 <o,f0,unknown> vo:da tečie z/s: umývadla. dieťa padá na stoličke lebo chce banán alebo nejaké ovocie a tatko si zrejme nevie dať rady.
+lpvvoye601 1 lpvvoye601_lpvvoye601 283.007 304.688 <o,f0,unknown> z hrnca mu kypí niečo. [ruch] skrinka je tiež [ruch-] otvorená a s tiež sa niečo vysypalo takže [-ruch] %ja:j [hez] manžel alebo tatko s: tuším zabije nejaký hmyz na lustri a mačka sa tomu všetkému čuduje.
+lpvvoye601 1 lpvvoye601_lpvvoye601 304.688 320.877 <o,f0,unknown> [ruch] no: bude tam asi potopa lebo voda už tečie po zemi a: [hez] v dreze/drese je plno vody: a peny. to bude pohroma keď príde mama domov.
+lpvvoye601 1 lpvvoye601_lpvvoye601 320.877 331.291 <o,f0,unknown> hrniec kypí a prihára takže je tam veľký/veľky veľký/veľky zmätok. ale kuchyňa je pekná/pekna.
+lpvvoye601 1 lpvvoye601_lpvvoye601 331.291 340.115 <o,f0,unknown> no a ako dopadne dieťa to uvidíme či nespadne z tej stoličky a nebude ďalšia pohroma v kuchyni.
+lpvvoye601 1 lpvvoye601_lpvvoye601 340.115 348.080 <o,f0,unknown> no tatko to jednoducho nezvláda všetko. mačka nakúka že čo sa to tam deje.
+lpvvoye601 1 excluded_region 348.080 349.756 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 349.756 357.298 <o,f0,unknown> no ďalší/ďalši [ruch] ďalšia [ex] pohroma v kuchyni.
+lpvvoye601 1 lpvvoye601_lpvvoye601 357.298 365.077 <o,f0,unknown> mačka sedí na: poličke. vysýpa. čo to padlo? kvietok spadol dolu.
+lpvvoye601 1 lpvvoye601_lpvvoye601 365.077 393.544 <o,f0,unknown> mamina sa snaží robiť štyri činnosti naraz/narasť lebo v hrnci jej vrie niečo [hez] v rúčke v ruke má palacinkár. snaží sa niečo upiecť. niečo jej tam lieta. na rukách drží bábätko: ktoré plače. je nervózne. a ešte si dokonca dala aj telefón k uchu takže ktovie čo z toho všetkého bude.
+lpvvoye601 1 lpvvoye601_lpvvoye601 393.544 438.020 <o,f0,unknown> [ruch] no potrebuje ešte pokrájať zeleninu do polievky ale asi nevie ako. možno že sa práve radí. %ja: %aha ona vlastne rozmýšľa že jaké topánky si má/ma kúpiť. ((no) ((ale)) to sa tuším nerobí ((no)) pretože prvoradé/prvorade by malo byť bábätko vypnúť [ex] samozrejme [hez] sporák aby nám to nezhorelo dať mačku dole a všetko po poriadku po kúsku a pri: [hez] varení sa nerozmýšľa či si kúpim topánky alebo nie pretože dieťa je prvoradé. takže
+lpvvoye601 1 excluded_region 438.020 441.151 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 441.151 443.628 <o,f0,unknown> %hm: krásne vianoce.
+lpvvoye601 1 excluded_region 443.628 445.190 <o,,unknown> ignore_time_segment_in_scoring
+lpvvoye601 1 lpvvoye601_lpvvoye601 445.190 452.089 <o,f0,unknown> no: takto by vianoce asi nemali vyzerať lebo: [hez] je tam nejaký zmätok.
+lpvvoye601 1 lpvvoye601_lpvvoye601 452.089 462.167 <o,f0,unknown> stromček je: krásne vyzdobený ale: na dieťa nedali pozor takže je možnosť/možnos že celý spadne dolu.
+lpvvoye601 1 lpvvoye601_lpvvoye601 462.167 479.369 <o,f0,unknown> mamina tiež telefonuje čo je chyba a možnože telefonuje s [hez] nejakým/nejakym rodinným/rodinym príslušníkom lenže: [hez] môže/mo:že sa stať/stat niečo zlé.
+lpvvoye601 1 lpvvoye601_lpvvoye601 479.369 494.743 <o,f0,unknown> ocko otvoril dvere no a samozrejme hračky boli rozhádzané. bolo tam autíčko/autičko na ktoré stúpil/stupil. autíčko má koliesko takže sa troška previezol a spadol na zadok.
+lpvvoye601 1 lpvvoye601_lpvvoye601 494.743 526.791 <o,f0,unknown> ale nakoniec ((aj)) psík si z toho všetkého nič nerobí [ruch-] a: [-ruch] spinká pokojne v kúte. no možno že to skončí dobre. mama s:náď zistí že čo sa deje okolo nej a zachráni všetko a tatkovi sa snáď/snaď tiež nič nestane nič zlé že si nezlomí ruku alebo niečo. nakoniec možno spolu budú/budu prežívať pekné vianoce lebo ocko doniesol ďalší darček domov.

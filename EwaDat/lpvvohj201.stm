@@ -1,0 +1,121 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:21 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210828
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvohj201 1 lpvvohj201_lpvvohj201 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvohj201 1 lpvvohj201_lpvvohj201 14.940 22.860 <o,f0,unknown> special_pataka
+lpvvohj201 1 excluded_region 22.860 24.333 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 24.333 26.360 <o,f0,unknown> cesta
+lpvvohj201 1 lpvvohj201_lpvvohj201 26.360 30.400 <o,f0,unknown> pápež kráľ kardinál
+lpvvohj201 1 lpvvohj201_lpvvohj201 30.400 32.880 <o,f0,unknown> kniha
+lpvvohj201 1 lpvvohj201_lpvvohj201 32.880 34.675 <o,f0,unknown> most
+lpvvohj201 1 excluded_region 34.675 35.540 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 excluded_region 35.540 36.438 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 36.438 38.120 <o,f0,unknown> topánky
+lpvvohj201 1 lpvvohj201_lpvvohj201 38.120 40.480 <o,f0,unknown> autobus
+lpvvohj201 1 lpvvohj201_lpvvohj201 40.480 42.740 <o,f0,unknown> hodiny
+lpvvohj201 1 lpvvohj201_lpvvohj201 42.740 45.240 <o,f0,unknown> cigaretky
+lpvvohj201 1 lpvvohj201_lpvvohj201 45.240 48.360 <o,f0,unknown> koruna
+lpvvohj201 1 lpvvohj201_lpvvohj201 48.360 50.840 <o,f0,unknown> bubon
+lpvvohj201 1 lpvvohj201_lpvvohj201 50.840 53.580 <o,f0,unknown> ho budík/budik
+lpvvohj201 1 lpvvohj201_lpvvohj201 53.580 56.340 <o,f0,unknown> koleso
+lpvvohj201 1 lpvvohj201_lpvvohj201 56.340 58.820 <o,f0,unknown> traktor
+lpvvohj201 1 lpvvohj201_lpvvohj201 58.820 61.240 <o,f0,unknown> teplomer
+lpvvohj201 1 lpvvohj201_lpvvohj201 61.240 63.580 <o,f0,unknown> lavica
+lpvvohj201 1 lpvvohj201_lpvvohj201 63.580 65.880 <o,f0,unknown> fajka
+lpvvohj201 1 lpvvohj201_lpvvohj201 65.880 68.600 <o,f0,unknown> električka
+lpvvohj201 1 lpvvohj201_lpvvohj201 68.600 70.980 <o,f0,unknown> zips
+lpvvohj201 1 lpvvohj201_lpvvohj201 70.980 73.780 <o,f0,unknown> akvárium
+lpvvohj201 1 lpvvohj201_lpvvohj201 73.780 75.940 <o,f0,unknown> metla
+lpvvohj201 1 lpvvohj201_lpvvohj201 75.940 78.260 <o,f0,unknown> ťava
+lpvvohj201 1 excluded_region 78.260 79.399 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 79.399 81.400 <o,f0,unknown> lievik
+lpvvohj201 1 lpvvohj201_lpvvohj201 81.400 83.920 <o,f0,unknown> hríbiky
+lpvvohj201 1 lpvvohj201_lpvvohj201 83.920 86.360 <o,f0,unknown> vešiak
+lpvvohj201 1 lpvvohj201_lpvvohj201 86.360 88.920 <o,f0,unknown> domino
+lpvvohj201 1 lpvvohj201_lpvvohj201 88.920 91.280 <o,f0,unknown> kotva
+lpvvohj201 1 lpvvohj201_lpvvohj201 91.280 93.780 <o,f0,unknown> žaluď
+lpvvohj201 1 lpvvohj201_lpvvohj201 93.780 96.680 <o,f0,unknown> ponorka
+lpvvohj201 1 lpvvohj201_lpvvohj201 96.680 99.600 <o,f0,unknown> kozmonaut
+lpvvohj201 1 lpvvohj201_lpvvohj201 99.600 102.220 <o,f0,unknown> kaktus
+lpvvohj201 1 lpvvohj201_lpvvohj201 102.220 104.740 <o,f0,unknown> píše
+lpvvohj201 1 lpvvohj201_lpvvohj201 104.740 108.060 <o,f0,unknown> natiera chlieb
+lpvvohj201 1 lpvvohj201_lpvvohj201 108.060 110.560 <o,f0,unknown> spieva
+lpvvohj201 1 lpvvohj201_lpvvohj201 110.560 113.580 <o,f0,unknown> usmieva sa
+lpvvohj201 1 lpvvohj201_lpvvohj201 113.580 116.000 <o,f0,unknown> ťahá
+lpvvohj201 1 lpvvohj201_lpvvohj201 116.000 118.700 <o,f0,unknown> kúpe sa [hez]
+lpvvohj201 1 lpvvohj201_lpvvohj201 118.700 121.420 <o,f0,unknown> váži
+lpvvohj201 1 lpvvohj201_lpvvohj201 121.420 123.900 <o,f0,unknown> svieti
+lpvvohj201 1 lpvvohj201_lpvvohj201 123.900 126.400 <o,f0,unknown> meria
+lpvvohj201 1 lpvvohj201_lpvvohj201 126.400 128.900 <o,f0,unknown> plače
+lpvvohj201 1 lpvvohj201_lpvvohj201 128.900 131.200 <o,f0,unknown> [spk] horí
+lpvvohj201 1 lpvvohj201_lpvvohj201 131.200 133.560 <o,f0,unknown> pije
+lpvvohj201 1 lpvvohj201_lpvvohj201 133.560 136.120 <o,f0,unknown> varí
+lpvvohj201 1 lpvvohj201_lpvvohj201 136.120 140.500 <o,f0,unknown> hádže oštep
+lpvvohj201 1 lpvvohj201_lpvvohj201 140.500 141.987 <o,f0,unknown> klopká/klopka
+lpvvohj201 1 excluded_region 141.987 143.200 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 143.200 146.100 <o,f0,unknown> telefonuje
+lpvvohj201 1 lpvvohj201_lpvvohj201 146.100 148.640 <o,f0,unknown> maľuje
+lpvvohj201 1 lpvvohj201_lpvvohj201 148.640 151.600 <o,f0,unknown> skáče
+lpvvohj201 1 lpvvohj201_lpvvohj201 151.600 154.380 <o,f0,unknown> šije
+lpvvohj201 1 lpvvohj201_lpvvohj201 154.380 156.880 <o,f0,unknown> vŕta/vrta:
+lpvvohj201 1 lpvvohj201_lpvvohj201 156.880 159.160 <o,f0,unknown> [ruch-] lyžuje [-ruch]
+lpvvohj201 1 lpvvohj201_lpvvohj201 159.160 162.330 <o,f0,unknown> [ruch-] krája chlieb [-ruch]
+lpvvohj201 1 excluded_region 162.330 163.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 163.420 165.920 <o,f0,unknown> [ruch-] hrabe [-ruch]
+lpvvohj201 1 lpvvohj201_lpvvohj201 165.920 168.480 <o,f0,unknown> fotí
+lpvvohj201 1 lpvvohj201_lpvvohj201 168.480 170.820 <o,f0,unknown> polieva
+lpvvohj201 1 lpvvohj201_lpvvohj201 170.820 173.620 <o,f0,unknown> píli
+lpvvohj201 1 lpvvohj201_lpvvohj201 173.620 176.840 <o,f0,unknown> bicykluje
+lpvvohj201 1 lpvvohj201_lpvvohj201 176.840 179.620 <o,f0,unknown> pletie
+lpvvohj201 1 lpvvohj201_lpvvohj201 179.620 182.220 <o,f0,unknown> vesluje
+lpvvohj201 1 lpvvohj201_lpvvohj201 182.220 185.020 <o,f0,unknown> žehlí/žehli
+lpvvohj201 1 excluded_region 185.020 186.731 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 186.731 195.466 <o,f0,unknown> [ex] [hez] sú tam dve ruky. na tej: ruky malá ručička drží veľkú ruku. zrejme to je mama a: dieťatko.
+lpvvohj201 1 lpvvohj201_lpvvohj201 195.466 214.980 <o,f0,unknown> [spk] majú pekné prsty: [hez] pekne sú formované ruky. [hez] palce a jednotlivé prsty sú položené podľa správnej potreby. majú tam pekné [hez] čiarky alebo: čiary života. [hez] malá ručička zvie
+lpvvohj201 1 excluded_region 214.980 219.269 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 219.269 227.215 <o,f0,unknown> [ex] sedíme si pri stole a popíjame kávičku. sú tu ((je)) pripravená káva pre dvoch účastníkov. zrejme to je partner a partnerka.
+lpvvohj201 1 lpvvohj201_lpvvohj201 227.215 231.792 <o,f0,unknown> káva je veľmi dobrá. zariadenie ktoré tam je moderné. zrejme je kovové.
+lpvvohj201 1 lpvvohj201_lpvvohj201 231.792 238.813 <o,f0,unknown> [hez] šálky [hez] sú celkom príjemné/príjemne. nie je to ani mokka ani malá ani veľká.
+lpvvohj201 1 lpvvohj201_lpvvohj201 238.813 244.980 <o,f0,unknown> [hez] kovové nohy stola: pripomínajú nejaký zvláštny š štýl.
+lpvvohj201 1 excluded_region 244.980 249.053 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 249.053 258.437 <o,f0,unknown> chlap chlap v kuchyni ide variť. je to k [hez] katastrofa. vyteká mu z hrnca nejaká kapusta alebo čo to tam varí/vari. chlapčisko skáče na stolici.
+lpvvohj201 1 lpvvohj201_lpvvohj201 258.437 262.916 <o,f0,unknown> rozsypané všetko porozhadzované/porozhadzova neporiadek. voda/volia tečie z umývadla.
+lpvvohj201 1 lpvvohj201_lpvvohj201 262.916 280.444 <o,f0,unknown> [hez] v kúte kuká čierna mačka. ešte je tu niečo ružové čo tu trčí spoza boka ale to neviem čo to je. a ešte aj z polici sa nám/nam vysypal [spk] nejaký produkt a steká nám/nás rovno do toho hrnca v ktorom sa varí/vari nejaká potravina.
+lpvvohj201 1 lpvvohj201_lpvvohj201 280.444 291.797 <o,f0,unknown> [hez] [hez] [hez] pán majster varechou naháňa muchu ktorá sedí na lustri. samozrejme/samozreke ako šikovný chlap jej/je práskol s tou varechou a luster je na na mraky.
+lpvvohj201 1 lpvvohj201_lpvvohj201 291.797 297.108 <o,f0,unknown> voda vyteká čím ďalej viacej viacej. valí sa už aj po zemi.
+lpvvohj201 1 lpvvohj201_lpvvohj201 297.108 301.686 <o,f0,unknown> to decko z tej stoličky určite spadne lebo stojí na krivo.
+lpvvohj201 1 lpvvohj201_lpvvohj201 301.686 312.625 <o,f0,unknown> niečo tam nať %aha naťahuje sa za banánom alebo čo to tam má/ma. nevidím to dobre ale uvidíme. celá je z toho vydesená aj čierna mačka.
+lpvvohj201 1 lpvvohj201_lpvvohj201 312.625 317.044 <o,f0,unknown> nábytok je celkom pekný zelený/zeleny.
+lpvvohj201 1 lpvvohj201_lpvvohj201 317.044 320.827 <o,f0,unknown> ešte?
+lpvvohj201 1 lpvvohj201_lpvvohj201 320.827 334.980 <o,f0,unknown> takže ideme. ((jaj)) no pozrite sa. však skúste zastaviť tú/tu vodu aby nám/nam to nevytieklo do celého bytu lebo veď už máme mokrý aj koberec. aj tá omáčka už nám preteká nielen/nelen z hrnca ale už nám pomaličky ide k
+lpvvohj201 1 excluded_region 334.980 338.043 <o,,unknown> ignore_time_segment_in_scoring
+lpvvohj201 1 lpvvohj201_lpvvohj201 338.043 363.560 <o,f0,unknown> mama v domácnosti varí. chystá sa obed. v jednej dr ruke drží decko v druhej panvicu a smaží tam asi omeletu alebo prehadzuje tam palačinky*. v druhom v druhom hrnci varí polievku a má tam pripravené/pripravene všetky suroviny. má tam soľ a okrem toho má na boku ešte aj pot počítač na tejto kuchynskej linke.
+lpvvohj201 1 lpvvohj201_lpvvohj201 363.560 369.061 <o,f0,unknown> na hodinách nám/nam ukazuje že už je štvrť na jednu a obed ešte nie je hotový/hotovy.
+lpvvohj201 1 lpvvohj201_lpvvohj201 369.061 379.852 <o,f0,unknown> ale mamičke v hlave pri tomto strese stále bublina vyskakuje/vyskaku ako by si veľmi rada/ra:d kúpila úplne nové lodičky na vysokom podpätku. zrejme pôjde niekde na nejakú oslavu.
+lpvvohj201 1 lpvvohj201_lpvvohj201 379.852 397.178 <o,f0,unknown> knižka na polici sa len tak nahýba. [hez] zrejme asi sa jej niečo stalo. a na druhej polici kde máme suroviny sedí mačka a vysypala tam asi múku. chvostom kýva. no mamička je asi v strese.
+lpvvohj201 1 lpvvohj201_lpvvohj201 397.178 415.557 <o,f0,unknown> takže nedá sa nič robiť. a to malé vreští/vreščí a vreští/vreščí. ale čo mu je? a mama ešte k tomu aj telefonuje. takže v jednej ruke drží malého v druhej panvicu a na pleci má opretý/opratý mobil jak sú teraz všetky mladé dievčatá zvyknuté lebo aby všetko stihli.
+lpvvohj201 1 lpvvohj201_lpvvohj201 415.557 424.940 <o,f0,unknown> čo to tam tá/ta mačka vysypala z tej police do toho počítača človek ani nemôže zistiť lebo asi to celkom dobre nevidím.
+lpvvohj201 1 lpvvohj201_lpvvohj201 424.940 431.479 <o,f0,unknown> [spk] %a:jaja:j nastali vianoce.
+lpvvohj201 1 lpvvohj201_lpvvohj201 431.479 442.516 <o,f0,unknown> ((tatíček)) ((on)) išiel pre kapra lenže po ceste stretol Pištu a hneď/hned si aj vypili. tak vyšiel domov cez dvere. v taške vlečie niečo ani nevie človek čo to je.
+lpvvohj201 1 lpvvohj201_lpvvohj201 442.516 449.055 <o,f0,unknown> mamička telefonuje. zrejme volá susedke čo dostane pod stromček. asi nejakú voňavku.
+lpvvohj201 1 lpvvohj201_lpvvohj201 449.055 461.801 <o,f0,unknown> tatko príde domov otvorí dvere. skočí na pripravené darčeky na auto %ajaja:j to je ale kotrmelec. bude z toho pekná hrča na chrbáte asi aj modrina.
+lpvvohj201 1 lpvvohj201_lpvvohj201 461.801 471.946 <o,f0,unknown> mladý šuhaj chytá tu do lasa/rasa vianočný stromček ktorý sa pomaly/bomaly rozsvietil ale už sa nahýba nahýba. no hrozí strašná katastrofa.
+lpvvohj201 1 lpvvohj201_lpvvohj201 471.946 487.303 <o,f0,unknown> za okienkom krásne svieti [smiech] [hez] [smiech-] svieti mesiačik [-smiech] a padá sniežik. takisto padá aj hviezda ktorá je ako ((xx)) na vrchole s vianočného stromčeka ktorý sa nahýba nahýba.
+lpvvohj201 1 lpvvohj201_lpvvohj201 487.303 505.488 <o,f0,unknown> no neviem koľko to ešte vydrží ale dúfajme že ((ak)) ((zajtra)) sa ocko polieči tak bude stromček zase naspäť a mamička to v pohode a v kľude vyrieši telefonicky so svojou mamou tohoto pána svokrou ktorá sa tiež teší na [smiech-] vianočné [-smiech] posedenie pod krivoľakým stromčekom.
+lpvvohj201 1 lpvvohj201_lpvvohj201 505.488 512.522 <o,f0,unknown> máme tu aj darčeky ale dúfajme že keď teta príde neskočí zas ((na)) ďalšie auto aby si nevykĺbila prst.

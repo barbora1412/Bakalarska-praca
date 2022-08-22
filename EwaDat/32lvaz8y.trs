@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mar" audio_filename="32lvaz8y" version="3" version_date="210201">
+<Speakers>
+<Speaker id="spk1" name="32lvaz8y" check="no" dialect="native" accent="" scope="local" type="female"/>
+</Speakers>
+<Topics>
+<Topic id="to3" desc="pataka"/>
+<Topic id="to2" desc="vokal"/>
+<Topic id="to8" desc="big2"/>
+<Topic id="to5" desc="big3"/>
+<Topic id="to1" desc="xxx"/>
+<Topic id="to6" desc="big4"/>
+<Topic id="to7" desc="big5"/>
+<Topic id="to4" desc="naming"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0.0" endTime="28.08" topic="to1">
+<Turn speaker="spk1" startTime="0.0" endTime="28.08">
+<Sync time="0.0"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="28.08" endTime="47.06" topic="to2">
+<Turn speaker="spk1" startTime="28.08" endTime="47.06">
+<Sync time="28.08"/>
+vokal
+</Turn>
+</Section>
+<Section type="report" startTime="47.06" endTime="55.198" topic="to3">
+<Turn speaker="spk1" startTime="47.06" endTime="55.198">
+<Sync time="47.06"/>
+pataka
+</Turn>
+</Section>
+<Section type="report" startTime="55.198" endTime="227.202" topic="to4">
+<Turn speaker="spk1" startTime="55.198" endTime="227.202">
+<Sync time="55.198"/>
+%@ cesta
+<Sync time="57.072"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ most
+<Sync time="59.023"/>
+hodinky
+<Sync time="60.800"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ bubon
+<Sync time="62.765"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ trakto
+<Event desc="ned" type="noise" extent="previous"/>
+
+<Sync time="64.394"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ fajka
+<Sync time="66.08"/>
+%@: akvárium
+<Sync time="69.550"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no toto je: š:* 
+<Sync time="72.954"/>
+((Ježiš ja fajn neviem si spomína
+<Event desc="ned" type="noise" extent="previous"/>
+ je)) 
+
+
+<Sync time="75.954"/>
+sitko? nie sitko, ale také %@ no %@: neviem nemám 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ teraz momentálne ma to n
+<Event desc="ned" type="noise" extent="previous"/>
+
+<Sync time="81.788"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="82.531"/>
+lievik.
+<Sync time="83.257"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no a toto 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ sú hracie kocky
+<Sync time="88.157"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="88.936"/>
+loď
+<Event desc="spk" type="noise" extent="previous"/>
+
+<Sync time="91.027"/>
+more
+<Sync time="91.859"/>
+
+<Sync time="94.158"/>
+%@ píše
+<Sync time="96.026"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ smeje sa
+<Sync time="98.578"/>
+
+<Sync time="99.944"/>
+váži
+<Sync time="101.48"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ plače
+<Sync time="103.5"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ varí
+<Sync time="105.571"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ telefonuje
+<Sync time="107.888"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@: šije
+<Event desc="spk" type="noise" extent="previous"/>
+
+<Sync time="110.7"/>
+reže
+<Sync time="112.58"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@ zalieva
+<Sync time="115.223"/>
+štrikuje
+<Sync time="117.059"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@ %@ panovník 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ 
+<Event desc="reč" type="noise" extent="previous"/>
+
+<Sync time="120.78"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ topánky 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="123.5"/>
+
+<Event desc="ruch" type="noise" extent="begin"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ cigarety
+<Event desc="ruch" type="noise" extent="end"/>
+
+<Sync time="126.080"/>
+
+<Event desc="ruch" type="noise" extent="instantaneous"/>
+ hodiny
+<Sync time="128.28"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ teplomer
+<Sync time="130.375"/>
+električk@
+<Event desc="ned" type="noise" extent="previous"/>
+
+<Sync time="132.200"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ metla
+<Sync time="134.073"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ hríby
+<Sync time="136.091"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ kotva
+<Sync time="138.269"/>
+kozmonaut
+<Sync time="140.799"/>
+
+<Event desc="reč" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ natiera sa chlie
+<Event desc="ned" type="noise" extent="previous"/>
+
+<Sync time="143.863"/>
+ťahala som
+<Sync time="146.117"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ lampa svieti
+<Sync time="148.828"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@ horí dom 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+
+<Sync time="151.708"/>
+%@ športuje
+<Sync time="155.081"/>
+((maľuje))
+<Sync time="157.483"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ vŕta
+<Sync time="159.992"/>
+
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ zametá
+<Sync time="162.242"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ píli
+<Sync time="165.039"/>
+vesluje
+<Sync time="167.455"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ kniha
+<Sync time="169.534"/>
+%@ autobus
+<Sync time="171.541"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@ koruna
+<Sync time="174.360"/>
+
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ koleso
+<Sync time="176.473"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ lavička
+<Sync time="178.350"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ zips
+<Sync time="180.368"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ťava
+<Sync time="182.065"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="ruch" type="noise" extent="begin"/>
+%@ vešiak
+<Event desc="ruch" type="noise" extent="end"/>
+
+<Sync time="184.96"/>
+%@: nejaké ovocie
+<Sync time="187.518"/>
+
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ hr
+<Event desc="ned" type="noise" extent="previous"/>
+
+<Sync time="188.845"/>
+%@ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ toto je kaktus?
+<Sync time="191.225"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="192.691"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ spieva
+<Sync time="195.138"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ kúpe
+<Sync time="197.298"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ meria
+<Sync time="199.851"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ pije vodu
+<Sync time="202.402"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ klope
+<Sync time="204.853"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ((slovom)) no skáče cez švihadlo
+<Sync time="208.673"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ lyžuje
+<Sync time="211.185"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@ fotí
+<Sync time="214.094"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ bicykluje
+<Sync time="216.556"/>
+%@: to neviem tu meria niečo ((alebo)) 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no to 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ neviem meria?
+<Sync time="226.359"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="227.202" endTime="273.625" topic="to5">
+<Turn speaker="spk1" startTime="227.202" endTime="273.625">
+<Sync time="227.202"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="ruch" type="noise" extent="previous"/>
+ no čo
+<Event desc="spk" type="noise" extent="previous"/>
+. muž čo rozbíja lampu alebo v akom to myslíte? 
+<Sync time="235.18"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="237.177"/>
+%ja:j ((áno)) rozbíja lampu. dieťa sa hrá na 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %@ so stoj
+<Event desc="ned" type="noise" extent="previous"/>
+ no na stoličke a so zeleninou. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no a 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ varí sa tam niečo. 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ voda tečie, 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no aj vyteká voda. 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ no už ((to)) neviem. 
+<Sync time="256.986"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="265.199"/>
+no čo ešte
+<Event desc="spk" type="noise" extent="previous"/>
+? neviem.
+<Sync time="268.668"/>
+
+<Sync time="270.99"/>
+neviem už čo
+<Event desc="reč" type="noise" extent="previous"/>
+.
+<Sync time="272.246"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="273.625" endTime="332.550" topic="to6">
+<Turn speaker="spk1" startTime="273.625" endTime="332.550">
+<Sync time="273.625"/>
+
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ tak žena %@ varí, stará sa o dieťa. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no %@ 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ má tam hodinky, hej 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no a zároveň ((tieto)) topánky to myslí na topánky?
+<Sync time="291.078"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="291.974"/>
+no 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ je tam zvieratko áno a 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ tak 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ neviem no ona všelijak varí aj ručne aj na na sporáku/šporáku aj tuším pozerá počítač. áno 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no: tuto niečo padá. no 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ neviem. 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ knihy sú tam. 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ no 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ už už neviem čo čo by tam ešte 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ možno nejak býva hore 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ zodratá žena, 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ malý plače. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no už som ((ešte)) neviem vo
+<Event desc="ned" type="noise" extent="previous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="332.550" endTime="391.583" topic="to7">
+<Turn speaker="spk1" startTime="332.550" endTime="391.583">
+<Sync time="332.550"/>
+
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no tak
+<Event desc="spk" type="noise" extent="previous"/>
+ no tu sú vianoce, vianočný stromček. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ muž prichádza domov, otvorím dvere. 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ žena telefonuje 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ neviem to ju kope alebo to čo sa mi to iba zdá ((reku)).
+<Sync time="351.465"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="352.358"/>
+či iba tak ide 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ %jaj ide on na tom %@ autíčku. 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ tak ako keby padal, 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ hej. dieťa sa hrá okolo stromčeka, tam behá. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no a nuž %@ žena len stojí a telefonuje. vonku sneží. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ sú otvorené dvere, no odkryté okno
+<Event desc="spk" type="noise" extent="previous"/>
+. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ stromček akoby padal alebo s:
+<Event desc="ned" type="noise" extent="previous"/>
+ neviem sa mi tak zdá. 
+<Event desc="reč" type="noise" extent="instantaneous"/>
+ je taký naklonený. 
+<Event desc="reč" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ nuž č
+<Event desc="ned" type="noise" extent="previous"/>
+ neviem.
+</Turn>
+</Section>
+<Section type="report" startTime="391.583" endTime="450.480" topic="to8">
+<Turn speaker="spk1" startTime="391.583" endTime="450.480">
+<Sync time="391.583"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="393.257"/>
+%@ 
+<Event desc="ruch" type="noise" extent="begin"/>
+no neviem
+<Event desc="ruch" type="noise" extent="end"/>
+ čo to tam
+<Event desc="ruch" type="noise" extent="previous"/>
+. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ žena varí 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ aj alebo umýva aj nádoby. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ deti sa tam hrajú vonku hrajú 
+<Event desc="ruch" type="noise" extent="instantaneous"/>
+ no zbierajú/zberajú berú koláčiky. teda on berie koláčik 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ a tuším akoby padal s tou stoličkou. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no dievčatko tam stojí a čaká ten koláčik. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ no a ž
+<Event desc="ned" type="noise" extent="previous"/>
+ hovorím žena varí a má 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ díva sa aj von oknom. 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ má tam peknú záclonu 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+. no a 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ neviem a tam tečie voda? 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ voda tečie z vodovodu dole 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ nejako tam vyslovene zateká. no 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ taká no 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ neviem ona umy
+<Event desc="ned" type="noise" extent="previous"/>
+
+<Sync time="450.480"/>
+</Turn>
+</Section>
+</Episode>
+</Trans>

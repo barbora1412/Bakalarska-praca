@@ -1,0 +1,124 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:30 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 9 of 210621
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjugro01 1 kixjugro01_kixjugro01 0.000 14.940 <o,f0,unknown> special_vokal
+kixjugro01 1 kixjugro01_kixjugro01 14.940 22.880 <o,f0,unknown> special_pataka
+kixjugro01 1 kixjugro01_kixjugro01 22.880 27.580 <o,f0,unknown> [ruch] oblaky cesta [ruch]
+kixjugro01 1 kixjugro01_kixjugro01 27.580 30.660 <o,f0,unknown> most
+kixjugro01 1 kixjugro01_kixjugro01 30.660 33.760 <o,f0,unknown> hodiny
+kixjugro01 1 kixjugro01_kixjugro01 33.760 36.212 <o,f0,unknown> [hez] bubon
+kixjugro01 1 excluded_region 36.212 38.000 <o,,unknown> ignore_time_segment_in_scoring
+kixjugro01 1 kixjugro01_kixjugro01 38.000 42.480 <o,f0,unknown> oranie
+kixjugro01 1 kixjugro01_kixjugro01 42.480 46.180 <o,f0,unknown> fajčenie
+kixjugro01 1 kixjugro01_kixjugro01 46.180 50.400 <o,f0,unknown> plávanie
+kixjugro01 1 kixjugro01_kixjugro01 50.400 53.900 <o,f0,unknown> lievik
+kixjugro01 1 kixjugro01_kixjugro01 53.900 57.740 <o,f0,unknown> hra
+kixjugro01 1 kixjugro01_kixjugro01 57.740 61.180 <o,f0,unknown> ponorka
+kixjugro01 1 kixjugro01_kixjugro01 61.180 64.820 <o,f0,unknown> píše [ruch]
+kixjugro01 1 kixjugro01_kixjugro01 64.820 67.940 <o,f0,unknown> smeje
+kixjugro01 1 kixjugro01_kixjugro01 67.940 71.340 <o,f0,unknown> váži
+kixjugro01 1 kixjugro01_kixjugro01 71.340 74.540 <o,f0,unknown> plače
+kixjugro01 1 kixjugro01_kixjugro01 74.540 77.800 <o,f0,unknown> varí
+kixjugro01 1 kixjugro01_kixjugro01 77.800 80.980 <o,f0,unknown> telefonuje
+kixjugro01 1 kixjugro01_kixjugro01 80.980 84.320 <o,f0,unknown> šije
+kixjugro01 1 kixjugro01_kixjugro01 84.320 87.960 <o,f0,unknown> krája
+kixjugro01 1 kixjugro01_kixjugro01 87.960 91.640 <o,f0,unknown> zalieva
+kixjugro01 1 kixjugro01_kixjugro01 91.640 95.200 <o,f0,unknown> štrikuje
+kixjugro01 1 kixjugro01_kixjugro01 95.200 103.560 <o,f0,unknown> [ruch] [hez] kráľ
+kixjugro01 1 kixjugro01_kixjugro01 103.560 106.380 <o,f0,unknown> topánky
+kixjugro01 1 kixjugro01_kixjugro01 106.380 109.480 <o,f0,unknown> cigarety
+kixjugro01 1 kixjugro01_kixjugro01 109.480 113.340 <o,f0,unknown> hodiny
+kixjugro01 1 kixjugro01_kixjugro01 113.340 116.340 <o,f0,unknown> teplomer
+kixjugro01 1 kixjugro01_kixjugro01 116.340 119.220 <o,f0,unknown> električka
+kixjugro01 1 kixjugro01_kixjugro01 119.220 122.420 <o,f0,unknown> metla
+kixjugro01 1 kixjugro01_kixjugro01 122.420 125.840 <o,f0,unknown> hríby
+kixjugro01 1 kixjugro01_kixjugro01 125.840 129.220 <o,f0,unknown> [ruch] kotva
+kixjugro01 1 kixjugro01_kixjugro01 129.220 132.360 <o,f0,unknown> kozmonaut
+kixjugro01 1 kixjugro01_kixjugro01 132.360 137.080 <o,f0,unknown> m:aže chleba [spk]
+kixjugro01 1 kixjugro01_kixjugro01 137.080 140.860 <o,f0,unknown> ťahá
+kixjugro01 1 kixjugro01_kixjugro01 140.860 144.540 <o,f0,unknown> svieti
+kixjugro01 1 kixjugro01_kixjugro01 144.540 147.860 <o,f0,unknown> horí
+kixjugro01 1 kixjugro01_kixjugro01 147.860 150.980 <o,f0,unknown> [ruch] hádže
+kixjugro01 1 kixjugro01_kixjugro01 150.980 154.200 <o,f0,unknown> maľuje
+kixjugro01 1 kixjugro01_kixjugro01 154.200 157.440 <o,f0,unknown> vŕta
+kixjugro01 1 kixjugro01_kixjugro01 157.440 160.660 <o,f0,unknown> hrabe
+kixjugro01 1 kixjugro01_kixjugro01 160.660 164.040 <o,f0,unknown> reže
+kixjugro01 1 kixjugro01_kixjugro01 164.040 167.760 <o,f0,unknown> veslujú
+kixjugro01 1 kixjugro01_kixjugro01 167.760 171.980 <o,f0,unknown> kniha
+kixjugro01 1 kixjugro01_kixjugro01 171.980 175.060 <o,f0,unknown> autobus
+kixjugro01 1 kixjugro01_kixjugro01 175.060 178.680 <o,f0,unknown> koruna
+kixjugro01 1 kixjugro01_kixjugro01 178.680 182.100 <o,f0,unknown> koleso
+kixjugro01 1 kixjugro01_kixjugro01 182.100 185.240 <o,f0,unknown> lavica
+kixjugro01 1 kixjugro01_kixjugro01 185.240 188.200 <o,f0,unknown> zips
+kixjugro01 1 kixjugro01_kixjugro01 188.200 191.080 <o,f0,unknown> ťava
+kixjugro01 1 kixjugro01_kixjugro01 191.080 193.920 <o,f0,unknown> vešiak
+kixjugro01 1 kixjugro01_kixjugro01 193.920 196.840 <o,f0,unknown> žaluď
+kixjugro01 1 kixjugro01_kixjugro01 196.840 201.020 <o,f0,unknown> kaktus
+kixjugro01 1 kixjugro01_kixjugro01 201.020 205.040 <o,f0,unknown> s:pieva
+kixjugro01 1 kixjugro01_kixjugro01 205.040 208.700 <o,f0,unknown> kúpe sa
+kixjugro01 1 kixjugro01_kixjugro01 208.700 211.920 <o,f0,unknown> meria
+kixjugro01 1 kixjugro01_kixjugro01 211.920 215.060 <o,f0,unknown> pije
+kixjugro01 1 kixjugro01_kixjugro01 215.060 217.860 <o,f0,unknown> klo:pe
+kixjugro01 1 kixjugro01_kixjugro01 217.860 220.820 <o,f0,unknown> skáče
+kixjugro01 1 kixjugro01_kixjugro01 220.820 223.820 <o,f0,unknown> lyžuje
+kixjugro01 1 kixjugro01_kixjugro01 223.820 226.780 <o,f0,unknown> fotí
+kixjugro01 1 kixjugro01_kixjugro01 226.780 229.860 <o,f0,unknown> bicykluje
+kixjugro01 1 kixjugro01_kixjugro01 229.860 232.840 <o,f0,unknown> žehlí/žehli
+kixjugro01 1 kixjugro01_kixjugro01 232.840 244.500 <o,f0,unknown> dieťa drží [ruch] dospelého človeka za malíček celou zovretou päsťou.
+kixjugro01 1 excluded_region 244.500 249.213 <o,,unknown> ignore_time_segment_in_scoring
+kixjugro01 1 kixjugro01_kixjugro01 249.213 262.866 <o,f0,unknown> prázdny priestor v kaviarni %m kde sú šálky s horúcou kávou alebo čajom a/al v nich sú lyžičky.
+kixjugro01 1 kixjugro01_kixjugro01 262.866 273.660 <o,f0,unknown> stoličky hádžu tiene a sú pekne/peknej nakreslené/nakreslene v takom rustikálnom štýle.
+kixjugro01 1 excluded_region 273.660 275.483 <o,,unknown> ignore_time_segment_in_scoring
+kixjugro01 1 kixjugro01_kixjugro01 275.483 283.270 <o,f0,unknown> [ruch-] muž [-ruch] v kuchyni [ruch-] zabíja [-ruch] nejaký hmyz poletujúci:. [ned-] r [-ned] pritom rozil lampu oranžovú.
+kixjugro01 1 kixjugro01_kixjugro01 283.270 292.509 <o,f0,unknown> [spk] chlapec nebezpečne umýva riady a zároveň sa naťahuje za ovocím. myslím ((je)) to banán.
+kixjugro01 1 kixjugro01_kixjugro01 292.509 297.591 <o,f0,unknown> dejú sa tam všelijaké symboly. sú tam čierna mačka.
+kixjugro01 1 kixjugro01_kixjugro01 297.591 299.807 <o,f0,unknown> voda tečie z vodovodu.
+kixjugro01 1 kixjugro01_kixjugro01 299.807 304.843 <o,f0,unknown> zelené. zelená kuchynská li:nka je v dezolátnom stave.
+kixjugro01 1 kixjugro01_kixjugro01 304.843 314.445 <o,f0,unknown> z vrchnej skrinky tečie nejaký nejaká tekutina z fľašky do nejakého nejakej krabice fialovej.
+kixjugro01 1 kixjugro01_kixjugro01 314.445 316.556 <o,f0,unknown> na zemi sú črepiny.
+kixjugro01 1 kixjugro01_kixjugro01 316.556 321.040 <o,f0,unknown> dieťa je oblečené v krátkych nohaviciach.
+kixjugro01 1 kixjugro01_kixjugro01 321.040 327.687 <o,f0,unknown> má na červené ponožky červené tričko a modrú modré trenírky alebo nohavice.
+kixjugro01 1 kixjugro01_kixjugro01 327.687 334.159 <o,f0,unknown> mačka má zelené oči a muž má ešte na sebe zásteru.
+kixjugro01 1 kixjugro01_kixjugro01 334.159 336.884 <o,f0,unknown> pravdepodobne on umýval riady.
+kixjugro01 1 kixjugro01_kixjugro01 336.884 344.200 <o,f0,unknown> má hnedé nohavice a žlté tričko s dlhými rukávmi [ruch] . všetko.
+kixjugro01 1 kixjugro01_kixjugro01 344.200 350.580 <o,f0,unknown> žena tiež je na všetko sama. vyzerá to tak.
+kixjugro01 1 kixjugro01_kixjugro01 350.580 360.551 <o,f0,unknown> varí [ned-] i [-ned] [ned-] pe [-ned] pečie aj varí. vajíčka slaninu ktorá je: vo vzduchu nadskakuje.
+kixjugro01 1 kixjugro01_kixjugro01 360.551 363.635 <o,f0,unknown> nad [spk] v rukách drží plačúce dieťa.
+kixjugro01 1 kixjugro01_kixjugro01 363.635 373.747 <o,f0,unknown> oblečená je v modrom [spk] [ned-] s: [-ned] [hez] trikote alebo ta čo to je s/z [ned-] č [-ned] s hviezdou na hrudi.
+kixjugro01 1 kixjugro01_kixjugro01 373.747 382.248 <o,f0,unknown> hore na poličke sedí mačka ktorá zhadzuje vázu s kvetinami.
+kixjugro01 1 kixjugro01_kixjugro01 382.248 389.166 <o,f0,unknown> [ned-] ma [-ned] matka telefonuje a zároveň rozmýšľa nad pravdepodobne nad nejakými topánkami.
+kixjugro01 1 kixjugro01_kixjugro01 389.166 391.389 <o,f0,unknown> %hm možno je to kúpa [spk] .
+kixjugro01 1 kixjugro01_kixjugro01 391.389 404.145 <o,f0,unknown> na stole je [spk] mlieko nožík dve paradajky cibuľa asi zemiak je to a počítač.
+kixjugro01 1 kixjugro01_kixjugro01 404.145 407.645 <o,f0,unknown> linka je celá hnedé hnedkastej farby/pfarby.
+kixjugro01 1 kixjugro01_kixjugro01 407.645 423.580 <o,f0,unknown> [spk] [ned-] ho [-ned] obidva horáky sú zapnuté a: na poličke sú nejaké knihy a nad/nat poličkou s knihami sú hodiny [ruch] .
+kixjugro01 1 excluded_region 423.580 428.222 <o,,unknown> ignore_time_segment_in_scoring
+kixjugro01 1 kixjugro01_kixjugro01 428.222 434.834 <o,f0,unknown> toto vyzerá na kľudnejšiu atmosféru oproti iným. sú tam je tam psík ktorý je spokojný.
+kixjugro01 1 kixjugro01_kixjugro01 434.834 439.125 <o,f0,unknown> [ruch-] je: žlto hnedej žltkastej pieskovej farby. [-ruch]
+kixjugro01 1 excluded_region 439.125 440.374 <o,,unknown> ignore_time_segment_in_scoring
+kixjugro01 1 kixjugro01_kixjugro01 440.374 453.503 <o,f0,unknown> počkaj. [ruch-] [hez] [-ruch] [ruch] pravdepodobne manželka v modrých nohaviciach červených papučiach a [ned-] oran [-ned] [ruch-] ružovom tričku a žltom [ned-] sve [-ned] [-ruch] zelenom svetríku.
+kixjugro01 1 kixjugro01_kixjugro01 453.503 456.546 <o,f0,unknown> telefonuje [ruch-] s niekým [-ruch] .
+kixjugro01 1 kixjugro01_kixjugro01 456.546 463.598 <o,f0,unknown> deti [ned-] s [-ned] ozdobujú stromček ktorý sa: trošku nakláňa ((a)) no dosť sa nakláňa.
+kixjugro01 1 kixjugro01_kixjugro01 463.598 469.647 <o,f0,unknown> zelený strom s rôznymi farebnými guľami a: vlastne to je jedno dieťa.
+kixjugro01 1 kixjugro01_kixjugro01 469.647 472.830 <o,f0,unknown> ďalšie dieťa sa pozerá z okna pretože je vonku.
+kixjugro01 1 kixjugro01_kixjugro01 472.830 474.466 <o,f0,unknown> pozerá sa dnu.
+kixjugro01 1 kixjugro01_kixjugro01 474.466 480.674 <o,f0,unknown> chlapec: je: vyzlečený iba %f: v krátkych gatiach a modrom tričku a je kučeravý.
+kixjugro01 1 kixjugro01_kixjugro01 480.674 483.470 <o,f0,unknown> [spk] má hnedé vlasy.
+kixjugro01 1 kixjugro01_kixjugro01 483.470 488.746 <o,f0,unknown> na: [hez] na stromčeku je žltá hviezda.
+kixjugro01 1 kixjugro01_kixjugro01 488.746 497.008 <o,f0,unknown> [spk] [hez] záclony majú červené s [hez] miernymi pruhmi [hez] .
+kixjugro01 1 kixjugro01_kixjugro01 497.008 509.106 <o,f0,unknown> vymaľované majú [hez] takej pieskovo žltej farby. majú fialový koberec a pod kobercom majú nejakú [ned-] z [-ned] nejaké zelené zelený možno koberec.

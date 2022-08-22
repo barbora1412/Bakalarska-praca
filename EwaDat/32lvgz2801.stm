@@ -1,0 +1,116 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:32 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 8 of 210625
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+32lvgz2801 1 excluded_region 0.000 16.473 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 16.473 17.567 <o,f0,male> cesta
+32lvgz2801 1 32lvgz2801_32lvgz28 17.567 19.196 <o,f0,male> most/mosť
+32lvgz2801 1 32lvgz2801_32lvgz28 19.196 20.580 <o,f0,male> hodinky
+32lvgz2801 1 32lvgz2801_32lvgz28 20.580 22.522 <o,f0,male> bubon
+32lvgz2801 1 32lvgz2801_32lvgz28 22.522 23.781 <o,f0,male> traktor
+32lvgz2801 1 32lvgz2801_32lvgz28 23.781 25.617 <o,f0,male> fajka
+32lvgz2801 1 excluded_region 25.617 27.280 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 27.280 29.221 <o,f0,male> akvárium
+32lvgz2801 1 32lvgz2801_32lvgz28 29.221 31.008 <o,f0,male> lievik
+32lvgz2801 1 32lvgz2801_32lvgz28 31.008 33.599 <o,f0,male> domino [ned-] ko [-ned]
+32lvgz2801 1 32lvgz2801_32lvgz28 33.599 36.290 <o,f0,male> ponorka
+32lvgz2801 1 32lvgz2801_32lvgz28 36.290 37.626 <o,f0,male> písanie? tak?
+32lvgz2801 1 excluded_region 37.626 39.692 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 39.692 40.633 <o,f0,male> úsmev
+32lvgz2801 1 32lvgz2801_32lvgz28 40.633 45.540 <o,f0,male> [ruch]
+32lvgz2801 1 32lvgz2801_32lvgz28 45.540 49.089 <o,f0,male> čo robí žena na obrázku? no to je v váži váhu.
+32lvgz2801 1 excluded_region 49.089 50.357 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 50.357 52.758 <o,f0,male> plače
+32lvgz2801 1 32lvgz2801_32lvgz28 52.758 54.715 <o,f0,male> varí
+32lvgz2801 1 32lvgz2801_32lvgz28 54.715 57.562 <o,f0,male> telefonuje
+32lvgz2801 1 32lvgz2801_32lvgz28 57.562 61.384 <o,f0,male> š šije na stroji [spk]
+32lvgz2801 1 32lvgz2801_32lvgz28 61.384 64.766 <o,f0,male> n nožom reže jabĺčko
+32lvgz2801 1 32lvgz2801_32lvgz28 64.766 67.013 <o,f0,male> zalieva
+32lvgz2801 1 32lvgz2801_32lvgz28 67.013 71.260 <o,f0,male> pletie
+32lvgz2801 1 32lvgz2801_32lvgz28 71.260 73.117 <o,f0,male> kráľ
+32lvgz2801 1 32lvgz2801_32lvgz28 73.117 75.254 <o,f0,male> topánky
+32lvgz2801 1 32lvgz2801_32lvgz28 75.254 77.108 <o,f0,male> cigarety [spk]
+32lvgz2801 1 32lvgz2801_32lvgz28 77.108 78.990 <o,f0,male> budík
+32lvgz2801 1 32lvgz2801_32lvgz28 78.990 79.980 <o,f0,male> teplomer
+32lvgz2801 1 32lvgz2801_32lvgz28 79.980 83.014 <o,f0,male> e električka
+32lvgz2801 1 32lvgz2801_32lvgz28 83.014 85.284 <o,f0,male> metla
+32lvgz2801 1 32lvgz2801_32lvgz28 85.284 87.523 <o,f0,male> hríby
+32lvgz2801 1 32lvgz2801_32lvgz28 87.523 88.186 <o,f0,male> kotva
+32lvgz2801 1 excluded_region 88.186 92.058 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 92.058 94.345 <o,f0,male> astronaut
+32lvgz2801 1 32lvgz2801_32lvgz28 94.345 96.125 <o,f0,male> [ned-] na [-ned] maže sa chlieb
+32lvgz2801 1 32lvgz2801_32lvgz28 96.125 99.905 <o,f0,male> ťahá lanko
+32lvgz2801 1 32lvgz2801_32lvgz28 99.905 103.045 <o,f0,male> žiarovka svieti
+32lvgz2801 1 32lvgz2801_32lvgz28 103.045 105.595 <o,f0,male> horí oheň
+32lvgz2801 1 32lvgz2801_32lvgz28 105.595 107.986 <o,f0,male> hod oštepom
+32lvgz2801 1 32lvgz2801_32lvgz28 107.986 110.974 <o,f0,male> maľuje
+32lvgz2801 1 32lvgz2801_32lvgz28 110.974 112.362 <o,f0,male> [hez] vŕta/vrtá
+32lvgz2801 1 32lvgz2801_32lvgz28 112.362 114.040 <o,f0,male> hrabe
+32lvgz2801 1 32lvgz2801_32lvgz28 114.040 118.126 <o,f0,male> píluje
+32lvgz2801 1 32lvgz2801_32lvgz28 118.126 120.718 <o,f0,male> vesluje
+32lvgz2801 1 32lvgz2801_32lvgz28 120.718 121.540 <o,f0,male> kniha
+32lvgz2801 1 32lvgz2801_32lvgz28 121.540 123.437 <o,f0,male> autobus
+32lvgz2801 1 32lvgz2801_32lvgz28 123.437 125.436 <o,f0,male> koruna
+32lvgz2801 1 32lvgz2801_32lvgz28 125.436 128.640 <o,f0,male> kráľovská ((xx)) [hez] koleso
+32lvgz2801 1 32lvgz2801_32lvgz28 128.640 130.560 <o,f0,male> lavička
+32lvgz2801 1 32lvgz2801_32lvgz28 130.560 132.580 <o,f0,male> zips
+32lvgz2801 1 32lvgz2801_32lvgz28 132.580 134.651 <o,f0,male> ťava
+32lvgz2801 1 32lvgz2801_32lvgz28 134.651 137.853 <o,f0,male> vešiak
+32lvgz2801 1 32lvgz2801_32lvgz28 137.853 141.107 <o,f0,male> žaluď
+32lvgz2801 1 32lvgz2801_32lvgz28 141.107 142.420 <o,f0,male> [hez] kaktus
+32lvgz2801 1 32lvgz2801_32lvgz28 142.420 144.411 <o,f0,male> spieva
+32lvgz2801 1 32lvgz2801_32lvgz28 144.411 146.853 <o,f0,male> kúpe sa
+32lvgz2801 1 32lvgz2801_32lvgz28 146.853 148.900 <o,f0,male> meria
+32lvgz2801 1 32lvgz2801_32lvgz28 148.900 150.780 <o,f0,male> pije
+32lvgz2801 1 32lvgz2801_32lvgz28 150.780 152.680 <o,f0,male> klope
+32lvgz2801 1 32lvgz2801_32lvgz28 152.680 155.471 <o,f0,male> švihadlom cvičí
+32lvgz2801 1 32lvgz2801_32lvgz28 155.471 157.860 <o,f0,male> lyžuje
+32lvgz2801 1 32lvgz2801_32lvgz28 157.860 159.940 <o,f0,male> fotí
+32lvgz2801 1 32lvgz2801_32lvgz28 159.940 164.061 <o,f0,male> cyklistik cykli bicykluje sa
+32lvgz2801 1 32lvgz2801_32lvgz28 164.061 165.887 <o,f0,male> žehlí
+32lvgz2801 1 excluded_region 165.887 169.140 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 169.140 179.549 <o,f0,male> no p padá zo stoličky ale toto tu nevidím dobre čo to je. [hez] nejak naráža do lampy vareškou. asi tak.
+32lvgz2801 1 excluded_region 179.549 182.236 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 182.236 187.150 <o,f0,male> no tieto dve činnosti hej. tu niečo varí. kypí.
+32lvgz2801 1 32lvgz2801_32lvgz28 187.150 191.133 <o,f0,male> dočahuje n nejaké ovocie.
+32lvgz2801 1 32lvgz2801_32lvgz28 191.133 193.534 <o,f0,male> a to je tak všetko asi.
+32lvgz2801 1 excluded_region 193.534 197.091 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 197.091 199.042 <o,f0,male> [ruch]
+32lvgz2801 1 32lvgz2801_32lvgz28 199.042 202.497 <o,f0,male> no mamička aj varí aj pestuje bábo.
+32lvgz2801 1 excluded_region 202.497 204.234 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 204.234 210.313 <o,f0,male> a to je také základné všetko. hodiny nejdú stoja. [smiech]
+32lvgz2801 1 excluded_region 210.313 214.570 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 214.570 218.441 <o,f0,male> niečo aj by som to nejak z blízka. ešte tam má byť niečo?
+32lvgz2801 1 32lvgz2801_32lvgz28 218.441 224.507 <o,f0,male> tu sú topánky. to len rozmýšľa že topánky si kúpi cicuška. neviem.
+32lvgz2801 1 excluded_region 224.507 225.311 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 225.311 226.813 <o,f0,male> čo tam malo byť ešte?
+32lvgz2801 1 excluded_region 226.813 227.947 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 227.947 235.665 <o,f0,male> vianoce vianočný stromček radosť.
+32lvgz2801 1 32lvgz2801_32lvgz28 235.665 244.168 <o,f0,male> nezbedník niečo tam vyvádza. chce to zhodiť lebo je to naklonené.
+32lvgz2801 1 32lvgz2801_32lvgz28 244.168 251.118 <o,f0,male> mamina je v kľude lebo nevidí čo synátor vyvádza. počkajte tuším telefonuje.
+32lvgz2801 1 excluded_region 251.118 251.835 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 251.835 254.561 <o,f0,male> dobre no: tak preto nepozerá syna.
+32lvgz2801 1 32lvgz2801_32lvgz28 254.561 264.983 <o,f0,male> [hez] a to je to čo chce padnúť alebo je tak ((xxxxxxx)). ako keby chcel padnúť.
+32lvgz2801 1 excluded_region 264.983 266.117 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 266.117 272.247 <o,f0,male> či sa šmykol na niečom boh vie. áno tu na tom autíčku sa šmýka.
+32lvgz2801 1 excluded_region 272.247 273.217 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 273.217 274.351 <o,f0,male> a to je všetko.
+32lvgz2801 1 excluded_region 274.351 278.645 <o,,unknown> ignore_time_segment_in_scoring
+32lvgz2801 1 32lvgz2801_32lvgz28 278.645 285.647 <o,f0,male> [ruch]
+32lvgz2801 1 32lvgz2801_32lvgz28 285.647 289.927 <o,f0,male> no tak tu títo dvaja niečo vyvádzajú v kredenci.
+32lvgz2801 1 excluded_region 289.927 290.522 <o,,unknown> ignore_time_segment_in_scoring

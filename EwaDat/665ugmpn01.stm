@@ -1,0 +1,185 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:29 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 210519
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665ugmpn01 1 665ugmpn01_665ugmpn01 0.000 14.900 <o,f0,unknown> special_vokal
+665ugmpn01 1 665ugmpn01_665ugmpn01 14.900 22.800 <o,f0,unknown> special_pataka
+665ugmpn01 1 665ugmpn01_665ugmpn01 22.800 25.320 <o,f0,unknown> cesta
+665ugmpn01 1 665ugmpn01_665ugmpn01 25.320 27.900 <o,f0,unknown> most
+665ugmpn01 1 665ugmpn01_665ugmpn01 27.900 30.120 <o,f0,unknown> hodinky
+665ugmpn01 1 665ugmpn01_665ugmpn01 30.120 32.340 <o,f0,unknown> bubon
+665ugmpn01 1 665ugmpn01_665ugmpn01 32.340 34.600 <o,f0,unknown> traktor
+665ugmpn01 1 excluded_region 34.600 35.399 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 35.399 36.860 <o,f0,unknown> fajka
+665ugmpn01 1 665ugmpn01_665ugmpn01 36.860 40.341 <o,f0,unknown> [hez] ježiš
+665ugmpn01 1 excluded_region 40.341 46.988 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 46.988 52.316 <o,f0,unknown> no ani náhodou [hez] bože no nie/ne
+665ugmpn01 1 excluded_region 52.316 55.840 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 55.840 56.454 <o,f0,unknown> ďalej
+665ugmpn01 1 excluded_region 56.454 57.210 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 57.210 59.380 <o,f0,unknown> [hez] lievik
+665ugmpn01 1 665ugmpn01_665ugmpn01 59.380 63.140 <o,f0,unknown> [hez] čo to je domino hra
+665ugmpn01 1 665ugmpn01_665ugmpn01 63.140 66.360 <o,f0,unknown> [hez] ponorka
+665ugmpn01 1 665ugmpn01_665ugmpn01 66.360 68.700 <o,f0,unknown> píše/piše
+665ugmpn01 1 665ugmpn01_665ugmpn01 68.700 71.760 <o,f0,unknown> smeje sa
+665ugmpn01 1 665ugmpn01_665ugmpn01 71.760 74.500 <o,f0,unknown> váži
+665ugmpn01 1 665ugmpn01_665ugmpn01 74.500 76.980 <o,f0,unknown> plače
+665ugmpn01 1 665ugmpn01_665ugmpn01 76.980 79.320 <o,f0,unknown> varí
+665ugmpn01 1 665ugmpn01_665ugmpn01 79.320 81.780 <o,f0,unknown> volá telefonuje no
+665ugmpn01 1 665ugmpn01_665ugmpn01 81.780 84.420 <o,f0,unknown> šije
+665ugmpn01 1 665ugmpn01_665ugmpn01 84.420 87.020 <o,f0,unknown> krája
+665ugmpn01 1 665ugmpn01_665ugmpn01 87.020 89.300 <o,f0,unknown> polieva/polie:va
+665ugmpn01 1 665ugmpn01_665ugmpn01 89.300 91.780 <o,f0,unknown> štrikuje
+665ugmpn01 1 665ugmpn01_665ugmpn01 91.780 94.660 <o,f0,unknown> kráľ [ned-] č [-ned]
+665ugmpn01 1 665ugmpn01_665ugmpn01 94.660 97.020 <o,f0,unknown> topánky/topángy
+665ugmpn01 1 665ugmpn01_665ugmpn01 97.020 99.500 <o,f0,unknown> cigarety
+665ugmpn01 1 665ugmpn01_665ugmpn01 99.500 101.740 <o,f0,unknown> hodinky
+665ugmpn01 1 665ugmpn01_665ugmpn01 101.740 104.120 <o,f0,unknown> teplomer
+665ugmpn01 1 665ugmpn01_665ugmpn01 104.120 106.760 <o,f0,unknown> električka
+665ugmpn01 1 665ugmpn01_665ugmpn01 106.760 108.800 <o,f0,unknown> metla
+665ugmpn01 1 665ugmpn01_665ugmpn01 108.800 111.360 <o,f0,unknown> huby
+665ugmpn01 1 665ugmpn01_665ugmpn01 111.360 113.960 <o,f0,unknown> [hez] kotva
+665ugmpn01 1 665ugmpn01_665ugmpn01 113.960 115.649 <o,f0,unknown> [hez]
+665ugmpn01 1 excluded_region 115.649 117.039 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 117.039 118.980 <o,f0,unknown> kozmonaut
+665ugmpn01 1 excluded_region 118.980 120.382 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 120.382 122.060 <o,f0,unknown> mastí/masti
+665ugmpn01 1 665ugmpn01_665ugmpn01 122.060 124.360 <o,f0,unknown> ťahá
+665ugmpn01 1 665ugmpn01_665ugmpn01 124.360 126.860 <o,f0,unknown> svieti/svie:ti
+665ugmpn01 1 665ugmpn01_665ugmpn01 126.860 129.160 <o,f0,unknown> horí
+665ugmpn01 1 665ugmpn01_665ugmpn01 129.160 131.740 <o,f0,unknown> hádže
+665ugmpn01 1 665ugmpn01_665ugmpn01 131.740 134.080 <o,f0,unknown> maľuje
+665ugmpn01 1 665ugmpn01_665ugmpn01 134.080 136.540 <o,f0,unknown> vŕta
+665ugmpn01 1 665ugmpn01_665ugmpn01 136.540 138.920 <o,f0,unknown> hrabe/hraba
+665ugmpn01 1 665ugmpn01_665ugmpn01 138.920 141.440 <o,f0,unknown> píli
+665ugmpn01 1 665ugmpn01_665ugmpn01 141.440 149.540 <o,f0,unknown> [hez] neviem pláve ma napadlo v tej [ned-] chv [-ned]
+665ugmpn01 1 665ugmpn01_665ugmpn01 149.540 151.940 <o,f0,unknown> kniha
+665ugmpn01 1 665ugmpn01_665ugmpn01 151.940 154.660 <o,f0,unknown> autobus
+665ugmpn01 1 665ugmpn01_665ugmpn01 154.660 157.520 <o,f0,unknown> korunka
+665ugmpn01 1 665ugmpn01_665ugmpn01 157.520 159.840 <o,f0,unknown> koleso
+665ugmpn01 1 665ugmpn01_665ugmpn01 159.840 162.140 <o,f0,unknown> lavička
+665ugmpn01 1 665ugmpn01_665ugmpn01 162.140 164.400 <o,f0,unknown> zips
+665ugmpn01 1 665ugmpn01_665ugmpn01 164.400 166.760 <o,f0,unknown> ťava
+665ugmpn01 1 665ugmpn01_665ugmpn01 166.760 169.040 <o,f0,unknown> vešiak
+665ugmpn01 1 665ugmpn01_665ugmpn01 169.040 171.719 <o,f0,unknown> [hez] dub
+665ugmpn01 1 excluded_region 171.719 173.080 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 173.080 176.780 <o,f0,unknown> [ned-] p [-ned] [hez] pichliač
+665ugmpn01 1 665ugmpn01_665ugmpn01 176.780 179.340 <o,f0,unknown> [hez] spieva
+665ugmpn01 1 665ugmpn01_665ugmpn01 179.340 181.740 <o,f0,unknown> kúpe sa
+665ugmpn01 1 665ugmpn01_665ugmpn01 181.740 184.160 <o,f0,unknown> [hez] meria
+665ugmpn01 1 665ugmpn01_665ugmpn01 184.160 186.340 <o,f0,unknown> pije
+665ugmpn01 1 excluded_region 186.340 187.775 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 187.775 189.280 <o,f0,unknown> klope
+665ugmpn01 1 665ugmpn01_665ugmpn01 189.280 191.520 <o,f0,unknown> skáče
+665ugmpn01 1 665ugmpn01_665ugmpn01 191.520 193.860 <o,f0,unknown> lyžuje
+665ugmpn01 1 665ugmpn01_665ugmpn01 193.860 195.940 <o,f0,unknown> fotí
+665ugmpn01 1 665ugmpn01_665ugmpn01 195.940 198.360 <o,f0,unknown> bicykluje
+665ugmpn01 1 665ugmpn01_665ugmpn01 198.360 200.580 <o,f0,unknown> žehlí
+665ugmpn01 1 665ugmpn01_665ugmpn01 200.580 208.478 <o,f0,unknown> no je tam ruka dospelého bábätka drží sa za malíček.
+665ugmpn01 1 665ugmpn01_665ugmpn01 208.478 213.138 <o,f0,unknown> nič na ruke sú čiary života/živo:ta a smrti.
+665ugmpn01 1 excluded_region 213.138 213.947 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 213.947 217.720 <o,f0,unknown> majú päť prstov jeden palec** ukazovák.
+665ugmpn01 1 excluded_region 217.720 220.745 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 220.745 221.983 <o,f0,unknown> dlaň.
+665ugmpn01 1 665ugmpn01_665ugmpn01 221.983 228.419 <o,f0,unknown> drží sa maličké. má [ned-] des [-ned] . je tu päť prstov. maličký má tiež päť.
+665ugmpn01 1 665ugmpn01_665ugmpn01 228.419 230.480 <o,f0,unknown> nechty.
+665ugmpn01 1 665ugmpn01_665ugmpn01 230.480 234.633 <o,f0,unknown> no je tu stôl dve stoličky.
+665ugmpn01 1 665ugmpn01_665ugmpn01 234.633 236.199 <o,f0,unknown> je tam kávička/kavi:čka.
+665ugmpn01 1 665ugmpn01_665ugmpn01 236.199 237.553 <o,f0,unknown> chýbajú/chybajú ľudia.
+665ugmpn01 1 excluded_region 237.553 238.767 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 238.767 242.090 <o,f0,unknown> potom z kávičky sa dymí tak asi je ešte teplá.
+665ugmpn01 1 665ugmpn01_665ugmpn01 242.090 244.798 <o,f0,unknown> ((v)) je tam lyžička v jednej tanierik.
+665ugmpn01 1 665ugmpn01_665ugmpn01 244.798 246.504 <o,f0,unknown> lyžičky sú tam.
+665ugmpn01 1 excluded_region 246.504 246.944 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 246.944 251.182 <o,f0,unknown> stolička má štyri nohy aj jedna aj druhá.
+665ugmpn01 1 excluded_region 251.182 258.673 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 258.673 260.380 <o,f0,unknown> stôl má tri nohy.
+665ugmpn01 1 excluded_region 260.380 263.130 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 263.130 265.353 <o,f0,unknown> no vyzerá to na kuchyňu.
+665ugmpn01 1 665ugmpn01_665ugmpn01 265.353 267.716 <o,f0,unknown> je tam zrejme oco.
+665ugmpn01 1 665ugmpn01_665ugmpn01 267.716 271.515 <o,f0,unknown> rozbíja/rozbija: [ned-] ((o [-ned] chce x)) chcel zabiť muchu na lustri.
+665ugmpn01 1 665ugmpn01_665ugmpn01 271.515 273.808 <o,f0,unknown> no tam chlapec na stoličke.
+665ugmpn01 1 665ugmpn01_665ugmpn01 273.808 277.431 <o,f0,unknown> pravdepodobne chce zobrať banán tak padá s tou stoličkou.
+665ugmpn01 1 665ugmpn01_665ugmpn01 277.431 279.443 <o,f0,unknown> vidno tu/tu: hlavu mačky čiernej.
+665ugmpn01 1 excluded_region 279.443 280.259 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 280.259 281.673 <o,f0,unknown> pustil vodu.
+665ugmpn01 1 665ugmpn01_665ugmpn01 281.673 285.074 <o,f0,unknown> tečie dole z linky na zem.
+665ugmpn01 1 665ugmpn01_665ugmpn01 285.074 290.743 <o,f0,unknown> oco zrejme rozbil luster lebo/vo čriepinky* sú na/na: zemi.
+665ugmpn01 1 665ugmpn01_665ugmpn01 290.743 294.208 <o,f0,unknown> no linka je zelená/zelena.
+665ugmpn01 1 665ugmpn01_665ugmpn01 294.208 297.398 <o,f0,unknown> ((čo/co ešte)) na [ned-] t [-ned] je tam tanier biely.
+665ugmpn01 1 665ugmpn01_665ugmpn01 297.398 299.216 <o,f0,unknown> chlapček berie si banán.
+665ugmpn01 1 665ugmpn01_665ugmpn01 299.216 300.922 <o,f0,unknown> je tam/tam: jabĺčko/jablčko:.
+665ugmpn01 1 excluded_region 300.922 308.624 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 308.624 310.425 <o,f0,unknown> dačo sa varí/vari.
+665ugmpn01 1 665ugmpn01_665ugmpn01 310.425 311.927 <o,f0,unknown> ide to vonku.
+665ugmpn01 1 665ugmpn01_665ugmpn01 311.927 313.007 <o,f0,unknown> je to horúce.
+665ugmpn01 1 665ugmpn01_665ugmpn01 313.007 315.792 <o,f0,unknown> tečie to z hrnca vonku.
+665ugmpn01 1 665ugmpn01_665ugmpn01 315.792 319.732 <o,f0,unknown> z linky sa dačo leje.
+665ugmpn01 1 665ugmpn01_665ugmpn01 319.732 321.796 <o,f0,unknown> neviem čo by sa. tekutina.
+665ugmpn01 1 excluded_region 321.796 324.557 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 324.557 332.424 <o,f0,unknown> má topánky hnedé či papuče nohavice hnedé modrú zásteru/zaste:ru žlté/žl:te [hez] tričko.
+665ugmpn01 1 excluded_region 332.424 335.906 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 335.906 337.735 <o,f0,unknown> linka otvorené dvere.
+665ugmpn01 1 665ugmpn01_665ugmpn01 337.735 339.441 <o,f0,unknown> sú tam/tam: poličky.
+665ugmpn01 1 excluded_region 339.441 346.387 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 346.387 350.280 <o,f0,unknown> som všetko povedala ((no)) skrinky [ned-] d [-ned]
+665ugmpn01 1 excluded_region 350.280 351.606 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 351.606 356.695 <o,f0,unknown> no tak to vyzerá tiež v kuchyni. je tam mamička/mamička: s bábätkom na rukách.
+665ugmpn01 1 665ugmpn01_665ugmpn01 356.695 361.039 <o,f0,unknown> na poličke sedí mačička/mačička: sivá. má veľké oči aj veľké uši.
+665ugmpn01 1 665ugmpn01_665ugmpn01 361.039 365.899 <o,f0,unknown> %hhm je tam fľaša. [ned-] topa [-ned] mamička/m:amička asi rozmýšľa o topánkach.
+665ugmpn01 1 665ugmpn01_665ugmpn01 365.899 370.577 <o,f0,unknown> praží/praži slaninku aj vajíčka. dačo sa im v hrnci varí/va:ri.
+665ugmpn01 1 665ugmpn01_665ugmpn01 370.577 373.830 <o,f0,unknown> má tam mliečko nožík krája paradajky/parada:jky.
+665ugmpn01 1 665ugmpn01_665ugmpn01 373.830 376.996 <o,f0,unknown> na poličke sú knihy kvety/kve:ty.
+665ugmpn01 1 665ugmpn01_665ugmpn01 376.996 380.924 <o,f0,unknown> má zásteru/zaste:ru tričko telefonuje.
+665ugmpn01 1 665ugmpn01_665ugmpn01 380.924 386.024 <o,f0,unknown> počítač má na/na: [hez] [ned-] d [-ned] dreze/drese no či čo to je.
+665ugmpn01 1 665ugmpn01_665ugmpn01 386.024 388.486 <o,f0,unknown> no čo ešte.
+665ugmpn01 1 665ugmpn01_665ugmpn01 388.486 393.023 <o,f0,unknown> plyňák* zrejme zapnutý lebo/bo červený/červeny.
+665ugmpn01 1 665ugmpn01_665ugmpn01 393.023 395.597 <o,f0,unknown> [hez] bábätko plače.
+665ugmpn01 1 665ugmpn01_665ugmpn01 395.597 398.270 <o,f0,unknown> mačka zvalila [hez] vázu.
+665ugmpn01 1 665ugmpn01_665ugmpn01 398.270 401.752 <o,f0,unknown> kvety padajú/padaju dole.
+665ugmpn01 1 665ugmpn01_665ugmpn01 401.752 405.427 <o,f0,unknown> na stene je hodinka*. je tam čas.
+665ugmpn01 1 665ugmpn01_665ugmpn01 405.427 407.327 <o,f0,unknown> bude pol jednej za dvanásť minút.
+665ugmpn01 1 excluded_region 407.327 412.926 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 412.926 415.457 <o,f0,unknown> čo ešte.
+665ugmpn01 1 excluded_region 415.457 417.312 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 417.312 417.795 <o,f0,unknown> neviem.
+665ugmpn01 1 excluded_region 417.795 418.762 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 418.762 421.558 <o,f0,unknown> má/ma zásteru/zaste:ru takú do žĺta.
+665ugmpn01 1 excluded_region 421.558 425.093 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 425.093 429.348 <o,f0,unknown> vlasy čierne zopnuté do copu padajú jej na oči.
+665ugmpn01 1 665ugmpn01_665ugmpn01 429.348 431.037 <o,f0,unknown> veľké oči pekné/pekne.
+665ugmpn01 1 excluded_region 431.037 439.828 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 439.828 440.180 <o,f0,unknown> knihy sú/su.
+665ugmpn01 1 excluded_region 440.180 442.835 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 442.835 444.875 <o,f0,unknown> takto to vyzerá na vianoce/viano:ce
+665ugmpn01 1 665ugmpn01_665ugmpn01 444.875 447.513 <o,f0,unknown> je tam mama ktorá telefonuje.
+665ugmpn01 1 665ugmpn01_665ugmpn01 447.513 449.025 <o,f0,unknown> zrejme oco prišiel.
+665ugmpn01 1 665ugmpn01_665ugmpn01 449.025 452.841 <o,f0,unknown> stúpol na autíčko takže padá na zem.
+665ugmpn01 1 665ugmpn01_665ugmpn01 452.841 459.189 <o,f0,unknown> psík si/si: leží a chlapček vystrája pri stromčeku stromček padá.
+665ugmpn01 1 665ugmpn01_665ugmpn01 459.189 461.245 <o,f0,unknown> vonku za oknom sneží.
+665ugmpn01 1 665ugmpn01_665ugmpn01 461.245 464.164 <o,f0,unknown> majú červené/červene závesy/zave:sy prúžkované.
+665ugmpn01 1 665ugmpn01_665ugmpn01 464.164 469.158 <o,f0,unknown> no mamka je oblečená má šľapky červené má modré nohavice.
+665ugmpn01 1 665ugmpn01_665ugmpn01 469.158 472.957 <o,f0,unknown> no autíčka sú na zemi/zemi: dve červené aj žlté/žl:te.
+665ugmpn01 1 665ugmpn01_665ugmpn01 472.957 478.268 <o,f0,unknown> oco má zrejme nákup [ned-] b [-ned] niečo má v taške no.
+665ugmpn01 1 665ugmpn01_665ugmpn01 478.268 486.216 <o,f0,unknown> chlapček jak* zdobí stromček alebo sa hraje tak stromček očividne padá no.
+665ugmpn01 1 665ugmpn01_665ugmpn01 486.216 490.833 <o,f0,unknown> koberec majú fialový na zemi podlahu zelenú/zelenu.
+665ugmpn01 1 665ugmpn01_665ugmpn01 490.833 500.276 <o,f0,unknown> chlapec je oblečený má modré tričko žlté/žl:te gate/ga:te nabótky* modré či čo tam je.
+665ugmpn01 1 665ugmpn01_665ugmpn01 500.276 505.707 <o,f0,unknown> čo ešte. no bambuľa* sa rozbila je na zemi.
+665ugmpn01 1 665ugmpn01_665ugmpn01 505.707 513.146 <o,f0,unknown> oco zrejme má/ma čierne nohavice hnedé papuče šál čiapku hnedý kabát.
+665ugmpn01 1 excluded_region 513.146 518.280 <o,,unknown> ignore_time_segment_in_scoring
+665ugmpn01 1 665ugmpn01_665ugmpn01 518.280 520.391 <o,f0,unknown> no neviem už asi všetko.

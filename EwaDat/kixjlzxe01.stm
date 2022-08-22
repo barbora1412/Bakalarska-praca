@@ -1,0 +1,110 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:17 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 8 of 210621
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 0.000 14.940 <o,f0,unknown> special_vokal
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 14.940 22.880 <o,f0,unknown> special_pataka
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 22.880 25.760 <o,f0,unknown> cesta
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 25.760 28.500 <o,f0,unknown> most
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 28.500 31.280 <o,f0,unknown> hodinky
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 31.280 33.920 <o,f0,unknown> bubon
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 33.920 36.600 <o,f0,unknown> traktor
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 36.600 39.360 <o,f0,unknown> fajka
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 39.360 42.020 <o,f0,unknown> akvárium
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 42.020 45.740 <o,f0,unknown> [hez] lievik
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 45.740 49.000 <o,f0,unknown> domino
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 49.000 52.020 <o,f0,unknown> ponorka
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 52.020 56.740 <o,f0,unknown> chlap
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 56.740 59.820 <o,f0,unknown> žena
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 59.820 63.360 <o,f0,unknown> váha
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 63.360 67.100 <o,f0,unknown> plač
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 67.100 70.540 <o,f0,unknown> varenie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 70.540 73.960 <o,f0,unknown> telefón
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 73.960 78.080 <o,f0,unknown> šijací stroj
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 78.080 81.940 <o,f0,unknown> nôž
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 81.940 85.620 <o,f0,unknown> kvetina
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 85.620 89.160 <o,f0,unknown> pletenie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 89.160 92.340 <o,f0,unknown> kráľ [ruch]
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 92.340 95.140 <o,f0,unknown> topánky
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 95.140 98.520 <o,f0,unknown> cigarety
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 98.520 102.200 <o,f0,unknown> čas
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 102.200 105.200 <o,f0,unknown> teplomer
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 105.200 108.260 <o,f0,unknown> električka
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 108.260 111.340 <o,f0,unknown> metla
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 111.340 114.880 <o,f0,unknown> hríby
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 114.880 117.840 <o,f0,unknown> kotva
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 117.840 121.120 <o,f0,unknown> kozmonaut
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 121.120 125.160 <o,f0,unknown> natieranie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 125.160 128.100 <o,f0,unknown> ťahanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 128.100 131.760 <o,f0,unknown> žiarovka
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 131.760 135.160 <o,f0,unknown> horí
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 135.160 139.400 <o,f0,unknown> šport [ex]
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 139.400 142.500 <o,f0,unknown> maľovanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 142.500 145.860 <o,f0,unknown> vŕtanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 145.860 148.820 <o,f0,unknown> hrabanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 148.820 151.860 <o,f0,unknown> pílenie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 151.860 155.240 <o,f0,unknown> veslovanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 155.240 159.040 <o,f0,unknown> a kniha
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 159.040 162.020 <o,f0,unknown> autobus:
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 162.020 165.180 <o,f0,unknown> koruna
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 165.180 168.020 <o,f0,unknown> koleso
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 168.020 171.000 <o,f0,unknown> lavička
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 171.000 173.660 <o,f0,unknown> zips [ruch]
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 173.660 176.500 <o,f0,unknown> ťava
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 176.500 179.320 <o,f0,unknown> vešiak
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 179.320 183.080 <o,f0,unknown> orech
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 183.080 186.020 <o,f0,unknown> kaktus
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 186.020 190.320 <o,f0,unknown> s:pevák
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 190.320 193.940 <o,f0,unknown> dieťa
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 193.940 197.260 <o,f0,unknown> meranie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 197.260 201.340 <o,f0,unknown> voda
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 201.340 205.060 <o,f0,unknown> klopanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 205.060 209.160 <o,f0,unknown> švihadlo
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 209.160 212.460 <o,f0,unknown> lyžovanie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 212.460 216.060 <o,f0,unknown> fotograf
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 216.060 219.520 <o,f0,unknown> cyklista
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 219.520 222.580 <o,f0,unknown> žehlenie
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 222.580 226.676 <o,f0,unknown> takže je tu ruka. držanie ruky:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 226.676 228.743 <o,f0,unknown> [hez] otvorená dlaň.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 228.743 231.198 <o,f0,unknown> [hez] malá ruka veľká ruka:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 231.198 235.562 <o,f0,unknown> [hez] konturovaná kresba:. [hez] čierno-biely obrázo:k.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 235.562 237.773 <o,f0,unknown> [hez] päť prstov.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 237.773 244.180 <o,f0,unknown> [hez] [ex] [hez] dieťa a dospelý [hez] ((to sú/su)).
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 244.180 249.877 <o,f0,unknown> stoličky a stôl [ex] . dve kávy:. kaviareň.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 249.877 252.346 <o,f0,unknown> [hez] nikto tam nie je.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 252.346 254.945 <o,f0,unknown> horúca káva.
+kixjlzxe01 1 excluded_region 254.945 263.420 <o,,unknown> ignore_time_segment_in_scoring
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 263.420 269.124 <o,f0,unknown> neporiadok [ex] . muž v kuchyni.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 269.124 270.603 <o,f0,unknown> tečie voda:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 270.603 272.986 <o,f0,unknown> dieťa: robí/robi neporiadok.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 272.986 279.259 <o,f0,unknown> hmyz tam poletuje: [hez] [hez] čierna mačka:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 279.259 283.700 <o,f0,unknown> rozbitý luster.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 283.700 287.376 <o,f0,unknown> [ex] málo času:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 287.376 290.219 <o,f0,unknown> potrebuje topánky:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 290.219 293.176 <o,f0,unknown> [ned-] ne [-ned] neporiadna mačka:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 293.176 296.133 <o,f0,unknown> a [hez] [hez] veľa [ned-] r [-ned] veľa práce.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 296.133 298.114 <o,f0,unknown> [hez] multitasking*
+kixjlzxe01 1 excluded_region 298.114 302.900 <o,,unknown> ignore_time_segment_in_scoring
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 302.900 306.762 <o,f0,unknown> nevítaný hosť.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 306.762 309.539 <o,f0,unknown> [hez] [hez] je tam pes.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 309.539 311.032 <o,f0,unknown> vonku sneží.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 311.032 312.639 <o,f0,unknown> stromček padá.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 312.639 314.649 <o,f0,unknown> žena si nevšíma:.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 314.649 317.018 <o,f0,unknown> dieťa robí neporiado:k.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 317.018 319.731 <o,f0,unknown> [hez] ťažký náku:p.
+kixjlzxe01 1 kixjlzxe01_kixjlzxe01 319.731 324.583 <o,f0,unknown> [hez] [ned-] ((v [-ned] [ned-] v [-ned] )) [hez] zima je vonku: ((a)) schody do bytu:.

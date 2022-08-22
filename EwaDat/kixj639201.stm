@@ -1,0 +1,134 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:36 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 210520
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj639201 1 kixj639201_kixj639201 0.000 8.860 <o,f0,unknown> special_vokal
+kixj639201 1 kixj639201_kixj639201 8.860 16.800 <o,f0,unknown> special_pataka
+kixj639201 1 kixj639201_kixj639201 16.800 18.787 <o,f0,unknown> cesta
+kixj639201 1 excluded_region 18.787 19.349 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 19.349 20.160 <o,f0,unknown> ((nača))
+kixj639201 1 kixj639201_kixj639201 20.160 23.420 <o,f0,unknown> most/mosc
+kixj639201 1 kixj639201_kixj639201 23.420 26.500 <o,f0,unknown> hodiny
+kixj639201 1 kixj639201_kixj639201 26.500 29.780 <o,f0,unknown> bubna*
+kixj639201 1 kixj639201_kixj639201 29.780 33.360 <o,f0,unknown> traktorik/traktorit morot
+kixj639201 1 kixj639201_kixj639201 33.360 36.680 <o,f0,unknown> fajka
+kixj639201 1 kixj639201_kixj639201 36.680 40.330 <o,f0,unknown> [hez] akvárium
+kixj639201 1 excluded_region 40.330 40.716 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 40.716 41.940 <o,f0,unknown> ((gnáta byt)
+kixj639201 1 kixj639201_kixj639201 41.940 45.880 <o,f0,unknown> lievik alebo/abo trachtár
+kixj639201 1 kixj639201_kixj639201 45.880 51.060 <o,f0,unknown> [ned-] %d: [-ned] domino [hez] ((ta dej)) musí [ned-] rozmýšla [-ned]
+kixj639201 1 excluded_region 51.060 52.337 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 52.337 54.720 <o,f0,unknown> [ned-] t [-ned] ponorka
+kixj639201 1 kixj639201_kixj639201 54.720 59.300 <o,f0,unknown> písania sa píše
+kixj639201 1 kixj639201_kixj639201 59.300 64.100 <o,f0,unknown> aká usmievavá kočka
+kixj639201 1 kixj639201_kixj639201 64.100 68.340 <o,f0,unknown> ťa váži jablko
+kixj639201 1 kixj639201_kixj639201 68.340 72.200 <o,f0,unknown> a chudera** plače
+kixj639201 1 kixj639201_kixj639201 72.200 76.140 <o,f0,unknown> varí nevieme** čo
+kixj639201 1 kixj639201_kixj639201 76.140 79.520 <o,f0,unknown> telefonuje
+kixj639201 1 kixj639201_kixj639201 79.520 85.202 <o,f0,unknown> %ja:j to je šijací stroj [ned-] %ši [-ned]
+kixj639201 1 excluded_region 85.202 86.712 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 86.712 87.090 <o,f0,unknown> ((bože))
+kixj639201 1 excluded_region 87.090 87.140 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 87.140 91.580 <o,f0,unknown> ((jak* mu to pre)) chleba krája
+kixj639201 1 kixj639201_kixj639201 91.580 95.380 <o,f0,unknown> zalieva kvetiny
+kixj639201 1 kixj639201_kixj639201 95.380 100.100 <o,f0,unknown> štrikuje to som nevedel dlho
+kixj639201 1 kixj639201_kixj639201 100.100 107.080 <o,f0,unknown> neviem čo to je talár alebo/abo* toto je turek alebo/abo* čo to je
+kixj639201 1 kixj639201_kixj639201 107.080 109.980 <o,f0,unknown> [hez] topánky
+kixj639201 1 kixj639201_kixj639201 109.980 113.252 <o,f0,unknown> cigarety hnusné ktoré musí
+kixj639201 1 excluded_region 113.252 114.880 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 114.880 119.120 <o,f0,unknown> desať desať hodín ja_sne
+kixj639201 1 kixj639201_kixj639201 119.120 122.560 <o,f0,unknown> teplomer**
+kixj639201 1 kixj639201_kixj639201 122.560 126.140 <o,f0,unknown> električka
+kixj639201 1 kixj639201_kixj639201 126.140 129.580 <o,f0,unknown> metla zametaj zametaj
+kixj639201 1 excluded_region 129.580 130.509 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 130.509 131.220 <o,f0,unknown> hríby
+kixj639201 1 excluded_region 131.220 132.980 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 132.980 136.400 <o,f0,unknown> kotva
+kixj639201 1 kixj639201_kixj639201 136.400 141.260 <o,f0,unknown> [hez] kozmonaut chvíľu** mi to niekedy
+kixj639201 1 kixj639201_kixj639201 141.260 146.380 <o,f0,unknown> koľko toho máme to/to: som pred chvíľou natieral chleba
+kixj639201 1 kixj639201_kixj639201 146.380 150.160 <o,f0,unknown> [ned-] ť [-ned] [i] ťahá lano dieťa
+kixj639201 1 kixj639201_kixj639201 150.160 153.320 <o,f0,unknown> ((to je naša [ned-] vnuč [-ned] )) žiarovka svieti
+kixj639201 1 kixj639201_kixj639201 153.320 157.060 <o,f0,unknown> %ja: horí dom aj keď horá* pred dvoma rokmi
+kixj639201 1 kixj639201_kixj639201 157.060 161.280 <o,f0,unknown> oštep hádže
+kixj639201 1 kixj639201_kixj639201 161.280 165.160 <o,f0,unknown> maliar maľuje
+kixj639201 1 kixj639201_kixj639201 165.160 169.960 <o,f0,unknown> vŕta neviem do koho
+kixj639201 1 kixj639201_kixj639201 169.960 173.660 <o,f0,unknown> hrabe
+kixj639201 1 kixj639201_kixj639201 173.660 177.860 <o,f0,unknown> reže pílkou
+kixj639201 1 kixj639201_kixj639201 177.860 182.868 <o,f0,unknown> čo to je osmička alebo [ned-] štyrves [-ned] štyrveslová veslujú
+kixj639201 1 excluded_region 182.868 184.900 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 184.900 188.000 <o,f0,unknown> kniha
+kixj639201 1 kixj639201_kixj639201 188.000 191.700 <o,f0,unknown> autobus
+kixj639201 1 kixj639201_kixj639201 191.700 195.720 <o,f0,unknown> koruna kráľa z [ned-] rozpra [-ned]
+kixj639201 1 kixj639201_kixj639201 195.720 198.761 <o,f0,unknown> pneumatika môžem meniť/menit aj u/u: mňa
+kixj639201 1 excluded_region 198.761 200.080 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 200.080 203.440 <o,f0,unknown> lavica
+kixj639201 1 kixj639201_kixj639201 203.440 207.480 <o,f0,unknown> zips
+kixj639201 1 kixj639201_kixj639201 207.480 210.820 <o,f0,unknown> ťava dvojhrbá na tej som sa vozil
+kixj639201 1 kixj639201_kixj639201 210.820 214.240 <o,f0,unknown> vešiak
+kixj639201 1 kixj639201_kixj639201 214.240 226.500 <o,f0,unknown> ((to neviem** čo/co to je)) %h čo to je zabalené neviem či/ci [ned-] dz [-ned] nejaké ovocie zabalené
+kixj639201 1 kixj639201_kixj639201 226.500 230.340 <o,f0,unknown> kaktus
+kixj639201 1 kixj639201_kixj639201 230.340 232.813 <o,f0,unknown> speváčka [ned-] s [-ned]
+kixj639201 1 excluded_region 232.813 233.410 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 233.410 235.380 <o,f0,unknown> ((myslím že spieva))
+kixj639201 1 kixj639201_kixj639201 235.380 239.420 <o,f0,unknown> dieťa kúpe sa
+kixj639201 1 kixj639201_kixj639201 239.420 245.660 <o,f0,unknown> merá* sosá* mi celý život
+kixj639201 1 kixj639201_kixj639201 245.660 249.440 <o,f0,unknown> pije vodu
+kixj639201 1 kixj639201_kixj639201 249.440 251.396 <o,f0,unknown> asi iné klope
+kixj639201 1 excluded_region 251.396 253.560 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 253.560 259.460 <o,f0,unknown> švihadlo ((sváčeš)) dievča skáče cez švihadlo
+kixj639201 1 kixj639201_kixj639201 259.460 263.653 <o,f0,unknown> lyžiar Vlhová asi v mužskom podaní
+kixj639201 1 excluded_region 263.653 265.580 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 265.580 269.200 <o,f0,unknown> fotograf
+kixj639201 1 kixj639201_kixj639201 269.200 273.300 <o,f0,unknown> cyklista Sagan
+kixj639201 1 kixj639201_kixj639201 273.300 277.420 <o,f0,unknown> žehlí
+kixj639201 1 excluded_region 277.420 279.638 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 279.638 283.120 <o,f0,unknown> ruka [hez] drží za za malíček/malíšek.
+kixj639201 1 kixj639201_kixj639201 283.120 288.571 <o,f0,unknown> no neviem jak* to treba popísať ((tam)).
+kixj639201 1 kixj639201_kixj639201 288.571 293.565 <o,f0,unknown> dieťa drží za malíček otca asi. tak tak by som nazval nejak. tam je tá detská ruka a/a:.
+kixj639201 1 excluded_region 293.565 299.017 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 299.017 301.380 <o,f0,unknown> [hez] ((x x)).
+kixj639201 1 excluded_region 301.380 303.701 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 303.701 308.676 <o,f0,unknown> no/no: sme dvaja. akurát ideme piť** kávu ale neviem** či ((je)) zaliata.
+kixj639201 1 excluded_region 308.676 309.733 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 309.733 314.270 <o,f0,unknown> %hehe operadlá stoličky sú tam. čakajú na hostí v reštaurácii zrejme.
+kixj639201 1 excluded_region 314.270 319.070 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 319.070 320.660 <o,f0,unknown> ((no)).
+kixj639201 1 kixj639201_kixj639201 320.660 321.453 <o,f0,unknown> či/ci dobre.
+kixj639201 1 excluded_region 321.453 326.430 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 326.430 328.171 <o,f0,unknown> %h manžel varí.
+kixj639201 1 kixj639201_kixj639201 328.171 337.631 <o,f0,unknown> síce s varechou. nevieme či či varí alebo či ide deti biť dieťa biť ktoré mu tam vyvádza prevracia/prevraca stoličku.
+kixj639201 1 kixj639201_kixj639201 337.631 345.740 <o,f0,unknown> ale z toho asi navarené ten banán neuvaria čo tam má v rukách to dieťa.
+kixj639201 1 excluded_region 345.740 348.473 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 348.473 350.882 <o,f0,unknown> %pch ozaj zaneprázdnená matka.
+kixj639201 1 kixj639201_kixj639201 350.882 355.542 <o,f0,unknown> dieťa na rukách. panvica v [ned-] ru [-ned] panvica v druhej ruke.
+kixj639201 1 kixj639201_kixj639201 355.542 358.549 <o,f0,unknown> nevládze** to asi/asiz.
+kixj639201 1 kixj639201_kixj639201 358.549 361.431 <o,f0,unknown> [hez] má/ma nemá**/nema nemá** asi dobrého manžela.
+kixj639201 1 excluded_region 361.431 362.242 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 362.242 364.810 <o,f0,unknown> nestará** sa o ňu tak musí sa [ned-] s [-ned] stresovať**.
+kixj639201 1 excluded_region 364.810 367.560 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 excluded_region 367.560 374.700 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 374.700 379.036 <o,f0,unknown> no vianoce nechápem** čo ten manžel robí v tom okne alebo čo to je.
+kixj639201 1 excluded_region 379.036 382.651 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 382.651 383.987 <o,f0,unknown> ((ta))
+kixj639201 1 excluded_region 383.987 388.170 <o,,unknown> ignore_time_segment_in_scoring
+kixj639201 1 kixj639201_kixj639201 388.170 393.360 <o,f0,unknown> nejak sa/še špatne* chystajú na tie vianoce. neviem ((neviem)) nechápem to. tento obrázok není* moc.
+kixj639201 1 kixj639201_kixj639201 393.360 396.297 <o,f0,unknown> stromek* nejak* je nakrivo.
+kixj639201 1 kixj639201_kixj639201 396.297 398.290 <o,f0,unknown> manžel je v okne.
+kixj639201 1 kixj639201_kixj639201 398.290 400.823 <o,f0,unknown> manželka telefonuje/telefo:nuje.
+kixj639201 1 kixj639201_kixj639201 400.823 403.161 <o,f0,unknown> divné via:noce proste.
+kixj639201 1 kixj639201_kixj639201 403.161 405.149 <o,f0,unknown> ešte dieťa v druhom okne.

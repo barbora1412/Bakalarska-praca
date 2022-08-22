@@ -1,0 +1,105 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:36 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210828
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 14.940 22.840 <o,f0,unknown> special_pataka
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 22.840 25.740 <o,f0,unknown> cesta
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 25.740 28.880 <o,f0,unknown> kráľ
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 28.880 30.753 <o,f0,unknown> kniha
+lpvvnf1p01 1 excluded_region 30.753 31.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 31.440 33.980 <o,f0,unknown> most
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 33.980 36.580 <o,f0,unknown> topánky
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 36.580 39.720 <o,f0,unknown> autobus
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 39.720 42.660 <o,f0,unknown> hodinky
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 42.660 45.460 <o,f0,unknown> cigarety
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 45.460 48.840 <o,f0,unknown> kráľovská koruna
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 48.840 51.920 <o,f0,unknown> buben*
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 51.920 55.220 <o,f0,unknown> budík
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 55.220 58.120 <o,f0,unknown> koleso
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 58.120 60.600 <o,f0,unknown> traktor
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 60.600 63.160 <o,f0,unknown> teplomer
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 63.160 65.920 <o,f0,unknown> lavička
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 65.920 68.600 <o,f0,unknown> fajka
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 68.600 71.280 <o,f0,unknown> električka
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 71.280 73.720 <o,f0,unknown> zips
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 73.720 76.380 <o,f0,unknown> akvárium
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 76.380 78.660 <o,f0,unknown> metla
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 78.660 81.580 <o,f0,unknown> ťava
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 81.580 84.260 <o,f0,unknown> lievik
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 84.260 86.800 <o,f0,unknown> hríby
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 86.800 90.915 <o,f0,unknown> vešiak ramienko
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 90.915 93.920 <o,f0,unknown> kocky na hranie
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 93.920 97.100 <o,f0,unknown> kotva
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 97.100 100.560 <o,f0,unknown> žaluď
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 100.560 105.260 <o,f0,unknown> more ponorka
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 105.260 107.095 <o,f0,unknown> kozmonaut
+lpvvnf1p01 1 excluded_region 107.095 108.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 108.280 110.840 <o,f0,unknown> kaktus
+lpvvnf1p01 1 excluded_region 110.840 112.492 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 112.492 114.480 <o,f0,unknown> píše
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 114.480 117.700 <o,f0,unknown> natiera chleba
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 117.700 120.500 <o,f0,unknown> spieva
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 120.500 123.460 <o,f0,unknown> smeje sa
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 123.460 126.440 <o,f0,unknown> ťahá lano
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 126.440 129.740 <o,f0,unknown> umýva sa
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 129.740 132.860 <o,f0,unknown> váži
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 132.860 135.600 <o,f0,unknown> svieti
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 135.600 138.400 <o,f0,unknown> merá
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 138.400 141.000 <o,f0,unknown> plače
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 141.000 143.112 <o,f0,unknown> požiar
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 143.112 145.420 <o,f0,unknown> horí dom
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 145.420 148.880 <o,f0,unknown> pije
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 148.880 151.600 <o,f0,unknown> varí
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 151.600 154.760 <o,f0,unknown> hádže oštepom
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 154.760 157.540 <o,f0,unknown> klope
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 157.540 160.240 <o,f0,unknown> telefonuje
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 160.240 162.780 <o,f0,unknown> maľuje
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 162.780 166.040 <o,f0,unknown> skáče cez švihadlo
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 166.040 169.020 <o,f0,unknown> šije
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 169.020 171.760 <o,f0,unknown> vŕta
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 171.760 174.280 <o,f0,unknown> lyžuje
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 174.280 176.980 <o,f0,unknown> krája jablko
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 176.980 180.320 <o,f0,unknown> hrabe
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 180.320 183.160 <o,f0,unknown> fotí
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 183.160 186.660 <o,f0,unknown> polieva kvety
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 186.660 191.240 <o,f0,unknown> reže drevo pílkou
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 191.240 195.060 <o,f0,unknown> bicykluje
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 195.060 198.340 <o,f0,unknown> štrikuje
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 198.340 201.560 <o,f0,unknown> vesluje
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 201.560 204.840 <o,f0,unknown> žehlí
+lpvvnf1p01 1 excluded_region 204.840 206.762 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 206.762 234.780 <o,f0,unknown> vystretú ruku [ex] malíčku drží zviera ruka malého dieťaťa. obrázok vyjadruje spojenie matky alebo otca s dieťaťom a rovnako: potrebu dieťaťa sa: nejakým spôsobom dotýkať alebo ukotviť a tým že ju tak pekne [hez] ten prst zviera tak zrejme sa jedná o: istotu o pocit istoty.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 234.780 264.700 <o,f0,unknown> stolík a dve stoličky s dvomi šálkami kávy pripravený evokuje vo mne: že je pripravené na stretnutie [hez] dvoch osôb ktorí si chcú/chcu pri šálke dobrej kávy posedieť stráviť príjemné/príjemne chvíle v rozhovore porozprávať sa možno aj posťažovať a takto v pokoji stráviť voľný čas a byť spolu.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 264.700 285.596 <o,f0,unknown> muž v kuchyni. [ex] dieťa na stoličke. [smiech-] pretekajúca [-smiech] voda. evokuje to naozaj chlapov a mužov všeobecne [hez] keď ich pustíme do kuchyne čo všetko sa môže stať.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 285.596 303.600 <o,f0,unknown> nielenže na: sporáku nejaké jedlo už: sa vyviera a rúti von [hez] z hrnca. [hez] otvorená skrinka kuchynská. vysypané je/j múka alebo niečo podobné.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 303.600 314.352 <o,f0,unknown> nedáva pozor na dieťa ktoré/ktore vyliezlo na stoličku pretože si chcelo dočiahnuť ovocie. stolička sa nebezpečne nakláňa.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 314.352 343.165 <o,f0,unknown> voda z drezu/dresu už tečie po: kuchyni. dokonca sa pánovi v zástere podarilo vareškou rozbiť až luster. takže naozaj to: evokuje/evakuje jeden jeden veľký chaos a samozrejme aj nebezpečie z ktorého je evidentne aj nejakým spôsobom vystrašená mačka [smiech-] ktorá má/ma [-smiech] oči dokorán.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 343.165 352.449 <o,f0,unknown> takže naozaj asi z toho plynie nepúšťať chlapov do kuchyne a nenechávať deti bez akéhokoľvek dozoru.
+lpvvnf1p01 1 excluded_region 352.449 354.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 excluded_region 354.700 357.490 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 357.490 372.870 <o,f0,unknown> zaneprázdnená matka. no napriek tomu že matka je v kuchyni a je evidentne zaneprázdnená varením napriek tomu ako žena dokáže všetko stíhať.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 372.870 386.573 <o,f0,unknown> v jednej ruke dokáže držať dieťa zároveň [hez] telefonovať. ďalšej ruke má/ma panvicu. na sporáku pripravený hrniec.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 386.573 398.315 <o,f0,unknown> [hez] úžasné je že okrem [hez] kuchynských pomôcok a varenia tak tu má aj otvorený notebook.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 398.315 426.355 <o,f0,unknown> takže evokuje to vo mne že ženy dokážeme oveľa viacej činností naraz a súčasne robiť a okrem toho že: teda sa stará o dieťa varí pozerá do notebooku ešte aj telefonuje tak napriek tomu je úžasné že ešte aj popri týchto činnostiach [hez] žena dokáže snívať a sníva o: nových topánkach.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 426.355 444.640 <o,f0,unknown> [spk] takže skutočne: žena: je: je: tvor ktorý dokáže robiť niekoľko činností naraz a ešte dokáže mať aj sny. čiže dokáže ryba hýbať rukami telefonovať a ešte aj snívať o tom čo by si chcela kúpiť.
+lpvvnf1p01 1 excluded_region 444.640 447.089 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 447.089 466.035 <o,f0,unknown> vianoce [ex] znovu idylické prostredie. vianoce. pani telefonuje. dieťa si robí so stromčekom čo len chce. ťahá ho takže čoskoro príde k vianočnej [hez] katastrofe.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 466.035 493.138 <o,f0,unknown> vchádzajúci pán zo zasneženej [hez] krajiny vstupuje: do: bytu kde sú porozhadzované hračky. takže úplne bežná kolízia keď má domácnosť malé dieťa všade porozhadzované hračky. najlepšie je stúpiť na autíčko ktoré má koliečka takže/takžele pád je raz dva.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 493.138 516.918 <o,f0,unknown> [spk] [hez] [hez] napriek tomuto všetkému tým že sú na obrázku vianoce: vonku pekne sneží je tu rodina: [hez] v podstate to evokuje že aj napriek tomu že sú sviatky pani je v kľude. telefonuje. všetko sa dá prežiť. všetko sa dá zvládnuť aj na vianoce.
+lpvvnf1p01 1 lpvvnf1p01_lpvvnf1p01 516.918 528.648 <o,f0,unknown> keď všetci očakávajú pokoj mier a kľud sa takéto situácie stávajú a myslím si že úplne patria k životu: a nemali by nijako narušiť čas vianoc.

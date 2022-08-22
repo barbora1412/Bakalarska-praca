@@ -1,0 +1,129 @@
+;; Transcriber conversion by parsetrs v0.74 on 12:21:33 2021/11/05 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210922
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kpc4olp101 1 kpc4olp101_kpc4olp101 0.000 14.940 <o,f0,unknown> special_vokal
+kpc4olp101 1 kpc4olp101_kpc4olp101 14.940 22.900 <o,f0,unknown> special_pataka
+kpc4olp101 1 kpc4olp101_kpc4olp101 22.900 25.300 <o,f0,unknown> cesta
+kpc4olp101 1 kpc4olp101_kpc4olp101 25.300 27.680 <o,f0,unknown> kráľ
+kpc4olp101 1 kpc4olp101_kpc4olp101 27.680 29.720 <o,f0,unknown> kniha
+kpc4olp101 1 kpc4olp101_kpc4olp101 29.720 31.920 <o,f0,unknown> most
+kpc4olp101 1 kpc4olp101_kpc4olp101 31.920 34.060 <o,f0,unknown> topánky
+kpc4olp101 1 kpc4olp101_kpc4olp101 34.060 36.340 <o,f0,unknown> autobus
+kpc4olp101 1 kpc4olp101_kpc4olp101 36.340 38.480 <o,f0,unknown> hodiny
+kpc4olp101 1 kpc4olp101_kpc4olp101 38.480 41.040 <o,f0,unknown> cigarety
+kpc4olp101 1 kpc4olp101_kpc4olp101 41.040 43.260 <o,f0,unknown> koruna
+kpc4olp101 1 kpc4olp101_kpc4olp101 43.260 45.440 <o,f0,unknown> bubon
+kpc4olp101 1 kpc4olp101_kpc4olp101 45.440 48.280 <o,f0,unknown> hodiny
+kpc4olp101 1 kpc4olp101_kpc4olp101 48.280 50.780 <o,f0,unknown> a koleso
+kpc4olp101 1 kpc4olp101_kpc4olp101 50.780 52.920 <o,f0,unknown> traktor
+kpc4olp101 1 kpc4olp101_kpc4olp101 52.920 55.200 <o,f0,unknown> teplomer
+kpc4olp101 1 kpc4olp101_kpc4olp101 55.200 57.580 <o,f0,unknown> lavička
+kpc4olp101 1 kpc4olp101_kpc4olp101 57.580 59.800 <o,f0,unknown> fajka
+kpc4olp101 1 kpc4olp101_kpc4olp101 59.800 62.320 <o,f0,unknown> električka
+kpc4olp101 1 kpc4olp101_kpc4olp101 62.320 64.320 <o,f0,unknown> zips
+kpc4olp101 1 kpc4olp101_kpc4olp101 64.320 67.040 <o,f0,unknown> [hez] akvárium
+kpc4olp101 1 kpc4olp101_kpc4olp101 67.040 69.140 <o,f0,unknown> metla
+kpc4olp101 1 kpc4olp101_kpc4olp101 69.140 71.220 <o,f0,unknown> ťava
+kpc4olp101 1 kpc4olp101_kpc4olp101 71.220 73.520 <o,f0,unknown> lievik
+kpc4olp101 1 kpc4olp101_kpc4olp101 73.520 75.740 <o,f0,unknown> huby
+kpc4olp101 1 kpc4olp101_kpc4olp101 75.740 77.720 <o,f0,unknown> vešiak
+kpc4olp101 1 kpc4olp101_kpc4olp101 77.720 80.360 <o,f0,unknown> domino
+kpc4olp101 1 kpc4olp101_kpc4olp101 80.360 82.320 <o,f0,unknown> kotva
+kpc4olp101 1 kpc4olp101_kpc4olp101 82.320 84.940 <o,f0,unknown> žaluď
+kpc4olp101 1 kpc4olp101_kpc4olp101 84.940 87.300 <o,f0,unknown> ponorka
+kpc4olp101 1 kpc4olp101_kpc4olp101 87.300 89.700 <o,f0,unknown> kozmonaut
+kpc4olp101 1 kpc4olp101_kpc4olp101 89.700 91.860 <o,f0,unknown> kaktus
+kpc4olp101 1 kpc4olp101_kpc4olp101 91.860 94.040 <o,f0,unknown> píše
+kpc4olp101 1 kpc4olp101_kpc4olp101 94.040 97.260 <o,f0,unknown> pomazánku natiera
+kpc4olp101 1 kpc4olp101_kpc4olp101 97.260 99.640 <o,f0,unknown> spieva
+kpc4olp101 1 kpc4olp101_kpc4olp101 99.640 101.880 <o,f0,unknown> smeje sa
+kpc4olp101 1 kpc4olp101_kpc4olp101 101.880 103.960 <o,f0,unknown> ťahá
+kpc4olp101 1 kpc4olp101_kpc4olp101 103.960 106.300 <o,f0,unknown> kúpe
+kpc4olp101 1 kpc4olp101_kpc4olp101 106.300 108.820 <o,f0,unknown> váži
+kpc4olp101 1 kpc4olp101_kpc4olp101 108.820 111.300 <o,f0,unknown> svieti
+kpc4olp101 1 kpc4olp101_kpc4olp101 111.300 113.500 <o,f0,unknown> meria
+kpc4olp101 1 kpc4olp101_kpc4olp101 113.500 115.660 <o,f0,unknown> plače
+kpc4olp101 1 kpc4olp101_kpc4olp101 115.660 117.800 <o,f0,unknown> horí
+kpc4olp101 1 kpc4olp101_kpc4olp101 117.800 119.840 <o,f0,unknown> pije
+kpc4olp101 1 kpc4olp101_kpc4olp101 119.840 122.080 <o,f0,unknown> varí
+kpc4olp101 1 kpc4olp101_kpc4olp101 122.080 124.380 <o,f0,unknown> hádže
+kpc4olp101 1 kpc4olp101_kpc4olp101 124.380 126.700 <o,f0,unknown> klope
+kpc4olp101 1 kpc4olp101_kpc4olp101 126.700 129.100 <o,f0,unknown> telefonuje
+kpc4olp101 1 kpc4olp101_kpc4olp101 129.100 131.120 <o,f0,unknown> maľuje
+kpc4olp101 1 kpc4olp101_kpc4olp101 131.120 133.500 <o,f0,unknown> skáče
+kpc4olp101 1 kpc4olp101_kpc4olp101 133.500 135.820 <o,f0,unknown> šije
+kpc4olp101 1 kpc4olp101_kpc4olp101 135.820 137.920 <o,f0,unknown> vŕta/vrta:
+kpc4olp101 1 kpc4olp101_kpc4olp101 137.920 139.980 <o,f0,unknown> [spk] lyžuje
+kpc4olp101 1 kpc4olp101_kpc4olp101 139.980 142.160 <o,f0,unknown> reže
+kpc4olp101 1 kpc4olp101_kpc4olp101 142.160 144.360 <o,f0,unknown> hrabe
+kpc4olp101 1 kpc4olp101_kpc4olp101 144.360 146.500 <o,f0,unknown> fotí/foti
+kpc4olp101 1 kpc4olp101_kpc4olp101 146.500 148.700 <o,f0,unknown> polieva
+kpc4olp101 1 kpc4olp101_kpc4olp101 148.700 151.080 <o,f0,unknown> píli
+kpc4olp101 1 kpc4olp101_kpc4olp101 151.080 153.340 <o,f0,unknown> bicykluje
+kpc4olp101 1 kpc4olp101_kpc4olp101 153.340 156.960 <o,f0,unknown> š [hez] š va [hez] štrikuje
+kpc4olp101 1 kpc4olp101_kpc4olp101 156.960 159.800 <o,f0,unknown> vesluje
+kpc4olp101 1 kpc4olp101_kpc4olp101 159.800 162.220 <o,f0,unknown> žehlí
+kpc4olp101 1 kpc4olp101_kpc4olp101 162.220 174.736 <o,f0,unknown> dlaň ruka prst malé malá ruka malé prsty. [hez] ž čiary života. záhyby.
+kpc4olp101 1 kpc4olp101_kpc4olp101 174.736 192.160 <o,f0,unknown> ((to)) neviem [smiech] . vystretá dlaň. [hez] [ruch] priateľstvo [ruch] .
+kpc4olp101 1 kpc4olp101_kpc4olp101 192.160 201.135 <o,f0,unknown> [hez] bar káva stoličky stôl/sto:l reštaurácia. kaviareň.
+kpc4olp101 1 excluded_region 201.135 205.555 <o,,unknown> ignore_time_segment_in_scoring
+kpc4olp101 1 kpc4olp101_kpc4olp101 205.555 207.503 <o,f0,unknown> balkón.
+kpc4olp101 1 excluded_region 207.503 211.893 <o,,unknown> ignore_time_segment_in_scoring
+kpc4olp101 1 kpc4olp101_kpc4olp101 211.893 217.830 <o,f0,unknown> pria priateľstvo. beseda. ranná ranná káva.
+kpc4olp101 1 excluded_region 217.830 222.100 <o,,unknown> ignore_time_segment_in_scoring
+kpc4olp101 1 kpc4olp101_kpc4olp101 222.100 233.790 <o,f0,unknown> muž v kuchyni varí. decko sa: decko proste berie nejaké banány ovocie. padá stolička čiže decko padá so stoličkou. tečie/teče voda. preteká.
+kpc4olp101 1 kpc4olp101_kpc4olp101 233.790 236.256 <o,f0,unknown> [hez] kypí mu z hrnca.
+kpc4olp101 1 kpc4olp101_kpc4olp101 236.256 239.278 <o,f0,unknown> rozbíja svetlo.
+kpc4olp101 1 kpc4olp101_kpc4olp101 239.278 243.535 <o,f0,unknown> [hez] neporiadok v [hez] skrini.
+kpc4olp101 1 kpc4olp101_kpc4olp101 243.535 248.044 <o,f0,unknown> mačka [smiech-] sleduje celý dej [-smiech] .
+kpc4olp101 1 kpc4olp101_kpc4olp101 248.044 250.751 <o,f0,unknown> stolička padá s chlapcom.
+kpc4olp101 1 kpc4olp101_kpc4olp101 250.751 257.895 <o,f0,unknown> otec čo robí? tak %hm kýve vareškou [smiech] .
+kpc4olp101 1 kpc4olp101_kpc4olp101 257.895 260.384 <o,f0,unknown> neporiadok v kuchyni.
+kpc4olp101 1 kpc4olp101_kpc4olp101 260.384 264.877 <o,f0,unknown> skriňa otvorená.
+kpc4olp101 1 kpc4olp101_kpc4olp101 264.877 272.842 <o,f0,unknown> vykypený vyky vykypená %hm čo ja viem ryža. platnička horí červenou [smiech-] farbou [-smiech] . žeravá.
+kpc4olp101 1 kpc4olp101_kpc4olp101 272.842 274.988 <o,f0,unknown> ovocie na tanieri.
+kpc4olp101 1 kpc4olp101_kpc4olp101 274.988 281.108 <o,f0,unknown> ((čiže)) pravdepodobne chlapec chce zjesť tie banány/banany to ovocie.
+kpc4olp101 1 kpc4olp101_kpc4olp101 281.108 289.922 <o,f0,unknown> o [hez] [hez] kuchyňa je je osvetlená? nie je osvetlená? neviem [smiech] .
+kpc4olp101 1 kpc4olp101_kpc4olp101 289.922 297.546 <o,f0,unknown> tie biela stena. zelený nábytok.
+kpc4olp101 1 kpc4olp101_kpc4olp101 297.546 304.290 <o,f0,unknown> čierna mačka. pozor nebezpečie. žlté oči.
+kpc4olp101 1 excluded_region 304.290 308.793 <o,,unknown> ignore_time_segment_in_scoring
+kpc4olp101 1 kpc4olp101_kpc4olp101 308.793 312.040 <o,f0,unknown> cirkus [smiech]
+kpc4olp101 1 kpc4olp101_kpc4olp101 312.040 323.542 <o,f0,unknown> [hez] za [hez] z zaneprázdnená mamička. že: decko na rukách. varí popritom. horí jej to. [smiech] padá jej to.
+kpc4olp101 1 kpc4olp101_kpc4olp101 323.542 328.825 <o,f0,unknown> je dvanásť/dvanác hodín aj dvadsať mi osemnásť minút/minut.
+kpc4olp101 1 kpc4olp101_kpc4olp101 328.825 332.126 <o,f0,unknown> mačka sedí na poličke. vyvrátila nejaké kvety.
+kpc4olp101 1 kpc4olp101_kpc4olp101 332.126 338.368 <o,f0,unknown> za topánky sú v myšlienkach m:amičky že potrebuje topánky.
+kpc4olp101 1 kpc4olp101_kpc4olp101 338.368 342.297 <o,f0,unknown> čiže na stole máme počítač ((čiže:)) stíha všetko.
+kpc4olp101 1 kpc4olp101_kpc4olp101 342.297 351.030 <o,f0,unknown> je tam je tam [hez] zelenina nôž. proste [smiech-] správna domácnosť [-smiech] .
+kpc4olp101 1 kpc4olp101_kpc4olp101 351.030 367.078 <o,f0,unknown> šporák. sú zap zapnuté obidve platničky čiže [hez] z zrejme stíha variť až v dvoch hrncoch [smiech] a popritom sledovať počítač alebo televízor.
+kpc4olp101 1 kpc4olp101_kpc4olp101 367.078 375.816 <o,f0,unknown> je tam mlieko. d dieťa plače. je hladné. čiže vkŕmiť/vkŕbiť vkŕmiť/vkrtni dieťa sa nestíha. [smiech]
+kpc4olp101 1 kpc4olp101_kpc4olp101 375.816 385.158 <o,f0,unknown> [hez] mačka vysypala kvety [hez] a zrejme bude potrestaná.
+kpc4olp101 1 excluded_region 385.158 389.390 <o,,unknown> ignore_time_segment_in_scoring
+kpc4olp101 1 kpc4olp101_kpc4olp101 389.390 395.255 <o,f0,unknown> hodinky zastali na: [smiech] nepohli sa ďalej. my už rozprávame päť minút/minut.
+kpc4olp101 1 kpc4olp101_kpc4olp101 395.255 401.980 <o,f0,unknown> s [hez] za mamičkou je stolička. asi si sadne [hez] alebo nie je to stolička je to stolič
+kpc4olp101 1 kpc4olp101_kpc4olp101 401.980 407.986 <o,f0,unknown> čas vianoc čiže to znamená stres.
+kpc4olp101 1 kpc4olp101_kpc4olp101 407.986 414.819 <o,f0,unknown> chlapec práve stiahol stromček na seba. porozbíjané gule. otec šliapol/šlapol na auto. letí na chrbát/chrbat.
+kpc4olp101 1 kpc4olp101_kpc4olp101 414.819 420.722 <o,f0,unknown> za oknom se [hez] za oknom volá kamarát. vonku sneží.
+kpc4olp101 1 kpc4olp101_kpc4olp101 420.722 426.807 <o,f0,unknown> otec ide z nákupu a zrejme to dobre [ruch-] nedopadne s tým dopadom [-ruch] .
+kpc4olp101 1 kpc4olp101_kpc4olp101 426.807 434.841 <o,f0,unknown> mama telefonuje a pes spí. rodinná idylka.
+kpc4olp101 1 kpc4olp101_kpc4olp101 434.841 444.599 <o,f0,unknown> stromček [hez] s hviezdou päťcípou. neviem k čomu pripísať ju. [smiech]
+kpc4olp101 1 kpc4olp101_kpc4olp101 444.599 454.586 <o,f0,unknown> a: máme tu ružový koberec a zelené parkety. dvere pootvorené. teplo ide von.
+kpc4olp101 1 kpc4olp101_kpc4olp101 454.586 472.485 <o,f0,unknown> modré tričko žlté trenírky modré nohavice zelené zelený sveter. otec oblečený so šálom a čiapkou/čapkou. skus [smiech] [hez] pulóver modrý čierne nohavice topánky ne vyzuté.
+kpc4olp101 1 kpc4olp101_kpc4olp101 472.485 476.388 <o,f0,unknown> teplo domova.
+kpc4olp101 1 kpc4olp101_kpc4olp101 476.388 481.030 <o,f0,unknown> ((čiže)) vianočný večer.
+kpc4olp101 1 kpc4olp101_kpc4olp101 481.030 486.490 <o,f0,unknown> radosť rodičov a radosť detí/deti.
