@@ -1,4 +1,5 @@
 from pathlib import Path
+import openpyxl
 
 
 def extractWord(word):
@@ -481,7 +482,7 @@ def extractPlainTextFromRec(rec, i):
     rec = deleteProlongations(rec)
     rec = devideDot(rec)
 
-    print(rec)
+    #print(rec)
     i += 1
     out = []
     for line in rec:
@@ -536,6 +537,57 @@ def doStatistics():
     for file in filesToDo:
         createStatistics(file)
 
+def addNameToPlainText(directoryName):
+    filesToDo = Path(directoryName).glob('Plainbig*')
+    nameFiles = Path(directoryName).glob('fileNamebig*')
+
+    filesToDo = list(filesToDo)
+    nameFiles = list(nameFiles)
+
+    for (author, file) in zip(nameFiles, filesToDo):
+        #print(author,file)
+        file = Path(file)
+        content = file.read_text()
+        content = content.split("\n\n")
+
+        author = Path(author)
+        authors = author.read_text()
+        authors = authors.split("\n")
+
+        #print(authors)
+        with open(file.name + "PlusAuthor", 'w+') as fileContentPlain:
+
+            for (rec, auth) in zip(content, authors):
+                authPlain = auth.split(".")
+                fileContentPlain.write(authPlain[0]+"\n")
+                fileContentPlain.write(rec+"\n\n")
+
+def findNameInExcel(name):
+    """
+    V excel tabulke najde riadok zhodny s parametrom name a vezme z neho udaje Code, Age, Diagnosis, MOCA, Edu, edu years,sex
+    :param name: kod-meno hovoriaceho
+    :return: 7-miestne pole [Code, Age, Diagnosis, MOCA, Edu, edu years,sex]
+    """
+    output = ["","","","","","",""]
+    dataframe = openpyxl.load_workbook("ewa_2021_12_16_10_29_28.xlsx")
+    dataframe1 = dataframe.active
+    for i in range(0, dataframe1.max_row):
+        cell_obj = dataframe1.cell(row=i+1, column=3)
+        if(cell_obj.value == name):
+            output = [dataframe1.cell(row=i, column=3).value,\
+                      dataframe1.cell(row=i, column=6).value, \
+                      dataframe1.cell(row=i, column=7).value, \
+                      dataframe1.cell(row=i, column=8).value, \
+                      dataframe1.cell(row=i, column=9).value,\
+                      dataframe1.cell(row=i, column=10).value,\
+                      dataframe1.cell(row=i, column=11).value]
+            print(output)
+            return output
+
+
+
+
+
 
 if __name__ == '__main__':
     directoryName = './transcribtions/'
@@ -548,3 +600,5 @@ if __name__ == '__main__':
         initDirectory("./statistics/")
         doStatistics()
     extractPlainTextFromFiles()
+    addNameToPlainText(directoryName)
+    findNameInExcel()
