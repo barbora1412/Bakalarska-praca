@@ -1,0 +1,118 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:42 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 10 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665uwnt901 1 665uwnt901_665uwnt901 0.000 14.900 <o,f5,unknown> special_vokal
+665uwnt901 1 665uwnt901_665uwnt901 14.900 22.800 <o,f5,unknown> special_pataka
+665uwnt901 1 665uwnt901_665uwnt901 22.800 25.280 <o,f5,unknown> [ruch] dyňa [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 25.280 28.360 <o,f5,unknown> cesta [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 28.360 31.120 <o,f5,unknown> [ruch-] most [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 31.120 33.560 <o,f5,unknown> [ruch-] hodiny [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 33.560 36.060 <o,f5,unknown> [ruch-] bubon [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 36.060 38.600 <o,f5,unknown> [ruch-] traktor [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 38.600 41.120 <o,f5,unknown> [ruch-] fajka [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 41.120 44.120 <o,f5,unknown> [ruch-] akvárium [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 44.120 46.860 <o,f5,unknown> [ruch-] lievik [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 46.860 50.240 <o,f5,unknown> [ruch-] domino [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 50.240 53.480 <o,f5,unknown> [ruch-] ponorka [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 53.480 56.660 <o,f5,unknown> [hez] kráľ [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 56.660 59.360 <o,f5,unknown> [ruch] topánky
+665uwnt901 1 665uwnt901_665uwnt901 59.360 62.380 <o,f5,unknown> [ruch-] cigarety [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 62.380 65.220 <o,f5,unknown> [spk] budík [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 65.220 67.780 <o,f5,unknown> [ruch-] teplomer [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 67.780 71.060 <o,f5,unknown> [ruch-] električka [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 71.060 73.540 <o,f5,unknown> metla [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 73.540 77.040 <o,f5,unknown> [ruch-] dubáky [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 77.040 79.740 <o,f5,unknown> [spk] kotva [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 79.740 82.700 <o,f5,unknown> [ruch-] [spk] kozmonaut [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 82.700 85.280 <o,f5,unknown> [ruch-] [spk] kniha [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 85.280 88.320 <o,f5,unknown> autobus [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 88.320 90.980 <o,f5,unknown> [spk] koruna
+665uwnt901 1 665uwnt901_665uwnt901 90.980 93.740 <o,f5,unknown> [ruch] [spk] koleso
+665uwnt901 1 665uwnt901_665uwnt901 93.740 96.740 <o,f5,unknown> ((a)) lavička
+665uwnt901 1 665uwnt901_665uwnt901 96.740 99.420 <o,f5,unknown> zips [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 99.420 102.000 <o,f5,unknown> ťava [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 102.000 104.620 <o,f5,unknown> [ruch-] vešiak [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 104.620 108.180 <o,f5,unknown> [spk] žaluď [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 108.180 110.780 <o,f5,unknown> [ruch-] [spk] kaktus [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 110.780 113.660 <o,f5,unknown> [ruch-] pláva [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 113.660 116.660 <o,f5,unknown> [ruch-] píše [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 116.660 119.340 <o,f5,unknown> [ruch-] smeje [-ruch] sa
+665uwnt901 1 665uwnt901_665uwnt901 119.340 121.920 <o,f5,unknown> [ruch] váži
+665uwnt901 1 665uwnt901_665uwnt901 121.920 124.400 <o,f5,unknown> plače
+665uwnt901 1 665uwnt901_665uwnt901 124.400 126.820 <o,f5,unknown> varí [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 126.820 129.520 <o,f5,unknown> telefonuje [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 129.520 132.120 <o,f5,unknown> šije [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 132.120 134.900 <o,f5,unknown> [spk] krája [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 134.900 137.500 <o,f5,unknown> polieva
+665uwnt901 1 665uwnt901_665uwnt901 137.500 140.160 <o,f5,unknown> štrikuje [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 140.160 143.060 <o,f5,unknown> natiera [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 143.060 145.780 <o,f5,unknown> [ruch-] ťahá [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 145.780 148.740 <o,f5,unknown> [ruch-] svieti [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 148.740 151.260 <o,f5,unknown> [ruch-] [spk] horí [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 151.260 154.100 <o,f5,unknown> hádže [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 154.100 156.760 <o,f5,unknown> maľuje
+665uwnt901 1 665uwnt901_665uwnt901 156.760 159.360 <o,f5,unknown> [ruch-] vŕta/vrta [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 159.360 161.880 <o,f5,unknown> [ruch-] [spk] hrabe [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 161.880 164.780 <o,f5,unknown> pílenie
+665uwnt901 1 665uwnt901_665uwnt901 164.780 167.760 <o,f5,unknown> vesluje
+665uwnt901 1 665uwnt901_665uwnt901 167.760 170.440 <o,f5,unknown> spieva
+665uwnt901 1 665uwnt901_665uwnt901 170.440 173.700 <o,f5,unknown> [spk] kúpe sa
+665uwnt901 1 665uwnt901_665uwnt901 173.700 176.600 <o,f5,unknown> [ruch] meria
+665uwnt901 1 665uwnt901_665uwnt901 176.600 179.120 <o,f5,unknown> pije
+665uwnt901 1 665uwnt901_665uwnt901 179.120 181.840 <o,f5,unknown> [spk] klope
+665uwnt901 1 665uwnt901_665uwnt901 181.840 184.380 <o,f5,unknown> [ruch-] skáče [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 184.380 186.800 <o,f5,unknown> lyžuje
+665uwnt901 1 665uwnt901_665uwnt901 186.800 189.900 <o,f5,unknown> [spk] fotí [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 189.900 192.740 <o,f5,unknown> bicykluje
+665uwnt901 1 665uwnt901_665uwnt901 192.740 195.260 <o,f5,unknown> [spk] žehlí
+665uwnt901 1 excluded_region 195.260 197.082 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 197.082 200.979 <o,f5,unknown> malé dieťa [ruch] drží ruku starej mame.
+665uwnt901 1 excluded_region 200.979 202.954 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 202.954 208.187 <o,f5,unknown> na [hez] ruke starej mamy je veľká dlhá čiara života. [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 208.187 212.298 <o,f5,unknown> malá ručička je bacuľatá/baculatá.
+665uwnt901 1 665uwnt901_665uwnt901 212.298 217.450 <o,f5,unknown> stará mama má [ruch] celkom peknú ruku ešte ako taká mladica.
+665uwnt901 1 665uwnt901_665uwnt901 217.450 221.639 <o,f5,unknown> tieto ruky [ned-] pripnu [-ned] pripomínajú lásku.
+665uwnt901 1 excluded_region 221.639 222.876 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 222.876 225.160 <o,f5,unknown> [spk] je to pekné.
+665uwnt901 1 excluded_region 225.160 227.681 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 227.681 247.693 <o,f5,unknown> [spk] v záhrade [ruch-] je stôl s dvoma stoličkami. [-ruch] na stole sú dve kávy z ktorých sa [ruch] parí [spk] v nich sú lyžičky ktoré by nemali byť šálke ale mali by na podšálke a chýbajú tam hostia ktorí [ruch-] by túto [-ruch] kávu vypili. [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 247.693 255.060 <o,f5,unknown> [spk] stoličky sú kovové [ruch-] stôl pravdepodobne tiež. [-ruch]
+665uwnt901 1 excluded_region 255.060 258.466 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 258.466 264.336 <o,f5,unknown> [ruch-] [spk] muž v kuchyni sa snaží [ex] uvariť večeru pre dieťa. [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 264.336 281.295 <o,f5,unknown> dieťa má rád by rado umylo riad lenže tam hotová neplecha. [spk] dieťa [ruch] [hez] spadne za chvíľu zo stoličky. kocúr na to prihliada nevie či má priniesť šťastie alebo nešťastie lebo je čierny.
+665uwnt901 1 665uwnt901_665uwnt901 281.295 298.137 <o,f5,unknown> [spk] muž už pomalinky chce zabiť muchu a popritom sa mu podarí [ruch] rozbiť aj luster [ruch-] neviem akou náhodou vylial zo skrini [-ruch] sirup ktorý tečie do polievky ktorá sa varí na sporáku/šporáku a už pomalinky vykypí.
+665uwnt901 1 665uwnt901_665uwnt901 298.137 306.438 <o,f5,unknown> [ruch-] [spk] na zemi sú črepiny z lustra a treba dať pozor aby/naby na to nikto nevstúpil a nerozbil si nohu. [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 306.438 324.395 <o,f5,unknown> [spk] ďalšia katastrofa sa valí z umývadla voda vyteká [ruch] [spk] a [hez] poruke majú ružovú handru ktorou by to mohli trošku [hez] pozotierať a vyriešiť túto strašnú situáciu.
+665uwnt901 1 665uwnt901_665uwnt901 324.395 339.385 <o,f5,unknown> [spk] dieťa si cez to ešte chce zobrať banán ale neviem či sa mu to podarí lebo je tak silne [ned-] nah [-ned] naklonená tá stolička že pravdepodobne spadne a vybije si mliečne zúbky ktoré pravdepodobne ešte má.
+665uwnt901 1 excluded_region 339.385 344.960 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 excluded_region 344.960 347.315 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 347.315 359.521 <o,f5,unknown> [hez] maminka [hez] chystá večeru. [ruch] tiež sa jej to veľmi/velmo nedarí. na rukách má dieťa ktoré je veľmi hladné netrpezlivé a možno by už spinkalo.
+665uwnt901 1 665uwnt901_665uwnt901 359.521 372.336 <o,f5,unknown> [spk] na poličke je znovu mačička ktorá ((zo)) nerobí veľký neporiadok v kuchyni zhodí [ruch-] vázu v ktorej sú kvietky spadnú na stôl zrejme aj polejú vodou. [-ruch]
+665uwnt901 1 665uwnt901_665uwnt901 372.336 384.859 <o,f5,unknown> lenže maminka má hlavu v oblakoch a vôbec nevníma túto situáciu lebo rozmýšľa že by si rada kúpila [spk] nové lodičky ktoré práve videla v obchode.
+665uwnt901 1 665uwnt901_665uwnt901 384.859 397.947 <o,f5,unknown> pritom sa [hez] ešte jedným očkom pozerá do počítača možno že je sama stará sa o to dieťa a má tam nejakú zoznamku a hľadá vhodného partnera.
+665uwnt901 1 665uwnt901_665uwnt901 397.947 419.389 <o,f5,unknown> [spk] na hodinách je za chvíľu obed štvrť aj päť na dvanásť ak to nie je v noci pravdepodobne cez deň [ruch] a ona nestíha ((väčšinou)) obed odniesť na stôl. špekáčky jej prihárajú zemiaky vypadnú polievka tiež za chvíľu bude vrieť/vreť.
+665uwnt901 1 665uwnt901_665uwnt901 419.389 432.357 <o,f5,unknown> a neviem prečo v kuchyni má tiež [ned-] stv [-ned] [ruch-] poličku na knihy zrejme recepty lebo si sama nevie poradiť čo má uvariť tak čerpá z kuchárskych kníh. [-ruch]
+665uwnt901 1 excluded_region 432.357 434.860 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 excluded_region 434.860 437.258 <o,,unknown> ignore_time_segment_in_scoring
+665uwnt901 1 665uwnt901_665uwnt901 437.258 449.940 <o,f5,unknown> [spk] %jej to najkrajšie obdobie vianoce. stromček vonku/vonka sneží psík [ned-] hre [-ned] sa hreje [ruch-] na teplej [ned-] podla [-ned] podlahe [-ruch] asi majú podlahové kúrenie.
+665uwnt901 1 665uwnt901_665uwnt901 449.940 470.176 <o,f5,unknown> [spk] deti sa už tešia lenže sú nezbedné za chvíľu zrútia stromček porozbíjajú [ruch-] sa gule ocko sa [-ruch] [hez] pošmykne na hračkách ktoré deti porozhadzovali a maminka tá [hez] je netypická maminka lebo [ruch-] si telefonuje [-ruch] a kašle na svoju rodinu.
+665uwnt901 1 665uwnt901_665uwnt901 470.176 487.061 <o,f5,unknown> ocko nesie v taške %mhm zrejme mandarínky [ruch-] pomaranče [-ruch] ktoré sú typické pre vianoce len neviem kde ich položil [ruch] lebo neviem či to izba alebo chodba [ruch] nevidím tam žiaden stôl.
+665uwnt901 1 665uwnt901_665uwnt901 487.061 495.600 <o,f5,unknown> vianočná hviezda už o chvíľu spadne rozbije sa a katastrofa je na ceste.
+665uwnt901 1 665uwnt901_665uwnt901 495.600 517.205 <o,f5,unknown> lenže to sú optimistickí ľudia nejako to vyriešia. [spk] potešia sa zabalia balíčky [ruch-] dajú si tie mandarínky ktoré má ocko [-ruch] v taške a vianočný večer bude pekný nikto sa nebude hádať/vadiť a večer sa pôjdu prejsť do krásnej večernej zasneženej prírody. [ruch]
+665uwnt901 1 665uwnt901_665uwnt901 517.205 519.370 <o,f5,unknown> [ruch] dosť?

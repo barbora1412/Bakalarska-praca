@@ -1,0 +1,121 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:27 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211213
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 0.000 15.018 <o,f0,unknown> special_vokal
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 15.018 23.039 <o,f0,unknown> special_pataka
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 23.039 25.450 <o,f0,unknown> cesta
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 25.450 27.668 <o,f0,unknown> kráľ
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 27.668 29.652 <o,f0,unknown> kniha
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 29.652 31.529 <o,f0,unknown> most
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 31.529 33.534 <o,f0,unknown> topánky
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 33.534 35.645 <o,f0,unknown> autobus
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 35.645 37.586 <o,f0,unknown> hodinky
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 37.586 39.826 <o,f0,unknown> cigareta
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 39.826 42.087 <o,f0,unknown> koruna
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 42.087 43.814 <o,f0,unknown> bubon/pubon
+d1ajb96d01 1 excluded_region 43.814 44.198 <o,,unknown> ignore_time_segment_in_scoring
+d1ajb96d01 1 excluded_region 44.198 44.756 <o,,unknown> ignore_time_segment_in_scoring
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 44.756 46.993 <o,f0,unknown> hodinky
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 46.993 48.934 <o,f0,unknown> koleso
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 48.934 50.875 <o,f0,unknown> traktor
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 50.875 52.709 <o,f0,unknown> teplomer
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 52.709 54.821 <o,f0,unknown> lavička
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 54.821 56.676 <o,f0,unknown> fajka
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 56.676 58.425 <o,f0,unknown> električka
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 58.425 60.281 <o,f0,unknown> zips
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 60.281 62.521 <o,f0,unknown> akvárium
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 62.521 64.419 <o,f0,unknown> metla
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 64.419 66.424 <o,f0,unknown> ťava
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 66.424 69.218 <o,f0,unknown> [hez] lievik
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 69.218 71.180 <o,f0,unknown> huby
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 71.180 73.314 <o,f0,unknown> vešiak
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 73.314 75.724 <o,f0,unknown> domino
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 75.724 78.091 <o,f0,unknown> kotva
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 78.091 80.694 <o,f0,unknown> [hez] [hez] žaluď
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 80.694 82.869 <o,f0,unknown> ponorka
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 82.869 85.664 <o,f0,unknown> [hez] astronaut
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 85.664 87.711 <o,f0,unknown> kaktus
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 87.711 90.015 <o,f0,unknown> píše
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 90.015 92.169 <o,f0,unknown> natiera
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 92.169 94.153 <o,f0,unknown> spieva
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 94.153 96.392 <o,f0,unknown> smeje sa
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 96.392 98.824 <o,f0,unknown> ťahá
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 98.824 101.704 <o,f0,unknown> kúpe sa
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 101.704 104.114 <o,f0,unknown> váži
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 104.114 106.204 <o,f0,unknown> svieti
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 106.204 108.231 <o,f0,unknown> meria
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 108.231 110.129 <o,f0,unknown> plače
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 110.129 112.219 <o,f0,unknown> horí
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 112.219 114.246 <o,f0,unknown> pije
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 114.246 116.229 <o,f0,unknown> varí
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 116.229 118.149 <o,f0,unknown> hádže
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 118.149 120.197 <o,f0,unknown> klope
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 120.197 122.116 <o,f0,unknown> telefonuje
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 122.116 124.142 <o,f0,unknown> maľuje
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 124.142 126.339 <o,f0,unknown> skáče
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 126.339 128.494 <o,f0,unknown> šije
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 128.494 130.328 <o,f0,unknown> vŕta
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 130.328 132.376 <o,f0,unknown> lyžuje
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 132.376 134.338 <o,f0,unknown> krája
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 134.338 136.066 <o,f0,unknown> hrabe
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 136.066 137.921 <o,f0,unknown> fotí
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 137.921 139.884 <o,f0,unknown> polieva
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 139.884 141.846 <o,f0,unknown> reže
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 141.846 143.829 <o,f0,unknown> bicykluje
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 143.829 145.899 <o,f0,unknown> štrikuje
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 145.899 149.055 <o,f0,unknown> [hez] pádluje
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 149.055 151.210 <o,f0,unknown> žehlí
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 151.210 165.531 <o,f0,unknown> [hez] dieťa drží prst [hez] matke alebo otcovi. [hez] tým sa snaží naznačiť že potrebuje: ich blízkosť alebo: oporu.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 165.531 170.126 <o,f0,unknown> možnože ho niečo bolí alebo: má strach alebo niečo potrebuje.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 170.126 181.225 <o,f0,unknown> [hez] tým p [hez] malíčkom/maličkom samozrejme je to najmenší prst takže: s musí držať len ten malinký. [hez] rodičia sa snažia m
+d1ajb96d01 1 excluded_region 181.225 182.344 <o,,unknown> ignore_time_segment_in_scoring
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 182.344 193.379 <o,f0,unknown> stôl d a dve stoličky s kávou čakajú na nejakú návštevu ale čakajú na hostí. kovidová doba takže otvorili [smiech] otvorili kaviarne.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 193.379 199.880 <o,f0,unknown> káva sa [hez] chladí na stole. už by mohli prísť aj niekto dať si dobrú kávu.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 199.880 204.994 <o,f0,unknown> a podľa mňa to je niekde meste starom meste pekne. aj ja by som išiel.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 204.994 210.765 <o,f0,unknown> stoličky [hez] aj stôl vyzerajú také [ex] [hez] retro. takže je to nejaká stará kaviareň.
+d1ajb96d01 1 excluded_region 210.765 211.241 <o,,unknown> ignore_time_segment_in_scoring
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 211.241 218.418 <o,f0,unknown> muž %a: muž varí v kuchyni. samozrejme nie som to ja pretože ja varím úplne ináč.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 218.418 222.507 <o,f0,unknown> ale toto je nejaký odborník [hez] [hez] ktorému pomáha aj dieťa.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 222.507 226.828 <o,f0,unknown> samozrejme všade majú bordel neporiadok.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 226.828 233.647 <o,f0,unknown> ((no)) varechu rozbil pekne aj luster. otvorené všetko. všade múka rozsypaná.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 233.647 236.879 <o,f0,unknown> samozrejme ešte aj mačka sa na to pozerá.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 236.879 242.009 <o,f0,unknown> [hez] malý si berie/bere banán. tam mu tečie voda z kohútika.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 242.009 247.730 <o,f0,unknown> tam má niečo rozliate. zhora mu tečie nejaká fľaška.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 247.730 254.815 <o,f0,unknown> no š odborníci sú to samozrejme. dolu je rozbité/rozbitij z lustra [hez] asi sklo.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 254.815 258.131 <o,f0,unknown> [hez] a čo by som tam ešte?
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 258.131 268.712 <o,f0,unknown> no čakajú asi: kto im príde pomôcť/pomôc a asi nemá kto takže si chuďat chudáci si musia poradiť sami. dáva/dávaj dobrý príklad otec synovi ako sa to nemá robiť.
+d1ajb96d01 1 excluded_region 268.712 273.747 <o,,unknown> ignore_time_segment_in_scoring
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 273.747 289.224 <o,f0,unknown> no m mamička: s batoľaťom/batolatom na rukách. samozrejme telefón pri uchu. to musí byť dnešná doba buď internet alebo telefón. je s tristo kamarátkami za deň. všade neporiadok. mačka zhadzuje kvetináč.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 289.224 296.027 <o,f0,unknown> [hez] varí pritom. prehadzuje [ex] nejaké/nejake vajíčka s s so slaninou alebo niečo také.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 296.027 301.487 <o,f0,unknown> ale že dieťa: plače nemá cumeľ možno že je aj hladné.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 301.487 307.431 <o,f0,unknown> je pol jednej za chvíľku. obed nie je hotový ale telefonuje sa stále.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 307.431 312.747 <o,f0,unknown> nôž len tak pohodený na stole. samozrejme počítač tam musí byť aj telefón na uchu.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 312.747 316.081 <o,f0,unknown> zapnutá panvica: [hez] platňa.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 316.081 324.342 <o,f0,unknown> [hez] z mačka zhodila [hez] kvety ((xx)) nejaký nejakú vázu.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 324.342 340.045 <o,f0,unknown> a: pani v myšlienkach [hez] s sa asi rozpráva s kamarátkou o nových topánkach. a to je samozrejme kabelky topánky šminky účesy farby na vlasy. to poznáme.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 340.045 348.944 <o,f0,unknown> [hez] čo ešte. [spk] no mala by sa lepšie starať o to o toho malého. nezodpovedná mater. nedal by som nezveril by som to [smiech] .
+d1ajb96d01 1 excluded_region 348.944 351.678 <o,,unknown> ignore_time_segment_in_scoring
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 351.678 355.874 <o,f0,unknown> %a vianočná atmosféra.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 355.874 364.708 <o,f0,unknown> [hez] [ex] stromček nakrivo. chlapec samozrejme ťahá za šnúru/šnuru [hez] s: so sviečkami.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 364.708 369.405 <o,f0,unknown> mama neviem čo má v ruke. telefón? %hm alebo niečo také.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 369.405 378.876 <o,f0,unknown> otec prišiel z nákupu. vš [hez] hračky po zemi. hneď s samozrejme stúpil na na autíčko a šmyk [ex] . už bol na zemi.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 378.876 383.255 <o,f0,unknown> psík/psiks psík [hez] sa usmieva. drieme.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 383.255 389.588 <o,f0,unknown> n nejaký chlapec za: za oknom. zazerá čo sa tam deje. vonku sneží.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 389.588 397.261 <o,f0,unknown> no typická/typicka atmosféra:. gule porozbíjané už ako tak pozerám na zemi.
+d1ajb96d01 1 d1ajb96d01_d1ajb96d01 397.261 411.910 <o,f0,unknown> [hez] a: chlapec [hez] kraťasoch samozrejme alebo v trenkách neoblečený. príprava n štedrá večera ako/jak vyšitá samozrejme. ešte chýbajú [hez] [hez] kopec vecí dorobiť ale nikto nemá čas.

@@ -1,0 +1,94 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:26 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211024
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 0.000 15.008 <o,f0,unknown> special_vokal
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 15.008 23.013 <o,f0,unknown> special_pataka
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 23.013 25.316 <o,f0,unknown> [ruch-] cesta [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 25.316 27.343 <o,f0,unknown> [ruch-] kráľ [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 27.343 29.374 <o,f0,unknown> [ruch-] kniha [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 29.374 31.544 <o,f0,unknown> [ruch-] most [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 31.544 33.608 <o,f0,unknown> [ruch-] topánky [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 33.608 35.693 <o,f0,unknown> [ruch-] autobus [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 35.693 37.543 <o,f0,unknown> [ruch-] hodinky [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 37.543 39.698 <o,f0,unknown> [ruch-] cigarety [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 39.698 41.761 <o,f0,unknown> [ruch-] koruna [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 41.761 43.814 <o,f0,unknown> [ruch-] bubon [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 43.814 46.118 <o,f0,unknown> [ruch-] budík [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 46.118 47.910 <o,f0,unknown> [ruch-] koleso [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 47.910 50.091 <o,f0,unknown> [ruch-] traktor [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 50.091 52.224 <o,f0,unknown> [ruch-] teplomer [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 52.224 54.197 <o,f0,unknown> [ruch-] lavička [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 54.197 56.084 <o,f0,unknown> [ruch-] fajka [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 56.084 58.335 <o,f0,unknown> [ruch-] električka [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 58.335 60.158 <o,f0,unknown> [ruch-] zips [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 60.158 62.019 <o,f0,unknown> [ruch-] akvárium [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 62.019 63.843 <o,f0,unknown> [ruch-] metla [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 63.843 65.714 <o,f0,unknown> [ruch-] ťava [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 65.714 67.666 <o,f0,unknown> [ruch-] lievik [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 67.666 69.719 <o,f0,unknown> [ruch-] hríby [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 69.719 71.927 <o,f0,unknown> [ruch-] vešiak [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 71.927 74.118 <o,f0,unknown> [ruch-] domino [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 74.118 76.059 <o,f0,unknown> [ruch-] kotva [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 76.059 78.347 <o,f0,unknown> [ruch-] žaluď [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 78.347 80.768 <o,f0,unknown> [ruch-] ponorka [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 80.768 82.928 <o,f0,unknown> [ruch-] kozmonaut [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 82.928 84.986 <o,f0,unknown> [ruch-] kaktus [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 84.986 87.140 <o,f0,unknown> [ruch-] píše [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 87.140 89.241 <o,f0,unknown> [ruch-] natiera [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 89.241 91.625 <o,f0,unknown> [ruch-] spieva [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 91.625 93.896 <o,f0,unknown> [ruch-] smeje sa [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 93.896 96.168 <o,f0,unknown> [ruch-] ťahá [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 96.168 98.450 <o,f0,unknown> [ruch-] kúpe sa [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 98.450 100.994 <o,f0,unknown> [ruch-] váži [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 100.994 103.159 <o,f0,unknown> [ruch-] svieti [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 103.159 105.100 <o,f0,unknown> [ruch-] meria [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 105.100 107.164 <o,f0,unknown> [ruch-] plače [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 107.164 109.414 <o,f0,unknown> [ruch-] horí [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 109.414 111.291 <o,f0,unknown> [ruch-] pije [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 111.291 113.472 <o,f0,unknown> [ruch-] varí [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 113.472 115.680 <o,f0,unknown> [ruch-] hádže [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 115.680 118.111 <o,f0,unknown> [ruch-] klope [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 118.111 120.073 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 120.073 122.041 <o,f0,unknown> [ruch-] maľuje [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 122.041 123.950 <o,f0,unknown> [ruch-] skáče [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 123.950 126.163 <o,f0,unknown> [ruch-] šije [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 126.163 128.312 <o,f0,unknown> [ruch-] vŕta [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 128.312 130.408 <o,f0,unknown> [ruch-] lyžuje [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 130.408 132.333 <o,f0,unknown> [ruch-] krája [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 132.333 134.220 <o,f0,unknown> [ruch-] hrabe [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 134.220 136.209 <o,f0,unknown> [ruch-] fotí [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 136.209 138.198 <o,f0,unknown> [ruch-] polieva [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 138.198 140.257 <o,f0,unknown> [ruch-] reže [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 140.257 142.704 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 142.704 145.019 <o,f0,unknown> [ruch-] štrikuje [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 145.019 147.488 <o,f0,unknown> [ruch-] pádluje [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 147.488 149.589 <o,f0,unknown> [ruch-] žehlí [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 149.589 169.530 <o,f0,unknown> [ruch-] [spk] dieťa drží malíček [hez] otcov [hez] rukou. [hez] ruka je taká dieťaťa malá. otcova je veľká. pevne ju zviera všetkými prstami:. [hez] neviem [smiech] [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 169.530 199.540 <o,f0,unknown> [ruch-] [spk] [hez] prichystaný je stôl na kávičku: [hez] so stoličkami. káva je akurát zaliata horúca. sú tam lyžičky pekné tanieriky [hez] šáločky. [hez] celé to pôsobí veľmi [hez] pohodlne a: stoličky sú také [hez] [smiech-] barokové [-smiech] . [smiech] [hez] stolík je taký modernejší. akurát sa to hodí na terasu celé. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 199.540 206.868 <o,f0,unknown> [ruch-] no takže keď sa blížia vianoce: či to nemá s vianocami nič spoločné? [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 206.868 215.103 <o,f0,unknown> [ruch-] [hez] matka prich chystá obed. je to mladá matka má prvé dieťa [hez] tak je ešte taká neskúsená. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 215.103 223.999 <o,f0,unknown> [ruch-] [hez] dieťa je rozmaznané zvyknuté na [smiech-] ruky [-smiech] a takže vrieska lebo chce aby sa mama venovala jemu a nie varila. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 223.999 232.515 <o,f0,unknown> [ruch-] tým pádom/padom [hez] jednej ruke musí [hez] čičíkať [hez] malé bábo a s druhou rukou sa snaží variť. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 232.515 241.538 <o,f0,unknown> [ruch-] [hez] všetko jej okolo toho padá/spadá. [hez] ne [hez] vlastne nezvláda celú tú prácu a je z toho nervózna. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 241.538 262.454 <o,f0,unknown> [ruch-] [hez] v podstate mala pláne že si pôjde kúpiť nové topánky [spk] a že všetko stihne tip top ale nejako/nejak jej to [hez] sa vymyká [hez] [hez] proste z rúk celé takže topánky akurát tak nabudúce keď niekto postráži dieťa. [-ruch]
+d1ajud5o01 1 excluded_region 262.454 267.220 <o,,unknown> ignore_time_segment_in_scoring
+d1ajud5o01 1 excluded_region 267.220 270.612 <o,,unknown> ignore_time_segment_in_scoring
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 270.612 294.915 <o,f0,unknown> [ruch-] takže typický chaos pred vianocami:. [hez] otec bol [hez] mama matka poslala otca aby išiel kúpiť nejaké darčeky pre deti. [hez] medzitým teda: mama vybavuje ešte [hez] s oslavu s s/zos celou rodinou. [hez] dohaduje kedy sa stretnú a tak ďalej. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 294.915 311.553 <o,f0,unknown> [ruch-] v dome vládne neporiadok lebo: lebo deti sa už nevedia dočkať kedy [hez] vlastne budú darčeky. otec sa vra vracia s darčekmi. [hez] prekvapí ho aký [hez] neporiadok deti zanechali. [-ruch]
+d1ajud5o01 1 d1ajud5o01_d1ajud5o01 311.553 346.343 <o,f0,unknown> [ruch-] jediný koho mu to akože nevadí je pes ktorý si pokojne spí a zvyknutý že v dome je proste taký hluk a: za oknom vidno malého chlapca ktorý [spk] sa [hez] až tak závistlivo pozerá do tejto: chaotickej domácnosti nakoľko oni doma asi stromček nemajú a [hez] veľmi by si prial mať aspoň takéto vianoce aj keď teda s takým [hez] neporiadkom hlukom a chaosom. [-ruch]

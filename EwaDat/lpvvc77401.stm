@@ -1,0 +1,119 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:29 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211026
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvc77401 1 lpvvc77401_lpvvc77401 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvc77401 1 lpvvc77401_lpvvc77401 14.940 22.860 <o,f0,unknown> special_pataka
+lpvvc77401 1 lpvvc77401_lpvvc77401 22.860 26.272 <o,f0,unknown> no autostráda alebo cesta
+lpvvc77401 1 excluded_region 26.272 27.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 27.220 31.420 <o,f0,unknown> kráľ
+lpvvc77401 1 lpvvc77401_lpvvc77401 31.420 34.040 <o,f0,unknown> kniha
+lpvvc77401 1 lpvvc77401_lpvvc77401 34.040 36.700 <o,f0,unknown> most
+lpvvc77401 1 lpvvc77401_lpvvc77401 36.700 38.980 <o,f0,unknown> topánky
+lpvvc77401 1 lpvvc77401_lpvvc77401 38.980 40.956 <o,f0,unknown> autobus
+lpvvc77401 1 excluded_region 40.956 41.680 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 41.680 43.920 <o,f0,unknown> [ruch-] hodinky [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 43.920 46.660 <o,f0,unknown> cigarety
+lpvvc77401 1 lpvvc77401_lpvvc77401 46.660 49.340 <o,f0,unknown> koruna
+lpvvc77401 1 lpvvc77401_lpvvc77401 49.340 51.580 <o,f0,unknown> bubon
+lpvvc77401 1 lpvvc77401_lpvvc77401 51.580 54.420 <o,f0,unknown> budík
+lpvvc77401 1 lpvvc77401_lpvvc77401 54.420 56.680 <o,f0,unknown> koleso
+lpvvc77401 1 lpvvc77401_lpvvc77401 56.680 59.120 <o,f0,unknown> traktor
+lpvvc77401 1 lpvvc77401_lpvvc77401 59.120 61.700 <o,f0,unknown> teplomer
+lpvvc77401 1 lpvvc77401_lpvvc77401 61.700 64.080 <o,f0,unknown> lavica
+lpvvc77401 1 lpvvc77401_lpvvc77401 64.080 66.320 <o,f0,unknown> [ruch-] fajka [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 66.320 68.228 <o,f0,unknown> [ruch-] električka [-ruch]
+lpvvc77401 1 excluded_region 68.228 69.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 excluded_region 69.140 70.031 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 70.031 71.680 <o,f0,unknown> zips
+lpvvc77401 1 lpvvc77401_lpvvc77401 71.680 75.420 <o,f0,unknown> [hez] akvárium
+lpvvc77401 1 lpvvc77401_lpvvc77401 75.420 77.580 <o,f0,unknown> [ruch-] metla [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 77.580 80.820 <o,f0,unknown> [hez] ťava
+lpvvc77401 1 lpvvc77401_lpvvc77401 80.820 83.600 <o,f0,unknown> lievik
+lpvvc77401 1 lpvvc77401_lpvvc77401 83.600 86.280 <o,f0,unknown> hríby
+lpvvc77401 1 lpvvc77401_lpvvc77401 86.280 88.620 <o,f0,unknown> vešiak
+lpvvc77401 1 excluded_region 88.620 92.223 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 92.223 94.200 <o,f0,unknown> [ruch-] domino [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 94.200 96.880 <o,f0,unknown> [ruch-] kotva [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 96.880 101.160 <o,f0,unknown> [hez] [ruch-] žaluď [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 101.160 104.500 <o,f0,unknown> ponorka
+lpvvc77401 1 excluded_region 104.500 106.219 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 106.219 108.880 <o,f0,unknown> [hez] kozmonaut
+lpvvc77401 1 lpvvc77401_lpvvc77401 108.880 110.894 <o,f0,unknown> kaktus
+lpvvc77401 1 excluded_region 110.894 111.860 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 excluded_region 111.860 116.694 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 116.694 117.961 <o,f0,unknown> píše
+lpvvc77401 1 excluded_region 117.961 118.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 118.500 121.780 <o,f0,unknown> natiera
+lpvvc77401 1 lpvvc77401_lpvvc77401 121.780 124.680 <o,f0,unknown> spieva
+lpvvc77401 1 lpvvc77401_lpvvc77401 124.680 127.800 <o,f0,unknown> smeje sa
+lpvvc77401 1 lpvvc77401_lpvvc77401 127.800 130.720 <o,f0,unknown> ťahá
+lpvvc77401 1 lpvvc77401_lpvvc77401 130.720 134.280 <o,f0,unknown> no kúpe sa [smiech]
+lpvvc77401 1 lpvvc77401_lpvvc77401 134.280 138.080 <o,f0,unknown> váži
+lpvvc77401 1 lpvvc77401_lpvvc77401 138.080 141.360 <o,f0,unknown> žiari
+lpvvc77401 1 lpvvc77401_lpvvc77401 141.360 144.220 <o,f0,unknown> meria
+lpvvc77401 1 lpvvc77401_lpvvc77401 144.220 147.200 <o,f0,unknown> plače
+lpvvc77401 1 lpvvc77401_lpvvc77401 147.200 149.920 <o,f0,unknown> horí
+lpvvc77401 1 lpvvc77401_lpvvc77401 149.920 151.372 <o,f0,unknown> pije
+lpvvc77401 1 excluded_region 151.372 152.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 152.960 155.560 <o,f0,unknown> varí
+lpvvc77401 1 lpvvc77401_lpvvc77401 155.560 159.040 <o,f0,unknown> [hez] športuje
+lpvvc77401 1 lpvvc77401_lpvvc77401 159.040 162.020 <o,f0,unknown> klope
+lpvvc77401 1 lpvvc77401_lpvvc77401 162.020 165.140 <o,f0,unknown> no telefonuje
+lpvvc77401 1 lpvvc77401_lpvvc77401 165.140 168.340 <o,f0,unknown> maľuje
+lpvvc77401 1 lpvvc77401_lpvvc77401 168.340 171.020 <o,f0,unknown> cvičí
+lpvvc77401 1 lpvvc77401_lpvvc77401 171.020 175.900 <o,f0,unknown> [hez] pr %aha šije
+lpvvc77401 1 lpvvc77401_lpvvc77401 175.900 179.240 <o,f0,unknown> vŕta:
+lpvvc77401 1 lpvvc77401_lpvvc77401 179.240 181.620 <o,f0,unknown> lyžuje
+lpvvc77401 1 lpvvc77401_lpvvc77401 181.620 183.683 <o,f0,unknown> krája
+lpvvc77401 1 excluded_region 183.683 184.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 excluded_region 184.560 185.499 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 185.499 187.230 <o,f0,unknown> [hez] hrabe
+lpvvc77401 1 excluded_region 187.230 187.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 excluded_region 187.880 189.042 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 189.042 191.080 <o,f0,unknown> fotografuje
+lpvvc77401 1 lpvvc77401_lpvvc77401 191.080 193.800 <o,f0,unknown> polieva
+lpvvc77401 1 lpvvc77401_lpvvc77401 193.800 197.620 <o,f0,unknown> [hez] píli
+lpvvc77401 1 lpvvc77401_lpvvc77401 197.620 200.260 <o,f0,unknown> bicykluje
+lpvvc77401 1 lpvvc77401_lpvvc77401 200.260 206.260 <o,f0,unknown> no to je pletie
+lpvvc77401 1 lpvvc77401_lpvvc77401 206.260 209.900 <o,f0,unknown> veslujú
+lpvvc77401 1 lpvvc77401_lpvvc77401 209.900 212.360 <o,f0,unknown> žehlí
+lpvvc77401 1 excluded_region 212.360 214.064 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 214.064 240.838 <o,f0,unknown> no: ruka. bolí má prst. trošku ho masírujem. opúcha/opuchá mi. neviem prečo. asi je to reuma. no tak bude sa to bude to treba liečiť. len teraz je to horšie s tými [smiech-] lekármi [-smiech] . človek sa tam [ruch-] nedostane [-ruch] .
+lpvvc77401 1 excluded_region 240.838 242.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 excluded_region 242.360 244.282 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 244.282 272.300 <o,f0,unknown> no: tak s na stole sú dve kávy. zrejme príde nejaká návšteva. je to ((xxx)) je to v nejakej miestnosti. neviem aká je tá káva či je či to je neska alebo táto prekvapkávaná alebo či to je nejaké latte alebo espreso/expresso.
+lpvvc77401 1 excluded_region 272.300 276.282 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 276.282 289.639 <o,f0,unknown> no muž [ruch-] ktorý ktorý sa realizuje v kuchyni [-ruch] ale [spk] vadí mu tam [smiech-] dieťa [-smiech] . musí ho [ruch-] nejako nejako upútať [-ruch] .
+lpvvc77401 1 lpvvc77401_lpvvc77401 289.639 306.387 <o,f0,unknown> ale mu [ruch-] zavadzia/zavadzá. dáva pozor/pozo na to dieťa. [-ruch] každú chvíľu môže z tej stoličky spadnúť. môže sa dolámať. a keď sa to nebodaj stane tak ho manželka s [hez] prizabije že nedával pozor.
+lpvvc77401 1 lpvvc77401_lpvvc77401 306.387 320.990 <o,f0,unknown> no tak [ex] je to je to je to [spk] [ruch-] to je takýto muž v kuchyni má problémy [-ruch] pretože neni to jeho jeho doména. [ruch-] neni tam stále [-ruch] . [ruch-] nevie sa tam tak realizovať [-ruch] ako manželka.
+lpvvc77401 1 lpvvc77401_lpvvc77401 320.990 340.400 <o,f0,unknown> no ale tak čo sa dá robiť. je sám. nemá manželka mu [hez] odcestovala je je je [ruch-] mimo [-ruch] takže sa musí starať aj o dieťa. musí variť. proste musí [ruch-] zastúpiť v domácnosti a hlavne teda v kuchyni manželku [-ruch] .
+lpvvc77401 1 lpvvc77401_lpvvc77401 340.400 357.713 <o,f0,unknown> [ruch-] no a je šikovný [-ruch] . darí sa mu. [ruch-] dokonca zásteru má a veľmi/velebmi mu veľmi mu sluší [-ruch] . takže: a je taký nejaký spokojný s t so svojím [smiech-] údelom [-smiech] .
+lpvvc77401 1 lpvvc77401_lpvvc77401 357.713 362.300 <o,f0,unknown> ale má tam čiernu mačku a to: sa mu nepáči pretože čierna mač
+lpvvc77401 1 lpvvc77401_lpvvc77401 362.300 368.383 <o,f0,unknown> no tak to je zase [spk] opačne. to je m:atka v kuchyni.
+lpvvc77401 1 lpvvc77401_lpvvc77401 368.383 380.046 <o,f0,unknown> no a to je úplný [ruch-] úplný gól. tá proste sa t tá varí pestuje [hez] stará sa o dieťa dokonca aj o mačičku. [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 380.046 387.799 <o,f0,unknown> no [spk] bojí sa aby jej niečo neprihorelo. dieťa jej reve. [ruch-] nevie ako ho utíšiť. [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 387.799 400.009 <o,f0,unknown> [ruch-] no tak proste [spk] neni to jednoduché. žena v domácnosti a v kuchyni a možno pravdepodobne bez manžela lebo jej nepomáha [-ruch] tak tá to má skutočne ťažké.
+lpvvc77401 1 lpvvc77401_lpvvc77401 400.009 423.408 <o,f0,unknown> neni jej čo závidieť/závideť ale zrejme to zvláda dobre a ten obed čo robí bude určite chutný. no a nasýti s tým aj dieťa aj aj manžela a: aj tú mačičku čo sedí tam hore. to je tej zostanú nejaké zbytky. [ruch-] takže všetci budú spokojní [-ruch] .
+lpvvc77401 1 excluded_region 423.408 429.848 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 429.848 439.178 <o,f0,unknown> čo no [spk] bude tam neporiadok. bude to musieť/museť potom upratovať. [ruch-] proste tá žena má toľko roboty že to je: [-ruch] až neuveriteľné že to všetko zvládne.
+lpvvc77401 1 excluded_region 439.178 441.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 excluded_region 441.880 443.858 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc77401 1 lpvvc77401_lpvvc77401 443.858 450.988 <o,f0,unknown> [ruch-] no: vianoce:. už to sú teda sviatky. najkrajšie sviatky v roku. [-ruch]
+lpvvc77401 1 lpvvc77401_lpvvc77401 450.988 472.005 <o,f0,unknown> a každý sa na ne teší ale prinášajú strašne veľa problémov zvlášť v dnešnej dobe. aby človek všetko zohnal. [ruch-] nedá sa nedá sa chodiť do obchodu [-ruch] . [ruch-] musí si to všetko zháňať/zháňat online [-ruch] . [ruch-] n n nakupuje sa zle [-ruch] . nedá sa to vyskúšať.
+lpvvc77401 1 lpvvc77401_lpvvc77401 472.005 489.848 <o,f0,unknown> no je to je to problematické ale [ruch-] ale vianoce sú vianoce [-ruch] . [ruch-] je to hlavne je to hlavne [-ruch] sviatok rodiny a tu vidím že že aj otecko sa podieľa. dec decko sa hrá spokojne. teší sa na darčeky.

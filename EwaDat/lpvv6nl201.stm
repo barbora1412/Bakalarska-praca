@@ -1,0 +1,134 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:11 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 8 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 0.000 14.920 <o,f0,unknown> special_vokal
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 14.920 22.880 <o,f0,unknown> special_pataka
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 22.880 24.452 <o,f0,unknown> [ruch] [spk] melón
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 24.452 25.940 <o,f0,unknown> výborne
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 25.940 30.804 <o,f0,unknown> [ruch-] %e [hez] diaľnica nebo [-ruch]
+lpvv6nl201 1 excluded_region 30.804 32.520 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 32.520 39.974 <o,f0,unknown> [ruch-] [hez] to je [hez] most [hez] most alebo: ako/jako ((by sme čo je to také)) [-ruch]
+lpvv6nl201 1 excluded_region 39.974 40.839 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 40.839 41.497 <o,f0,unknown> most
+lpvv6nl201 1 excluded_region 41.497 43.000 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 43.000 44.600 <o,f0,unknown> [spk] hodiny
+lpvv6nl201 1 excluded_region 44.600 47.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 47.500 49.220 <o,f0,unknown> bubon
+lpvv6nl201 1 excluded_region 49.220 53.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 53.580 55.293 <o,f0,unknown> traktor
+lpvv6nl201 1 excluded_region 55.293 57.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 57.020 58.783 <o,f0,unknown> fajka
+lpvv6nl201 1 excluded_region 58.783 60.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 60.420 62.761 <o,f0,unknown> [ruch-] akvárium [-ruch]
+lpvv6nl201 1 excluded_region 62.761 64.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 64.780 66.716 <o,f0,unknown> lievik
+lpvv6nl201 1 excluded_region 66.716 68.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 68.560 71.180 <o,f0,unknown> domino [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 71.180 74.348 <o,f0,unknown> tanker [spk]
+lpvv6nl201 1 excluded_region 74.348 76.860 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 76.860 84.240 <o,f0,unknown> [spk] [smiech-] cár ((mikuláš)) cár [-smiech] kráľ [ruch] [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 84.240 87.560 <o,f0,unknown> topánky [spk] [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 87.560 89.605 <o,f0,unknown> cigarety
+lpvv6nl201 1 excluded_region 89.605 92.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 92.220 94.261 <o,f0,unknown> [ruch] budík
+lpvv6nl201 1 excluded_region 94.261 96.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 96.560 99.320 <o,f0,unknown> [spk] teplomer [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 99.320 101.980 <o,f0,unknown> [ruch-] električka [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 101.980 105.040 <o,f0,unknown> [ruch-] [spk] metla [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 105.040 109.540 <o,f0,unknown> [ruch-] hríby huby dubáky [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 109.540 112.860 <o,f0,unknown> [ruch-] [spk] kotva [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 112.860 118.026 <o,f0,unknown> [ruch-] %e ten [hez] a [ned-] kozm [-ned] a [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 118.026 121.205 <o,f0,unknown> *kozmonaut/kozmonar kozmonaut [ruch]
+lpvv6nl201 1 excluded_region 121.205 122.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 122.600 124.273 <o,f0,unknown> [ruch] kniha
+lpvv6nl201 1 excluded_region 124.273 126.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 126.280 128.728 <o,f0,unknown> [ruch-] autobus [-ruch]
+lpvv6nl201 1 excluded_region 128.728 130.540 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 130.540 134.240 <o,f0,unknown> [ruch-] koruna kráľovská [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 134.240 137.868 <o,f0,unknown> [spk] koleso [ruch-] %e pneumatika [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 137.868 139.460 <o,f0,unknown> [spk] ((alebo ako/jak to)) [ned-] auto [-ned]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 139.460 143.040 <o,f0,unknown> [ruch-] [spk] lavica [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 143.040 145.540 <o,f0,unknown> [ruch-] zips [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 145.540 148.800 <o,f0,unknown> [ruch-] ťava dvojhrbá [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 148.800 152.300 <o,f0,unknown> [ruch-] [spk] vešiak [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 152.300 155.860 <o,f0,unknown> žaluď [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 155.860 158.472 <o,f0,unknown> kaktus [ruch]
+lpvv6nl201 1 excluded_region 158.472 159.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 159.880 161.942 <o,f0,unknown> [spk] [ruch] pláva
+lpvv6nl201 1 excluded_region 161.942 165.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 165.780 169.340 <o,f0,unknown> [ruch-] píše [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 169.340 172.400 <o,f0,unknown> [ruch-] [veselost-] smeje sa [-veselost] [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 172.400 176.360 <o,f0,unknown> [ruch-] váži [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 176.360 178.980 <o,f0,unknown> [ruch-] plače [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 178.980 181.580 <o,f0,unknown> [ruch-] varí [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 181.580 184.440 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 184.440 187.280 <o,f0,unknown> šije [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 187.280 190.260 <o,f0,unknown> krája [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 190.260 193.020 <o,f0,unknown> polieva [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 193.020 197.060 <o,f0,unknown> [ruch-] [spk] [hez] štrikuje alebo/abo háčkuje štrikuje [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 197.060 200.760 <o,f0,unknown> [hez] natiera [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 200.760 203.054 <o,f0,unknown> [ruch] ťahá
+lpvv6nl201 1 excluded_region 203.054 206.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 206.220 208.746 <o,f0,unknown> [ruch-] svieti [-ruch]
+lpvv6nl201 1 excluded_region 208.746 210.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 210.660 214.040 <o,f0,unknown> [ruch-] horí [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 214.040 217.308 <o,f0,unknown> hádže
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 217.308 221.600 <o,f0,unknown> [ruch-] %e športuje [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 221.600 224.429 <o,f0,unknown> maľuje
+lpvv6nl201 1 excluded_region 224.429 227.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 227.020 229.560 <o,f0,unknown> vŕta [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 229.560 232.040 <o,f0,unknown> hrabe [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 232.040 236.180 <o,f0,unknown> [ruch-] píl píli [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 236.180 239.069 <o,f0,unknown> [ruch-] [spk] spieva [-ruch]
+lpvv6nl201 1 excluded_region 239.069 241.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 241.060 245.023 <o,f0,unknown> [ruch-] [smiech] čľapoce sa kúpe [-ruch]
+lpvv6nl201 1 excluded_region 245.023 246.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 246.660 249.940 <o,f0,unknown> meria [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 249.940 253.120 <o,f0,unknown> pije [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 253.120 256.780 <o,f0,unknown> [spk] klope [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 256.780 260.180 <o,f0,unknown> skáče [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 260.180 264.420 <o,f0,unknown> [spk] lyžuje [ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 264.420 267.698 <o,f0,unknown> [spk] fotografuje [ruch]
+lpvv6nl201 1 excluded_region 267.698 270.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 270.340 272.468 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+lpvv6nl201 1 excluded_region 272.468 274.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 274.960 277.110 <o,f0,unknown> žehlí [ruch]
+lpvv6nl201 1 excluded_region 277.110 279.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 excluded_region 279.240 282.492 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 282.492 283.283 <o,f0,unknown> môžem/možem?
+lpvv6nl201 1 excluded_region 283.283 283.970 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 283.970 309.200 <o,f0,unknown> [ruch-] ruka dáva istotu. %e pracuje. [hez] pomáha. pridŕža. [hez] cvičí. [hez] žehná. modlí sa. [hez] umýva. čistí. chváli. hladí. karhá. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 309.200 331.032 <o,f0,unknown> [ruch-] káva osviežuje. [hez] dáva [hez] rozhovor [hez] upevňuje vzťahy. [hez] je pohostinná. [hez] osviežuje. posilňuje tlak. [hez] pozýva na stretnutie. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 331.032 339.160 <o,f0,unknown> [ruch-] [hez] teší sa spoločnosti a: [hez] oslavy [hez] [ned-] do [-ned] . [-ruch]
+lpvv6nl201 1 excluded_region 339.160 342.686 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 342.686 367.652 <o,f0,unknown> [ruch-] [smiech] muž v kuchyni [smiech-] chce variť ale [-smiech] urobí viac škody než osohu hej. [smiech] nesleduje okolie [smiech-] všetko mu vadí [-smiech] a nevie si poradiť. [hez] decko mu tam spadne [hez] chce si zobrať ovocie nevšíma si to [hez] vznikne toho nedobrá udalosť. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 367.652 383.631 <o,f0,unknown> [ruch-] chce umývať riad má plný [hez] plnú ((onú [ned-] pu [-ned] )) [smiech] umýval [hez] drez peny riad neumytý [smiech] v hrnci kypí. mačka sa čuduje [smiech] a on z toho je úplne vedľa a nevie čo má robiť ešte aj urobí škodu. [-ruch]
+lpvv6nl201 1 excluded_region 383.631 386.162 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 386.162 404.126 <o,f0,unknown> [ruch-] no a kuchyňu vidieť že tam je muž je to rozhádzané je to [hez] neupratané len rýchlo rýchlo a výsledok žiadny. voda tečie ešte viac roboty na robí než než osohu takže radšej muž nech neni v z [smiech-] kuchyni [-smiech] . [-ruch]
+lpvv6nl201 1 excluded_region 404.126 406.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 406.060 413.100 <o,f0,unknown> [ruch-] [spk] ozaj zaneprázdnená matka ktorá chce všetko naraz urobiť. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 413.100 436.197 <o,f0,unknown> [ruch-] variť [hez] dieťa strážiť [hez] pripravovať obed [hez] umývať [hez] a pritom mačka pomáha že ešte urobí škodu behá hore dole ale ona ešte v hlave má ako/jak pôjde večer na nejakú oslavu a [hez] konečne tento neporiadok a čo zabudne. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 436.197 451.515 <o,f0,unknown> [ruch-] a čas letí [hez] prakticky nestíha všetko urobiť a [hez] kuchyňu ešte má upratať a to má všetko v hlave čo ešte má urobiť ale myslí pritom najviac na na tú zábavu alebo čo čo večer ju čaká. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 451.515 468.514 <o,f0,unknown> [ruch-] a tým ne ne nestačí potom [hez] stíhať to čo má robiť a [hez] už by to len najradšej položila všetko telefonuje pritom decko pestuje pritom panvica v jej všetko vypadá. v hrnci sa varí a nestačí to stíhať. [-ruch]
+lpvv6nl201 1 excluded_region 468.514 471.640 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 excluded_region 471.640 474.090 <o,,unknown> ignore_time_segment_in_scoring
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 474.090 490.748 <o,f0,unknown> [ruch-] vianoce vianoce [hez] no toto ozaj [hez] v tejto dnešnej dobe že [hez] tie vianoce nie sú ozaj vianoce ale zhon naháňanie všetko rýchlo urobiť [hez] a pritom ešte stíhať [hez] telefonovanie. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 490.748 505.938 <o,f0,unknown> [ruch-] [hez] príde otec ešte rýchlo niečo chce doniesť. [hez] šliapne/šlapne [veselost-] na hračky [-veselost] spadne. decko tam stromček stŕha hore-dole všetko nestačí to všetko [hez] urobiť a pes si spokojne spí. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 505.938 529.668 <o,f0,unknown> [ruch-] a takto trávi [hez] v mnohých rodinách teraz beží aj tento vianočný čas lebo človek sa nevie zastaviť a nevie si uvedomiť že čo sú to vianoce že to má byť [hez] vlastne pokoj radosť stretnutie rodiny a toto chýba v dnešnej dobe všetkým ľuďom lebo každý len sa naháňa rýchlo rýchlo všetko aby bolo. [-ruch]
+lpvv6nl201 1 lpvv6nl201_lpvv6nl201 529.668 545.175 <o,f0,unknown> [ruch-] ale tie vzťahy a tie onen/oné ne nestíha a to potom je menej/men nečistých vianoc nemá nikto/nigdo každý je unavený a všetko potom [hez] prakticky je rád človek že už je zas/za po vianociach. [-ruch]

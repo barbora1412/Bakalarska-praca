@@ -1,0 +1,199 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:31 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 9 of 220427
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665uad3m01 1 665uad3m01_665uad3m01 0.000 14.900 <o,f0,unknown> special_vokal
+665uad3m01 1 665uad3m01_665uad3m01 14.900 22.800 <o,f0,unknown> special_pataka
+665uad3m01 1 excluded_region 22.800 23.619 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 23.619 24.158 <o,f0,unknown> cesta
+665uad3m01 1 excluded_region 24.158 25.380 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 25.380 26.177 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 26.177 26.496 <o,f0,unknown> most
+665uad3m01 1 excluded_region 26.496 27.860 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 27.860 29.143 <o,f0,unknown> hodinky
+665uad3m01 1 excluded_region 29.143 30.280 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 30.280 31.480 <o,f0,unknown> bubon/buben
+665uad3m01 1 excluded_region 31.480 32.660 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 32.660 33.774 <o,f0,unknown> traktor
+665uad3m01 1 excluded_region 33.774 35.060 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 35.060 36.289 <o,f0,unknown> fajka
+665uad3m01 1 excluded_region 36.289 37.440 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 37.440 38.621 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 38.621 39.195 <o,f0,unknown> akvárium/akvarium
+665uad3m01 1 excluded_region 39.195 40.680 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 40.680 42.819 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 42.819 43.628 <o,f0,unknown> nalievka*
+665uad3m01 1 excluded_region 43.628 45.020 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 45.020 46.974 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 46.974 49.108 <o,f0,unknown> [hez] no/n:o [ned-] v [-ned] %chch kocky
+665uad3m01 1 excluded_region 49.108 50.380 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 50.380 52.191 <o,f0,unknown> ponorka
+665uad3m01 1 excluded_region 52.191 53.480 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 53.480 54.658 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 54.658 56.380 <o,f0,unknown> píše/piše
+665uad3m01 1 excluded_region 56.380 57.300 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 57.300 59.060 <o,f0,unknown> smeje sa
+665uad3m01 1 excluded_region 59.060 60.446 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 60.446 62.160 <o,f0,unknown> váži
+665uad3m01 1 665uad3m01_665uad3m01 62.160 64.680 <o,f0,unknown> plače
+665uad3m01 1 665uad3m01_665uad3m01 64.680 67.340 <o,f0,unknown> varí/vari
+665uad3m01 1 665uad3m01_665uad3m01 67.340 69.880 <o,f0,unknown> telefonuje
+665uad3m01 1 excluded_region 69.880 70.596 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 70.596 71.024 <o,f0,unknown> šije
+665uad3m01 1 excluded_region 71.024 72.440 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 72.440 73.206 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 73.206 73.657 <o,f0,unknown> reže
+665uad3m01 1 excluded_region 73.657 74.920 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 74.920 77.340 <o,f0,unknown> polieva
+665uad3m01 1 excluded_region 77.340 78.228 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 78.228 78.869 <o,f0,unknown> štrikuje
+665uad3m01 1 excluded_region 78.869 79.980 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 79.980 82.380 <o,f0,unknown> topánky
+665uad3m01 1 665uad3m01_665uad3m01 82.380 85.100 <o,f0,unknown> cigarety
+665uad3m01 1 excluded_region 85.100 85.777 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 85.777 86.197 <o,f0,unknown> hodiny
+665uad3m01 1 excluded_region 86.197 87.560 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 87.560 88.262 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 88.262 89.202 <o,f0,unknown> [ned-] t [-ned] teplomer
+665uad3m01 1 excluded_region 89.202 90.320 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 90.320 91.688 <o,f0,unknown> električka
+665uad3m01 1 excluded_region 91.688 92.860 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 92.860 93.883 <o,f0,unknown> metla
+665uad3m01 1 excluded_region 93.883 95.200 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 95.200 96.735 <o,f0,unknown> huby
+665uad3m01 1 excluded_region 96.735 98.020 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 98.020 98.797 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 98.797 99.255 <o,f0,unknown> kotva
+665uad3m01 1 excluded_region 99.255 100.580 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 100.580 104.456 <o,f0,unknown> [hez] %pf: Gagarin
+665uad3m01 1 excluded_region 104.456 106.000 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 106.000 107.320 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 107.320 107.901 <o,f0,unknown> natiera
+665uad3m01 1 excluded_region 107.901 109.080 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 109.080 109.818 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 109.818 111.440 <o,f0,unknown> ťahá/ťaha
+665uad3m01 1 excluded_region 111.440 112.126 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 112.126 113.840 <o,f0,unknown> svieti
+665uad3m01 1 665uad3m01_665uad3m01 113.840 116.660 <o,f0,unknown> horí/hori
+665uad3m01 1 excluded_region 116.660 117.610 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 117.610 119.240 <o,f0,unknown> hádže
+665uad3m01 1 excluded_region 119.240 120.062 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 120.062 121.600 <o,f0,unknown> maľuje
+665uad3m01 1 excluded_region 121.600 122.384 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 122.384 123.800 <o,f0,unknown> vŕta
+665uad3m01 1 excluded_region 123.800 124.948 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 124.948 126.010 <o,f0,unknown> [ned-] pot [-ned] [hez] hrabe
+665uad3m01 1 excluded_region 126.010 127.380 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 127.380 128.625 <o,f0,unknown> reže
+665uad3m01 1 excluded_region 128.625 129.820 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 129.820 131.143 <o,f0,unknown> pláve/plave
+665uad3m01 1 excluded_region 131.143 132.460 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 132.460 133.523 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 133.523 135.140 <o,f0,unknown> kniha
+665uad3m01 1 excluded_region 135.140 135.944 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 135.944 137.620 <o,f0,unknown> autobus
+665uad3m01 1 665uad3m01_665uad3m01 137.620 141.760 <o,f0,unknown> [hez]
+665uad3m01 1 excluded_region 141.760 149.205 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 149.205 151.500 <o,f0,unknown> [hez] koruna
+665uad3m01 1 excluded_region 151.500 152.408 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 152.408 153.960 <o,f0,unknown> koleso
+665uad3m01 1 excluded_region 153.960 154.648 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 154.648 156.240 <o,f0,unknown> lavička
+665uad3m01 1 excluded_region 156.240 157.094 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 157.094 158.640 <o,f0,unknown> zips
+665uad3m01 1 excluded_region 158.640 159.245 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 159.245 160.860 <o,f0,unknown> ťava
+665uad3m01 1 665uad3m01_665uad3m01 160.860 163.140 <o,f0,unknown> vešiak
+665uad3m01 1 665uad3m01_665uad3m01 163.140 166.360 <o,f0,unknown> [hez] žaluď
+665uad3m01 1 excluded_region 166.360 170.192 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 170.192 171.551 <o,f0,unknown> áno/ano [hez]
+665uad3m01 1 excluded_region 171.551 173.812 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 173.812 175.580 <o,f0,unknown> kvet
+665uad3m01 1 excluded_region 175.580 176.441 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 176.441 178.140 <o,f0,unknown> spieva
+665uad3m01 1 excluded_region 178.140 178.814 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 178.814 180.620 <o,f0,unknown> kúpe sa
+665uad3m01 1 665uad3m01_665uad3m01 180.620 183.540 <o,f0,unknown> meria/mera
+665uad3m01 1 665uad3m01_665uad3m01 183.540 185.900 <o,f0,unknown> pije
+665uad3m01 1 excluded_region 185.900 186.739 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 186.739 188.300 <o,f0,unknown> klope
+665uad3m01 1 665uad3m01_665uad3m01 188.300 191.140 <o,f0,unknown> skáče/s:kače
+665uad3m01 1 665uad3m01_665uad3m01 191.140 193.220 <o,f0,unknown> lyžuje
+665uad3m01 1 665uad3m01_665uad3m01 193.220 195.580 <o,f0,unknown> fotí/foti
+665uad3m01 1 665uad3m01_665uad3m01 195.580 197.940 <o,f0,unknown> bicykluje
+665uad3m01 1 665uad3m01_665uad3m01 197.940 200.380 <o,f0,unknown> žehlí/žehli**
+665uad3m01 1 excluded_region 200.380 203.232 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 203.232 209.458 <o,f0,unknown> ruka/paruka: prsty detská ruka stíska malíček.
+665uad3m01 1 excluded_region 209.458 212.887 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 212.887 215.050 <o,f0,unknown> päť prstov.
+665uad3m01 1 665uad3m01_665uad3m01 215.050 218.303 <o,f0,unknown> päť malých prstov.
+665uad3m01 1 665uad3m01_665uad3m01 218.303 221.029 <o,f0,unknown> dlaň.
+665uad3m01 1 665uad3m01_665uad3m01 221.029 225.707 <o,f0,unknown> [ned-] m [-ned] čiarky na [hez] prstoch.
+665uad3m01 1 excluded_region 225.707 230.280 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 230.280 233.184 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 233.184 241.811 <o,f0,unknown> [hez] dve stoličky/stoličky: stôl dve šálky dve lyžičky/lyžičky:.
+665uad3m01 1 665uad3m01_665uad3m01 241.811 250.586 <o,f0,unknown> [hez] %s: %pf %p šálky [ned-] po [-ned] [hez] %s: tanieriky podšálkami/podšalka:mi.
+665uad3m01 1 665uad3m01_665uad3m01 250.586 256.758 <o,f0,unknown> [hez] stôl/s:tôl má tri nohy.
+665uad3m01 1 excluded_region 256.758 260.180 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 excluded_region 260.180 264.249 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 264.249 268.793 <o,f0,unknown> v kuchyni [ned-] ch [-ned] chlapec na stoličke padá.
+665uad3m01 1 665uad3m01_665uad3m01 268.793 281.398 <o,f0,unknown> [hez] otec rozbil luster. [hez] polievka na sporáku/sporaku: vrie. [hez] vyteká vonku.
+665uad3m01 1 665uad3m01_665uad3m01 281.398 285.133 <o,f0,unknown> [hez] v rohu je mačka.
+665uad3m01 1 665uad3m01_665uad3m01 285.133 291.066 <o,f0,unknown> [hez] [hez] [ned-] s: [-ned] na zem/z:em tečie voda.
+665uad3m01 1 665uad3m01_665uad3m01 291.066 297.151 <o,f0,unknown> chlapec berie banán do ruky.
+665uad3m01 1 excluded_region 297.151 298.389 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 298.389 309.721 <o,f0,unknown> muž/muž: je oblečený v/v: čierne topánky hnedé/hnede nohavice modrá zástera/zastera: žltá/žl:ta košuľa modrý hrniec.
+665uad3m01 1 665uad3m01_665uad3m01 309.721 321.879 <o,f0,unknown> rozpálený sporák červený [hez] žltá/žl:ta polievka [hez] kuchynská linka/linka: zelená [hez] .
+665uad3m01 1 665uad3m01_665uad3m01 321.879 329.391 <o,f0,unknown> vylieva sa tam/tam: džem alebo sirup zo skrine/s:krine.
+665uad3m01 1 665uad3m01_665uad3m01 329.391 340.540 <o,f0,unknown> [hez] [hez] otec [hez] rozbil [hez] luster s vareškou.
+665uad3m01 1 665uad3m01_665uad3m01 340.540 345.200 <o,f0,unknown> voda tečie na podlahu.
+665uad3m01 1 665uad3m01_665uad3m01 345.200 350.080 <o,f0,unknown> [ned-] s: [-ned] na podlahe je sklo/s:klo zo/zos lustra.
+665uad3m01 1 excluded_region 350.080 353.692 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 353.692 361.823 <o,f0,unknown> no mama varí v kuchyni asi palacinky/palačinky.
+665uad3m01 1 665uad3m01_665uad3m01 361.823 367.310 <o,f0,unknown> telefonuje decko drží na rukách.
+665uad3m01 1 665uad3m01_665uad3m01 367.310 369.955 <o,f0,unknown> varí polievku.
+665uad3m01 1 665uad3m01_665uad3m01 369.955 375.994 <o,f0,unknown> na kuchynskej linke je bordel. je tam mlieko je tam nôž/noš:.
+665uad3m01 1 665uad3m01_665uad3m01 375.994 383.651 <o,f0,unknown> [hez] je tam mrkva je tam cibuľa [hez] .
+665uad3m01 1 665uad3m01_665uad3m01 383.651 392.363 <o,f0,unknown> na/na: hore na skrini je. čo to je? myš či mačka?
+665uad3m01 1 665uad3m01_665uad3m01 392.363 396.010 <o,f0,unknown> vyliala zvalila vázu/vazu.
+665uad3m01 1 665uad3m01_665uad3m01 396.010 406.544 <o,f0,unknown> nad [ned-] ts [-ned] [hez] domácou sú topánky hore na stene/s:tene hodiny.
+665uad3m01 1 665uad3m01_665uad3m01 406.544 410.596 <o,f0,unknown> je tam knihovnička.
+665uad3m01 1 665uad3m01_665uad3m01 410.596 416.443 <o,f0,unknown> sú tam knihy [hez] .
+665uad3m01 1 665uad3m01_665uad3m01 416.443 422.510 <o,f0,unknown> notebook má na kuchynskej [hez] linke.
+665uad3m01 1 665uad3m01_665uad3m01 422.510 429.456 <o,f0,unknown> [hez] hrniec je šedý.
+665uad3m01 1 665uad3m01_665uad3m01 429.456 438.055 <o,f0,unknown> mlieko [hez] [ned-] o [-ned] olej je na/na: poličke hore/hore:.
+665uad3m01 1 665uad3m01_665uad3m01 438.055 439.980 <o,f0,unknown> [hez] poháre je [ned-] n [-ned] .
+665uad3m01 1 excluded_region 439.980 444.939 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 444.939 448.104 <o,f0,unknown> pripravujú sa na vianoce.
+665uad3m01 1 excluded_region 448.104 449.968 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 449.968 451.797 <o,f0,unknown> otvorili sa dvere/dvere:.
+665uad3m01 1 excluded_region 451.797 456.791 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 456.791 460.044 <o,f0,unknown> otec sa pošmykol na autíčku padá.
+665uad3m01 1 665uad3m01_665uad3m01 460.044 464.458 <o,f0,unknown> deti/deti: strhli stromček.
+665uad3m01 1 665uad3m01_665uad3m01 464.458 466.006 <o,f0,unknown> mama telefonuje.
+665uad3m01 1 excluded_region 466.006 466.727 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 466.727 467.765 <o,f0,unknown> pes spí/spi.
+665uad3m01 1 excluded_region 467.765 469.365 <o,,unknown> ignore_time_segment_in_scoring
+665uad3m01 1 665uad3m01_665uad3m01 469.365 475.256 <o,f0,unknown> [hez] stromček je [hez] zelený.
+665uad3m01 1 665uad3m01_665uad3m01 475.256 480.989 <o,f0,unknown> sú tam na ňom žiarovky/žiarovky:. na vrchu je/je: hviezdica.
+665uad3m01 1 665uad3m01_665uad3m01 480.989 484.541 <o,f0,unknown> [hez] z vonku padá sneh/snech:.
+665uad3m01 1 665uad3m01_665uad3m01 484.541 487.777 <o,f0,unknown> na okne sú červené závesy/zavesy:.
+665uad3m01 1 665uad3m01_665uad3m01 487.777 502.711 <o,f0,unknown> [hez] mama má/ma červené topánky/topanky modré nohavice/nohavice: zelená [hez] [hez] zelený lajblík/lajbík* fialová/fialova košeľa.
+665uad3m01 1 665uad3m01_665uad3m01 502.711 510.994 <o,f0,unknown> otec/otec: má/ma na hlave [hez] hnedú čapicu %z s/s: čiernou bombuľou*.
+665uad3m01 1 665uad3m01_665uad3m01 510.994 525.220 <o,f0,unknown> má na šiji šál/šal [hez] fialový [hez] sveter [hez] [ned-] modr [-ned] [hez] hnedé sako čierne nohavice hnedé topánky [hez] .
+665uad3m01 1 excluded_region 525.220 529.528 <o,,unknown> ignore_time_segment_in_scoring

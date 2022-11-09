@@ -1,0 +1,112 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:27 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+u1uniybu01 1 u1uniybu01_u1uniybu01 0.000 14.920 <o,f0,unknown> special_vokal
+u1uniybu01 1 u1uniybu01_u1uniybu01 14.920 22.840 <o,f0,unknown> special_pataka
+u1uniybu01 1 u1uniybu01_u1uniybu01 22.840 26.420 <o,f0,unknown> cesta
+u1uniybu01 1 u1uniybu01_u1uniybu01 26.420 29.620 <o,f0,unknown> kráľ
+u1uniybu01 1 u1uniybu01_u1uniybu01 29.620 32.320 <o,f0,unknown> kniha
+u1uniybu01 1 u1uniybu01_u1uniybu01 32.320 35.240 <o,f0,unknown> most
+u1uniybu01 1 u1uniybu01_u1uniybu01 35.240 38.340 <o,f0,unknown> topánky
+u1uniybu01 1 u1uniybu01_u1uniybu01 38.340 41.220 <o,f0,unknown> autobus
+u1uniybu01 1 u1uniybu01_u1uniybu01 41.220 43.800 <o,f0,unknown> hodinky
+u1uniybu01 1 u1uniybu01_u1uniybu01 43.800 46.820 <o,f0,unknown> cigarety
+u1uniybu01 1 u1uniybu01_u1uniybu01 46.820 50.520 <o,f0,unknown> [spk] koruna kráľovská
+u1uniybu01 1 u1uniybu01_u1uniybu01 50.520 53.260 <o,f0,unknown> bubon
+u1uniybu01 1 u1uniybu01_u1uniybu01 53.260 56.720 <o,f0,unknown> [spk] [hez] budík
+u1uniybu01 1 u1uniybu01_u1uniybu01 56.720 59.740 <o,f0,unknown> koleso
+u1uniybu01 1 u1uniybu01_u1uniybu01 59.740 62.440 <o,f0,unknown> traktor
+u1uniybu01 1 u1uniybu01_u1uniybu01 62.440 65.380 <o,f0,unknown> teplomer
+u1uniybu01 1 u1uniybu01_u1uniybu01 65.380 68.060 <o,f0,unknown> [spk] lavička
+u1uniybu01 1 excluded_region 68.060 76.940 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 76.940 79.340 <o,f0,unknown> fajka
+u1uniybu01 1 u1uniybu01_u1uniybu01 79.340 82.460 <o,f0,unknown> električka
+u1uniybu01 1 u1uniybu01_u1uniybu01 82.460 85.480 <o,f0,unknown> zips
+u1uniybu01 1 u1uniybu01_u1uniybu01 85.480 88.500 <o,f0,unknown> akvárium
+u1uniybu01 1 u1uniybu01_u1uniybu01 88.500 90.308 <o,f0,unknown> metla
+u1uniybu01 1 excluded_region 90.308 90.920 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 excluded_region 90.920 91.615 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 91.615 93.640 <o,f0,unknown> ťava
+u1uniybu01 1 u1uniybu01_u1uniybu01 93.640 96.680 <o,f0,unknown> lievik
+u1uniybu01 1 u1uniybu01_u1uniybu01 96.680 100.040 <o,f0,unknown> hríby
+u1uniybu01 1 u1uniybu01_u1uniybu01 100.040 102.640 <o,f0,unknown> vešiak
+u1uniybu01 1 u1uniybu01_u1uniybu01 102.640 107.900 <o,f0,unknown> kocky domino
+u1uniybu01 1 u1uniybu01_u1uniybu01 107.900 111.180 <o,f0,unknown> [spk] kotva
+u1uniybu01 1 u1uniybu01_u1uniybu01 111.180 114.340 <o,f0,unknown> žaluď
+u1uniybu01 1 u1uniybu01_u1uniybu01 114.340 117.400 <o,f0,unknown> ponorka
+u1uniybu01 1 u1uniybu01_u1uniybu01 117.400 120.780 <o,f0,unknown> [spk] kozmonaut
+u1uniybu01 1 u1uniybu01_u1uniybu01 120.780 123.820 <o,f0,unknown> kaktus
+u1uniybu01 1 u1uniybu01_u1uniybu01 123.820 127.020 <o,f0,unknown> píše
+u1uniybu01 1 u1uniybu01_u1uniybu01 127.020 130.720 <o,f0,unknown> natiera
+u1uniybu01 1 u1uniybu01_u1uniybu01 130.720 133.640 <o,f0,unknown> spieva
+u1uniybu01 1 u1uniybu01_u1uniybu01 133.640 136.660 <o,f0,unknown> smeje sa
+u1uniybu01 1 u1uniybu01_u1uniybu01 136.660 138.130 <o,f0,unknown> ťahá
+u1uniybu01 1 excluded_region 138.130 139.420 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 139.420 141.655 <o,f0,unknown> kúpe
+u1uniybu01 1 excluded_region 141.655 143.020 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 143.020 146.220 <o,f0,unknown> [spk] váži
+u1uniybu01 1 u1uniybu01_u1uniybu01 146.220 149.180 <o,f0,unknown> svieti
+u1uniybu01 1 u1uniybu01_u1uniybu01 149.180 152.260 <o,f0,unknown> [spk] meria
+u1uniybu01 1 u1uniybu01_u1uniybu01 152.260 155.020 <o,f0,unknown> plače
+u1uniybu01 1 u1uniybu01_u1uniybu01 155.020 157.680 <o,f0,unknown> [spk] horí/hori
+u1uniybu01 1 u1uniybu01_u1uniybu01 157.680 159.245 <o,f0,unknown> pije
+u1uniybu01 1 u1uniybu01_u1uniybu01 159.245 160.560 <o,f0,unknown> [ruch]
+u1uniybu01 1 u1uniybu01_u1uniybu01 160.560 162.277 <o,f0,unknown> [ruch-] mieša [-ruch]
+u1uniybu01 1 excluded_region 162.277 162.920 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 excluded_region 162.920 164.107 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 164.107 164.999 <o,f0,unknown> [hez] hádže
+u1uniybu01 1 excluded_region 164.999 166.500 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 166.500 169.580 <o,f0,unknown> klope
+u1uniybu01 1 u1uniybu01_u1uniybu01 169.580 172.560 <o,f0,unknown> telefonuje
+u1uniybu01 1 u1uniybu01_u1uniybu01 172.560 175.400 <o,f0,unknown> maľuje
+u1uniybu01 1 u1uniybu01_u1uniybu01 175.400 178.480 <o,f0,unknown> skáče
+u1uniybu01 1 u1uniybu01_u1uniybu01 178.480 181.320 <o,f0,unknown> šije
+u1uniybu01 1 u1uniybu01_u1uniybu01 181.320 184.120 <o,f0,unknown> vŕta
+u1uniybu01 1 u1uniybu01_u1uniybu01 184.120 186.780 <o,f0,unknown> lyžuje
+u1uniybu01 1 u1uniybu01_u1uniybu01 186.780 189.440 <o,f0,unknown> krája
+u1uniybu01 1 u1uniybu01_u1uniybu01 189.440 192.720 <o,f0,unknown> hrabe
+u1uniybu01 1 u1uniybu01_u1uniybu01 192.720 196.240 <o,f0,unknown> fotografuje
+u1uniybu01 1 u1uniybu01_u1uniybu01 196.240 199.300 <o,f0,unknown> polieva
+u1uniybu01 1 u1uniybu01_u1uniybu01 199.300 203.480 <o,f0,unknown> reže píli
+u1uniybu01 1 u1uniybu01_u1uniybu01 203.480 207.280 <o,f0,unknown> bicykluje
+u1uniybu01 1 u1uniybu01_u1uniybu01 207.280 210.760 <o,f0,unknown> pletie
+u1uniybu01 1 u1uniybu01_u1uniybu01 210.760 214.000 <o,f0,unknown> vesluje
+u1uniybu01 1 u1uniybu01_u1uniybu01 214.000 218.120 <o,f0,unknown> žehlí/šehlí
+u1uniybu01 1 excluded_region 218.120 220.450 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 220.450 226.166 <o,f0,unknown> [hez] [spk] ((to je)) [hez] ruka dospelého a malíček drží nejaké dieťa.
+u1uniybu01 1 u1uniybu01_u1uniybu01 226.166 248.040 <o,f0,unknown> [hez] takže zrejme: ide o nejaké blízke osoby [hez] [hez] mam [hez] matky: s dieťaťom [hez] v t v takej situácii kedy to dieťatko potrebuje nejakú oporu a pomoc. takže to je taký zvyk že dať dieťatku prštek podržať.
+u1uniybu01 1 excluded_region 248.040 249.803 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 249.803 277.960 <o,f0,unknown> káva to je: moja téma no. [smiech] tak [hez] vidím dve kávy pripravené pre: [hez] nejakých asi blízkych ľudí alebo [hez] partnerov. je to veľmi príjemné [hez] zátišie kde: treba len prísť a: vychutnať si v pohode spolu s niekým dobrú kávičku. po čom teraz veľmi túži
+u1uniybu01 1 excluded_region 277.960 283.497 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 283.497 304.374 <o,f0,unknown> [hez] no tak tuto [smiech] tu sme v kuchyni [hez] [hez] domáceho pána [hez] ktorý je: v strese lebo: [hez] spolu s ním/nim je tam malé dieťa [hez] nezbedné k: ktoré [hez] asi sa chystá niečo: vyviesť.
+u1uniybu01 1 u1uniybu01_u1uniybu01 304.374 312.046 <o,f0,unknown> ((tak)) nakúka tu aj: čierny kocúr alebo mačka. tiež asi má niečo za lubom v kuchyni uchmatnúť.
+u1uniybu01 1 u1uniybu01_u1uniybu01 312.046 327.350 <o,f0,unknown> no ale ten pán zjavne: situáciu nezvláda lebo: už mu pretiekla [hez] voda z drezu/dresu v kuchyni. asi sa chystal umývať/umývat riad a potom sa pustil do niečoho iného.
+u1uniybu01 1 u1uniybu01_u1uniybu01 327.350 335.590 <o,f0,unknown> na šporáku mu zase vykypelo niečo čo: [hez] čo s čo varí alebo sa chystal variť. [spk]
+u1uniybu01 1 u1uniybu01_u1uniybu01 335.590 345.818 <o,f0,unknown> nevie čo s tým/tym. [hez] zrejme sa chystal vyhnať tú mačku. sa oháňal a ešte aj luster rozbil.
+u1uniybu01 1 u1uniybu01_u1uniybu01 345.818 367.880 <o,f0,unknown> [hez] takže [hez] má teda veľmi stresovú situáciu/situaciu. [hez] ten malý chlapček asi jeho asi jeho syn ten zatiaľ [hez] vybehol na stoličku aby si uchmatol banán ale: [hez] čochvíľa zase spadne a bude ďalší problém/problem.
+u1uniybu01 1 u1uniybu01_u1uniybu01 367.880 406.776 <o,f0,unknown> no tak áno tu je [hez] mamička v kuchyni [hez] tiež vo veľmi zložitej situácii lebo: na jednej strane myslí na svoje krásne nové topánočky ktoré by si: [hez] určite rada kúpila alebo možno už kúpila ale chcela by si ich chcela by si ich obuť no ale ešte má strašne veľa povinností lebo [hez] dieťa plače tak ho: [hez] treba utíšiť/utišiť ale zároveň je v kuchyni [hez] strašne veľa práce.
+u1uniybu01 1 u1uniybu01_u1uniybu01 406.776 416.973 <o,f0,unknown> na panvici jej asi prihorelo niečo. vidím tam zemiačiky/zemiačky a ešte nejakú inú [ruch-] inú dobrotu [-ruch] .
+u1uniybu01 1 u1uniybu01_u1uniybu01 416.973 434.305 <o,f0,unknown> [hez] [hez] na druhom sporáku/sporaku [hez] sa varí asi polievka kto ktorá ešte nie je hotová lebo všetky tie ingrediencie do nej ešte sú len na stole. treba tam ešte dať/dat cibuľu paradajky a všetky ostatné veci.
+u1uniybu01 1 u1uniybu01_u1uniybu01 434.305 455.082 <o,f0,unknown> [hez] [hez] dieťa [hez] plače tak [hez] asi by mu bolo treba dať mliečko ale: [hez] to mliečko ani nemá ako otvoriť a dať mu lebo má/ma plné ruky: iných záležitostí. pritom je už š:tvrť na jednu a asi príde manžel a bude/bue pýtať/pýtat večeru.
+u1uniybu01 1 u1uniybu01_u1uniybu01 455.082 457.800 <o,f0,unknown> a ešte ten kocúr zhodil niečo z police.
+u1uniybu01 1 excluded_region 457.800 464.018 <o,,unknown> ignore_time_segment_in_scoring
+u1uniybu01 1 u1uniybu01_u1uniybu01 464.018 480.937 <o,f0,unknown> no typická [hez] vianočná situácia v nejakej rodinke [hez] [hez] s dvomi deťmi lebo jedno ešte nie je doma iba nakúka [hez] zvonku cez okno čo sa deje a kedy príde ježiško.
+u1uniybu01 1 u1uniybu01_u1uniybu01 480.937 500.167 <o,f0,unknown> otec prišiel aj [hez] s nákupom [hez] celý zababušený lebo vonku sneží ale hneď/hned stúpil na: také pohodené autíčko a: [hez] zrejme neskončí dobre lebo [hez] spadne na tom.
+u1uniybu01 1 u1uniybu01_u1uniybu01 500.167 513.487 <o,f0,unknown> [hez] mamička ako obyčajne t [hez] vedie teraz dlhý rozhovor so svokrou [hez] mobilom takže nemá čas sa celému tomu chaosu venovať.
+u1uniybu01 1 u1uniybu01_u1uniybu01 513.487 525.895 <o,f0,unknown> ale psík ten je: v pohode. [hez] ten si: spinká a: [hez] čaká kedy celá tá vianočná situácia [hez] vyvrcholí.

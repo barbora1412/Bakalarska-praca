@@ -1,0 +1,124 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:16 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210703
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 0.000 19.040 <o,f0,unknown> vokal
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 19.040 26.080 <o,f0,unknown> pataka
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 26.080 28.860 <o,f0,unknown> cesta
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 28.860 31.380 <o,f0,unknown> most
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 31.380 34.080 <o,f0,unknown> hodinky
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 34.080 36.640 <o,f0,unknown> bubon
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 36.640 39.220 <o,f0,unknown> traktor
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 39.220 41.800 <o,f0,unknown> fajka
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 41.800 44.580 <o,f0,unknown> akvárium
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 44.580 47.920 <o,f0,unknown> lievik
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 47.920 51.520 <o,f0,unknown> domino
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 51.520 54.840 <o,f0,unknown> ponorka
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 54.840 57.440 <o,f0,unknown> čo sa deje?
+32lvy9ho01 1 excluded_region 57.440 57.620 <o,,unknown> ignore_time_segment_in_scoring
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 57.620 59.520 <o,f0,unknown> píše
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 59.520 62.640 <o,f0,unknown> smeje sa
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 62.640 65.860 <o,f0,unknown> váži
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 65.860 68.600 <o,f0,unknown> plače
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 68.600 71.500 <o,f0,unknown> varí
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 71.500 74.620 <o,f0,unknown> telefonuje
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 74.620 77.440 <o,f0,unknown> šije
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 77.440 80.220 <o,f0,unknown> krája
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 80.220 83.280 <o,f0,unknown> polieva
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 83.280 86.140 <o,f0,unknown> štrikuje
+32lvy9ho01 1 excluded_region 86.140 89.096 <o,,unknown> ignore_time_segment_in_scoring
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 89.096 89.617 <o,f0,unknown> kráľ
+32lvy9ho01 1 excluded_region 89.617 90.960 <o,,unknown> ignore_time_segment_in_scoring
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 90.960 93.660 <o,f0,unknown> topánky
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 93.660 96.660 <o,f0,unknown> cigarety
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 96.660 99.380 <o,f0,unknown> budík
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 99.380 102.420 <o,f0,unknown> teplomer
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 102.420 105.560 <o,f0,unknown> električka
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 105.560 108.340 <o,f0,unknown> metla
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 108.340 111.300 <o,f0,unknown> huby
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 111.300 114.000 <o,f0,unknown> kotva
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 114.000 118.200 <o,f0,unknown> kozmonaut
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 118.200 121.240 <o,f0,unknown> natiera
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 121.240 123.880 <o,f0,unknown> ťahá
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 123.880 127.040 <o,f0,unknown> svieti
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 127.040 129.760 <o,f0,unknown> horí
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 129.760 133.980 <o,f0,unknown> športuje
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 133.980 136.780 <o,f0,unknown> maľuje
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 136.780 139.540 <o,f0,unknown> vŕta
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 139.540 142.440 <o,f0,unknown> hrabe
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 142.440 145.300 <o,f0,unknown> píli
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 145.300 148.160 <o,f0,unknown> vesluje veslujú
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 148.160 150.560 <o,f0,unknown> kniha
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 150.560 153.740 <o,f0,unknown> autobus
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 153.740 156.560 <o,f0,unknown> koruna
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 156.560 159.620 <o,f0,unknown> koleso
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 159.620 163.020 <o,f0,unknown> lavička
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 163.020 165.760 <o,f0,unknown> zips
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 165.760 168.720 <o,f0,unknown> ťava
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 168.720 171.580 <o,f0,unknown> vešiak
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 171.580 175.480 <o,f0,unknown> žaluď
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 175.480 178.640 <o,f0,unknown> kaktus
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 178.640 181.800 <o,f0,unknown> spieva
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 181.800 184.780 <o,f0,unknown> kúpe sa
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 184.780 187.540 <o,f0,unknown> meria
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 187.540 190.260 <o,f0,unknown> pije
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 190.260 193.120 <o,f0,unknown> klope
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 193.120 195.980 <o,f0,unknown> skáče
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 195.980 198.860 <o,f0,unknown> lyžuje
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 198.860 201.780 <o,f0,unknown> fotí
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 201.780 205.640 <o,f0,unknown> bicykluje sa
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 205.640 208.660 <o,f0,unknown> žehlí
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 208.660 219.134 <o,f0,unknown> na obrázku je muž v kuchyni v zelenom tričku v zelenkavom tričku modrej zástere a hnedých topánkach.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 219.134 227.818 <o,f0,unknown> varechou buchol do lampy a rozbil tienidlo. na tienidle je znázornený motýľ.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 227.818 235.196 <o,f0,unknown> na šporáku za mužom jedlo kypí z hrnca.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 235.196 252.202 <o,f0,unknown> jeho dieťa asi chlapec v červenom tričku a modrých krátkych nohaviciach stojí na stoličke ktorá sa [hez] vykýv vykývla do boku. pustil vodu a voda preteká z umývadla na zem.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 252.202 263.435 <o,f0,unknown> na stene sú zelené skrinky. jedna skrinka je otvorená druhá je kompletne zavretá. aj spodné skrinky sú zelené.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 263.435 268.967 <o,f0,unknown> vedľa umývadla je položená ružová utierka.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 268.967 287.482 <o,f0,unknown> chlapec sa načahuje za tanierom na ktorom sú farebné cukríky. snaží sa ich zobrať a pritom sa mu vykývla stolička. na zemi je rozbitý kúsok ktorý spadol z tienidla lampy.
+32lvy9ho01 1 inter_segment_gap 287.482 295.101 <o,f0,> 
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 295.101 297.218 <o,f0,unknown> z otvorenej skrine
+32lvy9ho01 1 excluded_region 297.218 297.377 <o,,unknown> ignore_time_segment_in_scoring
+32lvy9ho01 1 inter_segment_gap 297.377 297.720 <o,f0,> 
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 297.720 319.414 <o,f0,unknown> na obrázku vidíme zaneprázdnenú mamu ktorá je v kuchyni. v pravej ruke drží plačúce dieťa. v ľavej ruke sa pokúša u uvariť niečo v štýle vajíčka so slaninou ale veľmi sa jej to nedarí.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 319.414 327.477 <o,f0,unknown> pri uchu má nejakú plienku ktorou alebo telefón to neviem.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 327.477 336.399 <o,f0,unknown> na poličke sú na poličke sú poukladané tri poháre s bylinkami a tri knihy. nad poličkou sú hodiny.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 336.399 340.263 <o,f0,unknown> mama rozmýšľa o nových topánkach.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 340.263 357.922 <o,f0,unknown> na druhej poličke sa podarilo mačke zvrhnúť jednu [hez] j jednu nádobu s kvetinkami ktoré padajú na zem. za mačkou je na polici fľaška a pohár asi s medom.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 357.922 373.074 <o,f0,unknown> rozpálené kuchynský šporák s dvoma platňami [hez] na ktorom na jednej platni je hrniec asi s polievkou druhá platňa je voľná na ktorom robí to volské oko.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 373.074 381.269 <o,f0,unknown> mama zároveň popri varení pozerá niečo na notebooku/notbuku vedľa ktorého má položenú škatuľu s mliekom.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 381.269 386.760 <o,f0,unknown> na š pracovnom stole sú rôzne
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 386.760 393.786 <o,f0,unknown> na obrázku je pohľad do vianočnej izby.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 393.786 400.188 <o,f0,unknown> otec práve vošiel dovnútra. pošmykol sa na žltom aute ktoré tam nechal jeho syn.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 400.188 404.813 <o,f0,unknown> vedľa žltého auta stojí prevrátené fialové auto.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 404.813 411.592 <o,f0,unknown> za dverami stojí vianočný stromček na vrchu ktorého je žltá hviezda.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 411.592 417.404 <o,f0,unknown> cez okno a cez otvorené dvere vidíme že vonku sneží.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 417.404 431.072 <o,f0,unknown> malý syn sa hrá s elektrickým osvetlením ktoré dáva na stromček a mama telefonuje s niekým kto sa asi chystá prísť na návštevu.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 431.072 435.741 <o,f0,unknown> podlaha je zelená. uprostred podlahy je položený fialový koberec.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 435.741 446.848 <o,f0,unknown> mama je oblečená v modrých nohaviciach zelenej [hez] zelenom pulóvri a ružovej blúzke.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 446.848 455.159 <o,f0,unknown> na okne visia červené závesy ktoré však nie sú zatiahnuté.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 455.159 470.475 <o,f0,unknown> otec má na sebe čiapku hnedé nohavice a hnedý sveter. v [hez] ruke nesie nejaký nákup ktorý mu asi vypadne keďže je tesne pred pádom.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 470.475 474.189 <o,f0,unknown> asi všetko.
+32lvy9ho01 1 excluded_region 474.189 474.740 <o,,unknown> ignore_time_segment_in_scoring
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 474.740 477.707 <o,f0,unknown> [ruch]
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 477.707 479.920 <o,f0,unknown> zlodej koláčikov.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 479.920 488.988 <o,f0,unknown> na obrázku vidíme mamu ktorá umýva riad a nedala si pozor a vyteká jej voda z kuchynského drezu.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 488.988 504.716 <o,f0,unknown> to že je mama odvrátená využili deti ktoré si doniesli ku kredencu stolček. vyliezli naň a z vrchnej police sa pokúšajú ukradnúť vziať si pre seba nejaké koláčiky ktoré sú uložené v krabičke.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 504.716 521.279 <o,f0,unknown> [ruch] z obrázku nie je jasné že či sa im to podarí pretože stolička je na nachýlená nabok a veľmi pravdepodobné je že chlapec pri krádeži spadne a prípadne si môže aj u ublížiť.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 521.279 532.883 <o,f0,unknown> nepomáha mu ani jeho sestra ktorá ho nedrží len ukazuje rukou na koláč aby mu ten koláč pomohla zobrať z ruky.
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 532.883 542.907 <o,f0,unknown> mama o ničom nevie ale určite sa to dozvie keď chlapec zo stoličky spadne. [smiech]
+32lvy9ho01 1 32lvy9ho01_32lvy9ho01 542.907 546.655 <o,f0,unknown> neviem čo viacej.

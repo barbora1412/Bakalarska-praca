@@ -1,0 +1,121 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:36 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 18 of 220510
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj7ql101 1 kixj7ql101_kixj7ql101 0.000 12.945 <o,f5,unknown> special_vokal
+kixj7ql101 1 excluded_region 12.945 14.940 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 14.940 22.880 <o,f5,unknown> special_pataka
+kixj7ql101 1 kixj7ql101_kixj7ql101 22.880 27.500 <o,f5,unknown> [ruch] melón červený melón ((alebo to))
+kixj7ql101 1 excluded_region 27.500 29.258 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 29.258 31.560 <o,f5,unknown> [hez] cesta
+kixj7ql101 1 kixj7ql101_kixj7ql101 31.560 35.360 <o,f5,unknown> [hez] most
+kixj7ql101 1 kixj7ql101_kixj7ql101 35.360 38.360 <o,f5,unknown> hodinky
+kixj7ql101 1 kixj7ql101_kixj7ql101 38.360 41.700 <o,f5,unknown> [ruch-] bubon [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 41.700 45.580 <o,f5,unknown> traktor [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 45.580 49.240 <o,f5,unknown> [ruch] fajka [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 49.240 52.900 <o,f5,unknown> akvárium [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 52.900 56.660 <o,f5,unknown> lievik [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 56.660 65.460 <o,f5,unknown> [hez] čo je to pexeso alebo ako/jak sa to ((volá)) a [ruch] neviem hrá ((ani ja neviem to už)) [ruch]
+kixj7ql101 1 excluded_region 65.460 68.112 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 68.112 70.780 <o,f5,unknown> ponorka [ex] [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 70.780 73.279 <o,f5,unknown> [ruch]
+kixj7ql101 1 excluded_region 73.279 78.424 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 78.424 81.040 <o,f5,unknown> kráľ [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 81.040 84.700 <o,f5,unknown> [spk] topánky [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 84.700 88.600 <o,f5,unknown> cigarety
+kixj7ql101 1 kixj7ql101_kixj7ql101 88.600 92.860 <o,f5,unknown> [spk] [ruch] budík hodiny [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 92.860 96.440 <o,f5,unknown> [spk] teplomer [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 96.440 100.180 <o,f5,unknown> [spk] električka [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 100.180 103.520 <o,f5,unknown> metla
+kixj7ql101 1 kixj7ql101_kixj7ql101 103.520 108.740 <o,f5,unknown> [spk] [hez] huby alebo hríby [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 108.740 112.600 <o,f5,unknown> [ruch-] [spk] kotva [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 112.600 119.240 <o,f5,unknown> [hez] parašutista alebo kozmonaut [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 119.240 122.660 <o,f5,unknown> [spk] kniha [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 122.660 126.340 <o,f5,unknown> [spk] autobus [-hez]
+kixj7ql101 1 kixj7ql101_kixj7ql101 126.340 129.820 <o,f5,unknown> [spk] koruna [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 129.820 134.060 <o,f5,unknown> [ruch-] koleso [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 134.060 137.220 <o,f5,unknown> [ruch-] [spk] lavička [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 137.220 140.300 <o,f5,unknown> [ruch-] [spk] zips [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 140.300 143.140 <o,f5,unknown> [ruch-] ťava [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 143.140 146.200 <o,f5,unknown> [ruch-] vešiak [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 146.200 151.583 <o,f5,unknown> [ruch-] %mhm [spk] [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 151.583 154.760 <o,f5,unknown> [ruch-] bukvica [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 154.760 169.560 <o,f5,unknown> [ruch-] %mhm Ježiš Mária/maria no to je to [smiech] ((som to už chcel povedať)) kaktus [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 169.560 173.780 <o,f5,unknown> [ruch] [spk] pláva
+kixj7ql101 1 kixj7ql101_kixj7ql101 173.780 177.100 <o,f5,unknown> píše [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 177.100 180.480 <o,f5,unknown> smeje sa [ruch]
+kixj7ql101 1 excluded_region 180.480 182.447 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 182.447 191.980 <o,f5,unknown> [spk] %mhm [ruch] ((to má)) jablko asi: teda melie/mele alebo čo teda neviem strúha
+kixj7ql101 1 kixj7ql101_kixj7ql101 191.980 195.240 <o,f5,unknown> toto neviem plače [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 195.240 198.500 <o,f5,unknown> varí [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 198.500 201.740 <o,f5,unknown> telefonuje [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 201.740 205.180 <o,f5,unknown> [spk] šije
+kixj7ql101 1 kixj7ql101_kixj7ql101 205.180 209.420 <o,f5,unknown> [spk] krája [hez] chlieb alebo ((koláč))
+kixj7ql101 1 kixj7ql101_kixj7ql101 209.420 212.920 <o,f5,unknown> polieva [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 212.920 216.260 <o,f5,unknown> štrikuje [ruch-] alebo/abo pletie [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 216.260 219.520 <o,f5,unknown> [spk] natiera [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 219.520 223.020 <o,f5,unknown> ťahá [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 223.020 226.760 <o,f5,unknown> svieti [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 226.760 229.800 <o,f5,unknown> horí [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 229.800 234.060 <o,f5,unknown> hádže [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 234.060 237.780 <o,f5,unknown> maľuje [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 237.780 240.940 <o,f5,unknown> vŕta [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 240.940 244.240 <o,f5,unknown> hrabe [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 244.240 247.220 <o,f5,unknown> píli [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 247.220 251.260 <o,f5,unknown> vesluje [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 251.260 254.540 <o,f5,unknown> spieva [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 254.540 257.960 <o,f5,unknown> [spk] kúpe sa [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 257.960 261.300 <o,f5,unknown> [ruch-] meria [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 261.300 264.320 <o,f5,unknown> [ruch-] pije [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 264.320 267.920 <o,f5,unknown> [spk] [ruch-] klope [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 267.920 271.980 <o,f5,unknown> [ruch] skáče [ex] [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 271.980 274.900 <o,f5,unknown> [spk] lyžuje [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 274.900 278.040 <o,f5,unknown> [ruch] fotí [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 278.040 280.860 <o,f5,unknown> bicykluje [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 280.860 284.220 <o,f5,unknown> žehlí [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 284.220 303.948 <o,f5,unknown> [ruch] [spk] [hez] tak: decko ťahá za prst mamu alebo [hez] otca to neviem/nevim čo tak myslím že to je mama alebo sa hrajú no hrajú sa [ruch] alebo/abo cvičí je ((možné)) alebo neviem [spk] a tak asi.
+kixj7ql101 1 excluded_region 303.948 306.077 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 306.077 307.993 <o,f5,unknown> a ešte dobre ((môžem/možem)) to.
+kixj7ql101 1 kixj7ql101_kixj7ql101 307.993 314.160 <o,f5,unknown> [spk] [hez] myslím že sa hrajú no hrajú sa [ruch] cvičia. [ruch] [ned-] ďalej [-ned] .
+kixj7ql101 1 excluded_region 314.160 316.316 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 316.316 341.853 <o,f5,unknown> no: pripravený stolík so/ze stoličkami a myslím že kávička je na tom stole a [hez] čakajú nejakých [hez] z kolegov alebo kolegyne že prídu na kávu musia/mosá byť dve keď to skončím [ruch] [smiech] no. takže [hez] myslím že je to pripravené také niečo/nečo buď káva alebo čaj no. tak no áno/ano [spk] je to ono.
+kixj7ql101 1 kixj7ql101_kixj7ql101 341.853 344.100 <o,f5,unknown> no.
+kixj7ql101 1 excluded_region 344.100 346.396 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 346.396 375.244 <o,f5,unknown> tak [-hez] [ruch] muž v kuchyni [hez] [ned-] va [-ned] asi sa pripravuje alebo varí alebo toto má tam decko ten má banán ide papať lebo ide robiť mu nejakú možno/možná [hez] desiatu alebo/lebo obed olovrant/sváčinu neviem čo tam ale myslím že tam má aj tortu alebo/lebo čo je tam takže [ruch] no niečo/voľačo s deckom alebo má zdvihnutú tu varechu možno/možná že mu chce capnúť/capnuť po zadku trošku no ((xxxxx)) [smiech]
+kixj7ql101 1 kixj7ql101_kixj7ql101 375.244 387.544 <o,f5,unknown> niečo je tam také no takže a je tam ešte aj [spk] mačka/kočička niečo/nečo myslím že vylial/vyľal ten malý z toho/teho z alebo zhodil lebo tam niečo vyteká.
+kixj7ql101 1 kixj7ql101_kixj7ql101 387.544 391.225 <o,f5,unknown> takže [hez] pravdepodobne že to bude výprask.
+kixj7ql101 1 kixj7ql101_kixj7ql101 391.225 411.373 <o,f5,unknown> nie/ne to sa chystá k tomu k takému/takemu nejakému/nejakemu nie? [spk] no ale vyzerá/vypadá to tak lebo asi vyvádzal ten malý takže a vidím, že tam niečo/nečo tečie/zteká z toho/teho z tej linky teda kuchynskej [spk] a on už tú varechu má takže asi asi to bude toto no.
+kixj7ql101 1 kixj7ql101_kixj7ql101 411.373 415.598 <o,f5,unknown> že bude to trošku ako/jako také. [hez]
+kixj7ql101 1 kixj7ql101_kixj7ql101 415.598 420.607 <o,f5,unknown> [ruch] dobre? [ruch] ešte máme niečo/voľačo?
+kixj7ql101 1 excluded_region 420.607 422.135 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 422.135 434.040 <o,f5,unknown> [spk] jáj ešte mám skúsiť hovoriť ďalej? [hez] no tak ja neviem/nevím no tak bude asi no potom [ruch] bude nejaký plač/pláč ešte trošku a potom bude.
+kixj7ql101 1 excluded_region 434.040 436.076 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 436.076 439.034 <o,f5,unknown> [hez] [spk] to je: môžem?
+kixj7ql101 1 kixj7ql101_kixj7ql101 439.034 473.228 <o,f5,unknown> [ruch] [spk] tak to je vidno že je to asi mamina má bábätko/bábänko v ruke a pripravuje nejaké/volaaké jedlo: [ruch] varí a teda asi [ruch] [hez] malinký lebo toto už bude taký [ruch] lebo tam už hubu má otvorenú už asi [ruch-] sa toto vreští a nemá iné/inakšé východisko ako/jako mamina musí aj decko mať na ruke aj aj variť a tak neviem ako/jak to dopadne to to varenie [spk] lebo neviem ako/jak bude miešať teda. [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 473.228 495.387 <o,f5,unknown> [ruch-] keď no jednu ruku zamestnanú [spk] no tam sa niečo/voľačo [-ruch] sype už jaj mačka/kočka zase pozhadzovala z poličky tak má to tam maminka veselé no v tej [ruch-] kuchyni keď je sama že nemá pomoc a ako/jak je teda [-ruch] [spk] [hez] ako/jak sa povie/poví že slobodná mama tak to má horšie bude musieť čakať len na vlastnú sa spoliehať na seba no. [spk]
+kixj7ql101 1 kixj7ql101_kixj7ql101 495.387 504.321 <o,f5,unknown> takže takto neviem no. [spk] ja by jej rád pomohol ale teda keď som teraz v tých kúpeľoch [ruch] tak neviem jak by to dopadlo [smiech] .
+kixj7ql101 1 excluded_region 504.321 506.016 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 506.016 513.610 <o,f5,unknown> [ruch-] dobre no. [-ruch] [spk] ale myslím že to [ruch] zvládne lebo je mladá a takže [ruch] [spk] takže: [ruch] tak. [spk]
+kixj7ql101 1 kixj7ql101_kixj7ql101 513.610 516.161 <o,f5,unknown> ((bohužiaľ)). [spk]
+kixj7ql101 1 kixj7ql101_kixj7ql101 516.161 523.980 <o,f5,unknown> [spk] ja [ruch] ešte mám tam nejaké sekundy že [ruch] či čo? [hez] treba celý komentár tam viacej/vacej ((viacej/vacej)).
+kixj7ql101 1 excluded_region 523.980 526.444 <o,,unknown> ignore_time_segment_in_scoring
+kixj7ql101 1 kixj7ql101_kixj7ql101 526.444 551.534 <o,f5,unknown> takže sa tuto sa pripravujú pravdepodobne vianoce vidíme tam stromček/stromek deti vnútri aj za oknom od radosti/radošti nejaký koledníci tam. no a: [ruch] [hez] otec alebo teda mama telefonuje tá vybavuje všelijaké ešte doplnky k vianociam/vánocám.
+kixj7ql101 1 kixj7ql101_kixj7ql101 551.534 560.502 <o,f5,unknown> zháňa čo sa dá ešte neviem teraz už není taký problém ako/jak za komunistoch bol/bul [ruch-] že kus sa po známostiach aby niečo/nečo zohnali/zehnali. [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 560.502 568.168 <o,f5,unknown> a tatko sa hraje už s [ruch-] autičkami no kým to doma dá pod stromček/stromek tak on sa zatiaľ zahraje no. [spk] [-ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 568.168 574.787 <o,f5,unknown> havinko spí ten je spokojný [spk] [hez] [spk] takže takto. [ruch]
+kixj7ql101 1 kixj7ql101_kixj7ql101 574.787 600.144 <o,f5,unknown> a ten [hez] [ruch] syn alebo čo ten asi ešte ozdobuje ten stromček/stromek a to bude pravdepodobne za oknom jeho kamarát ten ho už volá von/ven aby sa išli [ruch-] sánkovať alebo/lebo lyžovať alebo také niečo [-ruch] no no a ten otec [hez-] zas [-hez] sa hraje zatiaľ [ned-] nepo [-ned] nie_je/neni nie_je/neni vidno žeby tej/tie [hez] manželke pomáhal. [spk]

@@ -1,0 +1,138 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:32 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 220106
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 14.940 22.900 <o,f0,unknown> special_pataka
+lpvvkqeb01 1 excluded_region 22.900 24.929 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 24.929 26.229 <o,f0,unknown> [hez] rastlina
+lpvvkqeb01 1 excluded_region 26.229 32.347 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 32.347 33.840 <o,f0,unknown> [ruch-] melón [-ruch]
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 33.840 37.760 <o,f0,unknown> diaľni cesta
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 37.760 39.312 <o,f0,unknown> most
+lpvvkqeb01 1 excluded_region 39.312 41.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 41.700 43.459 <o,f0,unknown> hodinky
+lpvvkqeb01 1 excluded_region 43.459 45.720 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 45.720 48.700 <o,f0,unknown> bubon
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 48.700 51.520 <o,f0,unknown> traktor
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 51.520 54.460 <o,f0,unknown> fajka
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 54.460 57.780 <o,f0,unknown> akvárium
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 57.780 60.740 <o,f0,unknown> lievik
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 60.740 64.980 <o,f0,unknown> domino teda dominové kocky
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 64.980 68.080 <o,f0,unknown> [spk] ponorka
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 68.080 71.180 <o,f0,unknown> kráľ
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 71.180 73.620 <o,f0,unknown> topánky
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 73.620 77.220 <o,f0,unknown> cigarety
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 77.220 81.880 <o,f0,unknown> hodinky
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 81.880 84.540 <o,f0,unknown> teplomer
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 84.540 87.340 <o,f0,unknown> električka
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 87.340 89.720 <o,f0,unknown> metla
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 89.720 93.669 <o,f0,unknown> hríby alebo/abo huby neviem kto
+lpvvkqeb01 1 excluded_region 93.669 93.840 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 93.840 94.667 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 94.667 95.839 <o,f0,unknown> kotva
+lpvvkqeb01 1 excluded_region 95.839 97.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 97.460 101.380 <o,f0,unknown> [hez] t kozmonaut
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 101.380 104.140 <o,f0,unknown> kniha
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 104.140 106.700 <o,f0,unknown> autobus
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 106.700 109.640 <o,f0,unknown> koruna kráľovská
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 109.640 115.880 <o,f0,unknown> koleso autobusové ((alebo)) autové
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 115.880 117.523 <o,f0,unknown> lavička
+lpvvkqeb01 1 excluded_region 117.523 119.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 119.100 120.795 <o,f0,unknown> zips
+lpvvkqeb01 1 excluded_region 120.795 122.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 122.580 124.124 <o,f0,unknown> ťava
+lpvvkqeb01 1 excluded_region 124.124 126.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 126.100 130.900 <o,f0,unknown> vešiak na šaty
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 130.900 134.180 <o,f0,unknown> žaluď [ex]
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 134.180 136.916 <o,f0,unknown> kaktus
+lpvvkqeb01 1 excluded_region 136.916 138.860 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 138.860 139.930 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 139.930 141.435 <o,f0,unknown> plavec pláva
+lpvvkqeb01 1 excluded_region 141.435 144.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 144.960 147.780 <o,f0,unknown> píše
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 147.780 150.580 <o,f0,unknown> smeje sa
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 150.580 153.420 <o,f0,unknown> váži:
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 153.420 155.122 <o,f0,unknown> plače
+lpvvkqeb01 1 excluded_region 155.122 156.260 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 156.260 158.860 <o,f0,unknown> varí
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 158.860 161.540 <o,f0,unknown> telefonuje
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 161.540 164.080 <o,f0,unknown> šije
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 164.080 166.680 <o,f0,unknown> krája
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 166.680 169.300 <o,f0,unknown> polieva
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 169.300 172.840 <o,f0,unknown> štrikuje
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 172.840 176.240 <o,f0,unknown> natiera chleba
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 176.240 179.140 <o,f0,unknown> ťahá
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 179.140 182.020 <o,f0,unknown> svieti:
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 182.020 183.738 <o,f0,unknown> horí
+lpvvkqeb01 1 excluded_region 183.738 185.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 185.460 187.062 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 187.062 190.040 <o,f0,unknown> hádže: oštep
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 190.040 192.540 <o,f0,unknown> maľuje
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 192.540 195.220 <o,f0,unknown> vŕta/vrtá
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 195.220 198.020 <o,f0,unknown> hrabe
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 198.020 201.000 <o,f0,unknown> píli
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 201.000 203.820 <o,f0,unknown> vesluje
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 203.820 207.500 <o,f0,unknown> spieva do mikrofónu tak spieva par
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 207.500 209.658 <o,f0,unknown> [hez] kúpe
+lpvvkqeb01 1 excluded_region 209.658 211.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 211.500 213.205 <o,f0,unknown> meria
+lpvvkqeb01 1 excluded_region 213.205 214.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 214.360 216.740 <o,f0,unknown> pije
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 216.740 219.380 <o,f0,unknown> klope
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 219.380 222.278 <o,f0,unknown> skáče cez sviha cez švihadlo
+lpvvkqeb01 1 excluded_region 222.278 223.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 223.440 225.175 <o,f0,unknown> lyžuje
+lpvvkqeb01 1 excluded_region 225.175 226.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 226.280 229.760 <o,f0,unknown> [hez] fotí
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 229.760 232.740 <o,f0,unknown> bicykluje
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 232.740 234.219 <o,f0,unknown> žehlí
+lpvvkqeb01 1 excluded_region 234.219 235.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 235.360 237.559 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 237.559 244.066 <o,f0,unknown> [hez] ruka dospelého človeka ktorú za malíček drží detská ruk dieťa
+lpvvkqeb01 1 excluded_region 244.066 247.520 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 247.520 249.323 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 249.323 256.189 <o,f0,unknown> [hez] [hez] toto je taký pohľad do reštaurácie kde je pre kde sú prestreté dve šálky kávy
+lpvvkqeb01 1 excluded_region 256.189 259.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 259.900 261.652 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 261.652 268.582 <o,f0,unknown> %ja:j je tu kuchyňa kde manžel zrejme varí lebo má [ruch-] zásteru: a varešku v ruke. [-ruch]
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 268.582 275.377 <o,f0,unknown> a má tam aj [ruch-] nejakú rozbitú [-ruch] teda h hrniec/hrnec. z hrnca mu vyteká nejaká kaša alebo polievka.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 275.377 284.853 <o,f0,unknown> a pritom musí dávať pozor na syna: ktorý skáče na stoličke a veľmi nebezpečne ju má nahnutú a beh chlapec si berie banán.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 284.853 291.206 <o,f0,unknown> pritom pustil [hez] vodu z vodovodu a voda tečie: v kuchyni na zem.
+lpvvkqeb01 1 excluded_region 291.206 293.697 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 293.697 297.244 <o,f0,unknown> a ešte sa mačka pozerá/pozera. [smiech-] to som si až teraz všimla. [-smiech]
+lpvvkqeb01 1 excluded_region 297.244 299.180 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 299.180 301.382 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 301.382 310.590 <o,f0,unknown> to je zase v kuchyni matka ktorá musí variť obed. [ruch-] pritom má jedno také neposlušné dieťa na rukách ktoré stále plače alebo choré neviem. [-ruch]
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 310.590 322.189 <o,f0,unknown> z vrchu na polici sedí mačk z [hez] hore na polici sedí [ruch-] mačka ktorá sa [-ruch] spokojne: pozerá [ruch-] na to všetko čo tam je [-ruch] ale pritom [ruch-] zhadzuje [-ruch] veci dolu z poličky.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 322.189 326.990 <o,f0,unknown> [ruch-] nejakú krabicu v ktorej ja neviem či sú cestoviny alebo čo. [-ruch]
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 326.990 338.231 <o,f0,unknown> a v [hez] v [hez] [spk] dole s: mama varí v panvici:. opeká nejaké mäso alebo párky sú to.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 338.231 349.389 <o,f0,unknown> na druhej platni: varí polievku:. pritom ešte krája. má/ma na stole [ruch-] zeleninu a: pripravené [-ruch] mlieko. asi mlieko je to.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 349.389 362.637 <o,f0,unknown> ale pritom [hez] má toľko roboty [ruch-] že ale stihne: [-ruch] volať ešte zrejme kamarátke lebo na uchu má telefón [ruch-] a rozprávajú sa [-ruch] o topánkach ktoré by veľmi rada mala.
+lpvvkqeb01 1 excluded_region 362.637 364.094 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 364.094 366.716 <o,f0,unknown> a je tam [hez] dvanásť/dvanás hodín dvadsať minút.
+lpvvkqeb01 1 excluded_region 366.716 368.800 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 excluded_region 368.800 372.075 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 372.075 375.224 <o,f0,unknown> [hez] toto s: je deň pred vianocami.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 375.224 383.923 <o,f0,unknown> v [hez] byte je taký predvianočný zhon. všetci sa: všetci sa snažia pripravi:ť slávnostnú večeru.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 383.923 388.655 <o,f0,unknown> [hez] mama tam: [hez] s niekým ale telefonuje.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 388.655 401.820 <o,f0,unknown> chlapci: alebo teda chlapec lebo druhý je za oknom ten sa len pozerá. ich syn [hez] vyzerá to tak že: [hez] sa hrá s vianočným stromčekom lebo ten je už naklonený/nakloneny na spadnutie.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 401.820 405.691 <o,f0,unknown> na zemi sú porozhadzované autíčka/autička:.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 405.691 413.075 <o,f0,unknown> otec prišiel ja neviem že či je v takej lepšej nálade. asi áno/ano bol nakupovať/nakupovat lebo v ruke má tašku.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 413.075 421.999 <o,f0,unknown> aha ale nie on nie že je v lepšej nálade ale teraz som si všimla že sa šmykol na tých autíčka:ch. tak asi preto: padá.
+lpvvkqeb01 1 lpvvkqeb01_lpvvkqeb01 421.999 428.414 <o,f0,unknown> no ale napriek tomu majú tam psíka/psika ktorý si spokojne spí a čaká na večeru.

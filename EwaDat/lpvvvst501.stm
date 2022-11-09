@@ -1,0 +1,138 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:32 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvvst501 1 lpvvvst501_lpvvvst501 0.000 14.960 <o,f0,unknown> special_vokal
+lpvvvst501 1 lpvvvst501_lpvvvst501 14.960 22.900 <o,f0,unknown> special_pataka
+lpvvvst501 1 excluded_region 22.900 24.331 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 24.331 27.680 <o,f0,unknown> ((búrka)) mraky
+lpvvvst501 1 lpvvvst501_lpvvvst501 27.680 32.320 <o,f0,unknown> nejaký kráľ
+lpvvvst501 1 lpvvvst501_lpvvvst501 32.320 35.240 <o,f0,unknown> kniha
+lpvvvst501 1 lpvvvst501_lpvvvst501 35.240 38.300 <o,f0,unknown> [hez] most
+lpvvvst501 1 lpvvvst501_lpvvvst501 38.300 41.220 <o,f0,unknown> topánky
+lpvvvst501 1 lpvvvst501_lpvvvst501 41.220 44.280 <o,f0,unknown> autobus
+lpvvvst501 1 lpvvvst501_lpvvvst501 44.280 47.200 <o,f0,unknown> hodinky
+lpvvvst501 1 lpvvvst501_lpvvvst501 47.200 52.294 <o,f0,unknown> saláma/salám alebo/lebo čo to má byť/byt nejaké alebo cigarety pardon
+lpvvvst501 1 excluded_region 52.294 53.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 53.700 56.800 <o,f0,unknown> [hez] koruna kráľovská/kráľovska
+lpvvvst501 1 lpvvvst501_lpvvvst501 56.800 59.760 <o,f0,unknown> bubon
+lpvvvst501 1 lpvvvst501_lpvvvst501 59.760 62.360 <o,f0,unknown> [ruch-] hodiny [-ruch]
+lpvvvst501 1 lpvvvst501_lpvvvst501 62.360 65.520 <o,f0,unknown> pneumatiky alebo koleso
+lpvvvst501 1 lpvvvst501_lpvvvst501 65.520 68.920 <o,f0,unknown> traktor
+lpvvvst501 1 lpvvvst501_lpvvvst501 68.920 71.860 <o,f0,unknown> teplomer
+lpvvvst501 1 lpvvvst501_lpvvvst501 71.860 74.600 <o,f0,unknown> lavička
+lpvvvst501 1 lpvvvst501_lpvvvst501 74.600 77.520 <o,f0,unknown> fajka
+lpvvvst501 1 lpvvvst501_lpvvvst501 77.520 80.260 <o,f0,unknown> električka
+lpvvvst501 1 lpvvvst501_lpvvvst501 80.260 84.080 <o,f0,unknown> [ex] zips [ex]
+lpvvvst501 1 lpvvvst501_lpvvvst501 84.080 87.340 <o,f0,unknown> akvárium
+lpvvvst501 1 lpvvvst501_lpvvvst501 87.340 89.860 <o,f0,unknown> metla
+lpvvvst501 1 lpvvvst501_lpvvvst501 89.860 92.480 <o,f0,unknown> ťava
+lpvvvst501 1 lpvvvst501_lpvvvst501 92.480 99.080 <o,f0,unknown> [hez] cedník alebo/lebo traktárik ((nejak čo)) ako to ľudia [smiech-] volajú [-smiech]
+lpvvvst501 1 lpvvvst501_lpvvvst501 99.080 101.860 <o,f0,unknown> hríby
+lpvvvst501 1 lpvvvst501_lpvvvst501 101.860 104.560 <o,f0,unknown> vešiak
+lpvvvst501 1 lpvvvst501_lpvvvst501 104.560 108.020 <o,f0,unknown> kocky na hranie
+lpvvvst501 1 lpvvvst501_lpvvvst501 108.020 111.500 <o,f0,unknown> kotva
+lpvvvst501 1 lpvvvst501_lpvvvst501 111.500 118.900 <o,f0,unknown> [hez] ga nie gaštan ale plod nejaký ja neviem či to z gaštana alebo [ruch-] bukvica [-ruch] neja
+lpvvvst501 1 lpvvvst501_lpvvvst501 118.900 128.820 <o,f0,unknown> nejaký maják. alebo nie. áno? nie. veľryba či čo to tam je. ((ale nevidím)) dobre asi maják na veľrybe alebo/lebo na nej
+lpvvvst501 1 excluded_region 128.820 130.310 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 130.310 132.580 <o,f0,unknown> [hez] kozmonaut
+lpvvvst501 1 lpvvvst501_lpvvvst501 132.580 136.240 <o,f0,unknown> kaktus
+lpvvvst501 1 lpvvvst501_lpvvvst501 136.240 139.980 <o,f0,unknown> píše
+lpvvvst501 1 excluded_region 139.980 141.884 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 141.884 144.180 <o,f0,unknown> [hez] natiera chlebík
+lpvvvst501 1 lpvvvst501_lpvvvst501 144.180 148.040 <o,f0,unknown> spie spieva do mikrofónu
+lpvvvst501 1 excluded_region 148.040 151.308 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 151.308 155.580 <o,f0,unknown> s sa asi usmieva nejakému vtipu alebo niečomu/niečom má rados
+lpvvvst501 1 lpvvvst501_lpvvvst501 155.580 161.240 <o,f0,unknown> [hez] dievčatko ťahá švihadlo alebo/lebo lano
+lpvvvst501 1 lpvvvst501_lpvvvst501 161.240 166.580 <o,f0,unknown> [hez] kúpať sa. chlapček sa kúpe vo vaničke malý. alebo diev
+lpvvvst501 1 excluded_region 166.580 168.033 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 168.033 173.405 <o,f0,unknown> to je nejaký tlakomer alebo jabĺčko váženie jabĺčka [smiech]
+lpvvvst501 1 excluded_region 173.405 174.820 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 174.820 176.979 <o,f0,unknown> žiarovka
+lpvvvst501 1 excluded_region 176.979 177.962 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 177.962 180.760 <o,f0,unknown> vyžaruje/vyžiaruje svetlo
+lpvvvst501 1 excluded_region 180.760 182.734 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 182.734 185.217 <o,f0,unknown> meria okno asi nie?
+lpvvvst501 1 excluded_region 185.217 186.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 excluded_region 186.400 187.829 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 187.829 191.423 <o,f0,unknown> no: smutná babička alebo/lebo teta plače
+lpvvvst501 1 excluded_region 191.423 191.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 191.900 195.880 <o,f0,unknown> %o: horí domče:k
+lpvvvst501 1 excluded_region 195.880 197.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 excluded_region 197.060 198.135 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 198.135 202.860 <o,f0,unknown> dievčatko pije alebo chlapček to je jedno
+lpvvvst501 1 excluded_region 202.860 204.628 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 204.628 208.300 <o,f0,unknown> varí teta alebo/lebo pani [ex]
+lpvvvst501 1 lpvvvst501_lpvvvst501 208.300 215.455 <o,f0,unknown> to je športovkyňa. hádže diskom. či nie diskom ale touto paličkou.
+lpvvvst501 1 excluded_region 215.455 216.720 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 excluded_region 216.720 218.819 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 218.819 224.020 <o,f0,unknown> ide na návštevu pani. klopká na dvere.
+lpvvvst501 1 lpvvvst501_lpvvvst501 224.020 227.287 <o,f0,unknown> [ruch-] telefonuje pán [-ruch]
+lpvvvst501 1 excluded_region 227.287 228.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 228.340 234.120 <o,f0,unknown> maľuje maliar obraz nejaký
+lpvvvst501 1 lpvvvst501_lpvvvst501 234.120 238.840 <o,f0,unknown> skáče športuje dievča
+lpvvvst501 1 excluded_region 238.840 240.311 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 240.311 243.740 <o,f0,unknown> šije teta [spk] na stroji
+lpvvvst501 1 lpvvvst501_lpvvvst501 243.740 248.900 <o,f0,unknown> [spk] vŕta nejakou/nejako vrtačkou
+lpvvvst501 1 lpvvvst501_lpvvvst501 248.900 254.460 <o,f0,unknown> lyžia:r lyžuje sa
+lpvvvst501 1 lpvvvst501_lpvvvst501 254.460 258.159 <o,f0,unknown> krája chlebík/chlebik jabĺčko
+lpvvvst501 1 excluded_region 258.159 261.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 261.420 269.640 <o,f0,unknown> záhradke pracuje hrabľami hrabe lístie alebo/lebo trávičku
+lpvvvst501 1 lpvvvst501_lpvvvst501 269.640 277.732 <o,f0,unknown> [spk] kamerou niečo sleduje/vsleduje nejaké správy
+lpvvvst501 1 excluded_region 277.732 278.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 278.480 282.800 <o,f0,unknown> polieva kvety
+lpvvvst501 1 lpvvvst501_lpvvvst501 282.800 287.120 <o,f0,unknown> píli:
+lpvvvst501 1 lpvvvst501_lpvvvst501 287.120 292.980 <o,f0,unknown> športovec na bicykli športuje
+lpvvvst501 1 lpvvvst501_lpvvvst501 292.980 296.383 <o,f0,unknown> teta pletie
+lpvvvst501 1 excluded_region 296.383 297.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 excluded_region 297.620 299.117 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 299.117 303.440 <o,f0,unknown> toto sú veslári/veslia:ri ktorí veslujú po vode:
+lpvvvst501 1 lpvvvst501_lpvvvst501 303.440 306.734 <o,f0,unknown> žehlenie
+lpvvvst501 1 excluded_region 306.734 308.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 308.500 325.281 <o,f0,unknown> no: tohto/tohoto pána asi bolia prsty tak si ich asi masíruje aby mu tá bolesť sa utíšila a prešlo mu to.
+lpvvvst501 1 lpvvvst501_lpvvvst501 325.281 333.612 <o,f0,unknown> a neviem to ((visela)) väčšie a menšia ruka tak asi alebo sa chlapec drží otecka za prst.
+lpvvvst501 1 excluded_region 333.612 338.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 338.420 354.039 <o,f0,unknown> no: teta asi doma [ruch-] čaká na kávičku [-ruch] alebo čaká nejakého kamaráta alebo priateľku a chcú si pr pri kávičke posedie:ť oddýchnuť si porozprávať čo zažili.
+lpvvvst501 1 lpvvvst501_lpvvvst501 354.039 358.803 <o,f0,unknown> [ruch-] ((neviem)). môže to byť ráno. môže to byť večer. môže to byť na obed. [-ruch]
+lpvvvst501 1 lpvvvst501_lpvvvst501 358.803 368.380 <o,f0,unknown> no a tešia sa na príjemnú chvíľku že si môžu porozprávať zážitky z dňa alebo čo ich čaká.
+lpvvvst501 1 excluded_region 368.380 371.657 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 371.657 379.719 <o,f0,unknown> no tento pán/pan asi utiera prach. zo žiarovky alebo ho zmetá? neviem.
+lpvvvst501 1 lpvvvst501_lpvvvst501 379.719 394.584 <o,f0,unknown> a [ex] chlapček na stoličke zatiaľ vyliezol. nevšíma si ho otecko. a chce/chťe dočiahnuť ovocie a zobrať si ho. no dúfajme že nespadne a že si neublíži.
+lpvvvst501 1 excluded_region 394.584 402.055 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 402.055 418.356 <o,f0,unknown> n:o a keď toto skončia určite sa ch teší chlapček že budú sa môcť hrať spolu. keď sa osvieži:. [ruch] neviem či to banán/banánok či rožok. nevidím na to dobre. [ruch-] okuliare som si nezobrala takže moja chyba [-ruch] .
+lpvvvst501 1 lpvvvst501_lpvvvst501 418.356 430.565 <o,f0,unknown> takže to čo je väčšie vidím [smiech] . že sú v kuchyni a asi otecko upratuje a chlapček sa medzitým zabáva.
+lpvvvst501 1 lpvvvst501_lpvvvst501 430.565 435.952 <o,f0,unknown> a dúfajme že nespadne zo stoličky že si neublíži než/lež otecko poutiera prach.
+lpvvvst501 1 excluded_region 435.952 447.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 excluded_region 447.960 450.926 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 450.926 461.337 <o,f0,unknown> no na obrázku je mamička ktorá pripravuje [ruch-] nielen pre chlapčeka [-ruch] lebo ešte vyzerá malý ale pre seba [ruch-] nejaké jedlo [-ruch] alebo pripravuje obed.
+lpvvvst501 1 lpvvvst501_lpvvvst501 461.337 477.372 <o,f0,unknown> a medzitým chce ukázať lebo má s malému bolo asi smutne samému tak si ho zobrala na rúčky [ruch-] aby ho utíšila a navarila a dovarila obed ktorý chystá pre svoju rodinu alebo na večeru. [-ruch]
+lpvvvst501 1 lpvvvst501_lpvvvst501 477.372 499.087 <o,f0,unknown> nevidím tam či je to veľká či malá ručička ale [ruch-] asi na obed [-ruch] to [smiech-] vyzerá [-smiech] že ((si)) pripravuje obed než pre celú rodinu alebo pred pre seba a pre malého aby mala mliečko lebo vyzerá ešte taký malý že asi aj mliečko ešte [smiech-] užíva [-smiech] od mamičky.
+lpvvvst501 1 lpvvvst501_lpvvvst501 499.087 511.757 <o,f0,unknown> no v kuchyni vidím že má poriadok. všetko na správnom mieste aby sa mohla venovať aj malému a:le aj sebe si pripraviť dobrý obed.
+lpvvvst501 1 lpvvvst501_lpvvvst501 511.757 517.622 <o,f0,unknown> no mačka sa pritom pozerá na nich a [ruch-] robí im spoločnosť. [-ruch]
+lpvvvst501 1 lpvvvst501_lpvvvst501 517.622 532.520 <o,f0,unknown> a hodinky jej ukazujú čas. a je to asi na obed lebo som si teraz už všimla [ruch-] že tá malá ručička [-ruch] ukazuje malé teda hodiny a veľká minútky/minutky a čas.
+lpvvvst501 1 excluded_region 532.520 535.521 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 535.521 537.960 <o,f0,unknown> má pekne vyzdobenú iz s kuchyňu.
+lpvvvst501 1 excluded_region 537.960 541.794 <o,,unknown> ignore_time_segment_in_scoring
+lpvvvst501 1 lpvvvst501_lpvvvst501 541.794 548.746 <o,f0,unknown> [ruch-] no vyzerá neviem. [-ruch] hovorím že okuliare som si nezobrala. taká som šikovná dneska.
+lpvvvst501 1 lpvvvst501_lpvvvst501 548.746 554.376 <o,f0,unknown> no takže vidím že mamička sa hrala s detičkami.
+lpvvvst501 1 lpvvvst501_lpvvvst501 554.376 571.013 <o,f0,unknown> [ruch-] prišiel [-ruch] medzitým otecko pozrieť sa čo sa robí doma. hračky porozhadzované. deti sa trošku ináč bavia než s hračkami ktoré si rozložili a mamička telefonuje a otecko ich prekvapil a prišiel sa na ne pozrieť.
+lpvvvst501 1 lpvvvst501_lpvvvst501 571.013 583.345 <o,f0,unknown> no a máme tam ešte okrem mamičky a detič:ky a otecka ešte aj zvieratko ktoré patrí do ich rodiny.
+lpvvvst501 1 lpvvvst501_lpvvvst501 583.345 592.849 <o,f0,unknown> [ruch] no a ((vidím)) že tam majú poriadok. všetko má na svojom mieste.
+lpvvvst501 1 lpvvvst501_lpvvvst501 592.849 597.717 <o,f0,unknown> no určite sa tešia ale zatiaľ si nevšimli že prišiel otecko.
+lpvvvst501 1 lpvvvst501_lpvvvst501 597.717 606.615 <o,f0,unknown> ((no)) mamička telefo:nuje a otecko ich trošku prekvapil a zistil čo asi robia: a ako sa bavia.
+lpvvvst501 1 lpvvvst501_lpvvvst501 606.615 613.063 <o,f0,unknown> a vidím že chlapci sa dobre bavia. každý podľa svojho.

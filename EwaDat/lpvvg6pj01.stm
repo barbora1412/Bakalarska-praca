@@ -1,0 +1,111 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:22 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 0.000 14.980 <o,f0,unknown> special_vokal
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 14.980 22.940 <o,f0,unknown> special_pataka
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 22.940 25.500 <o,f0,unknown> [ruch-] cesta [-ruch]
+lpvvg6pj01 1 excluded_region 25.500 26.966 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 26.966 28.640 <o,f0,unknown> [hez] kráľ
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 28.640 30.800 <o,f0,unknown> kniha
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 30.800 33.100 <o,f0,unknown> most
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 33.100 35.320 <o,f0,unknown> topánky
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 35.320 37.500 <o,f0,unknown> autobus
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 37.500 39.520 <o,f0,unknown> hodinky
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 39.520 41.620 <o,f0,unknown> cigarety
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 41.620 44.080 <o,f0,unknown> koruna kráľovská
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 44.080 46.460 <o,f0,unknown> bubon
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 46.460 48.820 <o,f0,unknown> hodinky budík/budik
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 48.820 51.140 <o,f0,unknown> koleso
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 51.140 53.120 <o,f0,unknown> traktor
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 53.120 55.260 <o,f0,unknown> teplomer
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 55.260 57.480 <o,f0,unknown> lavička
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 57.480 59.640 <o,f0,unknown> fajka
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 59.640 61.860 <o,f0,unknown> električka
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 61.860 63.900 <o,f0,unknown> zips
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 63.900 66.320 <o,f0,unknown> akvárium
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 66.320 68.560 <o,f0,unknown> metla
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 68.560 70.940 <o,f0,unknown> ťava
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 70.940 73.100 <o,f0,unknown> lievik
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 73.100 75.300 <o,f0,unknown> huby
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 75.300 77.420 <o,f0,unknown> vešiak
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 77.420 79.880 <o,f0,unknown> domino
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 79.880 81.860 <o,f0,unknown> kotva [ruch]
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 81.860 83.900 <o,f0,unknown> žaluď
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 83.900 86.040 <o,f0,unknown> ponorka
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 86.040 88.420 <o,f0,unknown> kozmonaut
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 88.420 90.480 <o,f0,unknown> kaktus
+lpvvg6pj01 1 excluded_region 90.480 91.729 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 91.729 93.680 <o,f0,unknown> píše
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 93.680 96.760 <o,f0,unknown> natiera
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 96.760 99.600 <o,f0,unknown> spieva
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 99.600 102.500 <o,f0,unknown> smeje sa
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 102.500 105.160 <o,f0,unknown> ťahá
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 105.160 108.040 <o,f0,unknown> kúpe sa
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 108.040 110.700 <o,f0,unknown> váži
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 110.700 112.940 <o,f0,unknown> svieti
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 112.940 115.680 <o,f0,unknown> meria
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 115.680 117.980 <o,f0,unknown> plače
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 117.980 120.580 <o,f0,unknown> horí/hori
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 120.580 122.820 <o,f0,unknown> pije
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 122.820 125.560 <o,f0,unknown> varí
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 125.560 127.960 <o,f0,unknown> hádže
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 127.960 130.740 <o,f0,unknown> klope
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 130.740 133.220 <o,f0,unknown> telefonuje
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 133.220 135.520 <o,f0,unknown> maľuje
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 135.520 137.740 <o,f0,unknown> skáče
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 137.740 139.980 <o,f0,unknown> šije
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 139.980 142.100 <o,f0,unknown> vŕta
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 142.100 144.380 <o,f0,unknown> lyžuje
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 144.380 146.500 <o,f0,unknown> krája
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 146.500 148.760 <o,f0,unknown> hrabe
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 148.760 151.000 <o,f0,unknown> fotí
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 151.000 153.320 <o,f0,unknown> polieva
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 153.320 155.620 <o,f0,unknown> reže
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 155.620 158.040 <o,f0,unknown> bicykluje
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 158.040 160.340 <o,f0,unknown> pletie
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 160.340 162.540 <o,f0,unknown> vesluje
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 162.540 164.740 <o,f0,unknown> žehlí
+lpvvg6pj01 1 excluded_region 164.740 171.027 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 171.027 179.911 <o,f0,unknown> %aha no na obrázku je [hez] ruka batoľaťa ktorý drží ruku [ruch-] dospelého človeka [-ruch] .
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 179.911 185.930 <o,f0,unknown> snaží sa ho zachytiť a vyjadriť mu nejaký vzťah.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 185.930 194.660 <o,f0,unknown> [ruch-] predpokladám že môže [-ruch] to byť ruka matky [ruch-] a dieťaťa alebo ruka babičky [-ruch] skôr a dieťa/deťa
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 194.660 224.600 <o,f0,unknown> [hez] je tam [ruch-] pripravený čaj alebo [-ruch] káva na stole. predpokladám že [hez] je to obrázok ktorý zachycuje očakávania nejakého stretnutia dvoch osôb [ruch] v nejakej kaviarni [hez] čajovni a čašníci dopredu pripravili nápoje ktoré sú horúce [spk] ťažko určiť [spk]
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 224.600 239.173 <o,f0,unknown> %aha no čiže na obrázku je [ruch-] muž ktorý sa snaží [-ruch] niečo uvariť. pravdepodobne to živote nerobil a robí to prvýkrát. ešte pritom má na starosti dieťa.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 239.173 248.273 <o,f0,unknown> [hez] takže je to preňho veľmi zlá situácia a evidentne ju nezvláda. takže má tam bordel teda neporiadok.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 248.273 256.597 <o,f0,unknown> [hez] dieťa v zásade [hez] si robí čo chce pretože muž nestíha riešiť viacero situácie za sebou.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 256.597 273.316 <o,f0,unknown> [hez] [hez] neuh nevšimol si že mu preteká voda z umývadla že mu kypí hrniec na na plotni a že dieťa môže dôjsť/dojsť k úrazu a [hez] proste [spk] viditeľne nezvláda situáciu.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 273.316 296.766 <o,f0,unknown> [ruch-] takže [-ruch] asi zrejme nie je to muž v domácnosti. predpokladám že [hez] je ženatý pretože musí mať niekoho kto mu tieto činnosti ináč zabezpečuje a tentokrát je na to sám [ruch-] a [hez] z nejakých dôvodov [-ruch] [hez] [ruch-] manželka ho poverila touto úlohou ktorú teda očividne nezvláda. [-ruch]
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 296.766 305.902 <o,f0,unknown> je tam aj zvieratko čiže [hez] v domácnosti sa nachádzajú aj teda zvieratá. a a mačička sleduje že čo preboha sa tam deje.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 305.902 312.655 <o,f0,unknown> zrejme inokedy tam býva kľud a teraz je to teda chaos nad chaos.
+lpvvg6pj01 1 excluded_region 312.655 314.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 314.600 331.921 <o,f0,unknown> situácia veľmi podobná aj keď teraz je to organizované a je to vidieť že [hez] žena [hez] je zvyknutá na to že musí zvládať viacero vecí naraz.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 331.921 336.986 <o,f0,unknown> [hez] nemá to jednoduché. snaží sa všetkými silami.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 336.986 353.451 <o,f0,unknown> [hez] samozrejme v tejto situácii je na tom podstatne lepšie ako ten muž [hez] pretože [hez] táto situácia zrejme/zrejma zrejme pre ňu nie je nová [hez] len proste [hez] vyplýva zo situácie.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 353.451 369.647 <o,f0,unknown> samozrejme nie je schopná [hez] ustrážiť úplne všetko/všecko pretože má len dve ruky a má k tomu ešte aj dieťa má tam aj teda to zvieratko ktoré evidentne [hez] tiež sa chce hrať a a má veľkú zábavu že môže niečo zhodiť z poličky.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 369.647 377.749 <o,f0,unknown> popritom myslí nielen na varenie ale ešte aj na nákupy a [hez] chce to všetko stihnúť pretože ((pravdepodobne)) manžel príde za chvíľku domov.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 377.749 384.899 <o,f0,unknown> vyzerá to tak že [hez] je nejaký buď čas obeda áno asi tak že chodí na obed a že mu chce niečo uvariť.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 384.899 398.445 <o,f0,unknown> [hez] pravdepodobne to zvládne no ale určite tam bude mať nejaké/nejake problémy možno s uprataním toho celého ale hovorím je na tú/tu situáciu zvyknutá vytrénovaná takže.
+lpvvg6pj01 1 excluded_region 398.445 401.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg6pj01 1 excluded_region 401.660 404.505 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 404.505 423.362 <o,f0,unknown> no tak evidentne [ruch-] klasická vlastne príprava vianoc [-ruch] ale teda to už nie je príprava/priprava ale prebiehajúce vianočné sviatky [ruch-] lebo predpokladám [-ruch] že že asi už [hez] tie autíčka na zemi [hez] predstavujú [hez] nejaké darčeky ktoré deti už dostali.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 423.362 430.591 <o,f0,unknown> no a teraz samozrejme [hez] sa hrajú. [ruch-] samozrejme ako deti nechávajú/nehávajú veci kdekade. [-ruch]
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 430.591 445.571 <o,f0,unknown> [hez] [ruch-] prichádzajúci manžel [hez] bežne nenachádza [hez] autíčka na zemi [-ruch] takže po otvorení dverí na ne [hez] šliapne/šlapne. samozrejme z toho môže prísť k úrazu. evidentne už aj k tomu prichádza že padá na zem.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 445.571 452.844 <o,f0,unknown> [hez] prichádza s nejakým nákupom. asi zrejme [ruch-] už im došli [-ruch] nejaké zásoby tak išiel si niečo dokúpiť/dokupiť.
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 452.844 469.046 <o,f0,unknown> deti samozrejme keďže [hez] manželka je zaujatá [hez] telefonovaním/telefonením s kamarátkou tak proste [hez] si: robia v zásade [hez] čo chcú alebo teda hrajú sa takže [hez] [ruch-] stromček [hez] dostáva zabrať [-ruch] .
+lpvvg6pj01 1 lpvvg6pj01_lpvvg6pj01 469.046 474.630 <o,f0,unknown> je ľahko možné že skončí/skonči aj na zemi a [hez] [hez] gule sa [ruch-] rozbijú [-ruch] .

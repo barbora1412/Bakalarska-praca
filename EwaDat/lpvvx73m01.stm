@@ -1,0 +1,130 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:31 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210908
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 0.000 8.480 <o,f0,unknown> special_vokal
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 8.480 16.420 <o,f0,unknown> special_pataka
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 16.420 21.120 <o,f0,unknown> cestu
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 21.120 24.040 <o,f0,unknown> kráľ
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 24.040 26.540 <o,f0,unknown> kniha
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 26.540 28.960 <o,f0,unknown> most
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 28.960 31.400 <o,f0,unknown> topánky
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 31.400 33.680 <o,f0,unknown> autobus
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 33.680 36.040 <o,f0,unknown> hodinky
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 36.040 38.560 <o,f0,unknown> cigarety
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 38.560 40.860 <o,f0,unknown> koruna
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 40.860 43.320 <o,f0,unknown> bubon
+lpvvx73m01 1 excluded_region 43.320 44.511 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 44.511 47.260 <o,f0,unknown> budík
+lpvvx73m01 1 excluded_region 47.260 47.973 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 47.973 50.160 <o,f0,unknown> koleso
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 50.160 52.860 <o,f0,unknown> traktor
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 52.860 56.880 <o,f0,unknown> teplomer
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 56.880 59.840 <o,f0,unknown> lavička
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 59.840 62.580 <o,f0,unknown> fajka
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 62.580 65.520 <o,f0,unknown> električka
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 65.520 69.000 <o,f0,unknown> zips
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 69.000 72.180 <o,f0,unknown> [spk] akvárium
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 72.180 75.080 <o,f0,unknown> metla
+lpvvx73m01 1 excluded_region 75.080 75.898 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 75.898 78.400 <o,f0,unknown> ťava
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 78.400 82.720 <o,f0,unknown> lievik
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 82.720 85.740 <o,f0,unknown> hríby
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 85.740 88.640 <o,f0,unknown> vešiak
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 88.640 91.251 <o,f0,unknown> domino
+lpvvx73m01 1 excluded_region 91.251 92.520 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 92.520 95.460 <o,f0,unknown> kotva
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 95.460 98.300 <o,f0,unknown> žaluď
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 98.300 101.260 <o,f0,unknown> ponorka
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 101.260 103.940 <o,f0,unknown> kozmonaut
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 103.940 106.420 <o,f0,unknown> kaktus
+lpvvx73m01 1 excluded_region 106.420 107.321 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 107.321 108.740 <o,f0,unknown> píše
+lpvvx73m01 1 excluded_region 108.740 109.905 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 109.905 111.880 <o,f0,unknown> natiera
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 111.880 114.200 <o,f0,unknown> spieva
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 114.200 117.140 <o,f0,unknown> smeje sa
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 117.140 119.880 <o,f0,unknown> ťahá
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 119.880 123.860 <o,f0,unknown> kúpe sa
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 123.860 126.880 <o,f0,unknown> váži
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 126.880 130.580 <o,f0,unknown> svieti
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 130.580 133.180 <o,f0,unknown> meria
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 133.180 135.580 <o,f0,unknown> plače
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 135.580 138.420 <o,f0,unknown> horí
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 138.420 141.280 <o,f0,unknown> pije
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 141.280 143.800 <o,f0,unknown> varí
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 143.800 147.020 <o,f0,unknown> hádže
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 147.020 149.500 <o,f0,unknown> klope
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 149.500 152.060 <o,f0,unknown> telefonuje
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 152.060 155.400 <o,f0,unknown> maľuje
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 155.400 158.140 <o,f0,unknown> skáče
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 158.140 160.580 <o,f0,unknown> šije
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 160.580 163.240 <o,f0,unknown> vŕta
+lpvvx73m01 1 excluded_region 163.240 164.726 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 164.726 166.700 <o,f0,unknown> lyžuje
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 166.700 169.160 <o,f0,unknown> krája
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 169.160 171.860 <o,f0,unknown> hrabe
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 171.860 174.980 <o,f0,unknown> fotografuje
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 174.980 177.520 <o,f0,unknown> polieva
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 177.520 181.020 <o,f0,unknown> píli
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 181.020 185.060 <o,f0,unknown> bicykluje sa
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 185.060 188.077 <o,f0,unknown> pletie
+lpvvx73m01 1 excluded_region 188.077 188.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 188.880 192.840 <o,f0,unknown> vesluje
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 192.840 195.460 <o,f0,unknown> žehlí
+lpvvx73m01 1 excluded_region 195.460 197.199 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 197.199 207.287 <o,f0,unknown> na obrázku je ruka. ruka má päť prstov palec [hez] ukazovák prostredník prstenník/prsteník malíček.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 207.287 218.586 <o,f0,unknown> [hez] je tam ešte druhá ruka ktorá drží malíček prvej ruky.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 218.586 221.965 <o,f0,unknown> na ruke sú znázornené vrásky.
+lpvvx73m01 1 excluded_region 221.965 225.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 excluded_region 225.420 228.494 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 228.494 242.849 <o,f0,unknown> na obrázku je stôl a dve stoličky. na stole sú dva dve šálky podšálky. v šálkach je káva a lyžičky.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 242.849 255.420 <o,f0,unknown> na stoličkách nikto nesedí. každá stolička má [ruch-] štyri nohy. stôl [-ruch] má tri nohy. stoličky sú operadlá stoličiek
+lpvvx73m01 1 excluded_region 255.420 258.820 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 258.820 267.934 <o,f0,unknown> na obrázku je kuchyňa. v kuchyni je tato so synom. varia [smiech-] večeru [-smiech] . večera im vykypela.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 267.934 275.703 <o,f0,unknown> v kuchyni je neporiadok. tečie/teče voda ktorá preteká a tečie až na zem.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 275.703 283.193 <o,f0,unknown> syn stojí na stoličke. stolička sa podvrtla.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 283.193 288.389 <o,f0,unknown> syn dočahuje banán.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 288.389 295.961 <o,f0,unknown> na linke je položený tanier. na tanieri je banán paradajka.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 295.961 301.970 <o,f0,unknown> [ruch-] zo skrinky na stene [-ruch] kvapká tekutina.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 301.970 313.118 <o,f0,unknown> otec varechou rozbil lu lampu. [ruch-] na lampe je znázornená vče včielka. [-ruch]
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 313.118 317.641 <o,f0,unknown> a na toto všetko sa pozerá aj kocúr.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 317.641 333.500 <o,f0,unknown> [ruch-] otec má oblečenú zásteru žlté [-ruch] tričko hnedé nohavice a hnedé papuče. syn má oblečené [ruch-] červené tričko [-ruch] modré nohavice a červené papuče.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 333.500 335.075 <o,f0,unknown> [ruch]
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 335.075 343.030 <o,f0,unknown> na zemi je voda a črepy z lustra. [ruch] otec drží v ruke varechu.
+lpvvx73m01 1 excluded_region 343.030 345.380 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 345.380 354.146 <o,f0,unknown> na obrázku je kuchyňa v ktorej sa nachádza matka so svojím bábätkom.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 354.146 363.856 <o,f0,unknown> matka varí. na panvici má volské oká. na šporáku je pov [hez] položený hrniec s vodou.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 363.856 368.578 <o,f0,unknown> matka je vystresovaná. dieťa plače.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 368.578 375.625 <o,f0,unknown> na linke má položenú dosku. na nej paradajky a nôž.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 375.625 390.000 <o,f0,unknown> zároveň pri varení má otvorený notebook a vedľa notebooku stojí mlieko.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 390.000 408.862 <o,f0,unknown> za matkou sa nachádzajú zavesené poličky/s:poličky. na jednej poličke je vyskočená mačka. vedľa nej stojí fľaša a nejaká konzerva.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 408.862 416.544 <o,f0,unknown> na druhej poličke sú kvetiny a knižky a nad touto poličkou visia hodiny.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 416.544 423.908 <o,f0,unknown> matka pri varení zároveň aj telefonuje. malé dieťa plače.
+lpvvx73m01 1 excluded_region 423.908 428.791 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 428.791 435.300 <o,f0,unknown> z [hez] jednej poličky padá váza z ktorej vy
+lpvvx73m01 1 excluded_region 435.300 439.732 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 439.732 454.962 <o,f0,unknown> na: z obrázok znázorňuje vianoce v rodine. rodinu tvorí otec matka a ich dieťa. zároveň majú ešte aj psa.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 454.962 465.543 <o,f0,unknown> matka telefonuje. otec sa pošmykol na autíčku a padá. v ruke drží tašku.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 465.543 476.332 <o,f0,unknown> za dverami sa nachádza padajúci stromček ktorý zhodil ich syn.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 476.332 481.929 <o,f0,unknown> za oknom toto všetko sleduje malý chlapec.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 481.929 490.828 <o,f0,unknown> na okne visia závesy a je zatvorené.
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 490.828 500.832 <o,f0,unknown> stromček je krásne vyzdobený rôznofarebnými sviečkami a navrchu je krásna hviezda žltá hviezda.
+lpvvx73m01 1 excluded_region 500.832 504.509 <o,,unknown> ignore_time_segment_in_scoring
+lpvvx73m01 1 lpvvx73m01_lpvvx73m01 504.509 509.819 <o,f0,unknown> otec sa pošmykol na žltom aute.
+lpvvx73m01 1 excluded_region 509.819 514.799 <o,,unknown> ignore_time_segment_in_scoring

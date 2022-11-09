@@ -1,0 +1,112 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:29 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211022
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+3fiik13w01 1 3fiik13w01_3fiik13w01 0.000 15.008 <o,f0,unknown> special_vokal
+3fiik13w01 1 3fiik13w01_3fiik13w01 15.008 23.018 <o,f0,unknown> special_pataka
+3fiik13w01 1 3fiik13w01_3fiik13w01 23.018 25.994 <o,f0,unknown> cesta
+3fiik13w01 1 3fiik13w01_3fiik13w01 25.994 28.649 <o,f0,unknown> [spk] kráľ
+3fiik13w01 1 3fiik13w01_3fiik13w01 28.649 31.017 <o,f0,unknown> kniha
+3fiik13w01 1 3fiik13w01_3fiik13w01 31.017 33.246 <o,f0,unknown> most
+3fiik13w01 1 3fiik13w01_3fiik13w01 33.246 35.240 <o,f0,unknown> topánky
+3fiik13w01 1 3fiik13w01_3fiik13w01 35.240 37.800 <o,f0,unknown> autobus
+3fiik13w01 1 3fiik13w01_3fiik13w01 37.800 39.698 <o,f0,unknown> hodinky
+3fiik13w01 1 3fiik13w01_3fiik13w01 39.698 41.842 <o,f0,unknown> cigarety
+3fiik13w01 1 3fiik13w01_3fiik13w01 41.842 43.847 <o,f0,unknown> koruna
+3fiik13w01 1 3fiik13w01_3fiik13w01 43.847 45.734 <o,f0,unknown> bubon
+3fiik13w01 1 3fiik13w01_3fiik13w01 45.734 48.358 <o,f0,unknown> budík/budik
+3fiik13w01 1 3fiik13w01_3fiik13w01 48.358 50.534 <o,f0,unknown> koleso
+3fiik13w01 1 3fiik13w01_3fiik13w01 50.534 52.656 <o,f0,unknown> traktor
+3fiik13w01 1 3fiik13w01_3fiik13w01 52.656 54.629 <o,f0,unknown> teplomer
+3fiik13w01 1 3fiik13w01_3fiik13w01 54.629 56.698 <o,f0,unknown> lavička
+3fiik13w01 1 3fiik13w01_3fiik13w01 56.698 58.703 <o,f0,unknown> fajka
+3fiik13w01 1 3fiik13w01_3fiik13w01 58.703 61.038 <o,f0,unknown> električka
+3fiik13w01 1 3fiik13w01_3fiik13w01 61.038 62.883 <o,f0,unknown> zips
+3fiik13w01 1 3fiik13w01_3fiik13w01 62.883 65.102 <o,f0,unknown> akvárium
+3fiik13w01 1 3fiik13w01_3fiik13w01 65.102 66.008 <o,f0,unknown> metla
+3fiik13w01 1 excluded_region 66.008 67.011 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 excluded_region 67.011 67.653 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 3fiik13w01_3fiik13w01 67.653 69.485 <o,f0,unknown> ťava
+3fiik13w01 1 3fiik13w01_3fiik13w01 69.485 71.949 <o,f0,unknown> lievik
+3fiik13w01 1 3fiik13w01_3fiik13w01 71.949 74.850 <o,f0,unknown> [hez] dubáky
+3fiik13w01 1 3fiik13w01_3fiik13w01 74.850 76.876 <o,f0,unknown> vešiak
+3fiik13w01 1 3fiik13w01_3fiik13w01 76.876 79.062 <o,f0,unknown> domino
+3fiik13w01 1 3fiik13w01_3fiik13w01 79.062 81.078 <o,f0,unknown> kotva
+3fiik13w01 1 3fiik13w01_3fiik13w01 81.078 83.115 <o,f0,unknown> žaluď
+3fiik13w01 1 3fiik13w01_3fiik13w01 83.115 85.429 <o,f0,unknown> ponorka
+3fiik13w01 1 3fiik13w01_3fiik13w01 85.429 88.330 <o,f0,unknown> [hez] astronaut
+3fiik13w01 1 3fiik13w01_3fiik13w01 88.330 90.389 <o,f0,unknown> [spk] kaktus
+3fiik13w01 1 3fiik13w01_3fiik13w01 90.389 93.567 <o,f0,unknown> píše
+3fiik13w01 1 3fiik13w01_3fiik13w01 93.567 95.775 <o,f0,unknown> natiera
+3fiik13w01 1 3fiik13w01_3fiik13w01 95.775 97.737 <o,f0,unknown> spieva
+3fiik13w01 1 3fiik13w01_3fiik13w01 97.737 100.158 <o,f0,unknown> smeje sa
+3fiik13w01 1 3fiik13w01_3fiik13w01 100.158 102.579 <o,f0,unknown> ťahá
+3fiik13w01 1 3fiik13w01_3fiik13w01 102.579 104.957 <o,f0,unknown> kúpe sa
+3fiik13w01 1 3fiik13w01_3fiik13w01 104.957 107.314 <o,f0,unknown> váži
+3fiik13w01 1 3fiik13w01_3fiik13w01 107.314 109.714 <o,f0,unknown> svieti
+3fiik13w01 1 3fiik13w01_3fiik13w01 109.714 111.921 <o,f0,unknown> meria
+3fiik13w01 1 3fiik13w01_3fiik13w01 111.921 113.809 <o,f0,unknown> plač
+3fiik13w01 1 3fiik13w01_3fiik13w01 113.809 115.899 <o,f0,unknown> horí
+3fiik13w01 1 3fiik13w01_3fiik13w01 115.899 117.979 <o,f0,unknown> pije
+3fiik13w01 1 3fiik13w01_3fiik13w01 117.979 119.845 <o,f0,unknown> varí/vari
+3fiik13w01 1 3fiik13w01_3fiik13w01 119.845 122.373 <o,f0,unknown> hádže
+3fiik13w01 1 3fiik13w01_3fiik13w01 122.373 124.389 <o,f0,unknown> klope
+3fiik13w01 1 3fiik13w01_3fiik13w01 124.389 126.522 <o,f0,unknown> volá
+3fiik13w01 1 3fiik13w01_3fiik13w01 126.522 128.473 <o,f0,unknown> maľuje
+3fiik13w01 1 3fiik13w01_3fiik13w01 128.473 130.713 <o,f0,unknown> skáče
+3fiik13w01 1 3fiik13w01_3fiik13w01 130.713 132.803 <o,f0,unknown> šije
+3fiik13w01 1 3fiik13w01_3fiik13w01 132.803 134.947 <o,f0,unknown> vŕta
+3fiik13w01 1 3fiik13w01_3fiik13w01 134.947 137.581 <o,f0,unknown> [ruch-] lyžuje sa [-ruch]
+3fiik13w01 1 3fiik13w01_3fiik13w01 137.581 139.639 <o,f0,unknown> [spk] krája
+3fiik13w01 1 3fiik13w01_3fiik13w01 139.639 141.783 <o,f0,unknown> hrabe
+3fiik13w01 1 3fiik13w01_3fiik13w01 141.783 144.183 <o,f0,unknown> fotí/foti
+3fiik13w01 1 3fiik13w01_3fiik13w01 144.183 146.166 <o,f0,unknown> polieva
+3fiik13w01 1 3fiik13w01_3fiik13w01 146.166 148.246 <o,f0,unknown> reže
+3fiik13w01 1 3fiik13w01_3fiik13w01 148.246 150.912 <o,f0,unknown> bicykluje sa
+3fiik13w01 1 3fiik13w01_3fiik13w01 150.912 153.216 <o,f0,unknown> pletie štrikuje
+3fiik13w01 1 3fiik13w01_3fiik13w01 153.216 155.733 <o,f0,unknown> pádluje
+3fiik13w01 1 3fiik13w01_3fiik13w01 155.733 157.631 <o,f0,unknown> žehlí
+3fiik13w01 1 excluded_region 157.631 159.759 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 3fiik13w01_3fiik13w01 159.759 182.180 <o,f0,unknown> dieťa [hez] malé dieťa s ručičkou drží [hez] malíček na ruke svojej mamy a: stíska ho celou silou [hez] ako keby chcelo získať istotu že sa mu nič nemôže stať a že [hez] mama ho vždy/vždycky ochráni.
+3fiik13w01 1 excluded_region 182.180 187.647 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 excluded_region 187.647 190.264 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 3fiik13w01_3fiik13w01 190.264 195.639 <o,f0,unknown> stôl okrúhly francúzsky. pri ňom dve stoličky.
+3fiik13w01 1 3fiik13w01_3fiik13w01 195.639 211.870 <o,f0,unknown> na stole dve šálky/šialky [hez] s pariacou sa kávou v šálkach/šialkach sú lyžičky a: celé to pripomína pohodu v parížskej kaviarni.
+3fiik13w01 1 excluded_region 211.870 217.662 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 excluded_region 217.662 222.031 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 3fiik13w01_3fiik13w01 222.031 236.065 <o,f0,unknown> kuchyňa v ktorej je otec nešťastný [hez] nepodarené dieťa a čierny kocúr.
+3fiik13w01 1 3fiik13w01_3fiik13w01 236.065 247.455 <o,f0,unknown> dieťa neposlúcha. robí neplechu. skáče na stoličke. chce si dočiahnuť z kredenca banán.
+3fiik13w01 1 3fiik13w01_3fiik13w01 247.455 262.183 <o,f0,unknown> popritom [ruch-] je pustená voda [-ruch] do drezu/dresu a tá/ta voda preteká z drezu/dresu lebo otec [ruch-] si to nevšíma [-ruch] . s varechou sa nahá zaháňa na [ruch-] neposlušného [-ruch] syna. [ruch]
+3fiik13w01 1 3fiik13w01_3fiik13w01 262.183 269.405 <o,f0,unknown> ako sa zaháňa tak popritom rozbil luster a na zemi sa váľajú črepy.
+3fiik13w01 1 3fiik13w01_3fiik13w01 269.405 290.709 <o,f0,unknown> tečie voda. stolička stojí na jednej nohe. chlapec každú chvíľu z nej padne. [ruch-] na sporáku/šporáku [-ruch] kypí z hrnca polievka [ruch-] a z kredenca [-ruch] tečie z prevrátenej fľaše nejaká červená tekutina pravdepodobne limonáda.
+3fiik13w01 1 3fiik13w01_3fiik13w01 290.709 305.620 <o,f0,unknown> a: do toho všetkého vykúka čierna mačka s veľkými/velikými zelenými očami ktorá má zjavne z celého chaosu veľkú radosť.
+3fiik13w01 1 excluded_region 305.620 307.678 <o,,unknown> ignore_time_segment_in_scoring
+3fiik13w01 1 3fiik13w01_3fiik13w01 307.678 324.212 <o,f0,unknown> mladá mamička stojí v kuchyni pri sporáku/šporáku. na rukách drží malé bábätko ktoré neskutočne plače a hnevá sa.
+3fiik13w01 1 3fiik13w01_3fiik13w01 324.212 355.446 <o,f0,unknown> mamička [ruch-] zjavne [-ruch] nezvláda všetky povinnosti [ruch-] ktoré chce naraz stihnúť [-ruch] pretože na sporáku/šporáku stojí hrniec v ktorom sa [ruch-] varí asi obed alebo polievka zemiaky [-ruch] . [ruch-] v ruke drží panvicu na ktorej opeká [-ruch] asi slaninku [ruch-] a: chce to obrátiť aby sa jej to nepripálilo. [-ruch]
+3fiik13w01 1 3fiik13w01_3fiik13w01 355.446 362.693 <o,f0,unknown> zároveň má otvorený notebook a pravdepodobne číta recept na obed ktorý varí.
+3fiik13w01 1 3fiik13w01_3fiik13w01 362.693 373.354 <o,f0,unknown> má na tom [hez] na tej pracovnej doske má krabicu s mliekom. má tam zeleninu na doske a nožík pripravený na krájanie zeleniny.
+3fiik13w01 1 3fiik13w01_3fiik13w01 373.354 388.338 <o,f0,unknown> na poličke na stene sedí mačka ktorej sa podarilo odtiaľ zhodiť vázu s kvetmi/kvetami a ešte tam stále stojí fľaša s vínom/mínom a s medom čiže dá sa predpokladať že za chvíľu zhodí aj to.
+3fiik13w01 1 3fiik13w01_3fiik13w01 388.338 397.694 <o,f0,unknown> a: mamička telefonuje pravdepodobne nejakej kamarátke a rozpráva jej že aké topánky by si chcela objednať alebo kúpi
+3fiik13w01 1 3fiik13w01_3fiik13w01 397.694 406.689 <o,f0,unknown> na obrázku je: vianočná [ruch-] atmosféra [-ruch] .
+3fiik13w01 1 3fiik13w01_3fiik13w01 406.689 414.243 <o,f0,unknown> v izbe je ozdobený vianočný stromček s krásnou veľkou zlatou hviezdou na vrchu.
+3fiik13w01 1 3fiik13w01_3fiik13w01 414.243 417.588 <o,f0,unknown> za oknom sneží.
+3fiik13w01 1 3fiik13w01_3fiik13w01 417.588 426.770 <o,f0,unknown> [spk] v izbe je mama ktorá telefonuje pravdepodobne svojim rodičom kedy konečne prídu.
+3fiik13w01 1 3fiik13w01_3fiik13w01 426.770 439.375 <o,f0,unknown> je tam malý chlapec ktorý je veľmi neposlušný a: naťahuje na stromčeku ozdoby tak že stromček padá a ozdoby sa rozbíjajú.
+3fiik13w01 1 3fiik13w01_3fiik13w01 439.375 448.000 <o,f0,unknown> za oknom stojí chlapec ktorý ľútostivo pozerá donútra a závidí že také vianoce nemôže zažívať aj on.
+3fiik13w01 1 3fiik13w01_3fiik13w01 448.000 460.567 <o,f0,unknown> a v tom vchádza donútra do domu otec [hez] s taškou v ktorej má ešte asi vianočné darčeky. má čapicu a šál lebo vonku je zima.
+3fiik13w01 1 3fiik13w01_3fiik13w01 460.567 473.786 <o,f0,unknown> a ako/jako vojde do izby tak sa pošmykne na autíčkach ktoré sa tam povaľujú a: celou silou padá na zem.

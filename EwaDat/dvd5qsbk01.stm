@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:42 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220510
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+dvd5qsbk01 1 excluded_region 0.000 1.217 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 1.217 14.880 <o,f5,unknown> special_vokal
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 14.880 22.760 <o,f5,unknown> special_pataka
+dvd5qsbk01 1 excluded_region 22.760 24.357 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 24.357 25.733 <o,f5,unknown> cesta [ruch]
+dvd5qsbk01 1 excluded_region 25.733 28.200 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 28.200 31.540 <o,f5,unknown> [ruch-] kráľ/kraľ [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 31.540 34.040 <o,f5,unknown> [ruch-] kniha [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 34.040 36.640 <o,f5,unknown> [ruch-] most [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 36.640 38.960 <o,f5,unknown> [ruch-] topánky ((XXXX)) [-ruch]
+dvd5qsbk01 1 excluded_region 38.960 39.919 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 39.919 41.860 <o,f5,unknown> [ruch-] autobus [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 41.860 44.240 <o,f5,unknown> [ruch-] hodinky [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 44.240 46.660 <o,f5,unknown> [ruch-] cigarety [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 46.660 49.120 <o,f5,unknown> [ruch-] koruna [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 49.120 51.540 <o,f5,unknown> [ruch-] bubon [-ruch]
+dvd5qsbk01 1 excluded_region 51.540 52.324 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 52.324 54.720 <o,f5,unknown> [ruch-] hodiny [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 54.720 57.720 <o,f5,unknown> [ruch-] [hez] koleso [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 57.720 59.980 <o,f5,unknown> [ruch-] traktor [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 59.980 62.600 <o,f5,unknown> [ruch-] teplomer [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 62.600 65.160 <o,f5,unknown> [ruch-] [hez] lavica [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 65.160 67.480 <o,f5,unknown> [ruch-] fajka [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 67.480 69.980 <o,f5,unknown> [ruch-] električka [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 69.980 72.180 <o,f5,unknown> [ruch-] zips [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 72.180 74.720 <o,f5,unknown> [ruch-] akvárium [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 74.720 76.900 <o,f5,unknown> [ruch-] metla [-ruch]
+dvd5qsbk01 1 excluded_region 76.900 78.340 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 78.340 79.990 <o,f5,unknown> [ruch-] [hez] zviera [-ruch]
+dvd5qsbk01 1 excluded_region 79.990 82.394 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 82.394 83.326 <o,f5,unknown> [ruch-] ťava [-ruch]
+dvd5qsbk01 1 excluded_region 83.326 84.280 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 excluded_region 84.280 85.325 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 85.325 87.820 <o,f5,unknown> [ruch-] lievik [-hez] [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 87.820 90.860 <o,f5,unknown> [ruch-] [hez] huby [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 90.860 93.540 <o,f5,unknown> [ruch-] vešiak [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 93.540 97.680 <o,f5,unknown> [ruch-] kocky alebo/abo domino [-ruch]
+dvd5qsbk01 1 excluded_region 97.680 99.208 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 99.208 101.440 <o,f5,unknown> [ruch-] to je kotva [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 101.440 104.160 <o,f5,unknown> [ruch-] žaluď [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 104.160 106.472 <o,f5,unknown> [ruch-] [hez-] loď [-ruch]
+dvd5qsbk01 1 excluded_region 106.472 109.040 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 109.040 112.620 <o,f5,unknown> [ruch-] [hez] kozmonaut [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 112.620 115.220 <o,f5,unknown> [ruch-] kaktus [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 115.220 118.380 <o,f5,unknown> [ruch-] píše [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 118.380 121.740 <o,f5,unknown> [ruch-] [hez] mastí chlieb [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 121.740 124.140 <o,f5,unknown> [ruch-] spieva [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 124.140 126.960 <o,f5,unknown> [ruch-] smeje sa [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 126.960 131.700 <o,f5,unknown> [ruch-] [hez] ťahá lano cvičí alebo/abo [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 131.700 135.160 <o,f5,unknown> [ruch-] [hez] kúpe sa [veselost] [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 135.160 138.720 <o,f5,unknown> [ruch-] váži jablko [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 138.720 143.180 <o,f5,unknown> [ruch-] [hez] svetlo svieti [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 143.180 147.060 <o,f5,unknown> [ruch-] [hez] pracuje až meria s metrom [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 147.060 149.420 <o,f5,unknown> [ruch-] plače [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 149.420 151.860 <o,f5,unknown> [ruch-] horí [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 151.860 154.580 <o,f5,unknown> [ruch-] [hez] pije [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 154.580 156.680 <o,f5,unknown> [ruch-] varí [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 156.680 159.900 <o,f5,unknown> [ruch-] [hez] športuje [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 159.900 162.740 <o,f5,unknown> [ruch-] [hez] klope na dvere [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 162.740 165.340 <o,f5,unknown> [ruch-] telefonuje [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 165.340 167.780 <o,f5,unknown> [ruch-] maľuje [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 167.780 170.740 <o,f5,unknown> [ruch-] cvičí [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 170.740 173.200 <o,f5,unknown> [ruch-] šije [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 173.200 175.680 <o,f5,unknown> [ruch-] vŕta [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 175.680 178.240 <o,f5,unknown> [ruch-] lyžuje [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 178.240 180.900 <o,f5,unknown> [ruch-] krája jablko [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 180.900 184.900 <o,f5,unknown> [ruch-] %ee hrabe [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 184.900 187.580 <o,f5,unknown> [ruch-] fotí [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 187.580 190.600 <o,f5,unknown> [ruch-] polieva kvety [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 190.600 193.480 <o,f5,unknown> [ruch-] [hez] reže [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 193.480 196.100 <o,f5,unknown> [ruch-] bicykluje sa [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 196.100 198.600 <o,f5,unknown> [ruch-] štrikuje [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 198.600 205.220 <o,f5,unknown> [ruch-] [hez] [ned-] ka: [-ned] [hez] to sú tí [hez] kajakári či ako/jak sa to im hovorí splavujú [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 205.220 207.820 <o,f5,unknown> [ruch-] žehlí [-ruch]
+dvd5qsbk01 1 excluded_region 207.820 209.542 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 209.542 237.700 <o,f5,unknown> [ruch-] [hez] mama [hez] malý chlapček drží mamu za: za za ruku. hej chytil sa jej malého prsta a: [hez] stláča jej ho čo najviac môže cítiť malý chlapček takú istotu v mamke [hez] lebo vie že mamka mu pomáha vo všetkom. [hez] vo všetkom čo robí môže sa naňu spoľahnuť či cíti v nej nejakú bezpečnosť v tej ruke. no proste je to mama [hez] všetko pre to malé dieťa. [-ruch]
+dvd5qsbk01 1 excluded_region 237.700 240.348 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 240.348 257.420 <o,f5,unknown> [ruch-] [hez] kávička pripravená pre dvoch. [veselost] idem s kamarátkou po robote na kávičku podebatíme trošku vypneme vyventilujeme posmejeme sa a:lebo už porozprávame aký sme prežili deň. čo budeme variť a čo nás čaká na zajtrajší deň. [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 257.420 265.626 <o,f5,unknown> [ruch-] [hez] a [hez] určite si spolu pritom oddýchneme a: tešíme sa domov že sme prežili krásny deň. [-ruch]
+dvd5qsbk01 1 excluded_region 265.626 267.580 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 excluded_region 267.580 269.721 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 269.721 287.787 <o,f5,unknown> [ruch-] muž v kuchyni %ach čistý horor aj môj muž keď [veselost-] varí [-veselost] tak to je čistý horor. kuchyňa zaprataná ((od)) keby sme mali štyri linky tak štyri linky sú založené ale preňho to je všetko v pohode. je rád že niečo navaril [veselost-] nech budem rada vôbec že niečo mám [-veselost] a poprace/popratá sa to potom ďalej. [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 287.787 303.077 <o,f5,unknown> [ruch-] a že malý mu pritom kibicuje. mačka [veselost-] skáče [-veselost] čaká nie a nie nejakú/niejakú dobrotu. on to všetko v pohode dá. povie čo stresuješ všetko je v pohode tak ako má byť. si sýta sýta si malý najedený kocúr dostal ja som [hez] na pohode. [-ruch]
+dvd5qsbk01 1 excluded_region 303.077 305.020 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 excluded_region 305.020 306.391 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 306.391 325.855 <o,f5,unknown> [ruch-] zaneprázdnená matka. %ach na matku to je veľa [hez] malý kričí horí jej oheň [hez] mačka jej skáče:. proste hodiny jej utekajú už mala byť dávno v robote a ešte je doma ešte nestihla navariť popratať malého dať spať nákup %och bože čistá katastrofa. [-ruch]
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 325.855 344.406 <o,f5,unknown> [ruch-] proste to sú ženy. [hez] ešte ((aj)) s telefónom mama za to kričí [hez] zabudla si mi doniesť toto toto vyber mi lieky kúp mi toto hento no/na ja som chcela proste: už z toho mimo neviem kde mi hlava stojí. všetko sa mi [hez] [smiech] rúca pod nohami ale nejako to dám no. [-ruch]
+dvd5qsbk01 1 excluded_region 344.406 346.420 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 excluded_region 346.420 349.028 <o,,unknown> ignore_time_segment_in_scoring
+dvd5qsbk01 1 dvd5qsbk01_dvd5qsbk01 349.028 367.761 <o,f5,unknown> [ruch-] vianoce najkrajší čas v roku: na ktoré sa tešíme všetci: hlavne detí [hez] čakajú [hez] čakajú svoje darčeky ktoré skrývame v celom dome. [hez] potom ich nevieme nakoniec nájsť nakoniec malý všetko po ponachádza skôr takže takéto sú vianoce. [-ruch]

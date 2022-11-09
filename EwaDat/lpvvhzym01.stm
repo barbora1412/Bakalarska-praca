@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:11 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220428
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 14.940 22.940 <o,f0,unknown> special_pataka
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 22.940 26.100 <o,f0,unknown> cesta
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 26.100 28.560 <o,f0,unknown> kráľ
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 28.560 30.740 <o,f0,unknown> kniha
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 30.740 33.040 <o,f0,unknown> most
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 33.040 35.420 <o,f0,unknown> topánky
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 35.420 37.860 <o,f0,unknown> autobus
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 37.860 39.980 <o,f0,unknown> hodinky
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 39.980 42.560 <o,f0,unknown> cigarety
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 42.560 45.080 <o,f0,unknown> koruna
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 45.080 47.980 <o,f0,unknown> bubon
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 47.980 50.620 <o,f0,unknown> budík
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 50.620 52.920 <o,f0,unknown> koleso
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 52.920 55.480 <o,f0,unknown> traktor
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 55.480 58.060 <o,f0,unknown> teplomer
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 58.060 60.460 <o,f0,unknown> lavička
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 60.460 62.700 <o,f0,unknown> fajka
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 62.700 65.240 <o,f0,unknown> električka
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 65.240 67.560 <o,f0,unknown> zips
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 67.560 70.000 <o,f0,unknown> akvárium
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 70.000 72.300 <o,f0,unknown> metla
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 72.300 74.860 <o,f0,unknown> ťava
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 74.860 77.340 <o,f0,unknown> lievik
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 77.340 79.800 <o,f0,unknown> hríby
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 79.800 82.300 <o,f0,unknown> vešiak
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 82.300 84.840 <o,f0,unknown> domino kocky
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 84.840 87.440 <o,f0,unknown> kotva
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 87.440 89.940 <o,f0,unknown> žaluď
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 89.940 92.740 <o,f0,unknown> ponorka
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 92.740 95.400 <o,f0,unknown> kozmonaut
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 95.400 97.880 <o,f0,unknown> kaktus
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 97.880 100.440 <o,f0,unknown> píše
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 100.440 104.140 <o,f0,unknown> [hez] natiera
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 104.140 106.580 <o,f0,unknown> spieva
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 106.580 109.320 <o,f0,unknown> smeje sa
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 109.320 112.000 <o,f0,unknown> ťahá
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 112.000 114.820 <o,f0,unknown> kúpe sa
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 114.820 117.640 <o,f0,unknown> váži
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 117.640 120.300 <o,f0,unknown> svieti
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 120.300 122.820 <o,f0,unknown> meria
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 122.820 125.160 <o,f0,unknown> plače
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 125.160 127.480 <o,f0,unknown> horí
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 127.480 129.840 <o,f0,unknown> pije
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 129.840 132.160 <o,f0,unknown> varí
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 132.160 134.680 <o,f0,unknown> hádže
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 134.680 137.180 <o,f0,unknown> klope
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 137.180 140.140 <o,f0,unknown> telefonuje
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 140.140 142.780 <o,f0,unknown> maľuje
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 142.780 145.120 <o,f0,unknown> skáče
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 145.120 147.440 <o,f0,unknown> šije
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 147.440 149.920 <o,f0,unknown> vŕta
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 149.920 152.380 <o,f0,unknown> lyžuje
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 152.380 154.700 <o,f0,unknown> krája
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 154.700 157.060 <o,f0,unknown> hrabe
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 157.060 159.460 <o,f0,unknown> fotí
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 159.460 161.980 <o,f0,unknown> polieva
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 161.980 165.040 <o,f0,unknown> píli
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 165.040 167.660 <o,f0,unknown> bicykluje
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 167.660 170.260 <o,f0,unknown> štrikuje
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 170.260 172.880 <o,f0,unknown> vesluje
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 172.880 175.460 <o,f0,unknown> žehlí
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 175.460 205.400 <o,f0,unknown> [hez] [ruch] na obrázku vidím ruku nakreslené iba obrysy čiernou čiarou. sú to dve ruky. jedna ruka je dospelý človek podľa mňa mužská ruka a: [hez] ruka malého dieťaťa ktorá má pekne ostrihané nechtíky. na: na dlani vidno čiaru života ktorá nie je veľmi dlhá [hez] a:le ruka vyzerá byť pracovitá a silná. [hez] je dobrou oporou pre:
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 205.400 218.866 <o,f0,unknown> [hez] vidím stolík/stolik [hez] v kaviarni [hez] pri ktorom s: [hez] sú uložené dve stoličky a na stolíku rozvoniava káva. sú to dve šálky kávy. obe sú rovnaké. sú tmavé.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 218.866 235.400 <o,f0,unknown> [hez] ob [hez] z oboch/obich z oboch s stúpa para. je tam podšálka šálka. [hez] obidve majú uško a: dnu vloženú lyžičku. stolík má/ma tri nohy. [hez] v strede: [hez] v strede sú/su spojené [hez]
+lpvvhzym01 1 excluded_region 235.400 237.255 <o,,unknown> ignore_time_segment_in_scoring
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 237.255 250.064 <o,f0,unknown> [hez] na obrázku vidím kuchyňu v ktorej je značný chaos. [hez] muž sa snaží variť večeru ale veľmi sa mu nedarí. z hrnca mu kypí niečo žlté asi kukuričná kaša.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 250.064 257.725 <o,f0,unknown> [hez] dieťa súc veľmi hladné [hez] kradne z [hez] taniera banán. má tam ešte jablko.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 257.725 265.544 <o,f0,unknown> [hez] umývadlo: je upchaté zápch al [hez] zátkou alebo niečím iným pretože z neho začala vytekať voda.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 265.544 271.441 <o,f0,unknown> mužovi sa podarilo: podarilo: aj rozbi:ť visiaci luster.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 271.441 291.545 <o,f0,unknown> [hez] no celé je to tam kalamitné. horná skrinka nad varičom je: [hez] je otvorená. je celkom prázdna len jedna fľaša v ktorej je ružová/ružova ružová/ružova tekutina [spk] [hez] je pre [hez] prevrhnutá a: a vyteká smerom dole k hrncu.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 291.545 300.033 <o,f0,unknown> [hez] z pravej strany obrázka spoza rohu vykúka mačka. je to čierna mačka ktorá má zelené zelené oči.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 300.033 312.617 <o,f0,unknown> [hez] [hez] na: zemi vidím črepy z oranžového lustra a: [hez] vedľa drezu: s pretekajúcou vodou vidím/vidim ružovú utierku.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 312.617 322.069 <o,f0,unknown> [hez] sporák pod hrncom je rozpálený/rozpáleny pretože je červený. [hez] stúpa z neho para. bolo by dobré [hez] teplotu znížiť.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 322.069 325.360 <o,f0,unknown> [hez] spod [hez] [hez] vidím rá
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 325.360 329.321 <o,f0,unknown> no a tu sme: opäť v kuchyni.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 329.321 345.252 <o,f0,unknown> [ruch] na obrázku vidím [hez] [hez] vidím matku s dieťať plačúcim dieťaťom v náručí pri: [hez] na druhej strane ako drží dieťa drží v ruke panvicu a snaží sa prevrátiť [hez] slaninu. v panvici vidím aj vajíčka.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 345.252 353.170 <o,f0,unknown> [hez] ľ:avým uchom si pridŕža p [hez] [hez] ľavým ramenom si pri uchu pridŕža mobilný telefón.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 353.170 365.309 <o,f0,unknown> [hez] je to: typická/typicka multitasking žena pretože zároveň má otvorený [hez] notebook. pravdepodobne si: v ňom sleduje recept podľa ktorého varí/vari var .
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 365.309 375.288 <o,f0,unknown> okrem okre:m vajíčok so slaninou/slaniny v hrnci buble polievka. [hez] budú v nej zemiaky mäsko paradajky mlieko.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 375.288 389.250 <o,f0,unknown> [hez] nožík/nožik na krájanie je už nachystaný. [hez] [hez] práve je: [hez] dvanásť hodín aj osemnásť/osemnás minút. to vidno na hodinách ktoré sú na stene. je čas [hez] s obedom pokračovať.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 389.250 404.257 <o,f0,unknown> mačka ktorá vyskočila na policu na: [hez] na: [hez] ľavej strane obrázku práve zhodila vázu s kvetmi ktoré [hez] vyzerá že mohli by:ť [hez] margarétky pretože majú biele lupienky. [hez]
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 404.257 411.047 <o,f0,unknown> [hez] pri nich [hez] s [hez] pri mačke stále stojí fľaša vína a fľaša medu.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 411.047 415.300 <o,f0,unknown> [hez] ma [hez] mama sníva o nový
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 415.300 426.377 <o,f0,unknown> no na tomto obrázku stará známa téma vianoc. [hez] všetko nevychádza tak ako by sa členovia [hez] rodiny priali.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 426.377 439.968 <o,f0,unknown> [hez] je tu predpokladám že je tu mama otec ich syn a zvonku [hez] cez okno nazerá do izby buď ďalší syn alebo: alebo kamarát alebo len náhodný okoloidúci.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 439.968 463.769 <o,f0,unknown> vonku sneží. [hez] atmosféra je vskutku vianočná. [hez] na okne visia červené závesy. stromček je krásne vyzdobený farebnými guľami. na jeho vrchole je k je krásna zlatá hviezda ale: [hez] šikovný mladý muž [hez] [hez] potiahol za svetelnú reťaz a stromček práve padá.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 463.769 477.420 <o,f0,unknown> a nepadá len stromček padá aj otec ktorý omylom [hez] [hez] pri: po príchode z obchodu stúpil na žlté autíčko. mohol stúpiť ešte druhou nohou na červené. [hez] to by bolo zábavnejšie.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 477.420 484.673 <o,f0,unknown> v ta v modrej taške priniesol nákup avšak nie je vidno čo v taške je pravdepodobne nejaké darčeky na poslednú chvíľu.
+lpvvhzym01 1 lpvvhzym01_lpvvhzym01 484.673 492.955 <o,f0,unknown> jediný koho celá táto situácia nezaujíma je pes ktorý ktorý tíško spí na rozhraní koberca a podlahy.

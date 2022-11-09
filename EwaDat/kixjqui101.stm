@@ -1,0 +1,101 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:26 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 8 of 210905
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjqui101 1 kixjqui101_kixjqui101 0.000 14.940 <o,f0,unknown> vokal
+kixjqui101 1 kixjqui101_kixjqui101 14.940 22.880 <o,f0,unknown> pataka
+kixjqui101 1 kixjqui101_kixjqui101 22.880 26.020 <o,f0,unknown> cesta
+kixjqui101 1 kixjqui101_kixjqui101 26.020 29.100 <o,f0,unknown> most
+kixjqui101 1 kixjqui101_kixjqui101 29.100 31.840 <o,f0,unknown> hodiny
+kixjqui101 1 kixjqui101_kixjqui101 31.840 34.600 <o,f0,unknown> bubon
+kixjqui101 1 kixjqui101_kixjqui101 34.600 37.720 <o,f0,unknown> traktor
+kixjqui101 1 kixjqui101_kixjqui101 37.720 40.900 <o,f0,unknown> fajka
+kixjqui101 1 kixjqui101_kixjqui101 40.900 45.040 <o,f0,unknown> akvárium
+kixjqui101 1 kixjqui101_kixjqui101 45.040 48.360 <o,f0,unknown> [spk] lievik
+kixjqui101 1 kixjqui101_kixjqui101 48.360 52.840 <o,f0,unknown> [hez] domino?
+kixjqui101 1 kixjqui101_kixjqui101 52.840 56.260 <o,f0,unknown> ponorka
+kixjqui101 1 kixjqui101_kixjqui101 56.260 66.060 <o,f0,unknown> [hez] písať?
+kixjqui101 1 kixjqui101_kixjqui101 66.060 69.700 <o,f0,unknown> [spk] smiech
+kixjqui101 1 kixjqui101_kixjqui101 69.700 73.780 <o,f0,unknown> váženie?
+kixjqui101 1 kixjqui101_kixjqui101 73.780 76.900 <o,f0,unknown> plač
+kixjqui101 1 kixjqui101_kixjqui101 76.900 80.660 <o,f0,unknown> varenie
+kixjqui101 1 kixjqui101_kixjqui101 80.660 84.260 <o,f0,unknown> telefonovanie
+kixjqui101 1 kixjqui101_kixjqui101 84.260 88.000 <o,f0,unknown> [hez] šitie
+kixjqui101 1 kixjqui101_kixjqui101 88.000 91.500 <o,f0,unknown> krájanie jablka
+kixjqui101 1 kixjqui101_kixjqui101 91.500 95.460 <o,f0,unknown> polievanie kvetu
+kixjqui101 1 kixjqui101_kixjqui101 95.460 99.280 <o,f0,unknown> štrikovanie/š_trikovanie
+kixjqui101 1 kixjqui101_kixjqui101 99.280 102.260 <o,f0,unknown> kráľ
+kixjqui101 1 kixjqui101_kixjqui101 102.260 105.260 <o,f0,unknown> topánky
+kixjqui101 1 kixjqui101_kixjqui101 105.260 108.560 <o,f0,unknown> cigarety [spk]
+kixjqui101 1 kixjqui101_kixjqui101 108.560 112.140 <o,f0,unknown> hodiny %hm budík
+kixjqui101 1 kixjqui101_kixjqui101 112.140 116.960 <o,f0,unknown> teplomer
+kixjqui101 1 kixjqui101_kixjqui101 116.960 120.480 <o,f0,unknown> [spk] električka
+kixjqui101 1 kixjqui101_kixjqui101 120.480 123.000 <o,f0,unknown> metla
+kixjqui101 1 kixjqui101_kixjqui101 123.000 126.520 <o,f0,unknown> hríby
+kixjqui101 1 kixjqui101_kixjqui101 126.520 129.900 <o,f0,unknown> kotva
+kixjqui101 1 kixjqui101_kixjqui101 129.900 133.540 <o,f0,unknown> [spk] kozmonaut
+kixjqui101 1 kixjqui101_kixjqui101 133.540 137.160 <o,f0,unknown> natieranie chleba
+kixjqui101 1 kixjqui101_kixjqui101 137.160 140.620 <o,f0,unknown> [spk] preťahovanie lanom
+kixjqui101 1 kixjqui101_kixjqui101 140.620 144.620 <o,f0,unknown> žiarovka
+kixjqui101 1 kixjqui101_kixjqui101 144.620 148.500 <o,f0,unknown> [hez] oheň
+kixjqui101 1 kixjqui101_kixjqui101 148.500 152.600 <o,f0,unknown> hádzanie oštepom
+kixjqui101 1 kixjqui101_kixjqui101 152.600 155.900 <o,f0,unknown> maľovanie
+kixjqui101 1 kixjqui101_kixjqui101 155.900 158.980 <o,f0,unknown> vŕtanie
+kixjqui101 1 kixjqui101_kixjqui101 158.980 163.060 <o,f0,unknown> [hez] hrabanie
+kixjqui101 1 kixjqui101_kixjqui101 163.060 166.440 <o,f0,unknown> pílenie
+kixjqui101 1 kixjqui101_kixjqui101 166.440 172.980 <o,f0,unknown> [hez] vodný kajak?
+kixjqui101 1 kixjqui101_kixjqui101 172.980 176.020 <o,f0,unknown> kniha
+kixjqui101 1 kixjqui101_kixjqui101 176.020 178.960 <o,f0,unknown> [spk] autobus
+kixjqui101 1 kixjqui101_kixjqui101 178.960 183.020 <o,f0,unknown> koruna kráľovská
+kixjqui101 1 kixjqui101_kixjqui101 183.020 186.500 <o,f0,unknown> [spk] koleso
+kixjqui101 1 kixjqui101_kixjqui101 186.500 189.360 <o,f0,unknown> lavička
+kixjqui101 1 kixjqui101_kixjqui101 189.360 192.420 <o,f0,unknown> zips
+kixjqui101 1 kixjqui101_kixjqui101 192.420 195.320 <o,f0,unknown> ťava
+kixjqui101 1 kixjqui101_kixjqui101 195.320 198.280 <o,f0,unknown> vešiak
+kixjqui101 1 kixjqui101_kixjqui101 198.280 203.600 <o,f0,unknown> [spk] [hez] ž žaluď
+kixjqui101 1 kixjqui101_kixjqui101 203.600 207.360 <o,f0,unknown> [hez] kaktus [spk]
+kixjqui101 1 kixjqui101_kixjqui101 207.360 210.860 <o,f0,unknown> spievanie
+kixjqui101 1 kixjqui101_kixjqui101 210.860 215.040 <o,f0,unknown> kúpanie
+kixjqui101 1 kixjqui101_kixjqui101 215.040 218.720 <o,f0,unknown> meranie
+kixjqui101 1 kixjqui101_kixjqui101 218.720 222.760 <o,f0,unknown> pitie/pit:ie vody
+kixjqui101 1 kixjqui101_kixjqui101 222.760 226.240 <o,f0,unknown> klopanie na dvere
+kixjqui101 1 kixjqui101_kixjqui101 226.240 229.920 <o,f0,unknown> skákanie cez švihadlo
+kixjqui101 1 kixjqui101_kixjqui101 229.920 233.080 <o,f0,unknown> lyžovanie
+kixjqui101 1 kixjqui101_kixjqui101 233.080 236.400 <o,f0,unknown> fotenie
+kixjqui101 1 kixjqui101_kixjqui101 236.400 239.480 <o,f0,unknown> bicyklovanie
+kixjqui101 1 kixjqui101_kixjqui101 239.480 243.660 <o,f0,unknown> žehlenie
+kixjqui101 1 kixjqui101_kixjqui101 243.660 252.838 <o,f0,unknown> [spk] [hez] malá ruka drží veľkú ruku alebo s chytá za malíček veľkú ruku.
+kixjqui101 1 kixjqui101_kixjqui101 252.838 257.710 <o,f0,unknown> ako detská ruka dospelácku ešte by som možno povedala.
+kixjqui101 1 inter_segment_gap 257.710 263.080 <o,f0,> 
+kixjqui101 1 kixjqui101_kixjqui101 263.080 277.940 <o,f0,unknown> [hez] stolík dve stoličky a: na stolíku nachystané kávy čerstvo uvarené lebo sa z nich ešte dymí.
+kixjqui101 1 inter_segment_gap 277.940 281.652 <o,f0,> 
+kixjqui101 1 kixjqui101_kixjqui101 281.652 288.586 <o,f0,unknown> takže [hez] [hez] [hez] muž v kuchyni pravdepodobne pripravoval nejakú večeru.
+kixjqui101 1 kixjqui101_kixjqui101 288.586 296.137 <o,f0,unknown> [hez] chcel chcel sa zbaviť muchy na lampe ale zahnal sa vareškou čiže lampu rozbil.
+kixjqui101 1 kixjqui101_kixjqui101 296.137 303.055 <o,f0,unknown> dieťa ktoré umývalo asi ovocie nechalo tiecť vodu.
+kixjqui101 1 kixjqui101_kixjqui101 303.055 307.611 <o,f0,unknown> voda vyteká z umývadla. hotová pohroma.
+kixjqui101 1 kixjqui101_kixjqui101 307.611 314.364 <o,f0,unknown> [hez] navyše je dieťa v nebezpečenstve lebo stolička sa hýbe. môže ľahko spadnúť.
+kixjqui101 1 kixjqui101_kixjqui101 314.364 321.152 <o,f0,unknown> no a čierna mačka tá tu len pozoruje vystrašene.
+kixjqui101 1 kixjqui101_kixjqui101 321.152 329.260 <o,f0,unknown> ale muž vyzerá že je celkom v kľude na to že aká pohroma sa okolo neho deje [smiech] .
+kixjqui101 1 kixjqui101_kixjqui101 329.260 333.338 <o,f0,unknown> [ex]
+kixjqui101 1 kixjqui101_kixjqui101 333.338 345.357 <o,f0,unknown> no: mamička ktorá chce aj navariť aj sa postarať o dieťa ktoré je plačúce. navyše má doma miláčika mačičku ktorá jej zhodila z poličky kvet.
+kixjqui101 1 kixjqui101_kixjqui101 345.357 364.628 <o,f0,unknown> do toho asi pracuje keďže tam má [hez] notebook/noutbúk a: respektíve: [hez] asi uvažuje o tom že: [hez] ktoré topánky si kúpi alebo kde si ich kúpi alebo kedy si ich kúpi a popritom telefonuje evidentne s nejakou známou alebo kamarátkou.
+kixjqui101 1 kixjqui101_kixjqui101 364.628 372.471 <o,f0,unknown> no a toto všetko sa asi moc nepáči dieťaťu lebo to: narieka plače.
+kixjqui101 1 kixjqui101_kixjqui101 372.471 378.580 <o,f0,unknown> [hez] to je asi tak všetko čo by som vedela k tomu.
+kixjqui101 1 kixjqui101_kixjqui101 378.580 395.251 <o,f0,unknown> [hez] no: takže čo predvianočná atmosféra nejaká ale [ex] otec sa vrátil z nákupov.
+kixjqui101 1 kixjqui101_kixjqui101 395.251 406.294 <o,f0,unknown> matka evidentne nemá čas na svojho syna ktorý si robí čo chce. momentálne práve tam ničí nejaký [hez] pekný postavený vianočný stromček.
+kixjqui101 1 kixjqui101_kixjqui101 406.294 428.941 <o,f0,unknown> otec ten sa pošmykne na: aute ktoré asi chlapec nechal rozhádzané na zemi a matka tá vyzerá byť celkom v pohode na to čo sa okolo nej deje. tá telefonuje. a spoza okna ho tam sleduje nejaký chlapec či kamarát či brat a dosť sa čuduje čo sa to tam u nich asi deje.

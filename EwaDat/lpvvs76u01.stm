@@ -1,0 +1,126 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:13 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 220313
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 0.000 9.900 <o,f0,unknown> special_vokal
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 9.900 17.820 <o,f0,unknown> special_pataka
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 17.820 20.400 <o,f0,unknown> melón/melon
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 20.400 24.540 <o,f0,unknown> %hm cesta diaľnica alebo cesta
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 24.540 27.480 <o,f0,unknown> most
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 27.480 29.840 <o,f0,unknown> hodinky
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 29.840 32.120 <o,f0,unknown> bubon na tom som hral
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 32.120 35.340 <o,f0,unknown> [smiech-] traktor [-smiech]
+lpvvs76u01 1 excluded_region 35.340 36.623 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 36.623 38.300 <o,f0,unknown> fajka
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 38.300 41.440 <o,f0,unknown> akvárium nejaké
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 41.440 44.020 <o,f0,unknown> lievik/trachtár
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 44.020 47.600 <o,f0,unknown> no dominové kocky/kosky
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 47.600 50.440 <o,f0,unknown> ponorka
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 50.440 53.580 <o,f0,unknown> kráľ
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 53.580 56.080 <o,f0,unknown> topánky
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 56.080 58.800 <o,f0,unknown> cigarety nefajčím
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 58.800 62.220 <o,f0,unknown> hodinky teda
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 62.220 63.496 <o,f0,unknown> budík taký
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 63.496 65.340 <o,f0,unknown> teplomer
+lpvvs76u01 1 excluded_region 65.340 66.563 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 66.563 69.420 <o,f0,unknown> električka/eletrička
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 69.420 70.721 <o,f0,unknown> metla
+lpvvs76u01 1 excluded_region 70.721 71.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 71.900 74.700 <o,f0,unknown> hríby
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 74.700 77.380 <o,f0,unknown> kotva
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 77.380 80.140 <o,f0,unknown> kozmonaut
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 80.140 82.440 <o,f0,unknown> kniha
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 82.440 85.160 <o,f0,unknown> autobus
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 85.160 88.060 <o,f0,unknown> koruna
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 88.060 90.580 <o,f0,unknown> koleso
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 90.580 93.780 <o,f0,unknown> lavička
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 93.780 96.100 <o,f0,unknown> zips
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 96.100 98.340 <o,f0,unknown> ťava
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 98.340 100.660 <o,f0,unknown> vešiak
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 100.660 105.368 <o,f0,unknown> [hez] no bukvica alebo ako/jak je to také no
+lpvvs76u01 1 excluded_region 105.368 107.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 107.240 108.254 <o,f0,unknown> ((žaluď/jalud)) alebo/lebo
+lpvvs76u01 1 excluded_region 108.254 111.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 111.700 114.260 <o,f0,unknown> kaktus
+lpvvs76u01 1 excluded_region 114.260 116.419 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 116.419 117.314 <o,f0,unknown> plávanie
+lpvvs76u01 1 excluded_region 117.314 118.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 118.420 120.840 <o,f0,unknown> písanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 120.840 123.541 <o,f0,unknown> smia smeje sa
+lpvvs76u01 1 excluded_region 123.541 124.680 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 124.680 128.100 <o,f0,unknown> váženie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 128.100 131.343 <o,f0,unknown> pl plaka plakanie teda
+lpvvs76u01 1 excluded_region 131.343 132.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 132.140 134.164 <o,f0,unknown> varenie
+lpvvs76u01 1 excluded_region 134.164 134.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 134.960 136.945 <o,f0,unknown> telefonovanie
+lpvvs76u01 1 excluded_region 136.945 137.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 excluded_region 137.760 139.419 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 139.419 141.920 <o,f0,unknown> [ruch-] šitie [-ruch]
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 141.920 144.880 <o,f0,unknown> krájanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 144.880 147.600 <o,f0,unknown> polievanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 147.600 150.820 <o,f0,unknown> pletenie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 150.820 154.000 <o,f0,unknown> natieranie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 154.000 156.680 <o,f0,unknown> ťahanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 156.680 160.660 <o,f0,unknown> sv [hez] žiarovka svietenie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 160.660 163.740 <o,f0,unknown> horenie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 163.740 168.100 <o,f0,unknown> oštep hadá hod od oštepu
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 168.100 171.360 <o,f0,unknown> maľovanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 171.360 173.880 <o,f0,unknown> vŕtanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 173.880 176.580 <o,f0,unknown> hrabanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 176.580 179.520 <o,f0,unknown> pílenie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 179.520 183.980 <o,f0,unknown> [hez] plávanie [ruch-] teda veslovanie [-ruch]
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 183.980 187.100 <o,f0,unknown> spievanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 187.100 189.880 <o,f0,unknown> kúpanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 189.880 192.940 <o,f0,unknown> meranie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 192.940 195.420 <o,f0,unknown> pitie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 195.420 198.060 <o,f0,unknown> klopanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 198.060 202.540 <o,f0,unknown> švi no skákanie na šviha so švihadlom
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 202.540 205.000 <o,f0,unknown> lyžovanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 205.000 207.920 <o,f0,unknown> fotografovanie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 207.920 212.648 <o,f0,unknown> c [hez] no na na ((jazda)) na cy bicykli
+lpvvs76u01 1 excluded_region 212.648 214.120 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 214.120 216.940 <o,f0,unknown> žehlenie
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 216.940 218.415 <o,f0,unknown> ruka.
+lpvvs76u01 1 excluded_region 218.415 221.817 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 221.817 225.466 <o,f0,unknown> držanie za [hez] malíček. [ruch]
+lpvvs76u01 1 excluded_region 225.466 229.993 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 229.993 237.482 <o,f0,unknown> [ruch-] dlaň. [-ruch] palec [ruch-] prsty [-ruch] . [ruch-] malíček podržaný. [-ruch]
+lpvvs76u01 1 excluded_region 237.482 240.740 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 240.740 248.558 <o,f0,unknown> [ruch-] stolička. [ex] stôl/stol a hrnčeky na kávu alebo/lebo na čaj. [-ruch]
+lpvvs76u01 1 excluded_region 248.558 252.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 252.760 264.767 <o,f0,unknown> %hm kuchár [hez] čo buchol s tou varechou do [hez] oného [smiech] do lustra?
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 264.767 268.170 <o,f0,unknown> tam tečie/teče voda z vodovodu.
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 268.170 272.216 <o,f0,unknown> a to malé/male nevidím tam.
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 272.216 279.449 <o,f0,unknown> tam sú z nejaké šuplíky. nábytok alebo/lebo čo tam je?
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 279.449 283.468 <o,f0,unknown> ešte niečo tam? [ruch-] ((xxxx)) [-ruch]
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 283.468 285.815 <o,f0,unknown> kočka. [smiech] [smiech-] už som zbadal. [-smiech]
+lpvvs76u01 1 excluded_region 285.815 287.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 excluded_region 287.240 290.029 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 290.029 293.574 <o,f0,unknown> kocúr. knihy na polici/police. hodiny.
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 293.574 297.871 <o,f0,unknown> decko v rukách nejakej babky.
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 297.871 299.155 <o,f0,unknown> panvica.
+lpvvs76u01 1 excluded_region 299.155 303.203 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 303.203 308.839 <o,f0,unknown> toto nerozoznám lebo to je také nejaké divné. hrniec/hrnec. umývadlo.
+lpvvs76u01 1 excluded_region 308.839 314.554 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 314.554 319.177 <o,f0,unknown> toto neviem čo je [ruch-] tu počítač [-ruch] alebo čo to tam je [ruch-] nejaká nástenka. neviem. [-ruch]
+lpvvs76u01 1 excluded_region 319.177 321.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 excluded_region 321.700 324.521 <o,,unknown> ignore_time_segment_in_scoring
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 324.521 335.589 <o,f0,unknown> %hm: stromček deti žena chlap auto.
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 335.589 338.887 <o,f0,unknown> dole je čo je to? pes.
+lpvvs76u01 1 lpvvs76u01_lpvvs76u01 338.887 342.280 <o,f0,unknown> to sú autíčka no a pes.

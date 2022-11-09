@@ -1,0 +1,216 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:41 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220220
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjwd4i01 1 excluded_region 0.000 2.036 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 2.036 13.276 <o,f0,unknown> special_vokal
+kixjwd4i01 1 excluded_region 13.276 14.940 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 14.940 22.880 <o,f0,unknown> special_pataka
+kixjwd4i01 1 excluded_region 22.880 23.529 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 23.529 24.510 <o,f0,unknown> melón
+kixjwd4i01 1 excluded_region 24.510 25.700 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 25.700 27.722 <o,f0,unknown> no diaľnica
+kixjwd4i01 1 excluded_region 27.722 28.960 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 28.960 30.537 <o,f0,unknown> most
+kixjwd4i01 1 excluded_region 30.537 32.000 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 32.000 33.590 <o,f0,unknown> hodiny
+kixjwd4i01 1 excluded_region 33.590 34.980 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 34.980 36.512 <o,f0,unknown> [ruch-] bubon [-ruch]
+kixjwd4i01 1 excluded_region 36.512 37.780 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 37.780 39.228 <o,f0,unknown> traktor
+kixjwd4i01 1 excluded_region 39.228 40.740 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 40.740 42.186 <o,f0,unknown> fajka
+kixjwd4i01 1 excluded_region 42.186 43.620 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 43.620 44.403 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 44.403 45.601 <o,f0,unknown> akvárium
+kixjwd4i01 1 excluded_region 45.601 46.840 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 46.840 47.679 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 47.679 48.557 <o,f0,unknown> lievik
+kixjwd4i01 1 excluded_region 48.557 49.780 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 49.780 50.775 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 50.775 51.968 <o,f0,unknown> [hez] domino
+kixjwd4i01 1 excluded_region 51.968 53.200 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 53.200 54.352 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 54.352 55.292 <o,f0,unknown> maják?
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 55.292 57.106 <o,f0,unknown> ostrov?
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 57.106 59.511 <o,f0,unknown> [hez] ponorka [smiech]
+kixjwd4i01 1 excluded_region 59.511 60.780 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 60.780 61.665 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 61.665 62.369 <o,f0,unknown> kráľ
+kixjwd4i01 1 excluded_region 62.369 64.360 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 64.360 65.992 <o,f0,unknown> topánky
+kixjwd4i01 1 excluded_region 65.992 67.480 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 67.480 70.171 <o,f0,unknown> pánske to boli cigarety
+kixjwd4i01 1 excluded_region 70.171 71.980 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 71.980 72.900 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 72.900 73.876 <o,f0,unknown> budík
+kixjwd4i01 1 excluded_region 73.876 75.140 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 75.140 76.701 <o,f0,unknown> teplomer
+kixjwd4i01 1 excluded_region 76.701 78.080 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 78.080 78.998 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 78.998 79.962 <o,f0,unknown> električka
+kixjwd4i01 1 excluded_region 79.962 81.140 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 81.140 83.143 <o,f0,unknown> metla ciroková
+kixjwd4i01 1 excluded_region 83.143 84.420 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 84.420 85.326 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 85.326 86.857 <o,f0,unknown> hríbiky dubáčiky
+kixjwd4i01 1 excluded_region 86.857 88.080 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 88.080 89.595 <o,f0,unknown> kotva
+kixjwd4i01 1 excluded_region 89.595 91.000 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 91.000 91.912 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 91.912 93.587 <o,f0,unknown> [hez] kozmonaut
+kixjwd4i01 1 excluded_region 93.587 94.900 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 94.900 96.646 <o,f0,unknown> [ruch-] kniha [-ruch]
+kixjwd4i01 1 excluded_region 96.646 97.780 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 97.780 99.499 <o,f0,unknown> autobus
+kixjwd4i01 1 excluded_region 99.499 101.200 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 101.200 103.656 <o,f0,unknown> koruna kráľovská
+kixjwd4i01 1 excluded_region 103.656 105.000 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 105.000 106.794 <o,f0,unknown> koleso?
+kixjwd4i01 1 excluded_region 106.794 107.880 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 107.880 108.500 <o,f0,unknown> z auta
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 108.500 110.154 <o,f0,unknown> lavička
+kixjwd4i01 1 excluded_region 110.154 111.640 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 111.640 113.017 <o,f0,unknown> zips
+kixjwd4i01 1 excluded_region 113.017 114.520 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 114.520 116.273 <o,f0,unknown> ťava dvojhrbá
+kixjwd4i01 1 excluded_region 116.273 117.740 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 117.740 119.255 <o,f0,unknown> vešiak
+kixjwd4i01 1 excluded_region 119.255 120.580 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 120.580 122.264 <o,f0,unknown> žaluď
+kixjwd4i01 1 excluded_region 122.264 123.640 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 123.640 125.113 <o,f0,unknown> kaktus
+kixjwd4i01 1 excluded_region 125.113 126.520 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 126.520 127.327 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 127.327 128.982 <o,f0,unknown> pláva ((kraul))
+kixjwd4i01 1 excluded_region 128.982 130.140 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 130.140 131.720 <o,f0,unknown> píše
+kixjwd4i01 1 excluded_region 131.720 133.160 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 133.160 134.949 <o,f0,unknown> smeje sa
+kixjwd4i01 1 excluded_region 134.949 136.160 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 136.160 137.586 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 137.586 139.102 <o,f0,unknown> váži jablko?
+kixjwd4i01 1 excluded_region 139.102 140.240 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 140.240 141.933 <o,f0,unknown> plače
+kixjwd4i01 1 excluded_region 141.933 143.540 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 143.540 145.146 <o,f0,unknown> varí
+kixjwd4i01 1 excluded_region 145.146 146.460 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 146.460 148.057 <o,f0,unknown> telefonuje
+kixjwd4i01 1 excluded_region 148.057 149.380 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 149.380 150.242 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 150.242 152.036 <o,f0,unknown> [hez] šije na mašine
+kixjwd4i01 1 excluded_region 152.036 152.980 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 152.980 153.920 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 153.920 156.575 <o,f0,unknown> [ned-] kr [-ned] [hez] krája syr nožom
+kixjwd4i01 1 excluded_region 156.575 157.840 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 157.840 159.538 <o,f0,unknown> [ruch-] polieva [-ruch] kvety
+kixjwd4i01 1 excluded_region 159.538 161.040 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 161.040 162.158 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 162.158 163.476 <o,f0,unknown> háčkuje [hez] štrikuje
+kixjwd4i01 1 excluded_region 163.476 165.080 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 165.080 167.562 <o,f0,unknown> natiera chlieb maslom
+kixjwd4i01 1 excluded_region 167.562 168.700 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 168.700 169.707 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 169.707 170.743 <o,f0,unknown> ťahá lano
+kixjwd4i01 1 excluded_region 170.743 172.160 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 172.160 173.154 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 173.154 174.245 <o,f0,unknown> svieti žiarovka
+kixjwd4i01 1 excluded_region 174.245 175.560 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 175.560 177.298 <o,f0,unknown> horí
+kixjwd4i01 1 excluded_region 177.298 178.800 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 178.800 181.121 <o,f0,unknown> [ned-] ha [-ned] hod oštepom
+kixjwd4i01 1 excluded_region 181.121 182.400 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 182.400 184.084 <o,f0,unknown> maľuje
+kixjwd4i01 1 excluded_region 184.084 185.500 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 185.500 187.011 <o,f0,unknown> vŕta
+kixjwd4i01 1 excluded_region 187.011 188.440 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 188.440 189.356 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 189.356 190.451 <o,f0,unknown> [hez] hrabe
+kixjwd4i01 1 excluded_region 190.451 191.600 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 191.600 192.520 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 192.520 193.252 <o,f0,unknown> píli
+kixjwd4i01 1 excluded_region 193.252 194.260 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 194.260 195.252 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 195.252 196.293 <o,f0,unknown> veslujú
+kixjwd4i01 1 excluded_region 196.293 197.400 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 197.400 199.023 <o,f0,unknown> spieva
+kixjwd4i01 1 excluded_region 199.023 201.400 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 201.400 202.424 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 202.424 203.957 <o,f0,unknown> kúpe sa bábo
+kixjwd4i01 1 excluded_region 203.957 205.460 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 205.460 206.602 <o,f0,unknown> [smiech]
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 206.602 207.423 <o,f0,unknown> meria
+kixjwd4i01 1 excluded_region 207.423 208.640 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 208.640 210.317 <o,f0,unknown> pije vodu
+kixjwd4i01 1 excluded_region 210.317 213.160 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 213.160 215.317 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 215.317 216.841 <o,f0,unknown> klopká na dvere
+kixjwd4i01 1 excluded_region 216.841 217.940 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 217.940 220.038 <o,f0,unknown> skáče cez švihadlo
+kixjwd4i01 1 excluded_region 220.038 221.260 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 221.260 222.612 <o,f0,unknown> lyžuje sa
+kixjwd4i01 1 excluded_region 222.612 224.220 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 224.220 226.028 <o,f0,unknown> fotografuje
+kixjwd4i01 1 excluded_region 226.028 227.480 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 227.480 229.090 <o,f0,unknown> bicykluje sa
+kixjwd4i01 1 excluded_region 229.090 230.320 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 230.320 231.795 <o,f0,unknown> žehlí
+kixjwd4i01 1 excluded_region 231.795 233.120 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 233.120 234.412 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 234.412 241.633 <o,f0,unknown> ruka druhá ruka drží malíček. vyzerá to ako [ned-] ru [-ned] ruka matky alebo otca a dieťa drží malíček.
+kixjwd4i01 1 excluded_region 241.633 242.607 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 242.607 244.160 <o,f0,unknown> pevne stíska.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 244.160 247.178 <o,f0,unknown> otec podal ruku dieťatku.
+kixjwd4i01 1 excluded_region 247.178 250.144 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 250.144 251.942 <o,f0,unknown> ďalej ešte treba [ruch-] hovoriť [-ruch] ?
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 251.942 257.564 <o,f0,unknown> tak je to istota. je to istota je to [hez] bezpečie pre to dieťa.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 257.564 261.337 <o,f0,unknown> je to niečo čo uchopí a drží pevne a nepustí.
+kixjwd4i01 1 excluded_region 261.337 263.060 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 263.060 264.539 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 264.539 285.859 <o,f0,unknown> no vyzerá to ako kaviareň vonku. dve stoličky stolík s: kávou a káva čaká na dvoch dve ženy čo prídu na kávu posedia a porozprávajú sa čo majú nové preberú všetky veci čo majú na programe. tešia sa z navzájom zo svojej spoločnosti.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 285.859 290.732 <o,f0,unknown> a z toho príjemne stráveného času. skrátka je to relax pre nich.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 290.732 293.000 <o,f0,unknown> oddýchnu si od svojich starostí a
+kixjwd4i01 1 excluded_region 293.000 295.576 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 295.576 301.923 <o,f0,unknown> no [hez] muž sa pokúša variť ale ako vidím veľké skúsenosti s tým nemá lebo mu všetko padá na hlavu. [smiech]
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 301.923 316.171 <o,f0,unknown> [spk] [ruch-] porozlievané [-ruch] no dieťa chce tiež pomôcť alebo viac menej chce sa najesť vezme si banán ale bohužiaľ voda preteká. no toto vyzerá nebezpečne. chlap akože neuvarí neviem čo dneska budú jesť. mačka si príde na svoje mám taký pocit.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 316.171 319.947 <o,f0,unknown> čo sa akože jesť nebude dať asi najlepšie bude objednať pizzu/picu.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 319.947 336.434 <o,f0,unknown> ale muž má snahu pretože má varechu a vidno že to zobral vážne len škoda že na to doplatí aj ten luster a tá kuchyňa ale mačka bude spokojná len aby sa dieťaťu dačo nestalo pretože tá stolička vyzerá veľmi nebezpečne a vyzerá to na riadny úraz ak si to ten chlap nevšimne.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 336.434 346.511 <o,f0,unknown> rozbil luster a dieťa mu spadne a hotové nešťastie. skrátka a dobre najprv by mal zastaviť myslím že tú vodu a chytiť dieťa lebo nebude nedopadne to dobre.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 346.511 350.473 <o,f0,unknown> určite nie. vravím radšej objednať tú pizzu/picu.
+kixjwd4i01 1 excluded_region 350.473 352.342 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 352.342 365.313 <o,f0,unknown> ale zase snaha sa cení. to asi máloktorý chlap by to takto zobral síce neviem ako dnešní chlapi. akože tí starí určite nie ale tí dnešní chlapi možno že sú akože šikovný v tej v kuchyni že to dokážu hej.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 365.313 382.940 <o,f0,unknown> ale: no moje skúsenosti sú trochu iné ale vidno že nebojí sa ide do toho. skúsi aj keď nie je zaručený úspech ale má snahu. no dúfajme že len chce žene dokázať že na to má a že nie je na to odkázaný sám lebo v tom prípade by bol na tom asi podstatne
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 382.940 403.885 <o,f0,unknown> no zaneprázdnená matka tak toto je typické. ja [hez] síce neviem či dnešné matky ešte tak fungujú ale akože myslím že normálna klasická matka kedysi tiež tak štyri roky by bolo málo a jednou rukou varí samozrejme druhou drží dieťa medzitým ešte pračka je zapnutá hej.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 403.885 416.539 <o,f0,unknown> [hez] čas nás súri. ((x)) ešte myslí že topánky by si mala ísť dať vyčistiť keď pôjde von. čo tá mačka tam robí akože to neviem to mi tam nepasuje. medzitým ešte krája tú zeleninu no kde dá to dieťa?
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 416.539 424.834 <o,f0,unknown> asi by bola dobrá nejaká ohrádka s hračkami lebo akože držať dieťa pri tom hrnci a pri tej panvici to akože nie je veľmi rozumné podľa mňa.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 424.834 438.966 <o,f0,unknown> a akože tú mačku by som tiež do tej domácnosti nedala. skrátka dobre no snaží sa už má akože na mále. štvrť na dvanásť. ak príde muž na obed no neviem neviem. alebo skôr teda tie deti z tej školy keď prídu tie ostatné lebo muž nech sa naje v robote.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 438.966 447.538 <o,f0,unknown> ale teda má toho chúďatko veľa no vidím. ale neviem čo varí zeleninu no už sa varí. a čo tam opeká? špekáčky/špekačky. no nevidím asi dobre.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 447.538 457.880 <o,f0,unknown> ale teda akože no ale čo je toto čo toto? %jaj vyliala mačka vyliala mlieko či čo to tam vyliala. no vravím zvieratá nepatria do bytu. to je katastrofa.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 457.880 470.124 <o,f0,unknown> jednoducho katastrofa. to by malo zostať vonku na dvore a tak. a dieťa plače chúďa moje malé. tak odstavíme všetko a venujeme sa dieťaťu nie? však jedlo má čas. počkáme si naň.
+kixjwd4i01 1 excluded_region 470.124 472.880 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 excluded_region 472.880 474.434 <o,,unknown> ignore_time_segment_in_scoring
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 474.434 476.790 <o,f0,unknown> no [ruch-] vianoce [-ruch] .
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 476.790 485.087 <o,f0,unknown> vianoce tak vianoce sú krásne akože sviatok pokoja pohody by malo byť teoreticky ale prax býva úplne iná.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 485.087 498.799 <o,f0,unknown> chlap príde obyčajne na poslednú chvíľu a vo hviezdach. hlavičku má vo hviezdach lebo potreboval ešte zapiť a tak ďalej a žena nevie čo skôr tiež by nemusela kamarátke teraz momentálne vyvolávať lebo dieťa jej zhodí stromček dole.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 498.799 505.617 <o,f0,unknown> takže asi stromček ani nebude pretože. auto na zemi no ten chlap sa prejaví raz dva.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 505.617 509.877 <o,f0,unknown> no ale pes je spokojný tomu to akože vyhovuje nič sa nedeje.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 509.877 519.457 <o,f0,unknown> no myslím že táto pani má akože na háku všetko keď je jej dôležitejšie akože telefonovať ako ale tak asi to bude tým že má len to jedno dieťa.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 519.457 522.836 <o,f0,unknown> a tak druhé zase pozerá z okna to bude asi kamarát.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 522.836 539.319 <o,f0,unknown> no ale: celkove si myslím že akože v pohode. no [ned-] ne [-ned] netrhá jej to žily jednoducho berie to tak ako to je a keď sa aj dačo stane tak vezme pofúka pohladká a v pohode pretože ten pes je kľudný to znamená že ona je asi tiež kľudná.
+kixjwd4i01 1 kixjwd4i01_kixjwd4i01 539.319 553.348 <o,f0,unknown> a jednoducho táto domácnosť no sem tam je hektická si myslím ale celkovo akože vyzerá byť v pohode. dokonca manželovi toleruje aj to že príde v takom stave a nič sa nedeje bude tam veľká láska a harmónia.
+kixjwd4i01 1 excluded_region 553.348 555.152 <o,,unknown> ignore_time_segment_in_scoring

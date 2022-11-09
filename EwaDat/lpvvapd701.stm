@@ -1,0 +1,114 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:16 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210928
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvapd701 1 lpvvapd701_lpvvapd701 0.000 12.580 <o,f0,unknown> special_vokal
+lpvvapd701 1 lpvvapd701_lpvvapd701 12.580 20.520 <o,f0,unknown> special_pataka
+lpvvapd701 1 excluded_region 20.520 22.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 22.220 23.700 <o,f0,unknown> [ruch-] cesta [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 23.700 26.140 <o,f0,unknown> kráľ
+lpvvapd701 1 lpvvapd701_lpvvapd701 26.140 28.140 <o,f0,unknown> kniha
+lpvvapd701 1 lpvvapd701_lpvvapd701 28.140 30.720 <o,f0,unknown> most
+lpvvapd701 1 lpvvapd701_lpvvapd701 30.720 32.218 <o,f0,unknown> topánky/topanky
+lpvvapd701 1 excluded_region 32.218 33.040 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 33.040 35.280 <o,f0,unknown> [ruch-] autobus [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 35.280 37.380 <o,f0,unknown> hodinky [ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 37.380 39.900 <o,f0,unknown> cigarety [ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 39.900 41.424 <o,f0,unknown> [ruch-] koruna [-ruch]
+lpvvapd701 1 excluded_region 41.424 45.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 45.080 47.460 <o,f0,unknown> [ruch-] bubny [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 47.460 49.760 <o,f0,unknown> [ruch-] hodinky [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 49.760 51.960 <o,f0,unknown> koleso
+lpvvapd701 1 lpvvapd701_lpvvapd701 51.960 54.220 <o,f0,unknown> traktor [ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 54.220 56.740 <o,f0,unknown> teplomer
+lpvvapd701 1 lpvvapd701_lpvvapd701 56.740 59.320 <o,f0,unknown> lavička
+lpvvapd701 1 lpvvapd701_lpvvapd701 59.320 64.060 <o,f0,unknown> [hez] jak sa to volá? %a fajka [smiech]
+lpvvapd701 1 lpvvapd701_lpvvapd701 64.060 66.680 <o,f0,unknown> električka
+lpvvapd701 1 lpvvapd701_lpvvapd701 66.680 69.120 <o,f0,unknown> [spk] zips
+lpvvapd701 1 lpvvapd701_lpvvapd701 69.120 71.520 <o,f0,unknown> akvárium
+lpvvapd701 1 lpvvapd701_lpvvapd701 71.520 75.760 <o,f0,unknown> [hez] [hez] metla [smiech]
+lpvvapd701 1 excluded_region 75.760 76.486 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 76.486 77.980 <o,f0,unknown> ťava
+lpvvapd701 1 lpvvapd701_lpvvapd701 77.980 81.080 <o,f0,unknown> lievik
+lpvvapd701 1 lpvvapd701_lpvvapd701 81.080 83.620 <o,f0,unknown> hríby
+lpvvapd701 1 lpvvapd701_lpvvapd701 83.620 86.060 <o,f0,unknown> vešiak
+lpvvapd701 1 lpvvapd701_lpvvapd701 86.060 88.960 <o,f0,unknown> domino
+lpvvapd701 1 lpvvapd701_lpvvapd701 88.960 91.460 <o,f0,unknown> kotva
+lpvvapd701 1 lpvvapd701_lpvvapd701 91.460 93.470 <o,f0,unknown> gaštan
+lpvvapd701 1 excluded_region 93.470 94.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 excluded_region 94.400 95.324 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 95.324 97.260 <o,f0,unknown> [smiech-] ponorka [-smiech]
+lpvvapd701 1 lpvvapd701_lpvvapd701 97.260 99.440 <o,f0,unknown> kozmonaut
+lpvvapd701 1 lpvvapd701_lpvvapd701 99.440 101.680 <o,f0,unknown> kaktus
+lpvvapd701 1 lpvvapd701_lpvvapd701 101.680 104.580 <o,f0,unknown> [ruch] písanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 104.580 107.280 <o,f0,unknown> natieranie
+lpvvapd701 1 lpvvapd701_lpvvapd701 107.280 109.760 <o,f0,unknown> spievanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 109.760 114.340 <o,f0,unknown> s [hez] s [hez] sme [hez] smiech [smiech]
+lpvvapd701 1 lpvvapd701_lpvvapd701 114.340 116.740 <o,f0,unknown> ťahanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 116.740 119.040 <o,f0,unknown> kúpanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 119.040 121.580 <o,f0,unknown> meranie
+lpvvapd701 1 lpvvapd701_lpvvapd701 121.580 123.426 <o,f0,unknown> svietenie
+lpvvapd701 1 excluded_region 123.426 124.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 124.280 127.440 <o,f0,unknown> [hez] meranie
+lpvvapd701 1 lpvvapd701_lpvvapd701 127.440 130.440 <o,f0,unknown> plač
+lpvvapd701 1 lpvvapd701_lpvvapd701 130.440 134.220 <o,f0,unknown> to mám pomeno horí tak
+lpvvapd701 1 lpvvapd701_lpvvapd701 134.220 136.920 <o,f0,unknown> pitie
+lpvvapd701 1 lpvvapd701_lpvvapd701 136.920 139.380 <o,f0,unknown> varenie
+lpvvapd701 1 lpvvapd701_lpvvapd701 139.380 142.160 <o,f0,unknown> hádzanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 142.160 144.560 <o,f0,unknown> klopanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 144.560 147.220 <o,f0,unknown> telefonovanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 147.220 149.700 <o,f0,unknown> kreslenie
+lpvvapd701 1 lpvvapd701_lpvvapd701 149.700 152.080 <o,f0,unknown> skákanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 152.080 154.620 <o,f0,unknown> šitie
+lpvvapd701 1 lpvvapd701_lpvvapd701 154.620 157.100 <o,f0,unknown> vŕtanie
+lpvvapd701 1 excluded_region 157.100 157.831 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 157.831 159.440 <o,f0,unknown> lyžovanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 159.440 161.800 <o,f0,unknown> krájanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 161.800 164.240 <o,f0,unknown> hrabanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 164.240 166.600 <o,f0,unknown> fotografovanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 166.600 169.180 <o,f0,unknown> polievanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 169.180 172.500 <o,f0,unknown> [hez] pílenie
+lpvvapd701 1 lpvvapd701_lpvvapd701 172.500 175.120 <o,f0,unknown> bicyklovanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 175.120 178.020 <o,f0,unknown> štrikovanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 178.020 180.720 <o,f0,unknown> [spk] veslovanie
+lpvvapd701 1 lpvvapd701_lpvvapd701 180.720 183.460 <o,f0,unknown> žehlenie
+lpvvapd701 1 excluded_region 183.460 185.721 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 185.721 190.279 <o,f0,unknown> na obrázku [ruch-] vidím ruku dospelého človeka a malého dieťaťa. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 190.279 197.820 <o,f0,unknown> [ruch] malé dieťa drží [ruch] pr:st dospelého človeka.
+lpvvapd701 1 lpvvapd701_lpvvapd701 197.820 209.452 <o,f0,unknown> [ruch-] z obrázku cítiť istotu. [-ruch] [ruch-] malé dieťa má istotu že dospelý človek mu bude a je vždy oporou. [-ruch]
+lpvvapd701 1 excluded_region 209.452 213.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvapd701 1 lpvvapd701_lpvvapd701 213.420 233.165 <o,f0,unknown> káva. [ruch-] na obrázku vidím dva stoly %o je [hez] dva s [hez] dve stoličky jeden stôl dve kávy. [-ruch] [ruch-] niekto si pripravil kávu na raňajky. [-ruch] [spk] [ruch-] káva je horúca nakoľko/nakoko [-ruch] z kávy ide ešte para.
+lpvvapd701 1 lpvvapd701_lpvvapd701 233.165 243.360 <o,f0,unknown> na obrázku dominuje čierna farba. šálky sú čierne stoličky sú čierne stôl je čierny.
+lpvvapd701 1 lpvvapd701_lpvvapd701 243.360 249.926 <o,f0,unknown> na obrázku [ruch-] vidím stres. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 249.926 255.459 <o,f0,unknown> muž sa snaží niečo [ruch-] navariť v kuchyni. [-ruch] [ruch-] drží v ruke varechu. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 255.459 271.027 <o,f0,unknown> [ruch-] dieťa [-ruch] na stoličke sa kolíše. [ruch] [spk] snaží sa dočiahnuť banán. popritom umýva riad. voda steká dole [ruch-] na podlahu [-ruch] .
+lpvvapd701 1 lpvvapd701_lpvvapd701 271.027 285.851 <o,f0,unknown> ako sa dieťa snaží dosiahnuť banán vystúpi na stoličku a stolička sa na tej vode [ruch-] pošmykne [-ruch] [ruch-] takže vlastne spadne stolička aj s dieťaťom na zem. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 285.851 309.298 <o,f0,unknown> muž si to [hez] zrejme [ruch-] otec si: túto situáciu nevšíma lebo sa snaží chytiť muchu respektíve dolapiť muchu ktorá letí v blízkosti svietidla. buchne po nej varechou. svietidlo sa rozbije a: asi asi je po muche. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 309.298 333.360 <o,f0,unknown> [ruch-] celú situáciu sleduje čierna mačka ktorá má krásne zelené oči. [-ruch] ako sa hovorí čierna mačka prináša smolu a v tomto prípade to platí asi do bodky a do písmena. nakoniec [hez] lampa sa rozbije [ruch-] dieťa spadne a otec môže zachraňovať situáciu. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 333.360 358.421 <o,f0,unknown> [ruch-] [spk] [hez] na tomto obrázku vidím samu seba. [-ruch] [spk] [hez] [ruch-] je tam žena s dieťaťom na ruke ktorá sa snaží multitaskingovať [-ruch] to znamená že varí [ruch-] na panvici sa snaží urobiť [hez] raňajky slaninu [-ruch] a vajíčko [hez] [hez] [ruch-] na: sporáku má položený hrniec kde sa snaží navariť [hez] polievku: na nedeľný obed. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 358.421 380.508 <o,f0,unknown> [spk] popritom má otvorený počítač a: snaží sa: porobiť popri [spk] varení ešte nejaké veci aj do práce. okrem toho drží [spk] dieťatko na ruke. dieťatko plače. [ruch-] vyzerá byť nespokojné lebo maminka: sa dieťatku nemôže celkom venovať.
+lpvvapd701 1 lpvvapd701_lpvvapd701 380.508 390.451 <o,f0,unknown> okrem toho sa mi zdá že ešte [spk] aj telefonuje [ruch-] tá žena lebo má pri uchu/uche mobil. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 390.451 410.543 <o,f0,unknown> celú situáciu [ruch-] sleduje [spk] [hez] z diaľky mačka. [-ruch] mačka sa nudí a preto sa snaží [ruch-] robiť zle aby [-ruch] pritiahla na seba pozornosť a sa rozhodla teda že [ruch-] poštuchnem [-ruch] kvetináč. kvetináč padá na zem.
+lpvvapd701 1 lpvvapd701_lpvvapd701 410.543 423.360 <o,f0,unknown> [hez] je to proste čistý chaos [ruch-] [spk] a taký klasický deň [hez] matky s dieťaťom ktorej nepomáha manžel. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 423.360 432.347 <o,f0,unknown> [spk] [hez] na obrázku vidím [hez] vianočnú atmosféru v dome.
+lpvvapd701 1 lpvvapd701_lpvvapd701 432.347 437.369 <o,f0,unknown> žena: je tu žena na obrázku ktorá s niekým telefonuje.
+lpvvapd701 1 lpvvapd701_lpvvapd701 437.369 440.453 <o,f0,unknown> je tu spiaci [ruch-] psík. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 440.453 449.434 <o,f0,unknown> [spk] [hez] tatino [ruch-] zrejme prichádza: z nákupov. [-ruch] [ruch-] bol dokúpiť posledné vianočné darčeky. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 449.434 473.966 <o,f0,unknown> [hez] i v izbe sa nachádza aj [hez] [ruch-] chlapček [-ruch] ktorý sa snaží vyzdobiť [hez] [ruch-] vianočný stromček [-ruch] . [ruch-] akurát vešia na vianočný stromček ozdoby [-ruch] [spk] a svetielka [ruch-] ale moc sa mu nedarí nakoľko [-ruch] vianočný stromček [ruch-] je už dosť [-ruch] naklonený a [ruch-] vyzerá že za chvíľu spadne. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 473.966 492.819 <o,f0,unknown> do toho ako ocino vchádza do: domu alebo bytu do izby [ruch-] tak [hez] sú tam [-ruch] porozhadzované [spk] hracie autíčka. ocino [ruch-] náhodou stúpi [-ruch] na ž žlté hracie autíčko [ruch-] a vyzerá že za chvíľu spadne na zem. [-ruch]
+lpvvapd701 1 lpvvapd701_lpvvapd701 492.819 504.955 <o,f0,unknown> [spk] na vianočnom stromčeku je krásna veľká [ruch-] žltá hviezda [-ruch] ktorá však nakoniec zrejme tiež [ruch-] skončí na [-ruch] podlahe a: rozbije sa/sam.

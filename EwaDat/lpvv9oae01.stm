@@ -1,0 +1,112 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:16 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211012
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 14.940 22.900 <o,f0,unknown> special_pataka
+lpvv9oae01 1 excluded_region 22.900 23.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 23.580 25.760 <o,f0,unknown> [hez] cesta [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 25.760 28.620 <o,f0,unknown> kráľ
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 28.620 31.020 <o,f0,unknown> kniha
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 31.020 33.440 <o,f0,unknown> most [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 33.440 35.700 <o,f0,unknown> topánky
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 35.700 38.420 <o,f0,unknown> autobus
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 38.420 40.820 <o,f0,unknown> [spk] hodinky
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 40.820 43.420 <o,f0,unknown> cigarety
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 43.420 45.820 <o,f0,unknown> koruna
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 45.820 48.100 <o,f0,unknown> bubon
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 48.100 51.000 <o,f0,unknown> hodinky
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 51.000 53.300 <o,f0,unknown> koleso [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 53.300 56.100 <o,f0,unknown> traktor
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 56.100 58.660 <o,f0,unknown> [ruch] teplomer [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 58.660 61.060 <o,f0,unknown> [ruch-] lavička [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 61.060 63.211 <o,f0,unknown> fajka
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 63.211 63.940 <o,f0,unknown> [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 63.940 65.847 <o,f0,unknown> [ruch-] električka [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 65.847 66.600 <o,f0,unknown> [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 66.600 68.383 <o,f0,unknown> [ruch] [ruch-] zips [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 68.383 70.000 <o,f0,unknown> [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 70.000 73.260 <o,f0,unknown> [spk] akvárium
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 73.260 75.840 <o,f0,unknown> metla
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 75.840 78.200 <o,f0,unknown> ťava [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 78.200 80.840 <o,f0,unknown> lievik
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 80.840 83.500 <o,f0,unknown> hríby
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 83.500 85.940 <o,f0,unknown> vešiak
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 85.940 89.980 <o,f0,unknown> [hez] domino
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 89.980 92.480 <o,f0,unknown> kotva
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 92.480 95.480 <o,f0,unknown> žaluď
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 95.480 98.260 <o,f0,unknown> ponorka
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 98.260 100.980 <o,f0,unknown> [spk] kozmonaut
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 100.980 103.580 <o,f0,unknown> kaktus
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 103.580 106.780 <o,f0,unknown> písanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 106.780 110.060 <o,f0,unknown> natieranie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 110.060 113.100 <o,f0,unknown> spievanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 113.100 116.440 <o,f0,unknown> smiech
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 116.440 119.800 <o,f0,unknown> ťahanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 119.800 122.620 <o,f0,unknown> kúpanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 122.620 125.700 <o,f0,unknown> váženie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 125.700 129.700 <o,f0,unknown> [hez] svietenie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 129.700 132.560 <o,f0,unknown> meranie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 132.560 135.220 <o,f0,unknown> plač
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 135.220 138.260 <o,f0,unknown> požiar
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 138.260 141.920 <o,f0,unknown> [hez] pitie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 141.920 144.700 <o,f0,unknown> varenie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 144.700 149.500 <o,f0,unknown> [spk] [hez] hod oštepom šport
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 149.500 152.540 <o,f0,unknown> klopanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 152.540 155.640 <o,f0,unknown> telefonovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 155.640 158.720 <o,f0,unknown> maľovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 158.720 161.980 <o,f0,unknown> skákanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 161.980 164.660 <o,f0,unknown> šitie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 164.660 167.120 <o,f0,unknown> [ruch-] vŕtanie [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 167.120 170.220 <o,f0,unknown> lyžovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 170.220 172.760 <o,f0,unknown> [spk] krájanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 172.760 175.360 <o,f0,unknown> hrabanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 175.360 178.240 <o,f0,unknown> fotenie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 178.240 181.140 <o,f0,unknown> polievanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 181.140 184.120 <o,f0,unknown> pílenie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 184.120 186.980 <o,f0,unknown> bicyklovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 186.980 191.080 <o,f0,unknown> ((to je)) štrikovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 191.080 194.240 <o,f0,unknown> veslovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 194.240 197.360 <o,f0,unknown> žehlenie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 197.360 227.300 <o,f0,unknown> [hez] ruka detská ruka mužská ruka práca písanie varenie štrikovanie hladkanie [spk] nosenie športovanie
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 227.300 257.280 <o,f0,unknown> [hez] [ruch] ranná káva posedenie [ruch-] oddych relax stretnutie popíjanie [-ruch] [spk] oddych
+lpvv9oae01 1 excluded_region 257.280 261.552 <o,,unknown> ignore_time_segment_in_scoring
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 261.552 277.214 <o,f0,unknown> otec so synom [ruch-] varia v kuchyni [-ruch] [spk] a: varia varia niečo čo im pri kypí. [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 277.214 286.584 <o,f0,unknown> [hez] [ruch-] syn robí bordel. [-ruch] [ruch-] vyteká im voda z umývadla/umyvadla [-ruch] . [ruch-] mačka sa na to pozerá [-ruch] .
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 286.584 291.371 <o,f0,unknown> [spk] [ruch-] pozitívne je že syn si dáva pri tom ovocie. [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 291.371 301.108 <o,f0,unknown> [spk] [ruch-] ale lietajú im tam muchy a osy [-ruch] a popritom [ruch-] nastáva problém s rozbitým [-ruch] lustrom. [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 301.108 308.440 <o,f0,unknown> [ruch] [ruch-] ešte im niečo vyteká dokonca aj z zo skrinky rovno do hrnca. [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 308.440 313.104 <o,f0,unknown> [ruch-] musia dať pozor na črepy na zemi. [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 313.104 321.510 <o,f0,unknown> ((bude)) to treba poutierať ružovou utierkou ktorú majú na dreze. [spk]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 321.510 329.439 <o,f0,unknown> [ruch] a: [ruch-] ešte [-ruch] šťastie že má otec zásteru. [ruch-] aspoň sa nezašpiní. [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 329.439 347.280 <o,f0,unknown> [ruch] tou varechou by mohol [ruch-] vyhnať [-ruch] aj tú/tu mačku z kuchyne možno [ruch-] popritom vypnúť vodu [-ruch] [ruch-] aby nepretekala [-ruch] a môže si [ruch-] dať potom [-ruch] aj paradajku ktorá ostala po synovi na tanieri. [ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 347.280 355.579 <o,f0,unknown> [spk] klasická matka v domácnosti multifunkčná.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 355.579 368.923 <o,f0,unknown> [ruch-] stíha byť v práci aj variť. [-ruch] ((je)) akurát čas obedu a pripravuje vajcia so slaninou dosku raňajky.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 368.923 384.497 <o,f0,unknown> [spk] popritom niečo varí v hrnci asi zeleninovú polievku ((lebo)) tam má zemiaky paradajku cibuľu. popritom je online v robote ((lebo)) má zapnutý počítač.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 384.497 396.151 <o,f0,unknown> a zase tu máme nejakú mačku ktorá je na polici a [hez] zhodí vázu samozrejme rovno na počítač ktorý prestane fungovať.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 396.151 405.351 <o,f0,unknown> %jahaj matka stíha ešte aj telefonovať. ale popritom myslí na nákupy topánok.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 405.351 417.213 <o,f0,unknown> [spk] a: vreštiace dieťa jej vôbec nepomáha ale musí dať pozor aby si nezobralo nožík [ruch-] ktorým krája zeleninu [-ruch] .
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 417.213 424.307 <o,f0,unknown> a ešte sa môže stať že jej do panvice padnú knihy keď sa bude s tou panvicou moc zaháňať.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 424.307 433.760 <o,f0,unknown> a nakoniec treba vypnúť aj varnú platňu aby sa jej všetko ne:pripálilo.
+lpvv9oae01 1 excluded_region 433.760 437.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 437.220 446.727 <o,f0,unknown> %a: skvelé domáce vianoce. [ruch] dokonca so snehom máme.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 446.727 458.212 <o,f0,unknown> [ruch-] [spk] [hez] prebieha teoreticky ozdoba stromčeka aj keď to je asi likvidácia stromčeka ako tak pozerám. [-ruch]
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 458.212 469.339 <o,f0,unknown> poriadok ešte nie je spravený ((lebo)) prichádzajúci otec sa šmykol na autíčku ale aspoň/aspon nakúpil všetko [ruch-] potrebné na večeru [-ruch] .
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 469.339 481.361 <o,f0,unknown> [spk] a matka si to užíva [hez] [ruch-] výmenou informácií so svojimi [-ruch] priateľkami.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 481.361 504.402 <o,f0,unknown> [ruch] [ruch-] a: nejaké dieťa sa pozerá spoza okna. [-ruch] [ruch-] buď je to kamarát syna ktorý likviduje stromček alebo je to nejaké dieťa ktoré závidí kľud v rodine [-ruch] ktorý si maximálne užíva spiaci pes.
+lpvv9oae01 1 lpvv9oae01_lpvv9oae01 504.402 520.430 <o,f0,unknown> [spk] [ruch-] a: majú už dosť veľa porozbíjaných ozdôb na zemi. [-ruch] [ruch-] ((a za)) chvíľu vyzerá že padne celý strom. [-ruch]

@@ -1,0 +1,117 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:39 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvkyy901 1 lpvvkyy901 0.000 14.940 <o,f0,male> special_vokal
+lpvvkyy901 1 lpvvkyy901 14.940 22.860 <o,f0,male> special_pataka
+lpvvkyy901 1 lpvvkyy901 22.860 25.880 <o,f0,male> [ruch-] melón [-ruch]
+lpvvkyy901 1 lpvvkyy901 25.880 28.860 <o,f0,male> [ruch] [hez] cesta
+lpvvkyy901 1 lpvvkyy901 28.860 31.500 <o,f0,male> [ruch] most
+lpvvkyy901 1 lpvvkyy901 31.500 33.780 <o,f0,male> [ruch-] hodinky [-ruch]
+lpvvkyy901 1 lpvvkyy901 33.780 35.940 <o,f0,male> [ruch-] bubon [-ruch]
+lpvvkyy901 1 lpvvkyy901 35.940 38.220 <o,f0,male> [ruch-] traktor [-ruch]
+lpvvkyy901 1 lpvvkyy901 38.220 40.280 <o,f0,male> [ruch-] fajka [-ruch]
+lpvvkyy901 1 lpvvkyy901 40.280 43.060 <o,f0,male> [ruch-] akvárium [-ruch]
+lpvvkyy901 1 lpvvkyy901 43.060 46.600 <o,f0,male> [ruch-] [hez] lievik [-ruch]
+lpvvkyy901 1 lpvvkyy901 46.600 49.640 <o,f0,male> [ruch-] domino kocky [-ruch]
+lpvvkyy901 1 lpvvkyy901 49.640 52.580 <o,f0,male> [ruch-] ponorka [-ruch]
+lpvvkyy901 1 lpvvkyy901 52.580 55.480 <o,f0,male> [ruch-] kráľ [-ruch]
+lpvvkyy901 1 lpvvkyy901 55.480 57.900 <o,f0,male> [ruch-] topánky [-ruch]
+lpvvkyy901 1 lpvvkyy901 57.900 60.420 <o,f0,male> [ruch-] cigarety [-ruch]
+lpvvkyy901 1 lpvvkyy901 60.420 63.360 <o,f0,male> [ruch-] hod budík [-ruch]
+lpvvkyy901 1 lpvvkyy901 63.360 65.780 <o,f0,male> [ruch-] teplomer [-ruch]
+lpvvkyy901 1 lpvvkyy901 65.780 68.240 <o,f0,male> [ruch-] električka [-ruch]
+lpvvkyy901 1 lpvvkyy901 68.240 70.600 <o,f0,male> [ruch-] metla [-ruch]
+lpvvkyy901 1 excluded_region 70.600 71.712 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 71.712 73.640 <o,f0,male> huby
+lpvvkyy901 1 lpvvkyy901 73.640 75.880 <o,f0,male> [ruch-] kotva [-ruch]
+lpvvkyy901 1 lpvvkyy901 75.880 79.040 <o,f0,male> [ruch-] [hez] astronaut [-ruch]
+lpvvkyy901 1 lpvvkyy901 79.040 81.260 <o,f0,male> [ruch-] kniha [-ruch]
+lpvvkyy901 1 lpvvkyy901 81.260 84.120 <o,f0,male> [ruch-] autobus [-ruch]
+lpvvkyy901 1 lpvvkyy901 84.120 86.740 <o,f0,male> [ruch-] koruna [-ruch]
+lpvvkyy901 1 lpvvkyy901 86.740 89.160 <o,f0,male> [ruch-] koleso [-ruch]
+lpvvkyy901 1 lpvvkyy901 89.160 91.620 <o,f0,male> [ruch-] lavica [-ruch]
+lpvvkyy901 1 lpvvkyy901 91.620 93.920 <o,f0,male> [ruch-] zips [-ruch]
+lpvvkyy901 1 lpvvkyy901 93.920 96.600 <o,f0,male> [ruch-] ťava [-ruch]
+lpvvkyy901 1 lpvvkyy901 96.600 99.140 <o,f0,male> [ruch-] vešiak [-ruch]
+lpvvkyy901 1 lpvvkyy901 99.140 101.680 <o,f0,male> [ruch-] žaluď [-ruch]
+lpvvkyy901 1 lpvvkyy901 101.680 103.960 <o,f0,male> [ruch-] kaktus [-ruch]
+lpvvkyy901 1 lpvvkyy901 103.960 106.480 <o,f0,male> [ruch-] pláva [-ruch]
+lpvvkyy901 1 lpvvkyy901 106.480 108.720 <o,f0,male> [ruch-] píše [-ruch]
+lpvvkyy901 1 lpvvkyy901 108.720 111.380 <o,f0,male> [ruch-] smeje sa [-ruch]
+lpvvkyy901 1 lpvvkyy901 111.380 114.200 <o,f0,male> [ruch-] váži [-ruch]
+lpvvkyy901 1 lpvvkyy901 114.200 116.800 <o,f0,male> [ruch-] plače [-ruch]
+lpvvkyy901 1 lpvvkyy901 116.800 119.140 <o,f0,male> [ruch-] varí [-ruch]
+lpvvkyy901 1 lpvvkyy901 119.140 121.940 <o,f0,male> [ruch-] telefonuje [-ruch]
+lpvvkyy901 1 excluded_region 121.940 122.928 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 122.928 125.180 <o,f0,male> šije na stroji
+lpvvkyy901 1 lpvvkyy901 125.180 128.100 <o,f0,male> [ruch-] krája jablko [-ruch]
+lpvvkyy901 1 lpvvkyy901 128.100 130.880 <o,f0,male> [ruch-] polieva kvet [-ruch]
+lpvvkyy901 1 lpvvkyy901 130.880 134.020 <o,f0,male> [ruch-] štrikuje sveter [-ruch]
+lpvvkyy901 1 lpvvkyy901 134.020 137.160 <o,f0,male> [ruch-] natiera maslo [-ruch]
+lpvvkyy901 1 lpvvkyy901 137.160 141.760 <o,f0,male> [ruch-] ťahá [hez] povraz [-ruch]
+lpvvkyy901 1 lpvvkyy901 141.760 144.680 <o,f0,male> [ruch-] svieti žiarovka [-ruch]
+lpvvkyy901 1 lpvvkyy901 144.680 147.340 <o,f0,male> [ruch-] horí dom [-ruch]
+lpvvkyy901 1 lpvvkyy901 147.340 150.380 <o,f0,male> [ruch-] hádže oštep [-ruch]
+lpvvkyy901 1 lpvvkyy901 150.380 153.180 <o,f0,male> [ruch-] maľuje obraz [-ruch]
+lpvvkyy901 1 lpvvkyy901 153.180 156.260 <o,f0,male> [ruch-] vŕta do steny [-ruch]
+lpvvkyy901 1 lpvvkyy901 156.260 162.176 <o,f0,male> [ruch] hrable hraje [hez] ra ra: hrab [hez] zhrabuje alebo
+lpvvkyy901 1 excluded_region 162.176 162.399 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 162.399 164.540 <o,f0,male> hrabe [smiech] dobre
+lpvvkyy901 1 lpvvkyy901 164.540 167.580 <o,f0,male> [ruch-] píli [-ruch]
+lpvvkyy901 1 excluded_region 167.580 168.649 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 168.649 169.497 <o,f0,male> veslujú
+lpvvkyy901 1 excluded_region 169.497 170.720 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 170.720 173.520 <o,f0,male> [ruch-] spieva [-ruch]
+lpvvkyy901 1 lpvvkyy901 173.520 176.460 <o,f0,male> [ruch-] kúpe sa [-ruch]
+lpvvkyy901 1 lpvvkyy901 176.460 179.380 <o,f0,male> [ruch-] meria [-ruch]
+lpvvkyy901 1 lpvvkyy901 179.380 181.880 <o,f0,male> [ruch-] pije [-ruch]
+lpvvkyy901 1 excluded_region 181.880 182.958 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 182.958 184.074 <o,f0,male> klope na dvere
+lpvvkyy901 1 excluded_region 184.074 185.200 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 185.200 188.400 <o,f0,male> [ruch-] skáče švihadlo [-ruch]
+lpvvkyy901 1 lpvvkyy901 188.400 190.980 <o,f0,male> [ruch-] lyžuje [-ruch]
+lpvvkyy901 1 lpvvkyy901 190.980 193.860 <o,f0,male> [ruch-] fotografuje [-ruch]
+lpvvkyy901 1 lpvvkyy901 193.860 196.580 <o,f0,male> [ruch-] bicykluje [-ruch]
+lpvvkyy901 1 lpvvkyy901 196.580 199.580 <o,f0,male> [ruch-] žehlí [-ruch]
+lpvvkyy901 1 lpvvkyy901 199.580 208.127 <o,f0,male> [ruch] tak vidím ruku. ako/jako detská ručička drží ruku dospelého za malíček.
+lpvvkyy901 1 lpvvkyy901 208.127 223.975 <o,f0,male> vidím [spk] že na prstoch dospelá ruka nemá žiaden prsteň a na maličkej ručičke detskej vidím štyri pekné nechtíky. sú pekne odstrihnuté.
+lpvvkyy901 1 lpvvkyy901 223.975 228.325 <o,f0,male> ručička je [hez] taká masívna. [hez]
+lpvvkyy901 1 excluded_region 228.325 229.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 excluded_region 229.580 230.806 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 230.806 235.807 <o,f0,male> tak vidíme kaviarenský stolík s dvoma peknými stoličkami.
+lpvvkyy901 1 lpvvkyy901 235.807 259.520 <o,f0,male> kaviarenský [ruch-] stolík má tri nožičky. [-ruch] má okrúhlu dosku a na nej sú dve [ruch] [hez] súpravy [hez] šálok s k s dvom [hez] s každá šálka má lyžičku. má tanierik na ktorom je položené. tá káva je zrejme čerstvá lebo sa z nej [hez]
+lpvvkyy901 1 lpvvkyy901 259.520 282.598 <o,f0,male> muž v kuchyni. tento pán [hez] sa snaží v kuchyni byť [ruch] nejaký užitočný ale sa mu to nedarí lebo nestráži svojho syna ktorý skáče na stoličke a pravdepodobne [hez] sa zrúti. s z z pôvodne siaha za banánom ktovie či sa mu to podarí.
+lpvvkyy901 1 lpvvkyy901 282.598 289.990 <o,f0,male> súčasne vy [spk] vylial nejakú vodu ktorá už tečie na podlahu.
+lpvvkyy901 1 lpvvkyy901 289.990 297.454 <o,f0,male> [hez] za pánom je hrniec s nejakou kašou na variči. tá mu vykypela.
+lpvvkyy901 1 lpvvkyy901 297.454 314.566 <o,f0,male> v [ruch] lampa. buchol do lampy. z nej sa kúsok odlomilo a padlo to na zem. a v skrinke nad pracovnou plošinkou sa mu prevrátila fľaša a tečie na pracovnú plošinu.
+lpvvkyy901 1 lpvvkyy901 314.566 320.079 <o,f0,male> takže je to muž ktorý v kuchyni je úplný [ruch-] slon v porceláne. [-ruch]
+lpvvkyy901 1 excluded_region 320.079 323.069 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 323.069 327.466 <o,f0,male> a ešte kocúra som ani nesp nezbadal. teda ne:spomenul.
+lpvvkyy901 1 excluded_region 327.466 329.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 329.020 339.878 <o,f0,male> [ruch] táto pani to je mama ktorá je úplný opak toho predchádzajúceho pána v kuchyni. ona musí robiť súčasne niekoľko vecí.
+lpvvkyy901 1 lpvvkyy901 339.878 357.406 <o,f0,male> [hez] varí obed ale už je po dvanástej takže trochu mešká. súčasne robí nejakú omeletu a plače jej [hez] dieťatko a z zrovna jej niekto telefonuje takže robí všetko naraz.
+lpvvkyy901 1 lpvvkyy901 357.406 365.306 <o,f0,male> a [hez] vyskočila jej mačka na poličku prevrátila kvetináč. pravdepodobne sa to všetko rozbije.
+lpvvkyy901 1 lpvvkyy901 365.306 373.694 <o,f0,male> a myslí pritom že by mala mať [hez] nejaké topánky asi sa chystá večer niekam.
+lpvvkyy901 1 lpvvkyy901 373.694 383.552 <o,f0,male> no a je dvanásť hodín aj bude dvadsať minút takže pôvodne asi to chcela stihnúť do dvanástej.
+lpvvkyy901 1 excluded_region 383.552 388.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvkyy901 1 lpvvkyy901 388.140 395.285 <o,f0,male> no: čo sa týka vianoc tak to je [hez] celkom pekná milá záležitosť.
+lpvvkyy901 1 lpvvkyy901 395.285 410.690 <o,f0,male> mamička telefonuje a súčasne stráži chlapčeka ktorý strháva z vianočného stromčeka elektrické svetielka. pritom sa ten [hez] vianočný stromček môže prevrátiť.
+lpvvkyy901 1 lpvvkyy901 410.690 421.371 <o,f0,male> otecko stúpil na detské autíčko. pravdepodobne sa šmykne a padne [ruch] na zem. v ruke drží nejaký nákup možno ho rozsype.
+lpvvkyy901 1 lpvvkyy901 421.371 434.631 <o,f0,male> a [hez] pes ktorý [hez] [ruch] je súčasťou/súčasťom súčasťou tejto domácnosti [ruch] si pekne spinká a vôbec sa nevzrušuje tým ruchom čo sa okolo neho deje.
+lpvvkyy901 1 lpvvkyy901 434.631 444.065 <o,f0,male> vonku pekne hviezdy svietia a [hez] vianočná nálada by mohla byť vcelku v poriadku.

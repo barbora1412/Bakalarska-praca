@@ -1,0 +1,118 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:31 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+u1une9zx01 1 u1une9zx01_u1une9zx01 0.000 14.940 <o,f0,unknown> special_vokal
+u1une9zx01 1 u1une9zx01_u1une9zx01 14.940 22.860 <o,f0,unknown> special_pataka
+u1une9zx01 1 u1une9zx01_u1une9zx01 22.860 24.680 <o,f0,unknown> melón
+u1une9zx01 1 excluded_region 24.680 26.380 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 26.380 29.640 <o,f0,unknown> cesta
+u1une9zx01 1 u1une9zx01_u1une9zx01 29.640 32.780 <o,f0,unknown> [hez] to most
+u1une9zx01 1 u1une9zx01_u1une9zx01 32.780 35.380 <o,f0,unknown> hodinky
+u1une9zx01 1 u1une9zx01_u1une9zx01 35.380 37.860 <o,f0,unknown> bubon
+u1une9zx01 1 u1une9zx01_u1une9zx01 37.860 40.380 <o,f0,unknown> traktor
+u1une9zx01 1 u1une9zx01_u1une9zx01 40.380 43.100 <o,f0,unknown> fajka
+u1une9zx01 1 u1une9zx01_u1une9zx01 43.100 45.860 <o,f0,unknown> akvárium
+u1une9zx01 1 u1une9zx01_u1une9zx01 45.860 48.800 <o,f0,unknown> [hez] lievik
+u1une9zx01 1 u1une9zx01_u1une9zx01 48.800 52.360 <o,f0,unknown> [hez] kocky d domino
+u1une9zx01 1 u1une9zx01_u1une9zx01 52.360 55.680 <o,f0,unknown> [hez] ponorka
+u1une9zx01 1 u1une9zx01_u1une9zx01 55.680 59.540 <o,f0,unknown> [hez] kráľ miroslav [smiech]
+u1une9zx01 1 u1une9zx01_u1une9zx01 59.540 62.260 <o,f0,unknown> topánky
+u1une9zx01 1 u1une9zx01_u1une9zx01 62.260 65.140 <o,f0,unknown> cigarety
+u1une9zx01 1 u1une9zx01_u1une9zx01 65.140 68.080 <o,f0,unknown> ho [hez] budík/budik
+u1une9zx01 1 u1une9zx01_u1une9zx01 68.080 70.900 <o,f0,unknown> teplomer
+u1une9zx01 1 u1une9zx01_u1une9zx01 70.900 73.540 <o,f0,unknown> električka
+u1une9zx01 1 u1une9zx01_u1une9zx01 73.540 75.880 <o,f0,unknown> metla
+u1une9zx01 1 u1une9zx01_u1une9zx01 75.880 78.540 <o,f0,unknown> huby
+u1une9zx01 1 u1une9zx01_u1une9zx01 78.540 81.440 <o,f0,unknown> [hez] kotva
+u1une9zx01 1 u1une9zx01_u1une9zx01 81.440 84.520 <o,f0,unknown> [hez] kozmonaut
+u1une9zx01 1 u1une9zx01_u1une9zx01 84.520 87.400 <o,f0,unknown> [hez] [hez] kniha
+u1une9zx01 1 u1une9zx01_u1une9zx01 87.400 90.000 <o,f0,unknown> [hez] autobus
+u1une9zx01 1 u1une9zx01_u1une9zx01 90.000 92.660 <o,f0,unknown> koruna
+u1une9zx01 1 u1une9zx01_u1une9zx01 92.660 95.240 <o,f0,unknown> [hez] koleso
+u1une9zx01 1 u1une9zx01_u1une9zx01 95.240 98.440 <o,f0,unknown> [hez] lavička
+u1une9zx01 1 u1une9zx01_u1une9zx01 98.440 100.860 <o,f0,unknown> [hez] zips
+u1une9zx01 1 u1une9zx01_u1une9zx01 100.860 103.300 <o,f0,unknown> ťava
+u1une9zx01 1 u1une9zx01_u1une9zx01 103.300 105.960 <o,f0,unknown> [hez] vešiak
+u1une9zx01 1 u1une9zx01_u1une9zx01 105.960 115.561 <o,f0,unknown> [hez] [hez] [hez] bukvica či čo to je [hez] bukvica alebo [hez] d žaluď/dubáč to je žaluď
+u1une9zx01 1 excluded_region 115.561 117.240 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 117.240 120.020 <o,f0,unknown> [hez] kaktus
+u1une9zx01 1 u1une9zx01_u1une9zx01 120.020 121.735 <o,f0,unknown> plavec
+u1une9zx01 1 excluded_region 121.735 122.625 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 122.625 124.520 <o,f0,unknown> pláva/plava
+u1une9zx01 1 u1une9zx01_u1une9zx01 124.520 129.980 <o,f0,unknown> [ruch-] [hez] učiteľ píše [-ruch]
+u1une9zx01 1 u1une9zx01_u1une9zx01 129.980 133.117 <o,f0,unknown> %mhm smejúca sa ((sestra)) sestrička
+u1une9zx01 1 excluded_region 133.117 134.300 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 excluded_region 134.300 135.660 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 135.660 137.104 <o,f0,unknown> [hez] váži
+u1une9zx01 1 excluded_region 137.104 138.480 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 138.480 141.120 <o,f0,unknown> plače
+u1une9zx01 1 u1une9zx01_u1une9zx01 141.120 143.580 <o,f0,unknown> varí/vari
+u1une9zx01 1 u1une9zx01_u1une9zx01 143.580 146.020 <o,f0,unknown> telefonuje
+u1une9zx01 1 u1une9zx01_u1une9zx01 146.020 148.440 <o,f0,unknown> šije
+u1une9zx01 1 u1une9zx01_u1une9zx01 148.440 151.160 <o,f0,unknown> krája jablko krája
+u1une9zx01 1 u1une9zx01_u1une9zx01 151.160 153.820 <o,f0,unknown> zalieva
+u1une9zx01 1 u1une9zx01_u1une9zx01 153.820 156.440 <o,f0,unknown> pletie
+u1une9zx01 1 u1une9zx01_u1une9zx01 156.440 161.840 <o,f0,unknown> [hez] mastí [hez] chlebík [hez]
+u1une9zx01 1 u1une9zx01_u1une9zx01 161.840 165.020 <o,f0,unknown> ťahá lano ťahá [smiech]
+u1une9zx01 1 excluded_region 165.020 165.928 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 165.928 167.900 <o,f0,unknown> [hez] svieti
+u1une9zx01 1 u1une9zx01_u1une9zx01 167.900 170.500 <o,f0,unknown> horí
+u1une9zx01 1 excluded_region 170.500 171.712 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 171.712 174.500 <o,f0,unknown> [hez] hádže [ruch]
+u1une9zx01 1 u1une9zx01_u1une9zx01 174.500 177.240 <o,f0,unknown> [hez] maľuje
+u1une9zx01 1 u1une9zx01_u1une9zx01 177.240 179.900 <o,f0,unknown> vŕta
+u1une9zx01 1 u1une9zx01_u1une9zx01 179.900 182.600 <o,f0,unknown> hrabe
+u1une9zx01 1 u1une9zx01_u1une9zx01 182.600 185.320 <o,f0,unknown> píli
+u1une9zx01 1 u1une9zx01_u1une9zx01 185.320 188.820 <o,f0,unknown> [hez] vesluje
+u1une9zx01 1 u1une9zx01_u1une9zx01 188.820 191.560 <o,f0,unknown> [hez] spieva
+u1une9zx01 1 u1une9zx01_u1une9zx01 191.560 196.700 <o,f0,unknown> [hez] kúpe sa [smiech]
+u1une9zx01 1 u1une9zx01_u1une9zx01 196.700 199.400 <o,f0,unknown> meria
+u1une9zx01 1 u1une9zx01_u1une9zx01 199.400 201.900 <o,f0,unknown> pije
+u1une9zx01 1 u1une9zx01_u1une9zx01 201.900 204.400 <o,f0,unknown> klope
+u1une9zx01 1 u1une9zx01_u1une9zx01 204.400 206.880 <o,f0,unknown> skáče
+u1une9zx01 1 u1une9zx01_u1une9zx01 206.880 209.940 <o,f0,unknown> [hez] lyžuje
+u1une9zx01 1 u1une9zx01_u1une9zx01 209.940 212.340 <o,f0,unknown> fotí/foti
+u1une9zx01 1 u1une9zx01_u1une9zx01 212.340 214.800 <o,f0,unknown> bicykluje
+u1une9zx01 1 u1une9zx01_u1une9zx01 214.800 217.620 <o,f0,unknown> [hez] žehlí/žehli
+u1une9zx01 1 u1une9zx01_u1une9zx01 217.620 230.824 <o,f0,unknown> [hez] dlaň. dieťaťa drží/dlží palec [hez] prštek mamke. [hez] je veľká dlaň malá dlaň.
+u1une9zx01 1 u1une9zx01_u1une9zx01 230.824 237.025 <o,f0,unknown> [hez] neviem čo ďalej by som ešte mohla.
+u1une9zx01 1 u1une9zx01_u1une9zx01 237.025 247.540 <o,f0,unknown> päť prstov. mal je malé päť prstov [smiech-] veľkých päť prstov. [-smiech]
+u1une9zx01 1 u1une9zx01_u1une9zx01 247.540 277.460 <o,f0,unknown> nachádzaju sa tu stôl dve stoličky dve [hez] šálky kávy:. [hez] sú/su s:ú [hez] [smiech] čiernej farby. [spk] [hez] z kávy sa dymí. [hez] lyžičky sú tam dve. [smiech] no a čo by som ešte k tomu. [hez] nikto neprišiel na kávu. [smiech]
+u1une9zx01 1 excluded_region 277.460 280.467 <o,,unknown> ignore_time_segment_in_scoring
+u1une9zx01 1 u1une9zx01_u1une9zx01 280.467 293.060 <o,f0,unknown> no muž v kuchyni. tak keď si predstavím že mám manžela v kuchyni tak to vyzerá tak presne ako/jako to tu je na obrázku. [smiech] sú tu zelené s zelené skrinky lampa.
+u1une9zx01 1 u1une9zx01_u1une9zx01 293.060 305.636 <o,f0,unknown> muž s vareškou ktorý sa o [hez] z:a [spk] ako sa povie no chcel by variť ale nevie lebo tým pádom že vidím že tam kypí niečo z hrnca tak asi to nejde.
+u1une9zx01 1 u1une9zx01_u1une9zx01 305.636 318.465 <o,f0,unknown> dieťa ktoré pustilo vodu [hez] z z umývadla tečie aj vonku [hez] berie si nejaké ovocie. s [hez] stolička sa pod ním kníše:. mačka sa tak díva:.
+u1une9zx01 1 u1une9zx01_u1une9zx01 318.465 324.976 <o,f0,unknown> [ruch] no čo ešte môžem. no a niečo tam rozbili na zemi. voda už tečie po zemi.
+u1une9zx01 1 u1une9zx01_u1une9zx01 324.976 332.661 <o,f0,unknown> a zo skrinky niečo vyteká. asi manžel taký [ruch] [hez] čo nevie sa obracať v kuchyni.
+u1une9zx01 1 u1une9zx01_u1une9zx01 332.661 344.998 <o,f0,unknown> no a asi by som k tomu čo ešte mala povedať. [hez] buchol asi do lampy. zrejme z tej lampy to š sklo je na zemi lebo vidím že tam s varechou sa nejak oháňa.
+u1une9zx01 1 u1une9zx01_u1une9zx01 344.998 352.754 <o,f0,unknown> a: dieťa zrejme asi je hladné lebo [hez] berie si nejaké ovocie.
+u1une9zx01 1 u1une9zx01_u1une9zx01 352.754 367.380 <o,f0,unknown> stolička pod ním už asi dlho nevydrží lebo sa nakláňa [hez] a keď to spadne na tie škrupiny [hez] či na tie [hez] sklo no tak to bude ošemetné. ((to)) budú musieť utekať do nemocnice. no a [ruch] takto
+u1une9zx01 1 u1une9zx01_u1une9zx01 367.380 385.006 <o,f0,unknown> no takže to mama na materskej dovolenke ako si my môžeme/môžme všimnúť. [hez] nevie čo má skôr robiť. variť dieťa [hez] hladné alebo pri počítači sedieť alebo umývať riad alebo už neviem čo z toho [smiech-] si mám vybrať [-smiech] .
+u1une9zx01 1 u1une9zx01_u1une9zx01 385.006 391.400 <o,f0,unknown> nejaká mačka tu je. lozí po stene po s:krinkách. vysypáva/vysypuje všetko.
+u1une9zx01 1 u1une9zx01_u1une9zx01 391.400 402.430 <o,f0,unknown> [hez] mama telefonuje. dieťa na rukách. v druhej ruke: varenie alebo nejaké palacinky pečie. polievka na na sporáku/šporáku.
+u1une9zx01 1 u1une9zx01_u1une9zx01 402.430 409.432 <o,f0,unknown> [hez] no čo ešte tam. šporák je asi dosť horúci. dieťa by som tam asi k k sebe nebrala.
+u1une9zx01 1 u1une9zx01_u1une9zx01 409.432 426.486 <o,f0,unknown> na hodinkách je dvanásť/dvanás dvadsa:ť. manžel za chvíľu príde domov na obed a: ešte nie je navarené poupratované a mamka telefonuje s niekým. zrejme vybavuje si že nejaké topánky by si chcela kúpiť.
+u1une9zx01 1 u1une9zx01_u1une9zx01 426.486 440.733 <o,f0,unknown> [smiech] [hez] čo tu ešte také je:. tá mačička čo vyskočila na: nejakú skrinku zvalila niečo tam. [hez] dole sa sype na zem.
+u1une9zx01 1 u1une9zx01_u1une9zx01 440.733 448.880 <o,f0,unknown> a: mamka je z toho v šoku. [hez] dieťa plače jej na rukách a nevie čo má skôr robiť.
+u1une9zx01 1 u1une9zx01_u1une9zx01 448.880 457.300 <o,f0,unknown> no a tu ešte vidím na nejakom stole nejaké mliečko nožík prichystaná zeleninka na varenie ale mamka to nes
+u1une9zx01 1 u1une9zx01_u1une9zx01 457.300 478.081 <o,f0,unknown> %je: hurá vianoce. [smiech] tešíme sa na ((nich)) veľmi každý [hez] ako každý rok len nejako tu na tom obrázku. psík spí mamka telefonuje. nevie čo má kúpiť pod stromček deťom. deti tam vystrájajú niečo so stromčekom. stromček sa na nich valí.
+u1une9zx01 1 u1une9zx01_u1une9zx01 478.081 488.405 <o,f0,unknown> vonku sneží. otec prišiel asi zrejme z nákupu:. [hez] autíčka pod nohami zrejme sa asi šmykol. no možnože si aj nohu/znohu zlomil.
+u1une9zx01 1 u1une9zx01_u1une9zx01 488.405 503.225 <o,f0,unknown> [hez] [hez] mamka telefonuje trebárs aj s rodičmi babičkou dedkom. [hez] zrejme asi chce nejakú veľkú vianočnú večeru.
+u1une9zx01 1 u1une9zx01_u1une9zx01 503.225 517.843 <o,f0,unknown> [hez] otec možnože nakúpil niečo. zrejme dobré dobroty. rybu nejakú. zemiaky na šalát. [smiech] ((neviem čo)).
+u1une9zx01 1 u1une9zx01_u1une9zx01 517.843 535.203 <o,f0,unknown> deti sa hrajú zrejme stromčekom lebo tak to vyzerá že stoja pod ním ale akosi na nich ten stromček zrejme padá a: bude to dosť ošemetné keď spadne lebo nebudú mať si dať kde darčeky pod stromček.

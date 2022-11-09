@@ -1,0 +1,128 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:39 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 8 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665u34v401 1 665u34v401_665u34v401 0.000 14.900 <o,f0,unknown> vokal
+665u34v401 1 665u34v401_665u34v401 14.900 22.800 <o,f0,unknown> pataka
+665u34v401 1 665u34v401_665u34v401 22.800 26.240 <o,f0,unknown> cesta
+665u34v401 1 665u34v401_665u34v401 26.240 29.120 <o,f0,unknown> most
+665u34v401 1 665u34v401_665u34v401 29.120 31.860 <o,f0,unknown> hodinky
+665u34v401 1 665u34v401_665u34v401 31.860 34.480 <o,f0,unknown> bubon
+665u34v401 1 665u34v401_665u34v401 34.480 37.420 <o,f0,unknown> traktor
+665u34v401 1 665u34v401_665u34v401 37.420 40.080 <o,f0,unknown> fajka
+665u34v401 1 665u34v401_665u34v401 40.080 43.080 <o,f0,unknown> akvárium
+665u34v401 1 665u34v401_665u34v401 43.080 45.900 <o,f0,unknown> lievik
+665u34v401 1 665u34v401_665u34v401 45.900 48.880 <o,f0,unknown> kocky
+665u34v401 1 665u34v401_665u34v401 48.880 52.120 <o,f0,unknown> ponorka
+665u34v401 1 665u34v401_665u34v401 52.120 54.920 <o,f0,unknown> píše
+665u34v401 1 665u34v401_665u34v401 54.920 57.920 <o,f0,unknown> smeje sa
+665u34v401 1 665u34v401_665u34v401 57.920 61.320 <o,f0,unknown> váži
+665u34v401 1 665u34v401_665u34v401 61.320 63.920 <o,f0,unknown> plače
+665u34v401 1 665u34v401_665u34v401 63.920 66.340 <o,f0,unknown> varí
+665u34v401 1 665u34v401_665u34v401 66.340 69.260 <o,f0,unknown> telefonuje
+665u34v401 1 665u34v401_665u34v401 69.260 71.920 <o,f0,unknown> šije
+665u34v401 1 665u34v401_665u34v401 71.920 74.740 <o,f0,unknown> reže
+665u34v401 1 665u34v401_665u34v401 74.740 77.500 <o,f0,unknown> polieva
+665u34v401 1 665u34v401_665u34v401 77.500 80.420 <o,f0,unknown> štrikuje
+665u34v401 1 665u34v401_665u34v401 80.420 83.540 <o,f0,unknown> kráľ
+665u34v401 1 665u34v401_665u34v401 83.540 86.300 <o,f0,unknown> topánky
+665u34v401 1 665u34v401_665u34v401 86.300 89.140 <o,f0,unknown> cigarety
+665u34v401 1 665u34v401_665u34v401 89.140 91.640 <o,f0,unknown> budík
+665u34v401 1 665u34v401_665u34v401 91.640 94.260 <o,f0,unknown> teplomer
+665u34v401 1 665u34v401_665u34v401 94.260 97.340 <o,f0,unknown> autobus
+665u34v401 1 665u34v401_665u34v401 97.340 99.800 <o,f0,unknown> metla
+665u34v401 1 665u34v401_665u34v401 99.800 102.460 <o,f0,unknown> huby
+665u34v401 1 665u34v401_665u34v401 102.460 105.340 <o,f0,unknown> kotva
+665u34v401 1 665u34v401_665u34v401 105.340 109.980 <o,f0,unknown> %@ %va %vau astronaut
+665u34v401 1 665u34v401_665u34v401 109.980 114.560 <o,f0,unknown> mastí/masti
+665u34v401 1 665u34v401_665u34v401 114.560 117.240 <o,f0,unknown> ťahá
+665u34v401 1 665u34v401_665u34v401 117.240 120.180 <o,f0,unknown> svieti
+665u34v401 1 665u34v401_665u34v401 120.180 122.860 <o,f0,unknown> horí
+665u34v401 1 665u34v401_665u34v401 122.860 126.000 <o,f0,unknown> hádže
+665u34v401 1 665u34v401_665u34v401 126.000 128.800 <o,f0,unknown> maľuje
+665u34v401 1 665u34v401_665u34v401 128.800 131.340 <o,f0,unknown> vŕta
+665u34v401 1 665u34v401_665u34v401 131.340 134.140 <o,f0,unknown> hrabe
+665u34v401 1 665u34v401_665u34v401 134.140 137.300 <o,f0,unknown> reže
+665u34v401 1 665u34v401_665u34v401 137.300 140.400 <o,f0,unknown> vesluje
+665u34v401 1 665u34v401_665u34v401 140.400 143.160 <o,f0,unknown> kniha
+665u34v401 1 665u34v401_665u34v401 143.160 146.220 <o,f0,unknown> autobus
+665u34v401 1 665u34v401_665u34v401 146.220 148.780 <o,f0,unknown> koruna
+665u34v401 1 665u34v401_665u34v401 148.780 151.420 <o,f0,unknown> koleso
+665u34v401 1 665u34v401_665u34v401 151.420 154.100 <o,f0,unknown> lavička
+665u34v401 1 665u34v401_665u34v401 154.100 156.660 <o,f0,unknown> zips
+665u34v401 1 665u34v401_665u34v401 156.660 159.060 <o,f0,unknown> ťava
+665u34v401 1 665u34v401_665u34v401 159.060 161.720 <o,f0,unknown> vešiak
+665u34v401 1 665u34v401_665u34v401 161.720 164.420 <o,f0,unknown> žaluď
+665u34v401 1 665u34v401_665u34v401 164.420 167.800 <o,f0,unknown> %@ kaktus
+665u34v401 1 665u34v401_665u34v401 167.800 170.760 <o,f0,unknown> spieva
+665u34v401 1 665u34v401_665u34v401 170.760 173.380 <o,f0,unknown> kúpe
+665u34v401 1 665u34v401_665u34v401 173.380 176.400 <o,f0,unknown> meria/merá
+665u34v401 1 665u34v401_665u34v401 176.400 178.860 <o,f0,unknown> pije
+665u34v401 1 665u34v401_665u34v401 178.860 181.760 <o,f0,unknown> klope
+665u34v401 1 665u34v401_665u34v401 181.760 184.700 <o,f0,unknown> skáče
+665u34v401 1 665u34v401_665u34v401 184.700 187.460 <o,f0,unknown> lyžuje
+665u34v401 1 665u34v401_665u34v401 187.460 190.960 <o,f0,unknown> %@ fotografuje
+665u34v401 1 665u34v401_665u34v401 190.960 193.920 <o,f0,unknown> bicykluje
+665u34v401 1 665u34v401_665u34v401 193.920 198.100 <o,f0,unknown> žehlí/žehli
+665u34v401 1 665u34v401_665u34v401 198.100 204.011 <o,f0,unknown> ruka dve ruky.
+665u34v401 1 665u34v401_665u34v401 204.011 211.010 <o,f0,unknown> [ned-] drž [-ned] %@ malá ruka drží veľkú ruku.
+665u34v401 1 665u34v401_665u34v401 211.010 217.974 <o,f0,unknown> prsty nechty na malej ruke.
+665u34v401 1 665u34v401_665u34v401 217.974 220.295 <o,f0,unknown> čiary na rukách.
+665u34v401 1 excluded_region 220.295 225.359 <o,,unknown> ignore_time_segment_in_scoring
+665u34v401 1 665u34v401_665u34v401 225.359 228.000 <o,f0,unknown> no už neviem.
+665u34v401 1 665u34v401_665u34v401 228.000 237.135 <o,f0,unknown> stolík %@: stoličky káva pariaca sa káva lyžičky.
+665u34v401 1 665u34v401_665u34v401 237.135 240.441 <o,f0,unknown> %@: nohy na stoličkách.
+665u34v401 1 665u34v401_665u34v401 240.441 245.839 <o,f0,unknown> ornament na stoličke.
+665u34v401 1 665u34v401_665u34v401 245.839 257.840 <o,f0,unknown> %@ tanierik pod pod šálkou %hm.
+665u34v401 1 665u34v401_665u34v401 257.840 262.922 <o,f0,unknown> kuchyňa.
+665u34v401 1 665u34v401_665u34v401 262.922 268.057 <o,f0,unknown> muž v kuchyni s dieťaťom. rozbitá lampa.
+665u34v401 1 665u34v401_665u34v401 268.057 272.566 <o,f0,unknown> [ned-] otvor [-ned] skrinky otvorené skrinky.
+665u34v401 1 665u34v401_665u34v401 272.566 276.213 <o,f0,unknown> %@: vytekajúca fľaša.
+665u34v401 1 665u34v401_665u34v401 276.213 280.908 <o,f0,unknown> %@: %m dieťa berie banán.
+665u34v401 1 665u34v401_665u34v401 280.908 283.827 <o,f0,unknown> vyteká voda z drezu/dresu.
+665u34v401 1 665u34v401_665u34v401 283.827 288.980 <o,f0,unknown> dieťa sa šmýka na šmyklo na stoličke padá.
+665u34v401 1 665u34v401_665u34v401 288.980 294.132 <o,f0,unknown> berieme si banán. skrinky sú zelenej farby.
+665u34v401 1 665u34v401_665u34v401 294.132 297.709 <o,f0,unknown> lampa je oranžová.
+665u34v401 1 665u34v401_665u34v401 297.709 304.128 <o,f0,unknown> %@ [spk] muž má žlté tričko modrú zásteru.
+665u34v401 1 665u34v401_665u34v401 304.128 312.558 <o,f0,unknown> chlapček má červené tričko červené papuče modré trenky.
+665u34v401 1 665u34v401_665u34v401 312.558 320.014 <o,f0,unknown> na zemi je niečo rozbité. v rohu je mačička.
+665u34v401 1 665u34v401_665u34v401 320.014 328.235 <o,f0,unknown> %fa %uf fľaška z ktorej vyteká je asi sirup lebo je ružový.
+665u34v401 1 665u34v401_665u34v401 328.235 333.968 <o,f0,unknown> jablko je červené banán je žltý/žĺty.
+665u34v401 1 665u34v401_665u34v401 333.968 340.760 <o,f0,unknown> %@: voda je modrá.
+665u34v401 1 excluded_region 340.760 347.740 <o,,unknown> ignore_time_segment_in_scoring
+665u34v401 1 665u34v401_665u34v401 347.740 354.201 <o,f0,unknown> %@ žena %@: v kuchyni.
+665u34v401 1 665u34v401_665u34v401 354.201 382.230 <o,f0,unknown> kuchynská linka ktorá je sivohnedá. na linke je mlieko notebook nôž paradajky paprika. na platni je hrniec s polievkou. platňa je červená rozpálená. v ruke drží panvicu. na panvici je jedlo/jedló.
+665u34v401 1 665u34v401_665u34v401 382.230 387.013 <o,f0,unknown> asi sa jej páli %z: %@ nás.
+665u34v401 1 665u34v401_665u34v401 387.013 396.087 <o,f0,unknown> [ned-] die [-ned] na rukách má dieťa ktoré plače. dieťa je v modrom tieločku.
+665u34v401 1 665u34v401_665u34v401 396.087 399.376 <o,f0,unknown> žena má na uchu telefón.
+665u34v401 1 665u34v401_665u34v401 399.376 402.443 <o,f0,unknown> rozpráva sa o topánkach.
+665u34v401 1 665u34v401_665u34v401 402.443 410.680 <o,f0,unknown> na stene sú hodiny. ukazujú o desať minút pol jednej.
+665u34v401 1 665u34v401_665u34v401 410.680 419.289 <o,f0,unknown> na stene je polička. na poličke je mačka ktorá je sivá.
+665u34v401 1 665u34v401_665u34v401 419.289 426.094 <o,f0,unknown> %@: za mačkou je fľaša s pohárom.
+665u34v401 1 665u34v401_665u34v401 426.094 437.640 <o,f0,unknown> na ďalšej poličke je sú kvetinky sú tri kvetináče so zelenými rastlinkami.
+665u34v401 1 665u34v401_665u34v401 437.640 445.219 <o,f0,unknown> izba ((v jas)) %@ znázorňuje vianoce.
+665u34v401 1 665u34v401_665u34v401 445.219 458.146 <o,f0,unknown> sú otvorené dvere. steny sú namaľované/namaľovanoné na žlto/žĺto. je tam vianočný stromček na ktorom sú vianočné gule.
+665u34v401 1 665u34v401_665u34v401 458.146 461.505 <o,f0,unknown> stromček zrejme padá.
+665u34v401 1 665u34v401_665u34v401 461.505 467.642 <o,f0,unknown> gule sú ružové modré červené.
+665u34v401 1 665u34v401_665u34v401 467.642 480.751 <o,f0,unknown> stromček asi zvalil chlapček ktorý je v modrom tričku v žltých/žĺtych kraťasoch. za [ned-] ok [-ned] na stene je okno. za oknom sneží.
+665u34v401 1 665u34v401_665u34v401 480.751 487.046 <o,f0,unknown> na za oknom stojí chlapec v červenej čiapke.
+665u34v401 1 665u34v401_665u34v401 487.046 491.812 <o,f0,unknown> %@: na okne sú červené závesy.
+665u34v401 1 665u34v401_665u34v401 491.812 501.238 <o,f0,unknown> do izby vstúpil otec. otvorené dvere šmykol sa na žltom autíčku.
+665u34v401 1 665u34v401_665u34v401 501.238 505.770 <o,f0,unknown> vedľa je červené autíčko.
+665u34v401 1 665u34v401_665u34v401 505.770 516.866 <o,f0,unknown> %u: je tam/tam: fialový koberec. na koberci spí psík ktorý je hnedej farby.
+665u34v401 1 665u34v401_665u34v401 516.866 520.823 <o,f0,unknown> je tam mamka ktorá telefonuje.

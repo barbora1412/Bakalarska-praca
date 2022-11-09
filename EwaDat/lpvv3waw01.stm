@@ -1,0 +1,117 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:16 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 220426
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 0.000 14.920 <o,f0,unknown> special_vokal
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 14.920 22.860 <o,f0,unknown> special_pataka
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 22.860 25.700 <o,f0,unknown> cesta [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 25.700 28.820 <o,f0,unknown> most [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 28.820 31.340 <o,f0,unknown> hodinky
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 31.340 33.880 <o,f0,unknown> bubon
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 33.880 36.380 <o,f0,unknown> traktor
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 36.380 38.620 <o,f0,unknown> fajka
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 38.620 41.180 <o,f0,unknown> akvárium
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 41.180 43.900 <o,f0,unknown> lievik
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 43.900 47.800 <o,f0,unknown> [hez] domino [ex]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 47.800 50.620 <o,f0,unknown> ponorka
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 50.620 53.940 <o,f0,unknown> [hez] smeje sa [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 53.940 56.740 <o,f0,unknown> váži
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 56.740 59.320 <o,f0,unknown> plače
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 59.320 61.800 <o,f0,unknown> varí
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 61.800 64.460 <o,f0,unknown> telefonuje
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 64.460 67.560 <o,f0,unknown> šije
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 67.560 70.000 <o,f0,unknown> krája
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 70.000 72.540 <o,f0,unknown> polieva
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 72.540 75.660 <o,f0,unknown> [hez] štrikuje
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 75.660 78.480 <o,f0,unknown> [spk] [ruch-] kráľ [-ruch] [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 78.480 81.060 <o,f0,unknown> topánky
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 81.060 83.520 <o,f0,unknown> cigarety
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 83.520 86.420 <o,f0,unknown> budík
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 86.420 88.980 <o,f0,unknown> teplomer
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 88.980 91.740 <o,f0,unknown> električka
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 91.740 94.280 <o,f0,unknown> metla
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 94.280 97.360 <o,f0,unknown> hríby
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 97.360 100.000 <o,f0,unknown> kotva
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 100.000 102.800 <o,f0,unknown> kozmonaut
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 102.800 105.900 <o,f0,unknown> [ruch-] natiera [-ruch] [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 105.900 108.540 <o,f0,unknown> ťahá
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 108.540 111.540 <o,f0,unknown> svieti
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 111.540 114.340 <o,f0,unknown> horí [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 114.340 117.280 <o,f0,unknown> hádže
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 117.280 119.940 <o,f0,unknown> [ruch-] maľuje [-ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 119.940 122.580 <o,f0,unknown> [ruch-] vŕta [-ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 122.580 125.280 <o,f0,unknown> hrabe
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 125.280 128.880 <o,f0,unknown> [hez] píli
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 128.880 133.300 <o,f0,unknown> pádlujú veslujú [smiech]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 133.300 136.400 <o,f0,unknown> [ruch] [ruch-] kniha [-ruch] [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 136.400 139.700 <o,f0,unknown> [hez] autobus [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 139.700 142.080 <o,f0,unknown> [spk] koruna
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 142.080 144.600 <o,f0,unknown> pneumatika
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 144.600 147.100 <o,f0,unknown> lavička
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 147.100 149.340 <o,f0,unknown> zips
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 149.340 151.540 <o,f0,unknown> ťava
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 151.540 153.960 <o,f0,unknown> vešiak
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 153.960 156.480 <o,f0,unknown> oriešok
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 156.480 159.020 <o,f0,unknown> kaktus
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 159.020 161.960 <o,f0,unknown> [spk] spieva [ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 161.960 164.840 <o,f0,unknown> kúpe
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 164.840 167.460 <o,f0,unknown> meria
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 167.460 169.960 <o,f0,unknown> pije
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 169.960 172.360 <o,f0,unknown> klope
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 172.360 174.700 <o,f0,unknown> skáče
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 174.700 177.180 <o,f0,unknown> [spk] lyže
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 177.180 179.620 <o,f0,unknown> fotí
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 179.620 182.400 <o,f0,unknown> bicykluje
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 182.400 185.120 <o,f0,unknown> žehlí
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 185.120 188.351 <o,f0,unknown> [hez] tak sú tam dve ruky.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 188.351 190.670 <o,f0,unknown> jedna väčšia jedna menšia.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 190.670 201.800 <o,f0,unknown> [ruch-] pravdepodobne [-ruch] to môže byť rodič so svojím dieťaťom a: vlastne: malá ruka drží za: malíček tú veľkú ruku.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 201.800 215.040 <o,f0,unknown> a: vlastne je to také. je to tak [hez] nežne naladené tým že sa vlastne [ruch-] tam [-ruch] dotýka. vlastne ho drží. to je také/take rodičovské.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 215.040 221.968 <o,f0,unknown> [ruch] tak na [ruch-] obrázku [-ruch] sú dve stoličky [ruch-] a [-ruch] [ruch-] stolík [-ruch] s dvoma kávami.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 221.968 227.719 <o,f0,unknown> [hez] vyzerá to: ako nejaká nejaký obrázok napríklad z kaviarne.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 227.719 235.527 <o,f0,unknown> z: kávičiek sa ešte aj na obrázku ako keby: odparuje dymí že asi sú teplé [spk] .
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 235.527 245.040 <o,f0,unknown> a: [smiech] [ruch] [ruch] %hm [ruch] .
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 245.040 254.490 <o,f0,unknown> [ruch] na obrázku: je muž v: kuchyni dosť [hez] v takom neporiadku by som povedala.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 254.490 261.823 <o,f0,unknown> je tam aj malé dieťa ktoré [ned-] ta [-ned] [ruch-] ktoré siaha po ovocí [-ruch] banáne a jabĺčku [ruch] .
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 261.823 267.661 <o,f0,unknown> pomedzi to: [ned-] ta [-ned] vyteká z umývadla voda. pení to [ruch-] tam. [-ruch]
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 267.661 275.080 <o,f0,unknown> [hez] otec [hez] naháňa [ruch-] včelu [-ruch] na [ruch-] lampe [-ruch] pričom ju už stihol aj rozbiť.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 275.080 279.888 <o,f0,unknown> [hez] spoza boku: vykúka čierna mačička.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 279.888 290.130 <o,f0,unknown> [hez] na kuchynskej linke sa ešte nachádza aj na [ruch-] rozhorenej [-ruch] [ruch-] platni [-ruch] hrniec z ktorého niečo: vykypelo.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 290.130 293.074 <o,f0,unknown> [hez] je tam všade veľký neporiadok.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 293.074 298.444 <o,f0,unknown> [hez] sú tam. celá linka je zariadená do: zelenej farby.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 298.444 310.543 <o,f0,unknown> [hez] z [ned-] poličie [-ned] z horných poličiek vyteká z nejakej ružovej fľašky: tekutina ktorá vyzerá že vyteká na ten [ruch-] do toho [-ruch] hrnca.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 310.543 318.835 <o,f0,unknown> [spk] a: na: pri umývadle je ešte aj [hez] ružová utierka pravdepodobne na riad.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 318.835 335.040 <o,f0,unknown> [ruch] [spk] otec je oblečený v: v hnedých gaťoch*. má žlté tričko a: má na sebe modrú zásteru a chlapec má červené tričko a červené boty*.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 335.040 345.141 <o,f0,unknown> [ruch] [ruch] na obrázku je: mamička [ruch] s: dieťatkom v náručí. nejaké [ruch-] malé [-ruch] batoľa ešte [ruch] .
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 345.141 350.195 <o,f0,unknown> pričom matka telefonuje. je za šporákom.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 350.195 364.780 <o,f0,unknown> má tam [hez] otvorený ešte aj notebook a pritom sa snaží v druhej ruke má ešte aj panvičku s vajíčkom slaninkou a na šporáku jej ešte horí pravdepodobne polievka.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 364.780 370.643 <o,f0,unknown> pred sebou má položené [ruch] paradajky zemiačiky. má tam nožík.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 370.643 375.064 <o,f0,unknown> za ňou na: poličke sa: vyskytuje mačka.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 375.064 379.063 <o,f0,unknown> sú tam. je tam aj nejaký olej nejaký medík.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 379.063 385.154 <o,f0,unknown> mačka pravdepodobne akurát zhodila: vázu s: kvetinami [ruch] .
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 385.154 398.625 <o,f0,unknown> a: [ruch] %hm [smiech] . vyzerá to tak že dieťa je veľmi nespokojné pretože na obrázku plače v náruči svojej maminy.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 398.625 406.678 <o,f0,unknown> a: mamina: pri tom všetkom čo ešte robí ešte aj rozmýšľa o: lodičkách možno o nakupovaní.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 406.678 417.660 <o,f0,unknown> a: na: poličke tam majú uložené knihy a nejaké ďalšie bylinky [ruch-] čo [-ruch] jej možno slúži na varenie [ruch] [ruch] .
+lpvv3waw01 1 excluded_region 417.660 425.000 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 425.000 433.617 <o,f0,unknown> [spk] [spk] na obrázku vidím [hez] pravdepodobne rodinu počas vianoc.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 433.617 447.213 <o,f0,unknown> muž vchádza do: obývačky predpokladám a hneď vidím že sa pošmykol na hračkách svojich detí. [spk] priamo na autíčku [smiech] žltom autíčku.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 447.213 450.115 <o,f0,unknown> vedľa neho leží ešte aj červené autíčko.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 450.115 454.089 <o,f0,unknown> [hez] jeho manželka [hez] telefonuje.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 454.089 461.739 <o,f0,unknown> má žltý telefón a tvári sa že nevidí svojho muža ako padá ako sa šmykol na autíčku.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 461.739 474.455 <o,f0,unknown> [hez] jedno dieťa je pri vianočnom stromčeku ktorý je ovešaný svetielkami a rôznymi guľami a vyzerá to tak že ten stromček o chvíľu padne.
+lpvv3waw01 1 lpvv3waw01_lpvv3waw01 474.455 487.444 <o,f0,unknown> [hez] ďalšie dieťa je: zvonka za oknom a sleduje celú túto situáciu a majú tu ešte aj psíka takého menšieho hnedého.

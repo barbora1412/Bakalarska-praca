@@ -1,0 +1,100 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:37 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 220427
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvhite01 1 lpvvhite01_lpvvhite01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvhite01 1 lpvvhite01_lpvvhite01 14.940 22.900 <o,f0,unknown> special_pataka
+lpvvhite01 1 lpvvhite01_lpvvhite01 22.900 26.020 <o,f0,unknown> cesta
+lpvvhite01 1 lpvvhite01_lpvvhite01 26.020 29.660 <o,f0,unknown> [hez] nejaký kráľ pravdepodobne
+lpvvhite01 1 lpvvhite01_lpvvhite01 29.660 32.080 <o,f0,unknown> kniha
+lpvvhite01 1 lpvvhite01_lpvvhite01 32.080 34.400 <o,f0,unknown> most
+lpvvhite01 1 lpvvhite01_lpvvhite01 34.400 36.980 <o,f0,unknown> topánky
+lpvvhite01 1 lpvvhite01_lpvvhite01 36.980 39.480 <o,f0,unknown> autobus
+lpvvhite01 1 lpvvhite01_lpvvhite01 39.480 41.820 <o,f0,unknown> hodinky
+lpvvhite01 1 lpvvhite01_lpvvhite01 41.820 44.320 <o,f0,unknown> cigarety
+lpvvhite01 1 lpvvhite01_lpvvhite01 44.320 46.980 <o,f0,unknown> koruna
+lpvvhite01 1 lpvvhite01_lpvvhite01 46.980 50.420 <o,f0,unknown> [hez] bicie bubon bubon
+lpvvhite01 1 lpvvhite01_lpvvhite01 50.420 52.860 <o,f0,unknown> hodiny
+lpvvhite01 1 lpvvhite01_lpvvhite01 52.860 56.720 <o,f0,unknown> [hez] koleso pneumatika
+lpvvhite01 1 lpvvhite01_lpvvhite01 56.720 59.200 <o,f0,unknown> traktor
+lpvvhite01 1 lpvvhite01_lpvvhite01 59.200 61.980 <o,f0,unknown> teplomer
+lpvvhite01 1 lpvvhite01_lpvvhite01 61.980 64.420 <o,f0,unknown> lavička
+lpvvhite01 1 lpvvhite01_lpvvhite01 64.420 66.980 <o,f0,unknown> fajka
+lpvvhite01 1 lpvvhite01_lpvvhite01 66.980 69.440 <o,f0,unknown> električka
+lpvvhite01 1 lpvvhite01_lpvvhite01 69.440 71.900 <o,f0,unknown> zips
+lpvvhite01 1 lpvvhite01_lpvvhite01 71.900 74.320 <o,f0,unknown> akvárium
+lpvvhite01 1 lpvvhite01_lpvvhite01 74.320 77.260 <o,f0,unknown> [hez] metla
+lpvvhite01 1 lpvvhite01_lpvvhite01 77.260 79.700 <o,f0,unknown> ťava dvojhrbá
+lpvvhite01 1 lpvvhite01_lpvvhite01 79.700 82.280 <o,f0,unknown> lievik
+lpvvhite01 1 lpvvhite01_lpvvhite01 82.280 85.020 <o,f0,unknown> hríby/riby
+lpvvhite01 1 lpvvhite01_lpvvhite01 85.020 88.062 <o,f0,unknown> vešiak teda ramienko
+lpvvhite01 1 lpvvhite01_lpvvhite01 88.062 97.415 <o,f0,unknown> [hez] tie také kocky na hranie tej tej tej blbosti. jak* sa to volá. [hez] nejaké hracie kocky proste. neviem jak* s t hrá/hra.
+lpvvhite01 1 lpvvhite01_lpvvhite01 97.415 99.540 <o,f0,unknown> [hez] kotva
+lpvvhite01 1 lpvvhite01_lpvvhite01 99.540 102.380 <o,f0,unknown> žaluď
+lpvvhite01 1 lpvvhite01_lpvvhite01 102.380 105.300 <o,f0,unknown> [hez] ponorka
+lpvvhite01 1 lpvvhite01_lpvvhite01 105.300 108.711 <o,f0,unknown> kozmonaut as [ned-] naut [-ned]
+lpvvhite01 1 lpvvhite01_lpvvhite01 108.711 111.140 <o,f0,unknown> kaktus:
+lpvvhite01 1 lpvvhite01_lpvvhite01 111.140 113.740 <o,f0,unknown> píše
+lpvvhite01 1 lpvvhite01_lpvvhite01 113.740 116.940 <o,f0,unknown> natiera
+lpvvhite01 1 lpvvhite01_lpvvhite01 116.940 119.940 <o,f0,unknown> spieva
+lpvvhite01 1 lpvvhite01_lpvvhite01 119.940 123.480 <o,f0,unknown> smeje sa
+lpvvhite01 1 lpvvhite01_lpvvhite01 123.480 126.640 <o,f0,unknown> ťahá
+lpvvhite01 1 lpvvhite01_lpvvhite01 126.640 129.720 <o,f0,unknown> kúpe sa
+lpvvhite01 1 lpvvhite01_lpvvhite01 129.720 132.820 <o,f0,unknown> [hez] váži
+lpvvhite01 1 lpvvhite01_lpvvhite01 132.820 135.700 <o,f0,unknown> svieti
+lpvvhite01 1 lpvvhite01_lpvvhite01 135.700 138.260 <o,f0,unknown> meria
+lpvvhite01 1 lpvvhite01_lpvvhite01 138.260 140.660 <o,f0,unknown> plače
+lpvvhite01 1 lpvvhite01_lpvvhite01 140.660 143.240 <o,f0,unknown> horí
+lpvvhite01 1 lpvvhite01_lpvvhite01 143.240 145.640 <o,f0,unknown> pije
+lpvvhite01 1 lpvvhite01_lpvvhite01 145.640 148.040 <o,f0,unknown> varí
+lpvvhite01 1 lpvvhite01_lpvvhite01 148.040 151.700 <o,f0,unknown> [hez] športuje
+lpvvhite01 1 lpvvhite01_lpvvhite01 151.700 154.360 <o,f0,unknown> klope
+lpvvhite01 1 lpvvhite01_lpvvhite01 154.360 157.000 <o,f0,unknown> telefonuje
+lpvvhite01 1 lpvvhite01_lpvvhite01 157.000 159.800 <o,f0,unknown> [spk] maľuje
+lpvvhite01 1 lpvvhite01_lpvvhite01 159.800 162.560 <o,f0,unknown> skáče
+lpvvhite01 1 lpvvhite01_lpvvhite01 162.560 164.960 <o,f0,unknown> šije
+lpvvhite01 1 lpvvhite01_lpvvhite01 164.960 167.520 <o,f0,unknown> vŕta
+lpvvhite01 1 lpvvhite01_lpvvhite01 167.520 170.040 <o,f0,unknown> lyžuje
+lpvvhite01 1 lpvvhite01_lpvvhite01 170.040 172.740 <o,f0,unknown> [spk] krája
+lpvvhite01 1 lpvvhite01_lpvvhite01 172.740 175.440 <o,f0,unknown> [hez] hrabe
+lpvvhite01 1 lpvvhite01_lpvvhite01 175.440 177.900 <o,f0,unknown> fotí
+lpvvhite01 1 lpvvhite01_lpvvhite01 177.900 181.600 <o,f0,unknown> ((x)) keď to chcete spisovne. zalieva
+lpvvhite01 1 lpvvhite01_lpvvhite01 181.600 187.200 <o,f0,unknown> [hez] reže: píli
+lpvvhite01 1 lpvvhite01_lpvvhite01 187.200 190.060 <o,f0,unknown> [hez] bicykľuje/bicigluje
+lpvvhite01 1 lpvvhite01_lpvvhite01 190.060 193.140 <o,f0,unknown> [hez] štrikuje
+lpvvhite01 1 lpvvhite01_lpvvhite01 193.140 197.060 <o,f0,unknown> [hez] člnkovanie člnkuje sloveso musí
+lpvvhite01 1 lpvvhite01_lpvvhite01 197.060 200.320 <o,f0,unknown> [hez] žehlí
+lpvvhite01 1 lpvvhite01_lpvvhite01 200.320 213.275 <o,f0,unknown> [hez] je tam ruka. malé dieťa drží malíček. a je to kreslený obrázok. tužkou* to je. ((neviem či to je relevantné)).
+lpvvhite01 1 excluded_region 213.275 215.197 <o,,unknown> ignore_time_segment_in_scoring
+lpvvhite01 1 lpvvhite01_lpvvhite01 215.197 229.280 <o,f0,unknown> na bielom pozadí. [smiech] čierna tužka. dieťa má málo rokov samozrejme keďže drží malíček a to je všetko. [smiech-] viac k tomu nemám čo dodať [-smiech] .
+lpvvhite01 1 lpvvhite01_lpvvhite01 229.280 259.240 <o,f0,unknown> stôl dve stoličky. všetko je kovové ozdobné [hez] tie operadlá. na stole sú dve šálky s kávou keďže som videl že sa to volá káva. svetlo ide sprava keďže tiene idú doľava. st stolík aj stoličky sú kovové. platňa vyzerá
+lpvvhite01 1 lpvvhite01_lpvvhite01 259.240 275.309 <o,f0,unknown> miestnosť kuchyňa. [hez] pustená je voda. [ex] pravdepodobne zapchatý odtok alebo je tam strčená tá [hez] blbosť takže neodteká tečie to na zem.
+lpvvhite01 1 lpvvhite01_lpvvhite01 275.309 285.168 <o,f0,unknown> na stoličke je chlapec vo veľmi nestabilnej polohe. snaží sa zobrať niečo asi z kuchynskej linky nejaké ovocie.
+lpvvhite01 1 lpvvhite01_lpvvhite01 285.168 305.175 <o,f0,unknown> [hez] v miestnosti je pravdepodobne jeho otec v zástere. kupodivu. vzadu je hriankovač z ktorého už vyteká roztečený syr [smiech] . hore sú nejaké poličky poloprázdne a pozerám že mám slabé okuliare na čítanie lebo niečo je na lampe a nevidím čo to je.
+lpvvhite01 1 lpvvhite01_lpvvhite01 305.175 323.970 <o,f0,unknown> [hez] [hez] pozerám že [hez] otec robí niečo čudné s lampou lebo má varešku v ruke a lampa je naklonená ale [hez] ako som povedal mám slabé okuliare na čítanie netuším prečo to robí a čo je vlastne na tej lampe. či tam je nejaký [hez] hmyz alebo neviem čo to je. fakt to nevidím.
+lpvvhite01 1 lpvvhite01_lpvvhite01 323.970 349.180 <o,f0,unknown> a: do vpravo dole je mačka ešte [ex] . a: dole pod chlapcom je ešte zopár nejakých o o omrviniek a podobných vecí a z tohto pohľadu z ktorého je to [hez] nakreslené tak chýba jedna noha stoličky. ľavá zadná. neviem či ju nemá byť vidno alebo či tam schválne nie je. asi tam schválne nie je a je to chyták [smiech] .
+lpvvhite01 1 lpvvhite01_lpvvhite01 349.180 369.150 <o,f0,unknown> [spk] no mamička ktorá má obrovsk obrovskú radosť z materstva zjavne pretože robí samozrejme sedemnásť vecí naraz. zase sme niekde [hez] síce v kuchyni ale s notebookom čo je zvláštne. asi varí podľa Babicu.
+lpvvhite01 1 lpvvhite01_lpvvhite01 369.150 382.265 <o,f0,unknown> podľa všetkého. v ľavej ruke má panvicu robí na nej niečo zas nevidím čo slabé okuliare. vyzerá to ako keby to boli nejaké topinky alebo čo to je niečo tam proste z toho vyskakuje.
+lpvvhite01 1 lpvvhite01_lpvvhite01 382.265 399.332 <o,f0,unknown> na: [hez] [hez] tej [hez] jak* sa to volá. [hez] na tej [hez] nie na plyne ale na tom na na tej indukčnej tejto blbosti platni je nejaký hrniec s nejakým asi mliekom pravdepodobne keďže drží malé decko.
+lpvvhite01 1 lpvvhite01_lpvvhite01 399.332 423.390 <o,f0,unknown> notebook je Apple/ejpl takže má asi zrejme bohatého manžela. niečo má [hez] rozrobené na kuchynskej linke vidím tam tuším nejakú paradajku zase nevidím ok [hez] kvôli okuliarom na čítanie. vidím tam tuším aj nejaké mlieko. [hez] zhora z poličky ((x)) mačka zhodila niečo do toho notebooku. manžel bude mať radosť.
+lpvvhite01 1 lpvvhite01_lpvvhite01 423.390 439.120 <o,f0,unknown> bude platiť [ex] servis počítača. vedľa mačky sú ešte stále nezhodené nejaké veci nejaká fľaša a niečo na čo tiež nevidím. a: [hez] všetko je zavŕšené tým že mamička telefonuje s nejakou priateľkou a ba
+lpvvhite01 1 lpvvhite01_lpvvhite01 439.120 456.802 <o,f0,unknown> no. pravdepodobne asi Vianoce keďže vzadu je vianočný stromček. sme niekde v obývačke. v okne je niečo na čo zase nevidím [hez] [hez] kvôli okuliarom respektíve asi za oknom pravdepodobne. to asi neni dôležité.
+lpvvhite01 1 lpvvhite01_lpvvhite01 456.802 494.280 <o,f0,unknown> [hez] vianočný stromček sa káca na dieťa ktoré ho asi zrejme stiahlo s [hez] nejakými sviečkami s káblom. mamička je zásadne za [hez] dosť v kľude. telefonuje [hez] asi s nejakou priateľkou alebo čo. otecko alebo s/s: [hez] as as asi otecko zrejme [hez] sa po:šmykol na hračke. [hez] pod druhou nohou má ešte druhú/dru hračku na ktorej sa asi šmykne najbližšie. dole leží pes.
+lpvvhite01 1 lpvvhite01_lpvvhite01 494.280 516.123 <o,f0,unknown> [hez] je tam nejaký fialový ružový koberec. vonk z vonku už vyzerá %jáj v ľavej ruke má nejaký nejakú bagáž*. nejaký miešok alebo niečo podobné. vonku sneží. dvere sú obyčajné. nedvojité. majú veľké úniky tepla.
+lpvvhite01 1 lpvvhite01_lpvvhite01 516.123 517.983 <o,f0,unknown> je tam fialový plafón.
+lpvvhite01 1 excluded_region 517.983 520.382 <o,,unknown> ignore_time_segment_in_scoring

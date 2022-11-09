@@ -1,0 +1,98 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:40 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 0.000 14.960 <o,f0,female> special_vokal
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 14.960 22.900 <o,f0,female> special_pataka
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 22.900 27.140 <o,f0,female> [spk] oblaky? cesta? tráva?
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 27.140 30.280 <o,f0,female> [spk] kráľ?
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 30.280 32.700 <o,f0,female> kniha?
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 32.700 34.880 <o,f0,female> most?
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 34.880 37.360 <o,f0,female> topánky
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 37.360 39.880 <o,f0,female> autobus
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 39.880 42.220 <o,f0,female> hodinky
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 42.220 44.720 <o,f0,female> cigarety
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 44.720 47.180 <o,f0,female> [spk] koruna
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 47.180 49.600 <o,f0,female> bubon
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 49.600 52.160 <o,f0,female> hodinky
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 52.160 54.360 <o,f0,female> koleso
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 54.360 56.740 <o,f0,female> traktor
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 56.740 58.900 <o,f0,female> teplomer
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 58.900 61.280 <o,f0,female> lavička
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 61.280 63.740 <o,f0,female> fajka
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 63.740 66.500 <o,f0,female> električka
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 66.500 68.840 <o,f0,female> zips
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 68.840 71.560 <o,f0,female> akvárium
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 71.560 73.820 <o,f0,female> metla
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 73.820 76.200 <o,f0,female> ťava
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 76.200 78.860 <o,f0,female> [spk] lievik
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 78.860 81.460 <o,f0,female> huby
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 81.460 83.740 <o,f0,female> vešiak
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 83.740 86.600 <o,f0,female> [hez] domino
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 86.600 88.980 <o,f0,female> kotva
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 88.980 91.520 <o,f0,female> žaluď
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 91.520 94.420 <o,f0,female> uď [spk] ponorka
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 94.420 97.180 <o,f0,female> kozmonaut
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 97.180 99.620 <o,f0,female> [spk] kaktus
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 99.620 102.140 <o,f0,female> píše
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 102.140 105.040 <o,f0,female> natiera
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 105.040 107.540 <o,f0,female> spieva
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 107.540 110.220 <o,f0,female> smeje sa
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 110.220 112.780 <o,f0,female> ťahá
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 112.780 116.380 <o,f0,female> kúpe sa
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 116.380 119.800 <o,f0,female> meria váži ((pardon))
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 119.800 122.600 <o,f0,female> [hez] svieti
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 122.600 125.600 <o,f0,female> meria
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 125.600 128.260 <o,f0,female> plače
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 128.260 130.980 <o,f0,female> horí
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 130.980 133.460 <o,f0,female> pije
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 133.460 135.900 <o,f0,female> varí
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 135.900 138.760 <o,f0,female> hádže ((x)) oštep
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 138.760 141.580 <o,f0,female> klope
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 141.580 144.260 <o,f0,female> telefonuje
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 144.260 146.920 <o,f0,female> maľuje
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 146.920 149.660 <o,f0,female> skáče/káče
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 149.660 152.440 <o,f0,female> šije
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 152.440 155.240 <o,f0,female> vŕ:ta
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 155.240 158.160 <o,f0,female> lyžuje
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 158.160 160.760 <o,f0,female> krája [kasel]
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 160.760 163.200 <o,f0,female> hrabe
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 163.200 165.940 <o,f0,female> fotí
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 165.940 168.400 <o,f0,female> polieva
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 168.400 171.280 <o,f0,female> [hez] píli
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 171.280 173.860 <o,f0,female> bicykluje
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 173.860 176.580 <o,f0,female> štrikuje
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 176.580 180.580 <o,f0,female> [hez] pádluje ((alebo)) vesluje
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 180.580 183.140 <o,f0,female> žehlí
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 183.140 195.183 <o,f0,female> na obrázku vidíme dospelú ruku [hez] ktorej [hez] malíček zviera maličká detská ručička.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 195.183 213.445 <o,f0,female> [hez] ruka má vystreté všetky všetky prsty s tým že malíček je zľahka oddelený od ostatných prstov a prostredník je zľahka predsadený pred ostatné prsty. detská ručička ho drží s lá:sko .
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 213.445 222.024 <o,f0,female> [ruch] tak tu na obrázku vidíme stolík a dve stoličky na ktorých je pripravená káva.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 222.024 235.804 <o,f0,female> káva je evidentne [hez] [hez] čerstvo naliata pretože sa z nej ešte parí a sú v nej lyžičky. pravdepodobne káva obsahuje tým pádom aj cukor alebo mliečko alebo nejakú prísadu.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 235.804 243.583 <o,f0,female> a predpokladá sa z tohto obrázku že čoskoro si sadnú [hez] majiteľ
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 243.583 262.736 <o,f0,female> [hez] no. [hez] na obrázku vidíme muža ktorý sa rozhodol pravdepodobne dneska/ňeska pripraviť [hez] večeru pre svoju rodinu. je tam aj so svojím synom. pravdepodobne sú obidvaja trošku Pat a Mat asi je syn po otcovi.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 262.736 282.047 <o,f0,female> evidentne z obrázku sa [hez] to otecko túto situáciu nezvláda napriek tomu že sa snaží teda niečo uvariť za svojím chrbtom tak do toho niečo [hez] [hez] synovi asi vysvetľuje alebo ho karhá za to že že že niečo/nieč neurobil dobre.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 282.047 308.532 <o,f0,female> [hez] vareškou pritom rozbil [hez] lampu. dieťa medzitým evidentne možno v snahe proste umývať riady alebo si umyť ovocie pravdepodobne ktoré drží v ruke tak sa ((x)) [hez] postavilo na stoličku a vyšplhalo sa teda k umývadlu ktoré ale pretieklo lebo evidentne je upchaté alebo teda je zapchaté minimálne [hez] .
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 308.532 323.415 <o,f0,female> takže: takže voda z umývadla vyteká von a dieťatko v snahe zobrať si alebo položiť banán z taniera to mi nie je jasné sa z tej stoličky sklátil takže pravdepodobne aj dieťatko padne.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 323.415 333.680 <o,f0,female> celú túto situáciu zboku pozoruje čierna mačka ktorá má vyvalené [hez] zelené oči a pozoruje čo sa asi tak sta
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 333.680 373.660 <o,f0,female> typická zaneprázdnená mamička ktorá sa sta snaží variť pripravovať pre [hez] rodinu večeru a zároveň sa starať o malé bábätko. [hez] taktiež má na kuchynskom dreze aj alebo teda na kuchynskej linke položený aj počítač čiže zároveň aj pracuje a pravdepodobne tým že má na uchu [hez] pri uchu mobil ktorý zviera svojím ramenom tak [hez] [hez] tak [hez] pravdepodobne teda telefonuje aj so svojím šéfom alebo kolegami alebo klientami z práce.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 373.660 391.535 <o,f0,female> [hez] situáciu jej neuľahčuje ani mačička ktorá vyliezla na poličku a statočne pritom [hez] z [hez] zhodila kvetináč ktorý bude pravdepodobne teda po tejto situácii potrebné aj poupratovať.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 391.535 419.234 <o,f0,female> [hez] a mamička si ešte [hez] pravdepodobne pred pred [hez] stavuje* ako by to bolo keby bola musela mať aj svoje teda topánky obuté na vysokých opätkoch ktoré pravdepodobne teraz nemá. ale zato má na sebe zásteru kuchynskú a pred sebou kopec výziev ktoré ju [hez] čakajú v tejto situácii a v ďalších minútach.
+lpvvdrmx01 1 excluded_region 419.234 424.988 <o,,unknown> ignore_time_segment_in_scoring
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 424.988 468.430 <o,f0,female> Vianoce. tak tradičná rodinná vianočná situácia možno alebo nie až tak tradičná. pričom dieťatko ktoré sa snaží ozdobovať stromček tak sa mu podarilo evidentne pri vešaní svetielok ten stromček zhodiť a ten stromček padá naňho. v tej chvíli ocinko vchádza pravdepodobne s vianočnými nákupmi zvonka ale keďže dieťatko si upratalo hra neupratalo hračky tak otecko sa pošmykol na na [kasel] jednom z dvoch autíčok ktoré ležia na zemi a [hez] padá aj teda s tým nákupom.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 468.430 482.989 <o,f0,female> [hez] v veselo si pritom maminka chrbtom k tejto celej situácii telefonuje možno že s kamarátkou a vôbec si nevšíma čo sa okolo nej deje čo je celkom zaujímavá situácia.
+lpvvdrmx01 1 lpvvdrmx01_lpvvdrmx01 482.989 510.829 <o,f0,female> vonku teda sa dá vidieť že sneží a pravdepodobne je teda [hez] zima čo si teda užíva na druhej strane psík ktorý zaspal v teple domova a vôbec ho nestresuje ani padajúci stromček ani padajúci otecko a: ani telefonujúca mamička a ani teda vonkajší sneh a vietor ktorý určite preniká cez otvorené dvere do bytu.

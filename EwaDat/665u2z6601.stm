@@ -1,0 +1,147 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:09 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 9 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665u2z6601 1 665u2z6601_665u2z6601 0.000 14.900 <o,f0,unknown> vokal
+665u2z6601 1 665u2z6601_665u2z6601 14.900 22.800 <o,f0,unknown> pataka
+665u2z6601 1 665u2z6601_665u2z6601 22.800 25.840 <o,f0,unknown> cesta
+665u2z6601 1 665u2z6601_665u2z6601 25.840 28.620 <o,f0,unknown> most
+665u2z6601 1 665u2z6601_665u2z6601 28.620 30.880 <o,f0,unknown> hodinky
+665u2z6601 1 665u2z6601_665u2z6601 30.880 33.160 <o,f0,unknown> bubon
+665u2z6601 1 665u2z6601_665u2z6601 33.160 35.980 <o,f0,unknown> traktor
+665u2z6601 1 665u2z6601_665u2z6601 35.980 38.280 <o,f0,unknown> fajka
+665u2z6601 1 665u2z6601_665u2z6601 38.280 51.360 <o,f0,unknown> no/no: ((smiech)) akvárium/akváriu ((smiech)) to je ((strašne))
+665u2z6601 1 665u2z6601_665u2z6601 51.360 54.960 <o,f0,unknown> ((smiech)) lievik
+665u2z6601 1 665u2z6601_665u2z6601 54.960 60.553 <o,f0,unknown> no/no: a toto je čo scrabble/skrebl či čo [ned-] t [-ned] nie.
+665u2z6601 1 665u2z6601_665u2z6601 60.553 64.780 <o,f0,unknown> neviem čo to je kocky
+665u2z6601 1 665u2z6601_665u2z6601 64.780 69.240 <o,f0,unknown> ponorka
+665u2z6601 1 665u2z6601_665u2z6601 69.240 72.220 <o,f0,unknown> píše
+665u2z6601 1 665u2z6601_665u2z6601 72.220 74.760 <o,f0,unknown> smeje sa
+665u2z6601 1 665u2z6601_665u2z6601 74.760 77.880 <o,f0,unknown> váži
+665u2z6601 1 665u2z6601_665u2z6601 77.880 80.480 <o,f0,unknown> plače
+665u2z6601 1 665u2z6601_665u2z6601 80.480 83.120 <o,f0,unknown> varí
+665u2z6601 1 665u2z6601_665u2z6601 83.120 85.780 <o,f0,unknown> telefonuje
+665u2z6601 1 665u2z6601_665u2z6601 85.780 88.300 <o,f0,unknown> šije
+665u2z6601 1 665u2z6601_665u2z6601 88.300 91.120 <o,f0,unknown> krája
+665u2z6601 1 665u2z6601_665u2z6601 91.120 93.720 <o,f0,unknown> polieva
+665u2z6601 1 665u2z6601_665u2z6601 93.720 96.460 <o,f0,unknown> pletie
+665u2z6601 1 665u2z6601_665u2z6601 96.460 99.000 <o,f0,unknown> kráľ
+665u2z6601 1 665u2z6601_665u2z6601 99.000 101.340 <o,f0,unknown> topánky
+665u2z6601 1 665u2z6601_665u2z6601 101.340 103.740 <o,f0,unknown> cigarety
+665u2z6601 1 665u2z6601_665u2z6601 103.740 105.980 <o,f0,unknown> hodiny
+665u2z6601 1 665u2z6601_665u2z6601 105.980 108.680 <o,f0,unknown> teplomer
+665u2z6601 1 665u2z6601_665u2z6601 108.680 112.480 <o,f0,unknown> autobus električka
+665u2z6601 1 665u2z6601_665u2z6601 112.480 114.760 <o,f0,unknown> metla
+665u2z6601 1 665u2z6601_665u2z6601 114.760 117.300 <o,f0,unknown> huby
+665u2z6601 1 665u2z6601_665u2z6601 117.300 119.600 <o,f0,unknown> kotva
+665u2z6601 1 665u2z6601_665u2z6601 119.600 123.140 <o,f0,unknown> kozmonaut
+665u2z6601 1 665u2z6601_665u2z6601 123.140 126.700 <o,f0,unknown> natiera
+665u2z6601 1 665u2z6601_665u2z6601 126.700 129.120 <o,f0,unknown> ťahá
+665u2z6601 1 665u2z6601_665u2z6601 129.120 131.880 <o,f0,unknown> žiarovka
+665u2z6601 1 665u2z6601_665u2z6601 131.880 135.000 <o,f0,unknown> ((xx)) svetlo horí
+665u2z6601 1 excluded_region 135.000 138.950 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 138.950 143.444 <o,f0,unknown> no/no: tyč jak/ako sa povie.
+665u2z6601 1 665u2z6601_665u2z6601 143.444 146.800 <o,f0,unknown> hod tyčou
+665u2z6601 1 665u2z6601_665u2z6601 146.800 149.940 <o,f0,unknown> maľované/maľovanie maľuje
+665u2z6601 1 665u2z6601_665u2z6601 149.940 152.820 <o,f0,unknown> vŕta
+665u2z6601 1 665u2z6601_665u2z6601 152.820 155.320 <o,f0,unknown> hrabe
+665u2z6601 1 665u2z6601_665u2z6601 155.320 158.680 <o,f0,unknown> [ned-] rek [-ned] reže
+665u2z6601 1 665u2z6601_665u2z6601 158.680 166.153 <o,f0,unknown> no/n:o čo robia.
+665u2z6601 1 excluded_region 166.153 172.695 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 172.695 177.520 <o,f0,unknown> no neviem povedať čo to je.
+665u2z6601 1 665u2z6601_665u2z6601 177.520 181.440 <o,f0,unknown> ((strop)) kniha
+665u2z6601 1 665u2z6601_665u2z6601 181.440 184.300 <o,f0,unknown> autobus
+665u2z6601 1 665u2z6601_665u2z6601 184.300 186.880 <o,f0,unknown> koruna
+665u2z6601 1 665u2z6601_665u2z6601 186.880 189.200 <o,f0,unknown> koleso
+665u2z6601 1 665u2z6601_665u2z6601 189.200 191.660 <o,f0,unknown> lavička
+665u2z6601 1 665u2z6601_665u2z6601 191.660 193.860 <o,f0,unknown> zips
+665u2z6601 1 665u2z6601_665u2z6601 193.860 196.320 <o,f0,unknown> ťava
+665u2z6601 1 665u2z6601_665u2z6601 196.320 198.880 <o,f0,unknown> vešiak
+665u2z6601 1 665u2z6601_665u2z6601 198.880 201.400 <o,f0,unknown> žaluď
+665u2z6601 1 665u2z6601_665u2z6601 201.400 203.920 <o,f0,unknown> kaktus
+665u2z6601 1 665u2z6601_665u2z6601 203.920 206.400 <o,f0,unknown> spieva
+665u2z6601 1 665u2z6601_665u2z6601 206.400 209.200 <o,f0,unknown> kúpe sa
+665u2z6601 1 665u2z6601_665u2z6601 209.200 211.840 <o,f0,unknown> meria/merá
+665u2z6601 1 665u2z6601_665u2z6601 211.840 214.380 <o,f0,unknown> pije
+665u2z6601 1 665u2z6601_665u2z6601 214.380 217.900 <o,f0,unknown> otvára dvere
+665u2z6601 1 665u2z6601_665u2z6601 217.900 221.360 <o,f0,unknown> %@š skáče
+665u2z6601 1 665u2z6601_665u2z6601 221.360 223.800 <o,f0,unknown> lyžuje
+665u2z6601 1 665u2z6601_665u2z6601 223.800 226.580 <o,f0,unknown> fotí
+665u2z6601 1 665u2z6601_665u2z6601 226.580 229.020 <o,f0,unknown> bicykluje
+665u2z6601 1 665u2z6601_665u2z6601 229.020 231.460 <o,f0,unknown> žehlí
+665u2z6601 1 665u2z6601_665u2z6601 231.460 234.335 <o,f0,unknown> ruka.
+665u2z6601 1 665u2z6601_665u2z6601 234.335 236.988 <o,f0,unknown> päť prstov. druhá ruka.
+665u2z6601 1 excluded_region 236.988 239.573 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 239.573 240.926 <o,f0,unknown> bezfarebná.
+665u2z6601 1 excluded_region 240.926 242.850 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 242.850 244.508 <o,f0,unknown> nechty.
+665u2z6601 1 665u2z6601_665u2z6601 244.508 246.750 <o,f0,unknown> ohnutá ruka.
+665u2z6601 1 665u2z6601_665u2z6601 246.750 247.904 <o,f0,unknown> dlaň.
+665u2z6601 1 excluded_region 247.904 250.840 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 250.840 252.782 <o,f0,unknown> no čo ešte vidím/vidim.
+665u2z6601 1 excluded_region 252.782 255.024 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 255.024 261.360 <o,f0,unknown> ryhy alebo [ned-] ja [-ned] no %@ nie jazvy ale ako/jak sa to [ned-] po [-ned] .
+665u2z6601 1 665u2z6601_665u2z6601 261.360 267.487 <o,f0,unknown> stôl stoličky.
+665u2z6601 1 665u2z6601_665u2z6601 267.487 273.828 <o,f0,unknown> šálky káva lyžičky.
+665u2z6601 1 excluded_region 273.828 277.712 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 277.712 288.237 <o,f0,unknown> %s: %s %s stoličky sú no/no: [ned-] ko [-ned] kovové.
+665u2z6601 1 665u2z6601_665u2z6601 288.237 291.260 <o,f0,unknown> no neviem čo tam. stôl má tri.
+665u2z6601 1 665u2z6601_665u2z6601 291.260 297.674 <o,f0,unknown> no muž v kuchyni.
+665u2z6601 1 665u2z6601_665u2z6601 297.674 300.266 <o,f0,unknown> zelená kuchyňa.
+665u2z6601 1 665u2z6601_665u2z6601 300.266 306.189 <o,f0,unknown> svetlo oranžové. je tam včela.
+665u2z6601 1 excluded_region 306.189 308.063 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 308.063 325.565 <o,f0,unknown> dieťa v kuchyni. dieťa má červený %z svetrík modré nohavice berie si %b banán do ruky.je tam paradajka alebo pomaranč na.
+665u2z6601 1 665u2z6601_665u2z6601 325.565 331.955 <o,f0,unknown> no muž má. drží v ruke nejakú paličku.
+665u2z6601 1 665u2z6601_665u2z6601 331.955 339.405 <o,f0,unknown> žltý pulóver má modrú zásteru hnedé nohavice.
+665u2z6601 1 665u2z6601_665u2z6601 339.405 341.806 <o,f0,unknown> je tam mačka.
+665u2z6601 1 665u2z6601_665u2z6601 341.806 345.563 <o,f0,unknown> rozbil luster.
+665u2z6601 1 665u2z6601_665u2z6601 345.563 355.632 <o,f0,unknown> %@: je tam hrniec z ktorého vykypuje/vykyppuje [ned-] nejak [-ned] niečo niečo žlté.
+665u2z6601 1 665u2z6601_665u2z6601 355.632 366.255 <o,f0,unknown> voda preteká cez %@: [ned-] sko [-ned] %@: cez umývadlo alebo/aleb drez lepšie povedané.
+665u2z6601 1 665u2z6601_665u2z6601 366.255 368.601 <o,f0,unknown> no/n:o čo ešte.
+665u2z6601 1 665u2z6601_665u2z6601 368.601 374.770 <o,f0,unknown> kohútik je/jee alebo tá tyč je čierna.
+665u2z6601 1 665u2z6601_665u2z6601 374.770 377.332 <o,f0,unknown> no čo som zabudla ešte.
+665u2z6601 1 665u2z6601_665u2z6601 377.332 381.160 <o,f0,unknown> mačka je tam už asi som hovorila.
+665u2z6601 1 665u2z6601_665u2z6601 381.160 393.375 <o,f0,unknown> no matka v kuchyni drží dieťa v náručí. pri tom varí.
+665u2z6601 1 665u2z6601_665u2z6601 393.375 396.798 <o,f0,unknown> niečo pečie v/vv rajnici.
+665u2z6601 1 665u2z6601_665u2z6601 396.798 402.013 <o,f0,unknown> snaží sa to %z v tej rajnici otočiť.
+665u2z6601 1 665u2z6601_665u2z6601 402.013 418.576 <o,f0,unknown> sú [ned-] ta [-ned] je tam drez. na dreze je mlieko počítač nôž %@ cesnak paradajky hrniec na sporáku/šporáku.
+665u2z6601 1 665u2z6601_665u2z6601 418.576 424.577 <o,f0,unknown> sú tam hodiny. je na nich dvanásť dvadsať.
+665u2z6601 1 665u2z6601_665u2z6601 424.577 428.392 <o,f0,unknown> knihy na poličke.
+665u2z6601 1 665u2z6601_665u2z6601 428.392 430.973 <o,f0,unknown> lodičky sú tam.
+665u2z6601 1 665u2z6601_665u2z6601 430.973 434.982 <o,f0,unknown> mačka hore na poličke.
+665u2z6601 1 665u2z6601_665u2z6601 434.982 440.660 <o,f0,unknown> [hez-] nejaká [-hez] sklenená nádoba fľaša.
+665u2z6601 1 excluded_region 440.660 443.119 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 443.119 449.418 <o,f0,unknown> no vyzerá to na zhodený kvet ktorý mačka zhodila.
+665u2z6601 1 excluded_region 449.418 451.646 <o,,unknown> ignore_time_segment_in_scoring
+665u2z6601 1 665u2z6601_665u2z6601 451.646 460.273 <o,f0,unknown> %m: rozpálená platňa.
+665u2z6601 1 665u2z6601_665u2z6601 460.273 466.736 <o,f0,unknown> knihy sú jednem* [ned-] čie [-ned] červená čierna hnedá.
+665u2z6601 1 665u2z6601_665u2z6601 466.736 471.060 <o,f0,unknown> sú tam asi kaktusy tri %k.
+665u2z6601 1 665u2z6601_665u2z6601 471.060 476.393 <o,f0,unknown> no máme tu vianoce.
+665u2z6601 1 665u2z6601_665u2z6601 476.393 479.684 <o,f0,unknown> vianočný stromček.
+665u2z6601 1 665u2z6601_665u2z6601 479.684 488.440 <o,f0,unknown> je zelenej farby. gule červená modrá ružová.
+665u2z6601 1 665u2z6601_665u2z6601 488.440 491.465 <o,f0,unknown> hviezda.
+665u2z6601 1 665u2z6601_665u2z6601 491.465 493.836 <o,f0,unknown> vidím okno.
+665u2z6601 1 665u2z6601_665u2z6601 493.836 496.173 <o,f0,unknown> za oknom sneží.
+665u2z6601 1 665u2z6601_665u2z6601 496.173 500.201 <o,f0,unknown> je tam chlapec za tým oknom.
+665u2z6601 1 665u2z6601_665u2z6601 500.201 505.181 <o,f0,unknown> závesy sú na okne červené.
+665u2z6601 1 665u2z6601_665u2z6601 505.181 513.471 <o,f0,unknown> %@ vo vnútri je chlapček ktorý [spk] drží reťaz svetelnú.
+665u2z6601 1 665u2z6601_665u2z6601 513.471 522.247 <o,f0,unknown> chlapček je oblečený v modrom tričku bodkované žlté nohavice hnedé vlasy.
+665u2z6601 1 665u2z6601_665u2z6601 522.247 533.231 <o,f0,unknown> mamina telefonuje. má/ma ružový pulóver zelený sveter modré nohavice červené papuče.
+665u2z6601 1 665u2z6601_665u2z6601 533.231 537.718 <o,f0,unknown> na zemi sú autíčka červené žlté/žĺte.
+665u2z6601 1 665u2z6601_665u2z6601 537.718 542.644 <o,f0,unknown> otec sa pošmykol na/nach autíčku.
+665u2z6601 1 665u2z6601_665u2z6601 542.644 559.706 <o,f0,unknown> %@ má v ruke tašku. oblečený je %@: v hnedom svetri šál má na krku %@: čiapku fialový pulóver čierne nohavice.

@@ -1,0 +1,128 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:19 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211026
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 14.940 22.880 <o,f0,unknown> special_pataka
+lpvv69wi01 1 excluded_region 22.880 24.885 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 24.885 25.882 <o,f0,unknown> búrku
+lpvv69wi01 1 excluded_region 25.882 27.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 27.480 36.419 <o,f0,unknown> [hez] to neviem to je čo je kráľ alebo čo je to neviem
+lpvv69wi01 1 excluded_region 36.419 37.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 37.600 40.340 <o,f0,unknown> kniha
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 40.340 43.060 <o,f0,unknown> most
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 43.060 44.855 <o,f0,unknown> topánky
+lpvv69wi01 1 excluded_region 44.855 45.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 45.500 46.461 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 46.461 48.420 <o,f0,unknown> autobus
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 48.420 50.700 <o,f0,unknown> hodiny
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 50.700 53.340 <o,f0,unknown> cigarety
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 53.340 56.420 <o,f0,unknown> kráľovská koruna
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 56.420 59.040 <o,f0,unknown> bubon
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 59.040 61.620 <o,f0,unknown> hodiny
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 61.620 64.080 <o,f0,unknown> koleso
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 64.080 66.640 <o,f0,unknown> traktor
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 66.640 69.040 <o,f0,unknown> teplomer
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 69.040 71.360 <o,f0,unknown> lavička
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 71.360 73.700 <o,f0,unknown> fajka
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 73.700 76.480 <o,f0,unknown> električka
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 76.480 78.700 <o,f0,unknown> zips
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 78.700 81.240 <o,f0,unknown> akvárium
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 81.240 83.340 <o,f0,unknown> metla
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 83.340 85.760 <o,f0,unknown> ťava dvojhrbá
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 85.760 88.180 <o,f0,unknown> lievik
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 88.180 90.780 <o,f0,unknown> [ruch-] hríby [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 90.780 93.060 <o,f0,unknown> vešiak
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 93.060 96.020 <o,f0,unknown> [hez] domino
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 96.020 98.560 <o,f0,unknown> kotva
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 98.560 101.300 <o,f0,unknown> žaluď
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 101.300 104.260 <o,f0,unknown> ponorka
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 104.260 107.940 <o,f0,unknown> [hez] kozmonaut
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 107.940 110.560 <o,f0,unknown> kaktus
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 110.560 113.820 <o,f0,unknown> píše
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 113.820 117.460 <o,f0,unknown> natiera chlieb
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 117.460 120.160 <o,f0,unknown> spieva
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 120.160 122.980 <o,f0,unknown> smeje sa
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 122.980 127.260 <o,f0,unknown> [hez] [hez] preťahuje sa lanom
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 127.260 130.240 <o,f0,unknown> kúpe sa bábätko
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 130.240 133.610 <o,f0,unknown> váži váži sa ovocie
+lpvv69wi01 1 excluded_region 133.610 134.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 134.460 135.095 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 135.095 137.400 <o,f0,unknown> žiarovka svieti
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 137.400 142.300 <o,f0,unknown> [hez] meter meria okno
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 142.300 145.560 <o,f0,unknown> plače
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 145.560 149.080 <o,f0,unknown> horí
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 149.080 152.080 <o,f0,unknown> pije vodu
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 152.080 155.380 <o,f0,unknown> varí mieša
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 155.380 159.020 <o,f0,unknown> hádže oštepom
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 159.020 162.580 <o,f0,unknown> [hez] klope na dve
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 162.580 165.440 <o,f0,unknown> telefonuje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 165.440 168.420 <o,f0,unknown> maľuje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 168.420 172.400 <o,f0,unknown> skáče na švihadle
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 172.400 175.680 <o,f0,unknown> šije na stroji
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 175.680 179.500 <o,f0,unknown> vŕta do steny
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 179.500 182.480 <o,f0,unknown> lyžuje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 182.480 185.900 <o,f0,unknown> krája jablko
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 185.900 190.220 <o,f0,unknown> [hez] hrabe lístie trebárs
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 190.220 193.320 <o,f0,unknown> fotografuje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 193.320 196.660 <o,f0,unknown> [ruch-] zalieva [-ruch] kvetiny
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 196.660 200.220 <o,f0,unknown> píli/piluje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 200.220 202.980 <o,f0,unknown> bicykluje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 202.980 205.940 <o,f0,unknown> štrikuje
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 205.940 214.660 <o,f0,unknown> [hez] to je [ruch] [hez] ((čo to)) člnkovanie alebo také niečo
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 214.660 217.240 <o,f0,unknown> [hez] žehlí
+lpvv69wi01 1 excluded_region 217.240 221.278 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 221.278 231.743 <o,f0,unknown> ruka. na ruke je päť prstov palec ukazovák prostredník prstenník malíček. dlaň nechty.
+lpvv69wi01 1 excluded_region 231.743 237.806 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 237.806 241.847 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 241.847 247.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 247.240 250.537 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 250.537 269.134 <o,f0,unknown> [ruch-] stolík kávička stoličky lyžička šálka podšálka [spk] operadlo. [-ruch] [hez] na stolíku nohy.
+lpvv69wi01 1 excluded_region 269.134 271.567 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 271.567 274.561 <o,f0,unknown> káva horúca káva.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 274.561 277.180 <o,f0,unknown> [ruch] [spk] by bolo asi všetko.
+lpvv69wi01 1 excluded_region 277.180 284.991 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 284.991 301.456 <o,f0,unknown> otec so synčekom v kuchyni. otec drží varechu. [hez] [hez] [ruch-] chcel zrejme udrieť/udreť toho malého ktorý je akože neposlušný. [-ruch] [hez] buchol do lampy. [ruch-] lampa sa [-ruch] rozbila.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 301.456 312.015 <o,f0,unknown> [ruch-] kuchynská linka torta [-ruch] banán [ruch-] paradajka stolička vodovod mačka črepiny [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 312.015 319.195 <o,f0,unknown> [hez] otec má zásteru žlté tričko hnedé nohavice hnedé topánky.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 319.195 332.085 <o,f0,unknown> [hez] ten luster to už som hovorila. [ruch-] a to je akože neviem [-ruch] . tu vidím asi aj utierku alebo rukavicu. vlastne to je rukavica.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 332.085 340.140 <o,f0,unknown> [hez] z vodovodu [ruch-] [hez] [hez] tečie voda [-ruch] [ruch-] ale je tam aj [hez] [hez] i voda pení. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 340.140 348.828 <o,f0,unknown> z torty t steká krém. [ruch] podložka pod tortu.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 348.828 352.514 <o,f0,unknown> [ruch-] a neviem to je asi všetko. [-ruch]
+lpvv69wi01 1 excluded_region 352.514 357.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 357.060 363.437 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 363.437 374.763 <o,f0,unknown> mamička drží v náručí dieťa. [hez] drží panvicu. mala by sa [ruch-] venovať [hez] dieťaťu nie aj panvici. [-ruch] [ruch-] na panvici sú vajíčka. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 374.763 406.693 <o,f0,unknown> [ruch-] na poličke knižky [hez] s kochlíky s mys s [hez] [spk] s kaktusmi hodiny topánky [hez] fľaša vína asi [hez] mačka toto med [hez] k [hez] kvetináč [hez] [hez] tablet mlieko nôž paradajka paprika zemiak/zemia hrniec [hez] š sporák platňa teda. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 406.693 412.699 <o,f0,unknown> [hez] [ruch-] to je čo je toto? váza. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 412.699 419.307 <o,f0,unknown> čo ešte je tam ((takého))? mäso. [ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 419.307 433.353 <o,f0,unknown> mamička synček. [ruch-] mamička má červené tričko žltú zásteru. chlapček modré modré modré oblečenie. [-ruch] [ruch-] to je body/bady asi sa to volá. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 433.353 436.770 <o,f0,unknown> [ruch-] na panvici okrem vajec je ešte slanina. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 436.770 439.678 <o,f0,unknown> [ruch-] a tak asi to je všetko. [-ruch]
+lpvv69wi01 1 excluded_region 439.678 445.920 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 excluded_region 445.920 450.636 <o,,unknown> ignore_time_segment_in_scoring
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 450.636 452.735 <o,f0,unknown> [ruch-] no to je to sú vianoce [-ruch] .
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 452.735 466.944 <o,f0,unknown> [hez] k vianociam/vianocam patrí samozrejme stromček. na stromčeku [ruch-] gule reťaze [hez] svetielka na [hez] elektrické svetlá hviezda [-ruch] .
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 466.944 472.072 <o,f0,unknown> [hez] teraz okno. [hez] na okne sú [ruch-] závesy [-ruch] .
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 472.072 475.688 <o,f0,unknown> [ruch-] [hez] mamička telefonuje. [-ruch]
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 475.688 483.718 <o,f0,unknown> mamička má oblečené zelený zelený/zeleneý [ruch-] svetrík ružový pulóvrik/pulovrík [-ruch] modré nohavice červené papuče.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 483.718 490.443 <o,f0,unknown> [ruch-] chlapček [-ruch] má modré tričko žlté žlté kraťase s modrými bodkami.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 490.443 497.731 <o,f0,unknown> [hez] potom [ruch-] je tu [-ruch] autíčka dve autíčka sú tu.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 497.731 504.554 <o,f0,unknown> tu je asi otecko zrejme asi v nálade. neviem. s [hez] nákupnou taškou.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 504.554 505.854 <o,f0,unknown> psík.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 505.854 519.246 <o,f0,unknown> [ruch-] otec má oblečené [-ruch] fialové tričko hnedý b bulove [hez] hnedé hnedý sveter. [hez] to sú neviem či modré či hnedé tmavohnedé nohavice [hez] hnedé ponožky.
+lpvv69wi01 1 lpvv69wi01_lpvv69wi01 519.246 533.802 <o,f0,unknown> [hez] koberec je [ruch-] tam a [-ruch] [hez] tu tiež akože/jakože za oknom vidieť [hez] vidieť tiež [hez] nejakú postavu. je to asi chlapec s čapicou.

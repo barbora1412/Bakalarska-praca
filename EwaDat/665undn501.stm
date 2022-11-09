@@ -1,0 +1,143 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:18 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210905
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665undn501 1 665undn501_665undn501 0.000 14.900 <o,f0,unknown> vokal
+665undn501 1 665undn501_665undn501 14.900 22.800 <o,f0,unknown> pataka
+665undn501 1 665undn501_665undn501 22.800 25.560 <o,f0,unknown> cesta
+665undn501 1 665undn501_665undn501 25.560 28.980 <o,f0,unknown> most
+665undn501 1 665undn501_665undn501 28.980 31.340 <o,f0,unknown> hodinky
+665undn501 1 665undn501_665undn501 31.340 33.820 <o,f0,unknown> bubny
+665undn501 1 665undn501_665undn501 33.820 36.240 <o,f0,unknown> traktor
+665undn501 1 665undn501_665undn501 36.240 38.460 <o,f0,unknown> fajka
+665undn501 1 665undn501_665undn501 38.460 41.060 <o,f0,unknown> akvárium
+665undn501 1 665undn501_665undn501 41.060 44.020 <o,f0,unknown> lievik
+665undn501 1 665undn501_665undn501 44.020 46.440 <o,f0,unknown> domino
+665undn501 1 665undn501_665undn501 46.440 49.200 <o,f0,unknown> ponorka
+665undn501 1 665undn501_665undn501 49.200 51.840 <o,f0,unknown> píše
+665undn501 1 665undn501_665undn501 51.840 54.380 <o,f0,unknown> smeje sa
+665undn501 1 665undn501_665undn501 54.380 56.940 <o,f0,unknown> váži
+665undn501 1 665undn501_665undn501 56.940 59.240 <o,f0,unknown> plače
+665undn501 1 665undn501_665undn501 59.240 61.480 <o,f0,unknown> varí
+665undn501 1 665undn501_665undn501 61.480 63.900 <o,f0,unknown> telefonuje
+665undn501 1 665undn501_665undn501 63.900 66.240 <o,f0,unknown> šije
+665undn501 1 665undn501_665undn501 66.240 68.560 <o,f0,unknown> krája
+665undn501 1 665undn501_665undn501 68.560 70.840 <o,f0,unknown> polieva
+665undn501 1 665undn501_665undn501 70.840 73.280 <o,f0,unknown> štrikuje
+665undn501 1 665undn501_665undn501 73.280 76.540 <o,f0,unknown> kráľ
+665undn501 1 665undn501_665undn501 76.540 78.940 <o,f0,unknown> topánky
+665undn501 1 665undn501_665undn501 78.940 81.320 <o,f0,unknown> cigarety
+665undn501 1 665undn501_665undn501 81.320 83.800 <o,f0,unknown> hodiny
+665undn501 1 665undn501_665undn501 83.800 86.180 <o,f0,unknown> teplomer
+665undn501 1 665undn501_665undn501 86.180 88.800 <o,f0,unknown> električka
+665undn501 1 665undn501_665undn501 88.800 90.960 <o,f0,unknown> metla
+665undn501 1 665undn501_665undn501 90.960 93.420 <o,f0,unknown> hríby
+665undn501 1 665undn501_665undn501 93.420 96.000 <o,f0,unknown> kotva
+665undn501 1 665undn501_665undn501 96.000 98.980 <o,f0,unknown> astronaut
+665undn501 1 665undn501_665undn501 98.980 101.600 <o,f0,unknown> maže
+665undn501 1 665undn501_665undn501 101.600 104.020 <o,f0,unknown> ťahá
+665undn501 1 665undn501_665undn501 104.020 106.380 <o,f0,unknown> svieti
+665undn501 1 665undn501_665undn501 106.380 108.580 <o,f0,unknown> horí
+665undn501 1 665undn501_665undn501 108.580 111.100 <o,f0,unknown> hádže
+665undn501 1 665undn501_665undn501 111.100 113.420 <o,f0,unknown> maľuje
+665undn501 1 665undn501_665undn501 113.420 115.760 <o,f0,unknown> vŕta
+665undn501 1 665undn501_665undn501 115.760 117.960 <o,f0,unknown> hrabe
+665undn501 1 665undn501_665undn501 117.960 120.400 <o,f0,unknown> píli
+665undn501 1 665undn501_665undn501 120.400 123.020 <o,f0,unknown> plavú
+665undn501 1 665undn501_665undn501 123.020 125.400 <o,f0,unknown> [spk] kniha
+665undn501 1 665undn501_665undn501 125.400 127.960 <o,f0,unknown> autobus
+665undn501 1 665undn501_665undn501 127.960 130.140 <o,f0,unknown> koruna
+665undn501 1 665undn501_665undn501 130.140 132.400 <o,f0,unknown> koleso
+665undn501 1 665undn501_665undn501 132.400 134.480 <o,f0,unknown> lavička
+665undn501 1 665undn501_665undn501 134.480 136.580 <o,f0,unknown> [spk] zips
+665undn501 1 665undn501_665undn501 136.580 138.720 <o,f0,unknown> ťava
+665undn501 1 665undn501_665undn501 138.720 140.900 <o,f0,unknown> vešiak
+665undn501 1 665undn501_665undn501 140.900 143.120 <o,f0,unknown> žaluď
+665undn501 1 665undn501_665undn501 143.120 145.380 <o,f0,unknown> kaktus
+665undn501 1 665undn501_665undn501 145.380 147.660 <o,f0,unknown> spieva
+665undn501 1 665undn501_665undn501 147.660 149.980 <o,f0,unknown> kúpe sa
+665undn501 1 665undn501_665undn501 149.980 152.400 <o,f0,unknown> meria/merá
+665undn501 1 665undn501_665undn501 152.400 154.700 <o,f0,unknown> pije
+665undn501 1 665undn501_665undn501 154.700 157.100 <o,f0,unknown> klope
+665undn501 1 665undn501_665undn501 157.100 159.320 <o,f0,unknown> skáče
+665undn501 1 665undn501_665undn501 159.320 161.760 <o,f0,unknown> lyžuje
+665undn501 1 665undn501_665undn501 161.760 164.200 <o,f0,unknown> fotí
+665undn501 1 665undn501_665undn501 164.200 166.640 <o,f0,unknown> bicykluje
+665undn501 1 665undn501_665undn501 166.640 168.980 <o,f0,unknown> žehlí
+665undn501 1 inter_segment_gap 168.980 171.910 <o,f0,> 
+665undn501 1 665undn501_665undn501 171.910 174.944 <o,f0,unknown> veľká ruka/ruka: drží.
+665undn501 1 665undn501_665undn501 174.944 181.292 <o,f0,unknown> nie/niem nie malá ruka drží veľkú ruku za malíček všetkými prstami.
+665undn501 1 665undn501_665undn501 181.292 187.605 <o,f0,unknown> na bielom podklade ruky sú namaľované čiernou farbou.
+665undn501 1 665undn501_665undn501 187.605 190.630 <o,f0,unknown> sú tam zvýraznené aj čiary života.
+665undn501 1 excluded_region 190.630 196.415 <o,,unknown> ignore_time_segment_in_scoring
+665undn501 1 665undn501_665undn501 196.415 198.880 <o,f0,unknown> vidím tam aj nechty.
+665undn501 1 inter_segment_gap 198.880 201.196 <o,f0,> 
+665undn501 1 665undn501_665undn501 201.196 202.787 <o,f0,unknown> biely podklad %@.
+665undn501 1 665undn501_665undn501 202.787 205.479 <o,f0,unknown> jeden stôl dve stoličky.
+665undn501 1 665undn501_665undn501 205.479 208.714 <o,f0,unknown> krásne [ned-] vygraven [-ned] %o vygravírované/vygravírojané operadlá.
+665undn501 1 665undn501_665undn501 208.714 211.721 <o,f0,unknown> každá stolička má štyri nohy stôl má tri nohy.
+665undn501 1 665undn501_665undn501 211.721 223.679 <o,f0,unknown> na stole sú položené dve kávy dva hrnčeky s podšálkou. každý má lyžičku a je vidieť že v tom je niečo horúce lebo z toho ide nejaká para alebo niečo také.
+665undn501 1 excluded_region 223.679 228.780 <o,,unknown> ignore_time_segment_in_scoring
+665undn501 1 inter_segment_gap 228.780 231.660 <o,f0,> 
+665undn501 1 665undn501_665undn501 231.660 232.517 <o,f0,unknown> no.
+665undn501 1 inter_segment_gap 232.517 233.893 <o,f0,> 
+665undn501 1 665undn501_665undn501 233.893 236.946 <o,f0,unknown> muž sa pokúša variť v kuchyni.
+665undn501 1 665undn501_665undn501 236.946 241.993 <o,f0,unknown> má tam kuchynskú linku ktorá je zelenej farby ale nejako sa mu to nedarí.
+665undn501 1 665undn501_665undn501 241.993 248.166 <o,f0,unknown> na/na: sporáku má fialovomodrý hrniec z ktorého mu kúpi nejaké jedlo žltej farby.
+665undn501 1 665undn501_665undn501 248.166 253.308 <o,f0,unknown> v skrinke sa mu rozliala fľaša z ktorého [ned-] vy [-ned] z ktorej sa vylieva ružová tekutina.
+665undn501 1 665undn501_665undn501 253.308 257.553 <o,f0,unknown> má na starosti dieťa ktoré sa mu tam akurát tak pletie pod nohy.
+665undn501 1 665undn501_665undn501 257.553 259.329 <o,f0,unknown> stojí na stoličke.
+665undn501 1 665undn501_665undn501 259.329 266.152 <o,f0,unknown> berie si jablko a banán z bieleho taniera. voda tam preteká z umývadla.
+665undn501 1 665undn501_665undn501 266.152 272.025 <o,f0,unknown> pán má v ruke varechu s ktorou rozbil/rozbil dokonca aj lampu sa mu podarilo.
+665undn501 1 665undn501_665undn501 272.025 276.932 <o,f0,unknown> chlapec má na sebe modré nohavice červené tričko červené topánky.
+665undn501 1 665undn501_665undn501 276.932 289.741 <o,f0,unknown> pán má na sebe krásnu modrú zásteru svietivé žlté tričko hnedé nohavice čierne topánky dokonca aj mačka čierna je z toho v šoku. vykukuje vyvaľuje zelenožlté oči.
+665undn501 1 665undn501_665undn501 289.741 297.141 <o,f0,unknown> ružová utierka a už máme aj črepy nejaké na zemi.
+665undn501 1 excluded_region 297.141 304.298 <o,,unknown> ignore_time_segment_in_scoring
+665undn501 1 665undn501_665undn501 304.298 309.029 <o,f0,unknown> aj včelička sa prišla pozrieť čo sa to tam vlastne deje.
+665undn501 1 excluded_region 309.029 318.680 <o,,unknown> ignore_time_segment_in_scoring
+665undn501 1 665undn501_665undn501 318.680 324.719 <o,f0,unknown> ((dobre)) takže na obrázku je zaneprázdnená pani ktorá je matkou.
+665undn501 1 665undn501_665undn501 324.719 327.979 <o,f0,unknown> pokúša sa robiť všetko možné i nemožné.
+665undn501 1 665undn501_665undn501 327.979 331.268 <o,f0,unknown> má na sebe červené tričko žltú zásteru.
+665undn501 1 665undn501_665undn501 331.268 337.078 <o,f0,unknown> drží v ruke dieťa ktoré má na sebe modré [ned-] d [-ned] sivomodré dupačky a vrieska o dušu.
+665undn501 1 665undn501_665undn501 337.078 340.736 <o,f0,unknown> pani sa snaží aj telefonovať ale nejako jej to nejde.
+665undn501 1 665undn501_665undn501 340.736 346.915 <o,f0,unknown> varí na dvojplatničke v ruke panvica/panvica: so slaninkou a s vajíčkami.
+665undn501 1 665undn501_665undn501 346.915 350.116 <o,f0,unknown> na druhej platničke je hrniec s polievkou.
+665undn501 1 665undn501_665undn501 350.116 354.502 <o,f0,unknown> %@ [ned-] krá [-ned] chcela by aj nakrájať nejakú zeleninu.
+665undn501 1 665undn501_665undn501 354.502 365.289 <o,f0,unknown> má tam nôž dve paradajky červené zemiačiky krabicu s mliekom. do toho musí aj pracovať lebo je online doma. má tam počítač.
+665undn501 1 665undn501_665undn501 365.289 367.389 <o,f0,unknown> nič nestíha.
+665undn501 1 665undn501_665undn501 367.389 371.159 <o,f0,unknown> mačička tam ešte skáče po celom tom byte.
+665undn501 1 665undn501_665undn501 371.159 374.870 <o,f0,unknown> zhodila kvety ktoré sa valia dole z police.
+665undn501 1 665undn501_665undn501 374.870 378.834 <o,f0,unknown> %ťa je tam fľaša s vínom medík.
+665undn501 1 665undn501_665undn501 378.834 380.782 <o,f0,unknown> mačka je sivá [spk] .
+665undn501 1 665undn501_665undn501 380.782 385.811 <o,f0,unknown> hodiny už ukazujú že už bolo po obede. obed mal byť dávno hotový.
+665undn501 1 665undn501_665undn501 385.811 392.177 <o,f0,unknown> na ďalšej police sú cibulkové pierka posadené a knihy.
+665undn501 1 665undn501_665undn501 392.177 397.593 <o,f0,unknown> pani má toho všetkého dosť najradšej by si išla kúpiť krásne nové červené lodičky.
+665undn501 1 excluded_region 397.593 408.580 <o,,unknown> ignore_time_segment_in_scoring
+665undn501 1 665undn501_665undn501 408.580 413.187 <o,f0,unknown> tak máme čas vianoc.
+665undn501 1 665undn501_665undn501 413.187 418.052 <o,f0,unknown> to je najhorší čas blázninec/blázinec.ako v každej domácnosti aj tu/tuná .
+665undn501 1 665undn501_665undn501 418.052 420.391 <o,f0,unknown> otec prišiel domov.
+665undn501 1 665undn501_665undn501 420.391 432.512 <o,f0,unknown> bol kupovať kapra ktorého nikto nevidí lebo je zabalený v modrej taške tak aby ho nikto nevidel. vojde dnu hneď sa pošmykne lebo je tam všade neporiadok. dve autíčka na zemi a už padá dole.
+665undn501 1 665undn501_665undn501 432.512 435.079 <o,f0,unknown> červené a žlté autíčko.
+665undn501 1 665undn501_665undn501 435.079 446.289 <o,f0,unknown> pán má na sebe oblečené čierne nohavice hnedé topánky [ned-] hned [-ned] hnedú bundu fialový/ffialový pulóvrik ružovofialový šál hnedú čiapku.
+665undn501 1 665undn501_665undn501 446.289 451.353 <o,f0,unknown> majú aj psa ktorý je hnedý ale ten si to nevšíma lebo spí.
+665undn501 1 665undn501_665undn501 451.353 460.998 <o,f0,unknown> pani je krásne oblečená modré nohavice červené topánočky zelený kabátik ružová blúzička krásny [ned-] hne [-ned] účes hnedých vlasov.
+665undn501 1 665undn501_665undn501 460.998 465.482 <o,f0,unknown> telefonuje [i] a vôbec nedáva pozor čo robí ratolesť.
+665undn501 1 665undn501_665undn501 465.482 476.798 <o,f0,unknown> chlapec tam behá o dušu. zvalil aj stromček vianočný na ktorom je %pf ktorý je už ozdobený je tam plno gulí červené ružové modré ozdoby.
+665undn501 1 665undn501_665undn501 476.798 479.471 <o,f0,unknown> hore krásna hviezda žltá/žĺta.
+665undn501 1 665undn501_665undn501 479.471 489.582 <o,f0,unknown> chlapec pozerá ďalší cez/sez okno dnu čo to sa tam deje za katastrofa. má na sebe krásnu červenú čiapku s brmbolcom/brmboncom.
+665undn501 1 665undn501_665undn501 489.582 495.104 <o,f0,unknown> chlapček čo je dnu má na sebe modré tričko žlté gate s hviezdičkami.

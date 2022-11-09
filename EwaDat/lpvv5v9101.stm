@@ -1,0 +1,114 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:30 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220426
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 0.000 14.940 <o,f0,unknown> special_vokal
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 14.940 22.880 <o,f0,unknown> special_pataka
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 22.880 26.840 <o,f0,unknown> cesta obloha tráva
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 26.840 29.160 <o,f0,unknown> kráľ
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 29.160 31.660 <o,f0,unknown> kniha otvorená
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 31.660 35.580 <o,f0,unknown> most železničný alebo stavebný
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 35.580 38.300 <o,f0,unknown> topánky
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 38.300 41.380 <o,f0,unknown> autobus
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 41.380 44.360 <o,f0,unknown> hodinky
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 44.360 47.640 <o,f0,unknown> cigarety
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 47.640 50.960 <o,f0,unknown> kráľovská koruna
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 50.960 54.400 <o,f0,unknown> bubon s paličkami
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 54.400 57.260 <o,f0,unknown> hodiny
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 57.260 60.840 <o,f0,unknown> pneumatika
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 60.840 63.580 <o,f0,unknown> traktor
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 63.580 66.780 <o,f0,unknown> [hez] to je teplomer
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 66.780 69.880 <o,f0,unknown> lavička na sedenie
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 69.880 72.520 <o,f0,unknown> fajka
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 72.520 75.760 <o,f0,unknown> električka
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 75.760 78.400 <o,f0,unknown> zips
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 78.400 82.940 <o,f0,unknown> to je akvárium? asi to ((x)) áno akvárium
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 82.940 85.360 <o,f0,unknown> metla
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 85.360 87.940 <o,f0,unknown> ťava
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 87.940 92.760 <o,f0,unknown> trachtár ako/jak vy voláte to volám trachtár/traktár
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 92.760 96.780 <o,f0,unknown> [hez] [hez] hríby [hez]
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 96.780 99.340 <o,f0,unknown> vešiak
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 99.340 103.817 <o,f0,unknown> [hez] toto sú krabičky/grabičky s dierkami ((ale čo tu má))
+lpvv5v9101 1 excluded_region 103.817 105.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvv5v9101 1 excluded_region 105.880 107.007 <o,,unknown> ignore_time_segment_in_scoring
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 107.007 108.980 <o,f0,unknown> kotva
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 108.980 113.940 <o,f0,unknown> to je: [ex] žaluď/žalud s hlavičkou
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 113.940 117.880 <o,f0,unknown> to je plávajúca ponorka asi
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 117.880 124.980 <o,f0,unknown> potáp [hez] nie to je do vesmíru spustený [hez] a astronaut
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 124.980 128.920 <o,f0,unknown> to je kaktus pichľavý
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 128.920 131.820 <o,f0,unknown> píše
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 131.820 135.640 <o,f0,unknown> [spk] natiera chlieb maslom
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 135.640 138.860 <o,f0,unknown> [spk] spieva
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 138.860 142.120 <o,f0,unknown> [spk] smeje sa
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 142.120 145.240 <o,f0,unknown> [spk] ťahá lano
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 145.240 148.400 <o,f0,unknown> [spk] kúpe sa
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 148.400 151.700 <o,f0,unknown> [spk] váži
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 151.700 154.680 <o,f0,unknown> [spk] svieti
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 154.680 157.360 <o,f0,unknown> [spk] meria
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 157.360 160.240 <o,f0,unknown> [spk] plače
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 160.240 163.180 <o,f0,unknown> horí
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 163.180 165.740 <o,f0,unknown> pije
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 165.740 168.160 <o,f0,unknown> varí
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 168.160 171.280 <o,f0,unknown> [spk] hádže
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 171.280 173.920 <o,f0,unknown> klope [ruch]
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 173.920 176.740 <o,f0,unknown> telefonuje
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 176.740 179.260 <o,f0,unknown> maľuje
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 179.260 182.360 <o,f0,unknown> preskakuje
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 182.360 185.040 <o,f0,unknown> šije
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 185.040 187.920 <o,f0,unknown> [spk] vŕta
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 187.920 190.760 <o,f0,unknown> lyžuje
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 190.760 193.340 <o,f0,unknown> krája
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 193.340 195.900 <o,f0,unknown> hrabe
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 195.900 199.240 <o,f0,unknown> fotí/foti
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 199.240 201.900 <o,f0,unknown> polieva
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 201.900 204.660 <o,f0,unknown> píli
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 204.660 207.120 <o,f0,unknown> bicykluje
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 207.120 209.960 <o,f0,unknown> [ruch] štrikuje
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 209.960 213.220 <o,f0,unknown> veslujú
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 213.220 216.000 <o,f0,unknown> žehlí/žehli
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 216.000 231.924 <o,f0,unknown> tak je to ruka: k na k ktorú [hez] možno/možna že dieťa začí drží za palec. ruka je [ruch-] otvorená. [-ruch] vidieť na nej vrásky [hez] respektíve [hez] [ruch-] záhyby [-ruch] na [ruch-] jednotlivých [-ruch] prstoch.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 231.924 243.102 <o,f0,unknown> je [hez] celá [hez] tri prsty sú spolu. [ruch-] palec je odtiahnutý [-ruch] . [ruch-] malíček teda je odtiahnutý ktoré drží to malé dieťa za ruku [-ruch] .
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 243.102 246.000 <o,f0,unknown> a je to ako keby dávalo pomoc ale
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 246.000 253.927 <o,f0,unknown> je to stolík alebo pripravenie [hez] pripravené sedenie posedenie/podsedenie pri kávičke.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 253.927 272.642 <o,f0,unknown> na stole sú dve kávičky ktoré čakajú na príchodzích/prichodzích ktorí si sadnú na tie stoličky. po budú pomaly popíjať. budú vyprávať. asi zrejme to je [hez] nejaké stretnutie priateľské kde si chcú oddýchnuť a po [hez] popiť trošku kávičky na nejakej prechádzke alebo v čase voľného času.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 272.642 275.960 <o,f0,unknown> stoličky sú také myslím že kovové
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 275.960 288.682 <o,f0,unknown> toto je záber z kuchyne. kuchynská linka kde zrejme pripravuje varenie manžel [smiech-] ktorý [-smiech] je zúfalý lebo mu kypí z hrnca.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 288.682 293.747 <o,f0,unknown> dieťa je [hez] na stoličke ktorá asi padne lebo sa naťahuje za banánom.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 293.747 304.259 <o,f0,unknown> otec [hez] nedáva naňho pozor pretože nevie asi ako to v kuchyni chodí. tečie mu voda. mačka sa pozerá. voda vyteká dole po zemi.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 304.259 313.225 <o,f0,unknown> je to katastrofa. chudák je celý hotový lebo/lebol [spk] ly [hez] tou varechou sa dotýkal lampy/hlampy. zúfalý nevie čo asi čo má robiť.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 313.225 333.552 <o,f0,unknown> hore z poličky mu tiež niečo vyteká ktoré tam dal čiže nie je zbehlý v domácich prácach ako manželka. nevie sa starať ani asi o to dieťa a o varenie už vôbec lebo je neschopný zabezpečiť práce ktorú robí žena v domácnosti. asi/si zrejme moc nepomáha manželke lebo nevie ako na to.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 333.552 346.860 <o,f0,unknown> [ruch-] mal by dávať pozor aj na dieťa [-ruch] . [ruch-] mal by odstaviť vodu vypnúť [hez] varenie. [-ruch] na poličke asi by [hez] zobrať fľašu ktorá steká dole na zem aby sa na nej nešmykol.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 346.860 362.030 <o,f0,unknown> dieťa aby nespadlo dať ho dole zo stoličky posadiť ošúpať mu banán dať mu aby to zjedol aby tak zabránil katastrofe. nešťastie aby si [ruch-] neublížil [-ruch] on keby sa šmykol/pšmykol na to malé dieťa.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 362.030 365.900 <o,f0,unknown> čiže je to katastrofa v kuchyni.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 365.900 387.626 <o,f0,unknown> no toto je [spk] [smiech-] obrázok [-smiech] matky ktoré hotová z celej domácnosti. zrejme to ako/jak dnešná doba v covide/kovite. covid keď je zaká je daný a ľudia musia byť doma čiže žena ktorá sa má starať o kuchyňu o dieťa celú bezpečnosť. chudera nevládze lebo dieťa plače. má len dve ruky. jedno drží dieťa.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 387.626 401.576 <o,f0,unknown> druhou nadvihuje panvicu na ktorej asi prihára vára ktorú robí. hrniec jej varí p má nach naraz [hez] nakrojenú paradajku ktorú ale nestačila/nestačíla dokončiť pretože dieťa plače.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 401.576 403.433 <o,f0,unknown> musela ho/hu zobrať/zobrat na ruky.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 403.433 410.543 <o,f0,unknown> tu/tuna je z na poličke [hez] mačka zhadzuje. neviem čo sa to tam sype. [hez] zhodila niečo.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 410.543 418.280 <o,f0,unknown> [hez] potom sú hore jej behá po [hez] rozume asi vysoké opätky. [hez] asi na nich stojí a ju tlačia.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 418.280 425.069 <o,f0,unknown> potom sú tam hodiny ktoré ukazujú čas že by to mal byť čas obeda. ona to asi chu nemá celé [hez] dokončené.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 425.069 432.614 <o,f0,unknown> je tam polička s knihami a soľničkami. čiže mlieko ktoré už by malo byť v chladničke/ladničke aby sa nepokazilo.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 432.614 444.266 <o,f0,unknown> čiže žena nemá dostatok času aby dokončila/zokončila jedno po druhom. chce s všetko stihnúť naraz ale je z toho celá zúfalá lebo to dvoma rukami nestíha.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 444.266 446.401 <o,f0,unknown> ešte ďalej hovoriť?
+lpvv5v9101 1 excluded_region 446.401 450.820 <o,,unknown> ignore_time_segment_in_scoring
+lpvv5v9101 1 excluded_region 450.820 452.474 <o,,unknown> ignore_time_segment_in_scoring
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 452.474 471.409 <o,f0,unknown> je to obrázok vianoc [hez] kde je pripravená rodina osláviť/osláv vianočné sviatky ale je tu katastrofa lebo matka telefo:nuje. nedáva pozor na dieťa ktoré dočahuje niečo zo stromčeka k čím zároveň ho ťahá a asi spadne ten stromček. padajú gule.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 471.409 484.917 <o,f0,unknown> je stromček nahnutý. medzitým sa k nim vláme/vláma cez okno/oknok si ho nevšimla zlodej ktorý má v ruke tašku. alebo otec to je? neviem povedať lebo [hez] či to je zlodej lebo nemá zakrytú tvár.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 484.917 491.605 <o,f0,unknown> šmykol sa na s [hez] stúpil na autíčka ktoré malý/maly nechal rozhádzané/rozhádané a zrejme spadne na zem.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 491.605 495.639 <o,f0,unknown> vedľa je psík ktorý si to nevšíma. leží a oddychuje.
+lpvv5v9101 1 lpvv5v9101_lpvv5v9101 495.639 516.241 <o,f0,unknown> cez okno pozerá na to všetku situáciu nejaké dieťa ktoré asi čaká čo všetko sa stane že ako ten stromček spadne na zem prípade na toho chlapčeka a ako spadne na zem ten dospelý ktorý sa vchádza cez dvere do bytu. neni to okno sú to dvere lebo to je vyššie.
+lpvv5v9101 1 excluded_region 516.241 521.421 <o,,unknown> ignore_time_segment_in_scoring

@@ -1,0 +1,145 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:14 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220428
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvwdbl01 1 lpvvwdbl01 0.000 14.940 <o,f0,male> special_vokal
+lpvvwdbl01 1 lpvvwdbl01 14.940 22.880 <o,f0,male> special_pataka
+lpvvwdbl01 1 lpvvwdbl01 22.880 25.200 <o,f0,male> melón
+lpvvwdbl01 1 lpvvwdbl01 25.200 28.100 <o,f0,male> cesta
+lpvvwdbl01 1 lpvvwdbl01 28.100 29.865 <o,f0,male> most
+lpvvwdbl01 1 excluded_region 29.865 31.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 31.280 34.020 <o,f0,male> hodinky náramkové/náronmé
+lpvvwdbl01 1 excluded_region 34.020 34.989 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 34.989 35.825 <o,f0,male> bubon
+lpvvwdbl01 1 excluded_region 35.825 36.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 36.960 39.440 <o,f0,male> traktor
+lpvvwdbl01 1 lpvvwdbl01 39.440 42.460 <o,f0,male> fajka
+lpvvwdbl01 1 lpvvwdbl01 42.460 44.907 <o,f0,male> akvárium
+lpvvwdbl01 1 excluded_region 44.907 46.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 excluded_region 46.160 47.164 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 47.164 48.460 <o,f0,male> lievik
+lpvvwdbl01 1 excluded_region 48.460 49.000 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 49.000 52.080 <o,f0,male> toto neviem. %aha domino
+lpvvwdbl01 1 excluded_region 52.080 55.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 55.600 58.560 <o,f0,male> ponorka
+lpvvwdbl01 1 lpvvwdbl01 58.560 60.897 <o,f0,male> kráľ [smiech]
+lpvvwdbl01 1 excluded_region 60.897 62.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 62.080 64.381 <o,f0,male> poltopánky
+lpvvwdbl01 1 excluded_region 64.381 65.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 65.620 68.920 <o,f0,male> cigarety
+lpvvwdbl01 1 lpvvwdbl01 68.920 71.054 <o,f0,male> budík
+lpvvwdbl01 1 excluded_region 71.054 72.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 72.360 74.940 <o,f0,male> teplomer
+lpvvwdbl01 1 lpvvwdbl01 74.940 77.560 <o,f0,male> električka
+lpvvwdbl01 1 lpvvwdbl01 77.560 80.440 <o,f0,male> metla
+lpvvwdbl01 1 lpvvwdbl01 80.440 84.541 <o,f0,male> [ruch] huby aj dubáky sú tu
+lpvvwdbl01 1 excluded_region 84.541 86.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 86.280 88.940 <o,f0,male> kotva
+lpvvwdbl01 1 lpvvwdbl01 88.940 94.280 <o,f0,male> [hez] astronaut
+lpvvwdbl01 1 lpvvwdbl01 94.280 97.940 <o,f0,male> kniha
+lpvvwdbl01 1 lpvvwdbl01 97.940 101.260 <o,f0,male> autobus
+lpvvwdbl01 1 lpvvwdbl01 101.260 104.811 <o,f0,male> koruna kráľovská
+lpvvwdbl01 1 excluded_region 104.811 106.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 106.240 109.519 <o,f0,male> koleso automobilové
+lpvvwdbl01 1 excluded_region 109.519 111.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 111.420 113.381 <o,f0,male> lavička
+lpvvwdbl01 1 excluded_region 113.381 114.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 114.600 116.105 <o,f0,male> zips
+lpvvwdbl01 1 excluded_region 116.105 117.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 117.440 120.120 <o,f0,male> ťava dvojhrbá
+lpvvwdbl01 1 lpvvwdbl01 120.120 121.974 <o,f0,male> vešiak
+lpvvwdbl01 1 excluded_region 121.974 123.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 123.160 125.511 <o,f0,male> žaluď
+lpvvwdbl01 1 excluded_region 125.511 126.380 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 126.380 128.046 <o,f0,male> kaktus
+lpvvwdbl01 1 excluded_region 128.046 129.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 129.160 131.426 <o,f0,male> [ruch] plávanie
+lpvvwdbl01 1 excluded_region 131.426 132.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 132.600 136.060 <o,f0,male> písanie
+lpvvwdbl01 1 lpvvwdbl01 136.060 139.100 <o,f0,male> smiech
+lpvvwdbl01 1 lpvvwdbl01 139.100 141.924 <o,f0,male> váženie
+lpvvwdbl01 1 excluded_region 141.924 145.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 145.620 148.780 <o,f0,male> plač
+lpvvwdbl01 1 lpvvwdbl01 148.780 150.755 <o,f0,male> varenie
+lpvvwdbl01 1 excluded_region 150.755 151.840 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 151.840 153.970 <o,f0,male> telefonovanie
+lpvvwdbl01 1 excluded_region 153.970 155.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 155.140 157.274 <o,f0,male> šitie
+lpvvwdbl01 1 excluded_region 157.274 158.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 excluded_region 158.660 160.109 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 160.109 162.700 <o,f0,male> krájanie jabĺčka
+lpvvwdbl01 1 lpvvwdbl01 162.700 165.740 <o,f0,male> polievanie
+lpvvwdbl01 1 lpvvwdbl01 165.740 168.621 <o,f0,male> pletenie [smiech]
+lpvvwdbl01 1 excluded_region 168.621 169.920 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 169.920 172.879 <o,f0,male> natieranie ch:leba
+lpvvwdbl01 1 excluded_region 172.879 174.180 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 174.180 180.120 <o,f0,male> hra ťahanie detské
+lpvvwdbl01 1 lpvvwdbl01 180.120 185.120 <o,f0,male> žiarovka svietiaca
+lpvvwdbl01 1 lpvvwdbl01 185.120 188.500 <o,f0,male> požiar
+lpvvwdbl01 1 lpvvwdbl01 188.500 192.140 <o,f0,male> hod oštepom
+lpvvwdbl01 1 lpvvwdbl01 192.140 195.160 <o,f0,male> maľovanie
+lpvvwdbl01 1 lpvvwdbl01 195.160 197.840 <o,f0,male> vŕtanie
+lpvvwdbl01 1 excluded_region 197.840 198.574 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 198.574 200.680 <o,f0,male> hrabanie
+lpvvwdbl01 1 lpvvwdbl01 200.680 203.960 <o,f0,male> pílenie
+lpvvwdbl01 1 lpvvwdbl01 203.960 206.940 <o,f0,male> veslovanie rowing/rouing [ruch]
+lpvvwdbl01 1 lpvvwdbl01 206.940 209.462 <o,f0,male> spievanie
+lpvvwdbl01 1 excluded_region 209.462 210.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 210.660 215.440 <o,f0,male> [smiech-] kúpanie [-smiech] dieťaťa
+lpvvwdbl01 1 lpvvwdbl01 215.440 219.600 <o,f0,male> vymeriavanie
+lpvvwdbl01 1 lpvvwdbl01 219.600 222.620 <o,f0,male> pitie [ruch]
+lpvvwdbl01 1 lpvvwdbl01 222.620 226.840 <o,f0,male> klopanie [ruch] na dvere
+lpvvwdbl01 1 lpvvwdbl01 226.840 229.819 <o,f0,male> skákanie cez švihadlo
+lpvvwdbl01 1 excluded_region 229.819 230.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 230.900 234.160 <o,f0,male> lyžovanie to je moje
+lpvvwdbl01 1 lpvvwdbl01 234.160 237.580 <o,f0,male> fotografovanie
+lpvvwdbl01 1 lpvvwdbl01 237.580 240.740 <o,f0,male> bicyklovanie [ruch]
+lpvvwdbl01 1 lpvvwdbl01 240.740 244.220 <o,f0,male> žehlenie
+lpvvwdbl01 1 excluded_region 244.220 247.814 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 247.814 252.293 <o,f0,male> masírovanie ruky. prstov teda.
+lpvvwdbl01 1 excluded_region 252.293 254.350 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 254.350 257.233 <o,f0,male> a k k tomu mám ešte voľačo?
+lpvvwdbl01 1 excluded_region 257.233 263.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 excluded_region 263.580 267.310 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 267.310 277.831 <o,f0,male> pripravené je občerstvenie pre [ruch] dvojicu ľudí [ruch] kávičkou ktorá je ešte teplá.
+lpvvwdbl01 1 lpvvwdbl01 277.831 287.636 <o,f0,male> stoličky sú ešte nie odsunuté aby sa dalo do nich sadnúť. na ne sadnúť.
+lpvvwdbl01 1 lpvvwdbl01 287.636 293.520 <o,f0,male> ten stôl sa mi zdá byť veľmi labilný. [ruch] no ale čo už s ním. [ruch]
+lpvvwdbl01 1 excluded_region 293.520 300.342 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 300.342 321.338 <o,f0,male> mu muž asi varí. a zároveň mu vykypelo z hrnca. [ruch] rozčuľuje ho [ruch-] pravdepodobne [-ruch] aj dieťa ktoré v snahe obslúžiť sa samé zobralo si banán aj zabudlo že stolička je labilná a že sa zrúti domov.
+lpvvwdbl01 1 lpvvwdbl01 321.338 335.971 <o,f0,male> mačka sa tomu celému čuduje. a pritom naliali do výlevky nejaký saponát alebo čo a už je tak sa napenený že prerastá preteká.
+lpvvwdbl01 1 excluded_region 335.971 339.592 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 339.592 356.162 <o,f0,male> zároveň tam na stene majú nepa [ruch-] neopatrne položenú fľašu neviem s čím [-ruch] ktorá vyteká a [spk] a hrozí tomu že n bude tiecť do toho hrnca. v ktorom sa niečo varí.
+lpvvwdbl01 1 excluded_region 356.162 360.245 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 360.245 366.594 <o,f0,male> tá mačka je rafinovaná ale sa čuduje tomu celému že čo sa tam deje.
+lpvvwdbl01 1 lpvvwdbl01 366.594 383.460 <o,f0,male> a muž je tak z celého toho konšternovaný/konsternovaný že až rozbíja [hez] lampu na ktorej p pri ktorej letela asi osa podľa zafarbenia no a tou varechou
+lpvvwdbl01 1 lpvvwdbl01 383.460 386.665 <o,f0,male> [ruch-] no chudera. [-ruch]
+lpvvwdbl01 1 excluded_region 386.665 389.054 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 389.054 403.844 <o,f0,male> sk snaží sa obslúžiť naraz [spk] tá žena aj varenie aj dieťa aj tak trochu zvieratá a všetko jej ide mimo rúk.
+lpvvwdbl01 1 excluded_region 403.844 406.965 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 406.965 421.417 <o,f0,male> a zrejme [hez] ju aj [hez] bolia nohy lebo má na nich asi [ruch] vysoké štekle čo je neni dobré [ruch-] ob obutie na takúto činnosť. [-ruch]
+lpvvwdbl01 1 lpvvwdbl01 421.417 435.396 <o,f0,male> [ruch] zabudla sa pozrieť/pozreť do [hez] knihy kuchárskej ktorú má asi na poličke a už sa blíži čas kedy má mať hotový obed lebo je po dvanástej.
+lpvvwdbl01 1 lpvvwdbl01 435.396 455.517 <o,f0,male> decko je hladné. možnože za chvíľu príde muž z roboty hladný a bude sa rozčuľovať ak je necitlivý ak zabudne že tá činnosť manželky je niekedy viacej hodná ako jeho robota a únavnejšia.
+lpvvwdbl01 1 lpvvwdbl01 455.517 466.529 <o,f0,male> no a tak a ešte tá mačka zvalila do z tej poličky aj nejaké zelinky alebo také voľačo/volačo a vyliala čo tam bolo.
+lpvvwdbl01 1 lpvvwdbl01 466.529 470.560 <o,f0,male> [ruch] čo ešte by sa dalo?
+lpvvwdbl01 1 lpvvwdbl01 470.560 477.544 <o,f0,male> vianoce vianoce prichádzajú/pžicházejí.
+lpvvwdbl01 1 lpvvwdbl01 477.544 497.729 <o,f0,male> oslava vianoc je najkrajší sviatok v rodine/rodiny. tešia sa na ňu deti muži ženy. no ale obyčajne sa tešia z tých darčekov čo dostanú a z toho ich predstavuje pre nich celé ale vianoce sú trochu o inom. pre mňa aspoň/aspom.
+lpvvwdbl01 1 lpvvwdbl01 497.729 504.760 <o,f0,male> že sa stretneme. [ruch] že si zaspomíname najmä v tomto našom veku s manželkou.
+lpvvwdbl01 1 excluded_region 504.760 507.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 507.400 513.760 <o,f0,male> a že [ruch-] spomíname na [-ruch] krásne časy ktoré sme zažili aj spolu aj s deckami.
+lpvvwdbl01 1 excluded_region 513.760 518.218 <o,,unknown> ignore_time_segment_in_scoring
+lpvvwdbl01 1 lpvvwdbl01 518.218 545.018 <o,f0,male> a obyčajne to končí tak že ideme spať. uťahaní. keďže decká už [ruch] u nás nie sú ale títo rodičia to asi nemajú jedno ak sú to rodičia. vyzerajú že možnože áno možnože nie.

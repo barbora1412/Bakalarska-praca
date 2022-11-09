@@ -1,0 +1,124 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:24 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220427
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 0.000 14.920 <o,f0,unknown> special_vokal
+lpvvnkoz01 1 excluded_region 14.920 15.656 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 15.656 16.413 <o,f0,unknown> melón
+lpvvnkoz01 1 excluded_region 16.413 17.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 17.340 19.934 <o,f0,unknown> cesta
+lpvvnkoz01 1 excluded_region 19.934 20.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 20.960 22.182 <o,f0,unknown> nie je cesta
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 22.182 24.200 <o,f0,unknown> most
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 24.200 26.820 <o,f0,unknown> [ruch] hodinky
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 26.820 29.280 <o,f0,unknown> bubon
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 29.280 31.740 <o,f0,unknown> traktor
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 31.740 34.620 <o,f0,unknown> [ruch-] fajka [-ruch]
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 34.620 37.560 <o,f0,unknown> akvárium
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 37.560 40.260 <o,f0,unknown> lievik
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 40.260 43.560 <o,f0,unknown> domino
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 43.560 46.260 <o,f0,unknown> ponorka
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 46.260 49.280 <o,f0,unknown> kráľ
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 49.280 51.840 <o,f0,unknown> topánky
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 51.840 54.640 <o,f0,unknown> cigarety
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 54.640 57.880 <o,f0,unknown> budík
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 57.880 60.400 <o,f0,unknown> teplomer
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 60.400 62.173 <o,f0,unknown> električka/eletrička
+lpvvnkoz01 1 excluded_region 62.173 62.940 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 62.940 65.300 <o,f0,unknown> metla
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 65.300 68.620 <o,f0,unknown> hríby
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 68.620 71.160 <o,f0,unknown> kotva
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 71.160 74.080 <o,f0,unknown> kozmonaut
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 74.080 76.360 <o,f0,unknown> kniha
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 76.360 79.220 <o,f0,unknown> autobus
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 79.220 81.880 <o,f0,unknown> koruna
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 81.880 83.809 <o,f0,unknown> koleso
+lpvvnkoz01 1 excluded_region 83.809 84.740 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 84.740 87.240 <o,f0,unknown> ((xx)) koleso lavička
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 87.240 89.360 <o,f0,unknown> zips
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 89.360 91.800 <o,f0,unknown> [spk] ťava
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 91.800 94.180 <o,f0,unknown> vešiak
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 94.180 96.640 <o,f0,unknown> žaluď
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 96.640 98.523 <o,f0,unknown> kaktus
+lpvvnkoz01 1 excluded_region 98.523 99.120 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 99.120 102.129 <o,f0,unknown> plavec pláva
+lpvvnkoz01 1 excluded_region 102.129 103.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 103.560 107.220 <o,f0,unknown> píše
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 107.220 109.259 <o,f0,unknown> smeje sa
+lpvvnkoz01 1 excluded_region 109.259 110.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 110.580 112.960 <o,f0,unknown> váži
+lpvvnkoz01 1 excluded_region 112.960 113.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 113.960 116.720 <o,f0,unknown> plače
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 116.720 119.120 <o,f0,unknown> varí
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 119.120 121.067 <o,f0,unknown> telefonuje
+lpvvnkoz01 1 excluded_region 121.067 121.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 121.880 124.180 <o,f0,unknown> šije
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 124.180 126.860 <o,f0,unknown> krája
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 126.860 129.360 <o,f0,unknown> polieva
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 129.360 131.880 <o,f0,unknown> štrikuje
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 131.880 134.540 <o,f0,unknown> natiera chlieb
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 134.540 143.025 <o,f0,unknown> [hez] zápasí alebo súťaží [hez] poťahuje motúz
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 143.025 145.480 <o,f0,unknown> [hez] svieti
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 145.480 148.440 <o,f0,unknown> horí
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 148.440 152.080 <o,f0,unknown> hádže oštep špor
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 152.080 155.200 <o,f0,unknown> maľuje
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 155.200 158.200 <o,f0,unknown> vŕta
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 158.200 162.220 <o,f0,unknown> upratuje
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 162.220 165.300 <o,f0,unknown> reže píli
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 165.300 168.740 <o,f0,unknown> veslujú
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 168.740 171.400 <o,f0,unknown> spieva
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 171.400 174.600 <o,f0,unknown> [hez] kúpe sa
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 174.600 178.000 <o,f0,unknown> meria
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 178.000 180.380 <o,f0,unknown> pije
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 180.380 183.360 <o,f0,unknown> klope
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 183.360 186.680 <o,f0,unknown> s skáče
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 186.680 189.920 <o,f0,unknown> špor lyžuje
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 189.920 193.880 <o,f0,unknown> fotografuje fotí
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 193.880 197.000 <o,f0,unknown> bicykluje sa
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 197.000 199.700 <o,f0,unknown> žehlí
+lpvvnkoz01 1 excluded_region 199.700 202.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 202.220 216.722 <o,f0,unknown> na obrázku je ruka mamy ktorá [hez] [hez] ju ponúkla svojmu dieťatku/dieťaťtku [hez] [hez] [hez] ktoré zovrelo mamin malíček [hez] .
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 216.722 220.683 <o,f0,unknown> %mhm skúste hovoriť ďalej. ešte? %mhm
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 220.683 227.217 <o,f0,unknown> [hez] dieťa cíti teplo ma z maminej ruky a spokojné. neplače.
+lpvvnkoz01 1 excluded_region 227.217 229.680 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 229.680 259.620 <o,f0,unknown> [hez] zátišie v kaviarni: [hez] [hez] pripravené pre [hez] dvoch [hez] [hez] [hez] [hez] ľudí ktorí sa chcú stretnúť a porozprávať vypiť kávu [hez] [hez] [hez] [hez] posedieť si [hez] pospomínať [hez] lebo káva je obľúbený nápoj [hez] obidvo .
+lpvvnkoz01 1 excluded_region 259.620 261.946 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 261.946 271.982 <o,f0,unknown> muž v kuchyni [hez] [hez] je [hez] [hez] [hez] vyzerá väč väčšinou muž v kuchyni vyzerá ako na tomto obrázku.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 271.982 277.283 <o,f0,unknown> je tam neporiadok rozliate cesto rozbitá lampa.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 277.283 288.031 <o,f0,unknown> [hez] [hez] dieťa [hez] dieťaťu hrozí úraz keď sa naťahuje za ovocím pretože otec nemá čas aby mu ho prichystal.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 288.031 298.851 <o,f0,unknown> [hez] mačka [hez] sleduje [hez] túto hrôzu a radšej sa stiahla poza stôl aby [hez] nedošlo k úrazu.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 298.851 308.197 <o,f0,unknown> a: otec má zásteru ale z varenia [hez] asi nič nebude.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 308.197 319.276 <o,f0,unknown> [hez] [hez] z drezu/dresu sa leje voda:. [hez] [hez] [hez] v všade je špina a neporiadok.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 319.276 329.500 <o,f0,unknown> [hez] v skrinkách [hez] j [hez] nie je už temer žiaden riad všetko je rozbité.
+lpvvnkoz01 1 excluded_region 329.500 334.771 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 334.771 349.560 <o,f0,unknown> a otec [hez] otec hrozí [hez] hrozí niekomu s vareškou %hm: a popritom sa mu podarí rozbiť aj lampu ktorá visí nad jeho hlavou.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 349.560 358.572 <o,f0,unknown> no: to je z naozaj zaneprázdnená matka ktorá má síce len dve ruky ale stíha urobiť naraz desať činností.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 358.572 376.968 <o,f0,unknown> takže v jednej ruke drží dieťatko. [hez] v druhej [hez] pri uchu má telefón. v ďalšej [hez] ruke [hez] má panvicu kde otáča [hez] kde prehadzuje mäsko pretože nemá už voľnú ruku.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 376.968 385.342 <o,f0,unknown> ďalší hrniec sa varí. [hez] zatiaľ nekypí. [hez]
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 385.342 402.748 <o,f0,unknown> [hez] čas je [hez] [hez] [hez] [hez] už po dvanástej hodine takže [hez] je najvyšší čas aby bol obed pripravený ale chýba ešte nakrájať zeleninu a cibuľu.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 402.748 417.978 <o,f0,unknown> no a do toho [hez] neplechu robí aj domáce zvieratko ma mačka ktorá [hez] [hez] na poli z poličky zhodila vázu s kvetmi.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 417.978 439.480 <o,f0,unknown> a v tej chvíli napadlo mamičku že musí si vyzuť [hez] krásne lodičky ktoré [hez] z ktorých mi prišla z nákupu ktorý vyložila na stôl vrátane/včítane [hez] krabice mlieka.
+lpvvnkoz01 1 excluded_region 439.480 443.286 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 443.286 461.826 <o,f0,unknown> čas krásny čas vianočný ale rodine [hez] na rodinu sa valí všetko. vonku sneží. otec sa šmykol hneď vo dverách s postúpal synovi [hez] rozmliaždil mu autíčka.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 461.826 468.405 <o,f0,unknown> mamička do toho telefonuje so svokrou ktorá nechce prísť na oslavu.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 468.405 478.456 <o,f0,unknown> chlapček [hez] ťahá stromček za za šnúru. podarí sa mu ho asi zhodiť ak [hez] ho rýchlo nezastavia.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 478.456 494.977 <o,f0,unknown> a vonku sneží a sneží. a chlapec od susedov ktorý žije len s babičkou nazerá cez okno a závidí rodi ra závidí kamarátovi že má oboch rodičov.
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 494.977 505.560 <o,f0,unknown> [ruch] ale psík je absolútne v pohode. dostal veľkú kosť pred chvíľkou. teraz drieme a čaká asi čaká na darčeky.
+lpvvnkoz01 1 excluded_region 505.560 509.447 <o,,unknown> ignore_time_segment_in_scoring
+lpvvnkoz01 1 lpvvnkoz01_lpvvnkoz01 509.447 523.449 <o,f0,unknown> ocko padá a padá a nákup hrozí že [spk] to čo je v nákupnej taške sa rozbije a a rozsype po krásnom fialovom koberci.
+lpvvnkoz01 1 excluded_region 523.449 529.440 <o,,unknown> ignore_time_segment_in_scoring

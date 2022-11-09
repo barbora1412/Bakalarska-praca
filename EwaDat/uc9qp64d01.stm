@@ -1,0 +1,104 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:38 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 0.000 14.920 <o,f0,unknown> special_vokal
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 14.920 22.880 <o,f0,unknown> special_pataka
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 22.880 26.620 <o,f0,unknown> [ruch] cesta [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 26.620 29.500 <o,f0,unknown> kráľ [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 29.500 32.340 <o,f0,unknown> kniha
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 32.340 35.220 <o,f0,unknown> most
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 35.220 38.080 <o,f0,unknown> topánky
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 38.080 40.860 <o,f0,unknown> [spk] autobus
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 40.860 43.740 <o,f0,unknown> hodinky
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 43.740 46.480 <o,f0,unknown> cigarety
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 46.480 49.120 <o,f0,unknown> koruna
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 49.120 51.760 <o,f0,unknown> [spk] bubon [spk]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 51.760 54.460 <o,f0,unknown> [spk] budík [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 54.460 56.740 <o,f0,unknown> koleso [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 56.740 59.280 <o,f0,unknown> traktor
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 59.280 62.000 <o,f0,unknown> teplomer
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 62.000 65.540 <o,f0,unknown> [spk] la lavička [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 65.540 68.120 <o,f0,unknown> fajka
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 68.120 71.220 <o,f0,unknown> električka
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 71.220 73.800 <o,f0,unknown> zips [hez]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 73.800 76.780 <o,f0,unknown> akvárium
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 76.780 79.260 <o,f0,unknown> metla
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 79.260 81.840 <o,f0,unknown> [spk] ťava
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 81.840 84.360 <o,f0,unknown> [spk] lievik
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 84.360 86.920 <o,f0,unknown> [spk] huby
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 86.920 89.400 <o,f0,unknown> [spk] vešiak
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 89.400 93.660 <o,f0,unknown> [spk] [hez] domino [ruch]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 93.660 96.280 <o,f0,unknown> kotva [ruch]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 96.280 99.006 <o,f0,unknown> [ned-] ga [-ned] gaštan
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 99.006 101.460 <o,f0,unknown> žaluď [smiech]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 101.460 104.200 <o,f0,unknown> ponorka
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 104.200 107.440 <o,f0,unknown> astronaut [spk]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 107.440 110.000 <o,f0,unknown> kaktus
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 110.000 113.720 <o,f0,unknown> čiže píše [hez]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 113.720 116.440 <o,f0,unknown> %mm [hez] natiera
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 116.440 119.160 <o,f0,unknown> [hez] spievať
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 119.160 123.420 <o,f0,unknown> [hez] [hez] [ned-] smia [-ned] smiech smiať
+uc9qp64d01 1 excluded_region 123.420 124.195 <o,,unknown> ignore_time_segment_in_scoring
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 124.195 127.900 <o,f0,unknown> aha [hez] ťahá [spk]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 127.900 132.340 <o,f0,unknown> kúpa kúpe sa
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 132.340 135.380 <o,f0,unknown> [hez] váženie
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 135.380 139.840 <o,f0,unknown> [hez] s [hez] o [hez] [hez] svieti
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 139.840 142.360 <o,f0,unknown> meria
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 142.360 144.840 <o,f0,unknown> plače
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 144.840 147.700 <o,f0,unknown> [ruch] horí
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 147.700 150.180 <o,f0,unknown> pije
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 150.180 152.380 <o,f0,unknown> varí
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 152.380 155.040 <o,f0,unknown> hádže
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 155.040 157.460 <o,f0,unknown> klope [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 157.460 160.020 <o,f0,unknown> telefonuje
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 160.020 162.460 <o,f0,unknown> maľuje
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 162.460 164.840 <o,f0,unknown> skáče
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 164.840 167.100 <o,f0,unknown> [hez] šije
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 167.100 169.520 <o,f0,unknown> vŕta
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 169.520 172.100 <o,f0,unknown> [ruch] lyžuje [ruch]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 172.100 174.640 <o,f0,unknown> [spk] reže
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 174.640 176.880 <o,f0,unknown> [spk] hrabe
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 176.880 179.380 <o,f0,unknown> fotí
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 179.380 181.880 <o,f0,unknown> [hez] polieva
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 181.880 184.460 <o,f0,unknown> reže
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 184.460 187.060 <o,f0,unknown> bicykluje
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 187.060 189.500 <o,f0,unknown> pletie
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 189.500 191.960 <o,f0,unknown> vesluje
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 191.960 194.400 <o,f0,unknown> žehlí
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 194.400 214.957 <o,f0,unknown> [spk] malé dieťa drží [hez] [hez] matku alebo otca rodiča za: [hez] malíček a: [hez] [hez] [ruch] je to [hez] veľmi [hez] pekný obrázok [ruch] ktorý [hez] vo mne evokuje príjemné pocity.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 214.957 221.653 <o,f0,unknown> [hez] [ruch-] je tam spolu desať prstov [-ruch] [smiech] [smiech-] na obrázku [-smiech] .
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 221.653 224.320 <o,f0,unknown> tak asi toľko.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 224.320 237.337 <o,f0,unknown> [spk] [hez] na obrázku vidím [hez] pri [hez] pekné stoličky so stolíkom a dve kávičky z ktorých sa [hez] pekne [hez] %mm parí [hez] káva.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 237.337 254.240 <o,f0,unknown> [spk] a: sú tam lyžičky: a: tiene [hez] vrhajúce nábytok vrhá tiene. [spk] a: [hez] je to pekný čierno biely obrázok [hez] dvoch káv a stoličiek a stolíka.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 254.240 268.313 <o,f0,unknown> takže na obrázku je poriadny bordel v kuchyni ktorý keď muž varí [hez] je sú tam vykypený hrniec roztečená fľaša hladné dieťa ktoré si už radšej berie banán.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 268.313 287.457 <o,f0,unknown> voda preteká z umývadla. mačka je z toho celá zhrozená. dieťa samozrejme padá zo stoličky lebo otec alebo ten muž nevenuje pozornosť tomu čo: dieťa robí lebo zabíja včelu varechou a pritom rozbíja lampu.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 287.457 298.819 <o,f0,unknown> [spk] a: [hez] samozrejme hrniec mu kypí [spk] a: je to taký chaotický obrázok [hez] aj v chaotických farbách.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 298.819 330.303 <o,f0,unknown> [hez] a muž má kráľovský modrú zásteru na sebe takú dráždivú a: %mm [hez] dieťa vyzerá veľmi spokojne ale ešte netuší čo sa mu stane [spk] lebo stolička sa prevracia a: v podstate otec asi chce to dieťa zachrániť lebo aby ho nepichla včela tak preto tam asi vznikol ten chaos [hez] keďže sa snaží tú včelu zabiť.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 330.303 344.160 <o,f0,unknown> mačka má vypúlené čierna mačka má vypúlené oči [spk] a: [hez] všetko je také chaotické na obrázku.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 344.160 365.285 <o,f0,unknown> [spk] no. matka v kuchyni samozrejme denné denná [hez] naša rutina [spk] [hez] sto vecí robí naraz. pečie vajíčka so slaninou varí zemiaky a zeleninu v hrnci [hez] pracuje na laptope: dieťa jej plače na rukách telefón pri uchu.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 365.285 394.500 <o,f0,unknown> [hez] mačka na poličke zhadzuje vázu a [hez] aha tá matka asi nakupuje topánky rozmýšľa nad topánkami [spk] a: pritom stíha aj variť zeleninovú polievku vidím tam zeleninu ako zemiaky [hez] rozrezané paradajky paprika cibuľa [spk] %mhm [hez] má špinavú zásteru na sebe.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 394.500 417.416 <o,f0,unknown> aj ona vyzerá celá taká spotená upotená. dieťa v slzách [hez] plačúce ale tak to je normálne že deti stále plačú také malé [ex-] keď sa im nevenujete [-ex] . ale tá matka sa snaží [ex] všetko [hez] stihnúť len [hez] asi je toho na ňu veľa.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 417.416 434.100 <o,f0,unknown> [spk] a to je ešte len [hez] dvadsať minút po dvanástej to decko by už malo spať. aha preto asi plače lebo je hladné a ona má ešte plno iných povinností ktoré dokončuje. a tá mačka tomu tiež nepridáva [ned-] keďže [-ned] .
+uc9qp64d01 1 excluded_region 434.100 435.237 <o,,unknown> ignore_time_segment_in_scoring
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 435.237 450.543 <o,f0,unknown> vianoce [ruch-] krásne čas [-ruch] v roku [spk] kedy by to malo byť pokojné ale tu na tomto obrázku to vyzerá očividne veselo. otec prišiel domov z práce na zemi je bordel pošmykol sa na autíčkach. [ex]
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 450.543 467.540 <o,f0,unknown> vonku sneží. malý chlapček [hez] asi sa [ruch-] snaží ozdobiť stromček ale [-ruch] [hez] vyzerá to že ten stromček skôr naňho spadne. už je tam pár rozbitých gulí farebných [spk] [hez] pestrofarebných červená ružová modrá.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 467.540 483.911 <o,f0,unknown> [hez] veselo psík si spokojne spinká. mamička telefonuje asi ježiškovi aké darčeky má priniesť a: za oknom [hez] je [ruch-] druhé dieťa ktoré sleduje [hez] vydesene [-ruch] čo sa to deje v tej rodine.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 483.911 488.212 <o,f0,unknown> [hez] otec má v ruke nákupnú tašku.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 488.212 498.331 <o,f0,unknown> trochu je sporo odetý na to že vonku je taká fujavica ako tam je nakreslené má len šál čiapku a svetrík a nejaké papučky na nohách.
+uc9qp64d01 1 uc9qp64d01_uc9qp64d01 498.331 509.151 <o,f0,unknown> ale [hez] mamička má pekný zelený vianočný svetrík červené papučky. vyzerá veľmi spokojne.

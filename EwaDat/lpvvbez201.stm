@@ -1,0 +1,138 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:24 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvbez201 1 lpvvbez201_lpvvbez201 0.000 14.920 <o,f0,unknown> special_vokal
+lpvvbez201 1 lpvvbez201_lpvvbez201 14.920 22.860 <o,f0,unknown> special_pataka
+lpvvbez201 1 lpvvbez201_lpvvbez201 22.860 25.720 <o,f0,unknown> [ruch-] cesta
+lpvvbez201 1 lpvvbez201_lpvvbez201 25.720 28.240 <o,f0,unknown> kráľ
+lpvvbez201 1 lpvvbez201_lpvvbez201 28.240 30.340 <o,f0,unknown> kniha
+lpvvbez201 1 lpvvbez201_lpvvbez201 30.340 32.560 <o,f0,unknown> most
+lpvvbez201 1 lpvvbez201_lpvvbez201 32.560 34.800 <o,f0,unknown> topánky
+lpvvbez201 1 lpvvbez201_lpvvbez201 34.800 37.160 <o,f0,unknown> autobus
+lpvvbez201 1 lpvvbez201_lpvvbez201 37.160 39.440 <o,f0,unknown> hodinky
+lpvvbez201 1 lpvvbez201_lpvvbez201 39.440 42.120 <o,f0,unknown> cigarety [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 42.120 44.860 <o,f0,unknown> koruna
+lpvvbez201 1 lpvvbez201_lpvvbez201 44.860 47.240 <o,f0,unknown> [ruch-] bubny. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 47.240 49.820 <o,f0,unknown> budík
+lpvvbez201 1 lpvvbez201_lpvvbez201 49.820 52.820 <o,f0,unknown> [hez] koleso
+lpvvbez201 1 lpvvbez201_lpvvbez201 52.820 55.220 <o,f0,unknown> traktor
+lpvvbez201 1 lpvvbez201_lpvvbez201 55.220 57.820 <o,f0,unknown> [ruch-] teplomer [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 57.820 59.709 <o,f0,unknown> lavica
+lpvvbez201 1 excluded_region 59.709 61.320 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbez201 1 lpvvbez201_lpvvbez201 61.320 62.920 <o,f0,unknown> fajka
+lpvvbez201 1 lpvvbez201_lpvvbez201 62.920 65.820 <o,f0,unknown> električka
+lpvvbez201 1 lpvvbez201_lpvvbez201 65.820 68.140 <o,f0,unknown> zips
+lpvvbez201 1 lpvvbez201_lpvvbez201 68.140 70.760 <o,f0,unknown> akvárium
+lpvvbez201 1 lpvvbez201_lpvvbez201 70.760 72.900 <o,f0,unknown> metla
+lpvvbez201 1 lpvvbez201_lpvvbez201 72.900 75.620 <o,f0,unknown> ťava
+lpvvbez201 1 lpvvbez201_lpvvbez201 75.620 78.460 <o,f0,unknown> [hez] lievik
+lpvvbez201 1 lpvvbez201_lpvvbez201 78.460 81.020 <o,f0,unknown> hríby
+lpvvbez201 1 lpvvbez201_lpvvbez201 81.020 83.400 <o,f0,unknown> vešiak
+lpvvbez201 1 lpvvbez201_lpvvbez201 83.400 85.700 <o,f0,unknown> domino
+lpvvbez201 1 lpvvbez201_lpvvbez201 85.700 88.060 <o,f0,unknown> kotva
+lpvvbez201 1 lpvvbez201_lpvvbez201 88.060 90.337 <o,f0,unknown> [hez] žaluď
+lpvvbez201 1 excluded_region 90.337 91.962 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbez201 1 excluded_region 91.962 91.963 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbez201 1 lpvvbez201_lpvvbez201 91.963 93.900 <o,f0,unknown> ponorka
+lpvvbez201 1 lpvvbez201_lpvvbez201 93.900 96.420 <o,f0,unknown> kozmonaut
+lpvvbez201 1 lpvvbez201_lpvvbez201 96.420 99.300 <o,f0,unknown> kaktus
+lpvvbez201 1 lpvvbez201_lpvvbez201 99.300 101.460 <o,f0,unknown> píše
+lpvvbez201 1 lpvvbez201_lpvvbez201 101.460 103.980 <o,f0,unknown> natiera
+lpvvbez201 1 lpvvbez201_lpvvbez201 103.980 106.300 <o,f0,unknown> spieva
+lpvvbez201 1 lpvvbez201_lpvvbez201 106.300 108.820 <o,f0,unknown> smeje sa
+lpvvbez201 1 lpvvbez201_lpvvbez201 108.820 111.260 <o,f0,unknown> ťahá
+lpvvbez201 1 lpvvbez201_lpvvbez201 111.260 114.040 <o,f0,unknown> kúpe/kupe sa
+lpvvbez201 1 lpvvbez201_lpvvbez201 114.040 116.800 <o,f0,unknown> váži
+lpvvbez201 1 lpvvbez201_lpvvbez201 116.800 119.340 <o,f0,unknown> svieti
+lpvvbez201 1 lpvvbez201_lpvvbez201 119.340 121.740 <o,f0,unknown> meria
+lpvvbez201 1 lpvvbez201_lpvvbez201 121.740 124.060 <o,f0,unknown> plače
+lpvvbez201 1 lpvvbez201_lpvvbez201 124.060 126.860 <o,f0,unknown> [ruch-] horí
+lpvvbez201 1 lpvvbez201_lpvvbez201 126.860 129.280 <o,f0,unknown> pije
+lpvvbez201 1 lpvvbez201_lpvvbez201 129.280 131.540 <o,f0,unknown> varí
+lpvvbez201 1 lpvvbez201_lpvvbez201 131.540 134.520 <o,f0,unknown> [ruch-] športuje hádže [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 134.520 137.000 <o,f0,unknown> klope [ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 137.000 139.500 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 139.500 141.900 <o,f0,unknown> maľuje
+lpvvbez201 1 lpvvbez201_lpvvbez201 141.900 144.180 <o,f0,unknown> [spk] skáče
+lpvvbez201 1 lpvvbez201_lpvvbez201 144.180 146.500 <o,f0,unknown> šije
+lpvvbez201 1 lpvvbez201_lpvvbez201 146.500 148.800 <o,f0,unknown> vŕta
+lpvvbez201 1 lpvvbez201_lpvvbez201 148.800 151.080 <o,f0,unknown> [ruch-] lyžuje [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 151.080 153.380 <o,f0,unknown> krája
+lpvvbez201 1 lpvvbez201_lpvvbez201 153.380 155.960 <o,f0,unknown> hrabe
+lpvvbez201 1 lpvvbez201_lpvvbez201 155.960 158.240 <o,f0,unknown> [ruch] fotí
+lpvvbez201 1 lpvvbez201_lpvvbez201 158.240 160.640 <o,f0,unknown> polieva
+lpvvbez201 1 lpvvbez201_lpvvbez201 160.640 163.080 <o,f0,unknown> [ruch-] reže [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 163.080 165.720 <o,f0,unknown> [ruch-] bicykluje
+lpvvbez201 1 lpvvbez201_lpvvbez201 165.720 168.500 <o,f0,unknown> [hez] štrikuje
+lpvvbez201 1 lpvvbez201_lpvvbez201 168.500 171.686 <o,f0,unknown> [hez] pláva. ((v ňom)).
+lpvvbez201 1 lpvvbez201_lpvvbez201 171.686 172.596 <o,f0,unknown> športuje
+lpvvbez201 1 lpvvbez201_lpvvbez201 172.596 174.124 <o,f0,unknown> neviem kajak či čo to [smiech-] je [-smiech]
+lpvvbez201 1 excluded_region 174.124 175.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbez201 1 lpvvbez201_lpvvbez201 175.280 177.960 <o,f0,unknown> [spk] žehlí
+lpvvbez201 1 lpvvbez201_lpvvbez201 177.960 181.401 <o,f0,unknown> [ruch] ((no)) vidím ruku.
+lpvvbez201 1 lpvvbez201_lpvvbez201 181.401 187.472 <o,f0,unknown> [hez] [ruch-] asi dospelá [hez] dieťatko ju drží. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 187.472 192.232 <o,f0,unknown> [ruch-] možno to je ruka [hez] maminky a dieťatka. [-ruch]
+lpvvbez201 1 excluded_region 192.232 193.758 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbez201 1 lpvvbez201_lpvvbez201 193.758 196.266 <o,f0,unknown> %hm sú tam pršteky.
+lpvvbez201 1 lpvvbez201_lpvvbez201 196.266 200.374 <o,f0,unknown> [hez] [ruch] [hez] ako keby tam bola istota [ruch-] toho dieťatka. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 200.374 207.880 <o,f0,unknown> [hez] [hez] sú to zdravé ručičky. [smiech]
+lpvvbez201 1 excluded_region 207.880 210.028 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbez201 1 lpvvbez201_lpvvbez201 210.028 212.690 <o,f0,unknown> [hez] [ruch-] stôl vidím stoličky. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 212.690 218.082 <o,f0,unknown> [hez] [ruch-] káva možno čaj to je [hez] pre dve osoby. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 218.082 220.821 <o,f0,unknown> [ruch-] osoby tam ešte nie sú. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 220.821 223.722 <o,f0,unknown> [hez] [ruch-] káva čaj vyzerá byť horúce. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 223.722 229.273 <o,f0,unknown> [hez] [ruch-] sú tam [hez] dva tanieriky dve šálky dve lyžičky. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 229.273 233.724 <o,f0,unknown> [hez] [ruch-] čiže je to ako pre dve osoby. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 233.724 237.820 <o,f0,unknown> [hez] [ruch-] to je asi [spk] [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 237.820 242.156 <o,f0,unknown> [hez] [ruch-] vidím muža [-ruch] [hez] .
+lpvvbez201 1 lpvvbez201_lpvvbez201 242.156 246.642 <o,f0,unknown> [ruch-] je: v kuchyni evidentne to nezvláda [-ruch] [smiech] .
+lpvvbez201 1 lpvvbez201_lpvvbez201 246.642 251.831 <o,f0,unknown> [hez] [ruch-] varí [hez] dieťa mu tam [hez] robí neplechu. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 251.831 259.314 <o,f0,unknown> [hez] [ruch-] padá zo stoličky. berie si ovocie. [hez] je tam banán jabĺčko. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 259.314 267.410 <o,f0,unknown> z drezu/dresu preteká voda. je tam mačka. [ruch-] na zemi je niečo rozbité a: kypí nejaké jedlo. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 267.410 272.855 <o,f0,unknown> zo skrinky otvorene:j [hez] niečo je vyliate [spk] .
+lpvvbez201 1 lpvvbez201_lpvvbez201 272.855 281.709 <o,f0,unknown> [hez] v ruke drží varechu a: čriepky sú z lustra ktorý je rozbitý.
+lpvvbez201 1 lpvvbez201_lpvvbez201 281.709 288.603 <o,f0,unknown> [hez] [ruch-] dieťa má oblečené červené tričko a topánky [-ruch] a krátke nohavice.
+lpvvbez201 1 lpvvbez201_lpvvbez201 288.603 299.767 <o,f0,unknown> [hez] muž má oblečené [ruch-] žlté tričko [hez] [spk] hnedé nohavice aj topánky a: zásteru modrú [-ruch] .
+lpvvbez201 1 lpvvbez201_lpvvbez201 299.767 309.326 <o,f0,unknown> [hez] [ruch-] je/nie tam ružová utierka. skrinky sú zelené. jedna je otvorená ostatné sú zatvorené. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 309.326 315.571 <o,f0,unknown> [hez] [ruch-] varechu drží v [hez] pravej ruke. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 315.571 324.874 <o,f0,unknown> [ruch-] [hez] dieťa ľavou rukou chytá banán. [hez] padá zo stoličky ktorá je na šmykľavej podlahe lebo z drezu/dresu preteká voda. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 324.874 327.820 <o,f0,unknown> [hez]
+lpvvbez201 1 lpvvbez201_lpvvbez201 327.820 338.069 <o,f0,unknown> [hez] [ruch-] vidím [hez] asi mamičku s dieťaťom ktorá telefonuje. dieťa plače. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 338.069 346.787 <o,f0,unknown> [hez] [ruch-] niečo varí. je tam slaninka vajíčka na panvici a v hrnci niečo možno polievka. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 346.787 355.602 <o,f0,unknown> [ruch-] na stole je nôž mlieko paradajky zemiaky. [hez] má tam aj počítač. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 355.602 363.871 <o,f0,unknown> [hez] hore [ruch-] je polička na: poličke je mačka ktorá zhodila vázu s: kvetmi [-ruch] .
+lpvvbez201 1 lpvvbez201_lpvvbez201 363.871 369.717 <o,f0,unknown> [ruch-] je tam nejaká fľaša a nejaká nádoba možno [-ruch] na korenie.
+lpvvbez201 1 lpvvbez201_lpvvbez201 369.717 377.317 <o,f0,unknown> na stene sú hodinky [ruch-] na ktorých je dvanásť [-ruch] hodín dvadsať minút.
+lpvvbez201 1 lpvvbez201_lpvvbez201 377.317 387.244 <o,f0,unknown> [hez] sú tam kvety [ruch-] knižky na poličke. [hez] telefonuje [hez] na: rozmýšľa nad topánkami. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 387.244 393.732 <o,f0,unknown> [ruch-] [hez] oblečené má červené tričko a: bledú zásteru. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 393.732 405.528 <o,f0,unknown> dieťa má šedé oblečenie s hviezdičkou [hez] a biele [hez] [ruch-] ponožtičky. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 405.528 413.011 <o,f0,unknown> [ruch-] pravdepodobne za ňou je nejaká stolička. stôl je hnedý alebo/abo ku pracovná doska. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 413.011 417.760 <o,f0,unknown> [hez] [ruch-] je tam ešte aj možno nejaká paprika. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 417.760 425.870 <o,f0,unknown> [hez] [ruch-] sú tu vianoce pravdepodobne sa chystajú na ne. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 425.870 435.101 <o,f0,unknown> [hez] [ruch-] deti: [spk] dieťa: [hez] ťahá šnúru vianočnú teda: [hez] ozdobnú. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 435.101 447.921 <o,f0,unknown> [hez] prišiel domov otecko: ktorý sa: šmykol [ruch-] na: rozhádzanom/rozhádzanom_ých hračkách konkrétne na žltom autíčku tam červené autíčko. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 447.921 451.049 <o,f0,unknown> [ruch-] stromček pravdepodobne padá. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 451.049 461.923 <o,f0,unknown> [hez] [ruch-] sú tam nejaké rozbité ozdoby:. maminka telefonuje pritom. [hez] cez okno sa díva nejaké iné dieťa. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 461.923 466.975 <o,f0,unknown> [hez] stromček [ruch-] má žltú hviezdu a farebné ozdoby. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 466.975 476.066 <o,f0,unknown> [ruch-] na okne sú červené záclonky. [hez] na zemi spí psík. fialový koberec tam. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 476.066 478.317 <o,f0,unknown> vonku sneží.
+lpvvbez201 1 lpvvbez201_lpvvbez201 478.317 486.811 <o,f0,unknown> [hez] [ruch-] pán má oblečenú čapicu aj kabát a šál zimné topánky a nohavice. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 486.811 495.050 <o,f0,unknown> [ruch-] maminka je v papučiach. má [-ruch] [hez] [spk] modré nohavice zelený sveter ružové tričko.
+lpvvbez201 1 lpvvbez201_lpvvbez201 495.050 505.454 <o,f0,unknown> [ruch-] a dieťa je v krátkych nohaviciach možno je to pyžamo také žlté s modrými bodkami a modré tričko so žltými pásikmi. [-ruch]
+lpvvbez201 1 lpvvbez201_lpvvbez201 505.454 507.760 <o,f0,unknown> steny sú [ned-] bežo [-ned]

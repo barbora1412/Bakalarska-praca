@@ -1,0 +1,150 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:23 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 9 of 210905
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665uy18b01 1 665uy18b01_665uy18b01 0.000 14.900 <o,f0,unknown> vokal
+665uy18b01 1 665uy18b01_665uy18b01 14.900 22.800 <o,f0,unknown> pataka
+665uy18b01 1 665uy18b01_665uy18b01 22.800 26.140 <o,f0,unknown> [hez] cesta
+665uy18b01 1 665uy18b01_665uy18b01 26.140 28.640 <o,f0,unknown> most
+665uy18b01 1 665uy18b01_665uy18b01 28.640 30.900 <o,f0,unknown> hodinky/hodinka
+665uy18b01 1 665uy18b01_665uy18b01 30.900 33.120 <o,f0,unknown> bubon
+665uy18b01 1 665uy18b01_665uy18b01 33.120 35.400 <o,f0,unknown> traktor
+665uy18b01 1 665uy18b01_665uy18b01 35.400 37.560 <o,f0,unknown> fajka
+665uy18b01 1 665uy18b01_665uy18b01 37.560 40.100 <o,f0,unknown> akvárium
+665uy18b01 1 665uy18b01_665uy18b01 40.100 42.700 <o,f0,unknown> lievik
+665uy18b01 1 665uy18b01_665uy18b01 42.700 45.340 <o,f0,unknown> domino
+665uy18b01 1 665uy18b01_665uy18b01 45.340 48.400 <o,f0,unknown> ponorka
+665uy18b01 1 665uy18b01_665uy18b01 48.400 51.060 <o,f0,unknown> píše
+665uy18b01 1 665uy18b01_665uy18b01 51.060 54.100 <o,f0,unknown> smeje sa
+665uy18b01 1 665uy18b01_665uy18b01 54.100 57.060 <o,f0,unknown> váži jablko
+665uy18b01 1 665uy18b01_665uy18b01 57.060 59.520 <o,f0,unknown> [ruch-] plače [-ruch]
+665uy18b01 1 665uy18b01_665uy18b01 59.520 62.080 <o,f0,unknown> varí
+665uy18b01 1 665uy18b01_665uy18b01 62.080 64.620 <o,f0,unknown> telefonuje
+665uy18b01 1 665uy18b01_665uy18b01 64.620 67.220 <o,f0,unknown> šije
+665uy18b01 1 665uy18b01_665uy18b01 67.220 69.820 <o,f0,unknown> krája
+665uy18b01 1 665uy18b01_665uy18b01 69.820 72.220 <o,f0,unknown> polieva
+665uy18b01 1 665uy18b01_665uy18b01 72.220 75.800 <o,f0,unknown> štrikuje
+665uy18b01 1 665uy18b01_665uy18b01 75.800 78.340 <o,f0,unknown> kráľ
+665uy18b01 1 665uy18b01_665uy18b01 78.340 80.600 <o,f0,unknown> topánky
+665uy18b01 1 665uy18b01_665uy18b01 80.600 82.880 <o,f0,unknown> cigarety
+665uy18b01 1 665uy18b01_665uy18b01 82.880 85.500 <o,f0,unknown> budík
+665uy18b01 1 665uy18b01_665uy18b01 85.500 87.860 <o,f0,unknown> teplomer
+665uy18b01 1 665uy18b01_665uy18b01 87.860 90.380 <o,f0,unknown> električka
+665uy18b01 1 665uy18b01_665uy18b01 90.380 92.720 <o,f0,unknown> metla
+665uy18b01 1 665uy18b01_665uy18b01 92.720 95.180 <o,f0,unknown> hríby
+665uy18b01 1 665uy18b01_665uy18b01 95.180 97.560 <o,f0,unknown> kotva
+665uy18b01 1 665uy18b01_665uy18b01 97.560 101.240 <o,f0,unknown> [hez] kozmonaut
+665uy18b01 1 665uy18b01_665uy18b01 101.240 103.820 <o,f0,unknown> maže chleba
+665uy18b01 1 665uy18b01_665uy18b01 103.820 106.620 <o,f0,unknown> ťahá lano
+665uy18b01 1 665uy18b01_665uy18b01 106.620 111.200 <o,f0,unknown> [hez] žiarovka rozsvietená
+665uy18b01 1 665uy18b01_665uy18b01 111.200 114.220 <o,f0,unknown> [hez] horí dom
+665uy18b01 1 665uy18b01_665uy18b01 114.220 117.700 <o,f0,unknown> hádže oštepom
+665uy18b01 1 665uy18b01_665uy18b01 117.700 120.740 <o,f0,unknown> maľuje obraz
+665uy18b01 1 665uy18b01_665uy18b01 120.740 123.780 <o,f0,unknown> vŕta do steny
+665uy18b01 1 665uy18b01_665uy18b01 123.780 127.300 <o,f0,unknown> hrabe neviem č
+665uy18b01 1 665uy18b01_665uy18b01 127.300 130.400 <o,f0,unknown> reže drevo
+665uy18b01 1 665uy18b01_665uy18b01 130.400 133.500 <o,f0,unknown> vesluje
+665uy18b01 1 665uy18b01_665uy18b01 133.500 135.940 <o,f0,unknown> kniha
+665uy18b01 1 665uy18b01_665uy18b01 135.940 138.480 <o,f0,unknown> autobus
+665uy18b01 1 665uy18b01_665uy18b01 138.480 141.400 <o,f0,unknown> koruna
+665uy18b01 1 665uy18b01_665uy18b01 141.400 143.940 <o,f0,unknown> koleso
+665uy18b01 1 665uy18b01_665uy18b01 143.940 146.340 <o,f0,unknown> lavička
+665uy18b01 1 665uy18b01_665uy18b01 146.340 148.820 <o,f0,unknown> zips
+665uy18b01 1 665uy18b01_665uy18b01 148.820 151.140 <o,f0,unknown> ťava
+665uy18b01 1 665uy18b01_665uy18b01 151.140 153.380 <o,f0,unknown> vešiak
+665uy18b01 1 665uy18b01_665uy18b01 153.380 156.200 <o,f0,unknown> [hez] žaluď
+665uy18b01 1 665uy18b01_665uy18b01 156.200 158.680 <o,f0,unknown> kaktus
+665uy18b01 1 665uy18b01_665uy18b01 158.680 161.020 <o,f0,unknown> spieva
+665uy18b01 1 665uy18b01_665uy18b01 161.020 163.880 <o,f0,unknown> %a: kúpe sa
+665uy18b01 1 665uy18b01_665uy18b01 163.880 166.520 <o,f0,unknown> meria
+665uy18b01 1 665uy18b01_665uy18b01 166.520 168.920 <o,f0,unknown> pije
+665uy18b01 1 665uy18b01_665uy18b01 168.920 171.520 <o,f0,unknown> klope
+665uy18b01 1 665uy18b01_665uy18b01 171.520 174.360 <o,f0,unknown> skáče
+665uy18b01 1 665uy18b01_665uy18b01 174.360 177.020 <o,f0,unknown> lyžuje
+665uy18b01 1 665uy18b01_665uy18b01 177.020 179.500 <o,f0,unknown> fotí
+665uy18b01 1 665uy18b01_665uy18b01 179.500 182.140 <o,f0,unknown> bicykluje
+665uy18b01 1 665uy18b01_665uy18b01 182.140 184.860 <o,f0,unknown> žehlí
+665uy18b01 1 665uy18b01_665uy18b01 184.860 187.289 <o,f0,unknown> vidím ruku:.
+665uy18b01 1 665uy18b01_665uy18b01 187.289 191.264 <o,f0,unknown> [hez] za malý palec drží [hez] detská ruka:.
+665uy18b01 1 665uy18b01_665uy18b01 191.264 193.620 <o,f0,unknown> ruka má päť palcov.
+665uy18b01 1 665uy18b01_665uy18b01 193.620 196.873 <o,f0,unknown> %hm: čo tam ešte môže/može.
+665uy18b01 1 665uy18b01_665uy18b01 196.873 201.885 <o,f0,unknown> [hez] decko/deccko: má štyri palce. piaty má zakrytý.
+665uy18b01 1 665uy18b01_665uy18b01 201.885 205.648 <o,f0,unknown> tri palce sú o [hez] prsty sú oddelené.
+665uy18b01 1 665uy18b01_665uy18b01 205.648 208.005 <o,f0,unknown> palec je väčší/väkší.
+665uy18b01 1 665uy18b01_665uy18b01 208.005 211.152 <o,f0,unknown> no neviem čo ešte k tomu.
+665uy18b01 1 665uy18b01_665uy18b01 211.152 214.760 <o,f0,unknown> detská rúčka/rúška je maličká.
+665uy18b01 1 665uy18b01_665uy18b01 214.760 219.810 <o,f0,unknown> %a: je tu stolík.
+665uy18b01 1 665uy18b01_665uy18b01 219.810 222.141 <o,f0,unknown> stolík má len tri nôžky/nožky.
+665uy18b01 1 665uy18b01_665uy18b01 222.141 224.902 <o,f0,unknown> sú tam dve stoličky:.
+665uy18b01 1 665uy18b01_665uy18b01 224.902 234.099 <o,f0,unknown> každá stolička má štyri nôžky/nošky. [hez] j:e tam ornament/orlament z zo železa.
+665uy18b01 1 665uy18b01_665uy18b01 234.099 240.307 <o,f0,unknown> na stolíku sú dve šálky na kávu no.
+665uy18b01 1 665uy18b01_665uy18b01 240.307 243.339 <o,f0,unknown> a už len čakať hostí na kávu.
+665uy18b01 1 665uy18b01_665uy18b01 243.339 244.660 <o,f0,unknown> [smiech]
+665uy18b01 1 665uy18b01_665uy18b01 244.660 248.660 <o,f0,unknown> [spk]
+665uy18b01 1 665uy18b01_665uy18b01 248.660 252.176 <o,f0,unknown> a je tu kuchyňa: je kuchynská linka:.
+665uy18b01 1 665uy18b01_665uy18b01 252.176 254.944 <o,f0,unknown> linka je: zelenej farby.
+665uy18b01 1 665uy18b01_665uy18b01 254.944 261.035 <o,f0,unknown> a je to otvorená jedna skrinka:. zo skrinky sa vylieva zrejme sirup.
+665uy18b01 1 665uy18b01_665uy18b01 261.035 263.620 <o,f0,unknown> tu: otec varí.
+665uy18b01 1 665uy18b01_665uy18b01 263.620 267.753 <o,f0,unknown> mu to: ako: [spk] vykypelo.
+665uy18b01 1 665uy18b01_665uy18b01 267.753 271.119 <o,f0,unknown> zoberie varešku. rozbije luster.
+665uy18b01 1 665uy18b01_665uy18b01 271.119 274.995 <o,f0,unknown> má modrú zásteru alebo fialovú.
+665uy18b01 1 665uy18b01_665uy18b01 274.995 277.112 <o,f0,unknown> decko si berie banán.
+665uy18b01 1 665uy18b01_665uy18b01 277.112 279.820 <o,f0,unknown> je je tam banán a jablko:.
+665uy18b01 1 665uy18b01_665uy18b01 279.820 286.995 <o,f0,unknown> postavilo sa na stolík/sto:lek na [hez] [hez] s stoličku. tá stolička sa prevracia.
+665uy18b01 1 665uy18b01_665uy18b01 286.995 290.424 <o,f0,unknown> z umývadla vyteká voda.
+665uy18b01 1 665uy18b01_665uy18b01 290.424 292.619 <o,f0,unknown> je tu mačka.
+665uy18b01 1 665uy18b01_665uy18b01 292.619 297.462 <o,f0,unknown> ba: je tu rozbitý luster. sivá podlaha.
+665uy18b01 1 665uy18b01_665uy18b01 297.462 299.685 <o,f0,unknown> no neviem čo ešte.
+665uy18b01 1 665uy18b01_665uy18b01 299.685 303.174 <o,f0,unknown> je tu druhá skrinka. tá druhá skrinka je zatvorená.
+665uy18b01 1 665uy18b01_665uy18b01 303.174 306.733 <o,f0,unknown> zrejme budú musieť kúpiť [hez] [smiech] nový luster.
+665uy18b01 1 665uy18b01_665uy18b01 306.733 311.974 <o,f0,unknown> otec má na nohách papuče žlté tričko hnedé nohavice.
+665uy18b01 1 665uy18b01_665uy18b01 311.974 317.267 <o,f0,unknown> decko má červené tričko sivé nohavice a červené papuče.
+665uy18b01 1 665uy18b01_665uy18b01 317.267 318.586 <o,f0,unknown> neviem.
+665uy18b01 1 665uy18b01_665uy18b01 318.586 320.749 <o,f0,unknown> stolička je hnedej farby.
+665uy18b01 1 665uy18b01_665uy18b01 320.749 332.937 <o,f0,unknown> tanier je bielej farby. no zrejme alebo piekol alebo varil že to vykypelo takže muž v kuchyni.
+665uy18b01 1 665uy18b01_665uy18b01 332.937 334.560 <o,f0,unknown> [smiech]
+665uy18b01 1 665uy18b01_665uy18b01 334.560 338.664 <o,f0,unknown> no chudera mama.
+665uy18b01 1 665uy18b01_665uy18b01 338.664 343.377 <o,f0,unknown> jednou rukou drží d decko. druhou varí.
+665uy18b01 1 665uy18b01_665uy18b01 343.377 349.602 <o,f0,unknown> zrejme tam sú zemiaky. opeká nejaké alebo párky tam má.
+665uy18b01 1 665uy18b01_665uy18b01 349.602 353.840 <o,f0,unknown> [hez] r [hez] šporák je zapnutý.
+665uy18b01 1 665uy18b01_665uy18b01 353.840 358.324 <o,f0,unknown> je tam nožík zelenina ovocie mlieko.
+665uy18b01 1 665uy18b01_665uy18b01 358.324 360.931 <o,f0,unknown> má pri tom počítač.
+665uy18b01 1 665uy18b01_665uy18b01 360.931 363.681 <o,f0,unknown> zrejme hľadá recept.
+665uy18b01 1 665uy18b01_665uy18b01 363.681 369.185 <o,f0,unknown> na poličku vyšla mačka. zvalila kvety vázu s kvetmi.
+665uy18b01 1 665uy18b01_665uy18b01 369.185 374.689 <o,f0,unknown> hore je tam ocot myslím že nejaký med alebo čo.
+665uy18b01 1 665uy18b01_665uy18b01 374.689 380.967 <o,f0,unknown> potom je tam polička: tri vázičky v ktorej sú asi bylinky alebo kvety.
+665uy18b01 1 665uy18b01_665uy18b01 380.967 389.448 <o,f0,unknown> sú tam tri knihy. hodinky. na hodinkách je čas dvanásť hodín dajakých osemnásť minút.
+665uy18b01 1 665uy18b01_665uy18b01 389.448 400.048 <o,f0,unknown> a chudera žena tam aj telefonuje a rozmýšľa/rozmyšľa: [spk] a chcela by asi aj nové topánky ale na to nemá čas.
+665uy18b01 1 665uy18b01_665uy18b01 400.048 403.215 <o,f0,unknown> zástera je nejakej žltej farby.
+665uy18b01 1 665uy18b01_665uy18b01 403.215 408.473 <o,f0,unknown> tak tá kuchynská doska je tam hnedej farby.
+665uy18b01 1 665uy18b01_665uy18b01 408.473 412.254 <o,f0,unknown> hore je svetlejšia dole je tmavšia.
+665uy18b01 1 665uy18b01_665uy18b01 412.254 417.248 <o,f0,unknown> neviem. počítač je tam nejakej šedej farby.
+665uy18b01 1 665uy18b01_665uy18b01 417.248 421.099 <o,f0,unknown> tým pádom že sa tam pre [hez] vrátila tá vo:da.
+665uy18b01 1 665uy18b01_665uy18b01 421.099 424.460 <o,f0,unknown> no kvety zo zo/zos:
+665uy18b01 1 665uy18b01_665uy18b01 424.460 434.044 <o,f0,unknown> no. [hez] manžel prichádza domov. deti sa hrali. mali tam autíčka:.
+665uy18b01 1 665uy18b01_665uy18b01 434.044 440.040 <o,f0,unknown> zrejme sa postavil na niektoré z tých áut. šmykol sa. padá.
+665uy18b01 1 665uy18b01_665uy18b01 440.040 445.439 <o,f0,unknown> autíčko jedno je žltej farby červenej. je tam fialový koberec.
+665uy18b01 1 665uy18b01_665uy18b01 445.439 449.978 <o,f0,unknown> na boku si driemka psík hnedej farby.
+665uy18b01 1 665uy18b01_665uy18b01 449.978 458.173 <o,f0,unknown> ten pán mal tam tašku modrej farby čiapku šál vestu.
+665uy18b01 1 665uy18b01_665uy18b01 458.173 462.305 <o,f0,unknown> [hez] padá stromček deti sa hrajú.
+665uy18b01 1 665uy18b01_665uy18b01 462.305 465.611 <o,f0,unknown> zrejme potiahli svetlo.
+665uy18b01 1 665uy18b01_665uy18b01 465.611 472.125 <o,f0,unknown> ten stromček padá/pada. na stromčeku je hviezda. spoza okna pozerá chlapec .
+665uy18b01 1 665uy18b01_665uy18b01 472.125 482.254 <o,f0,unknown> pani má [hez] ružovú blúzku modrý m zelený sveter/svetter modré nohavice červené topánky. telefonuje.
+665uy18b01 1 665uy18b01_665uy18b01 482.254 489.763 <o,f0,unknown> telefón je žltej farby. [spk] [hez] má modré oči namaľované pery.
+665uy18b01 1 665uy18b01_665uy18b01 489.763 503.651 <o,f0,unknown> no toho/teho: chlapec má tam striekané/stríkané tie kraťasky žlto modré žlté trič [hez] modré tričko so žltými páskami hnedé vlasy.
+665uy18b01 1 665uy18b01_665uy18b01 503.651 511.793 <o,f0,unknown> na stromčeku sú gule červené [hez] ružové modré alebo to sú sviečky.

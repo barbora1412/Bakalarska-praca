@@ -1,0 +1,152 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:35 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 12 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj06oz01 1 kixj06oz01_kixj06oz01 0.000 10.932 <o,f5,unknown> special_vokal
+kixj06oz01 1 excluded_region 10.932 12.840 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 12.840 20.780 <o,f5,unknown> special_pataka
+kixj06oz01 1 kixj06oz01_kixj06oz01 20.780 24.080 <o,f5,unknown> [ruch-] dyňa melón [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 24.080 27.040 <o,f5,unknown> [ruch-] cesta [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 27.040 29.860 <o,f5,unknown> [ruch-] most [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 29.860 32.620 <o,f5,unknown> [ruch-] hodinky [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 32.620 35.540 <o,f5,unknown> [ruch-] bubon [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 35.540 38.400 <o,f5,unknown> [ruch-] [spk] traktor [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 38.400 41.040 <o,f5,unknown> [ruch-] fajka [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 41.040 43.960 <o,f5,unknown> [ruch-] [spk] akvárium [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 43.960 47.220 <o,f5,unknown> [ruch-] [spk] lievik [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 47.220 50.480 <o,f5,unknown> [ruch-] domino [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 50.480 53.840 <o,f5,unknown> [ruch-] ponorka [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 53.840 57.160 <o,f5,unknown> [ruch-] [spk] kráľ [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 57.160 59.980 <o,f5,unknown> [ruch-] [spk] topánky [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 59.980 62.800 <o,f5,unknown> [ruch-] cigarety [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 62.800 66.220 <o,f5,unknown> [ruch-] hodinky budík [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 66.220 69.200 <o,f5,unknown> [ruch-] [spk] teplomer [-ruch]
+kixj06oz01 1 excluded_region 69.200 70.238 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 70.238 72.800 <o,f5,unknown> [ruch-] ((teda)) električka [ex] [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 72.800 75.480 <o,f5,unknown> [ruch-] metla [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 75.480 78.420 <o,f5,unknown> [ruch-] [spk] huby [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 78.420 81.640 <o,f5,unknown> [ruch-] kotva [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 81.640 85.400 <o,f5,unknown> [ruch-] [spk] astronaut [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 85.400 88.220 <o,f5,unknown> [ruch-] kniha [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 88.220 91.880 <o,f5,unknown> [ruch-] [spk] autobus [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 91.880 95.540 <o,f5,unknown> [ruch-] [spk] koruna [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 95.540 101.640 <o,f5,unknown> [ruch-] [hez] [spk] koleso teda pneumatika ((ale)) koleso [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 101.640 104.540 <o,f5,unknown> [ruch-] lavička [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 104.540 107.280 <o,f5,unknown> [ruch-] zips [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 107.280 110.520 <o,f5,unknown> [ruch-] ťava [spk] dvojhrbá [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 110.520 113.660 <o,f5,unknown> [ruch-] vešiak [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 113.660 117.120 <o,f5,unknown> [ruch-] [hez] žaluď [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 117.120 119.920 <o,f5,unknown> [ruch-] kaktus [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 119.920 122.980 <o,f5,unknown> [ruch-] pláva [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 122.980 126.340 <o,f5,unknown> [ruch-] píše [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 126.340 129.340 <o,f5,unknown> [ruch-] smeje sa [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 129.340 132.800 <o,f5,unknown> [ruch-] váži sa [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 132.800 133.587 <o,f5,unknown> [ruch-] jablko [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 133.587 135.720 <o,f5,unknown> [ruch-] plače [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 135.720 138.900 <o,f5,unknown> [ruch-] varí [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 138.900 141.900 <o,f5,unknown> [ruch-] telefonuje [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 141.900 144.840 <o,f5,unknown> [ruch-] šije [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 144.840 148.100 <o,f5,unknown> [ruch-] krája jablko [ex] [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 148.100 151.180 <o,f5,unknown> [ruch-] zalieva [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 151.180 154.960 <o,f5,unknown> [ruch-] štrikuje pletie [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 154.960 159.280 <o,f5,unknown> [ruch-] natiera chlieb s maslom [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 159.280 162.702 <o,f5,unknown> [ruch-] [hez] preťahuje sa lanom [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 162.702 167.020 <o,f5,unknown> [ruch-] [spk] a to sa nedá povedať jedným slovom [smiech] [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 167.020 170.880 <o,f5,unknown> [ruch-] [hez] svieti [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 170.880 174.600 <o,f5,unknown> [ruch-] horí požiar [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 174.600 179.320 <o,f5,unknown> [ruch-] hod oštepom športuje [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 179.320 183.080 <o,f5,unknown> [ruch-] [hez] maľuje [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 183.080 186.680 <o,f5,unknown> [ruch-] vŕta [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 186.680 189.780 <o,f5,unknown> [ruch-] hrabe [ex] [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 189.780 192.259 <o,f5,unknown> [ruch-] píli [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 192.259 194.300 <o,f5,unknown> [ruch-] [spk] ((rozpiluje)) [spk] [-ruch]
+kixj06oz01 1 excluded_region 194.300 196.894 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 196.894 202.240 <o,f5,unknown> [ruch-] to je [spk] pádlovanie [ned-] športo [-ned] šport športujú [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 202.240 205.160 <o,f5,unknown> [ruch-] spieva [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 205.160 208.220 <o,f5,unknown> [ruch-] kúpe sa [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 208.220 211.280 <o,f5,unknown> [ruch-] meria [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 211.280 214.060 <o,f5,unknown> [ruch-] pije [ex] [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 214.060 217.160 <o,f5,unknown> [ruch-] [spk] klope [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 217.160 220.060 <o,f5,unknown> [ruch-] skáče [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 220.060 222.860 <o,f5,unknown> [ruch-] [spk] lyžuje [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 222.860 226.140 <o,f5,unknown> [ruch-] fotí [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 226.140 229.800 <o,f5,unknown> [ruch-] bicykluje [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 229.800 233.700 <o,f5,unknown> [ruch-] žehlí [-ruch]
+kixj06oz01 1 excluded_region 233.700 235.609 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 235.609 242.145 <o,f5,unknown> [hez] rodičovská [ruch-] ruka na ktorej [-hez] s [-ruch] sa chytá dieťa [spk] .
+kixj06oz01 1 kixj06oz01_kixj06oz01 242.145 250.226 <o,f5,unknown> [hez] pekný detský inštinkt pri ako zachytí zachytený.
+kixj06oz01 1 excluded_region 250.226 252.457 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 252.457 257.163 <o,f5,unknown> otvorená dlaň a dieťa sa chytá malíčka.
+kixj06oz01 1 excluded_region 257.163 262.924 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 262.924 263.640 <o,f5,unknown> no [spk] už.
+kixj06oz01 1 kixj06oz01_kixj06oz01 263.640 277.605 <o,f5,unknown> čo kávový stolík s [hez] dvomi stoličkami a dvomi šálkami kávy [hez] nakreslený ako: kresba perom.
+kixj06oz01 1 excluded_region 277.605 281.271 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 281.271 290.968 <o,f5,unknown> vyzýva až na to posedenie [smiech] [hez] kľudne by to mohlo byť na terase pred kaviarňou alebo pred rodinným domom.
+kixj06oz01 1 excluded_region 290.968 293.340 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 293.340 293.580 <o,f5,unknown> [ned-] a [-ned]
+kixj06oz01 1 excluded_region 293.580 297.053 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 297.053 308.314 <o,f5,unknown> [ruch-] no: muž s dieťaťom sú v kuchyni: prizerá sa mačka vyzerá to na niekoľko katastrof z drezu/dresu preteká/pretieká voda. [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 308.314 315.337 <o,f5,unknown> [ruch-] palacinka [hez] teda [spk-] palacinka to nie [-spk] je ale niečo skončilo aj na kuchynskej lampe. [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 315.337 318.122 <o,f5,unknown> [ruch-] dieťa padá zo stoličky. [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 318.122 321.633 <o,f5,unknown> [ruch-] vylievajú sa potraviny [hez] z kuchynskej linky. [-ruch]
+kixj06oz01 1 excluded_region 321.633 324.239 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 324.239 335.843 <o,f5,unknown> [hez] niečo sa rozbilo %á tá lampa sa rozbila [hez] takže to vyzerá ako taký nepodarený žartík [spk] na muž v kuchyni. [smiech]
+kixj06oz01 1 excluded_region 335.843 337.775 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 337.775 345.072 <o,f5,unknown> [spk] ktorý má [ned-] nas [-ned] na no ešte má na starosti dieťa a viac činností naraz zrejme nezvláda.
+kixj06oz01 1 excluded_region 345.072 348.337 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 348.337 350.675 <o,f5,unknown> [hez-] mačka sa nestačí diviť.
+kixj06oz01 1 excluded_region 350.675 355.973 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 355.973 367.241 <o,f5,unknown> [hez] muž v zástere a [spk] s drevenou vareškou v ruke [spk] práve rozbil lampu na ktorej pristala mucha.
+kixj06oz01 1 excluded_region 367.241 368.568 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 368.568 371.553 <o,f5,unknown> [hez] kypí mu z hrnca polievka.
+kixj06oz01 1 excluded_region 371.553 374.439 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 374.439 378.579 <o,f5,unknown> a: dieťa príde prichádza k úrazu kvôli ovociu.
+kixj06oz01 1 excluded_region 378.579 383.520 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 excluded_region 383.520 385.423 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 385.423 398.269 <o,f5,unknown> [ruch-] no aj tu je mačka na polici hádže kvetinky. [hez] žena drží [hez-] malé batoľa na rukách a zároveň varí [hez] obed alebo večeru. [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 398.269 405.085 <o,f5,unknown> [ruch-] [hez] v kuchyni má rozrobené ďalšie činnosti asi aj na počítači. [-ruch]
+kixj06oz01 1 excluded_region 405.085 406.980 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 406.980 416.100 <o,f5,unknown> [ruch-] pečie vajíčka so so slaninou [spk] a polievku varí v hrnci. [spk] popritom krája ešte zeleninu a zemiaky. [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 416.100 420.845 <o,f5,unknown> [ruch-] podľa [hez] hodiniek by to mal byť obed. [-ruch]
+kixj06oz01 1 excluded_region 420.845 424.231 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 424.231 428.214 <o,f5,unknown> [ruch-] a: popritom všetkom ešte myslí na topánky. [-ruch]
+kixj06oz01 1 kixj06oz01_kixj06oz01 428.214 431.268 <o,f5,unknown> dieťa [spk] dieťa plače.
+kixj06oz01 1 excluded_region 431.268 432.854 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 432.854 438.991 <o,f5,unknown> a: žena [hez] je tiež [ex] [hez] v hrôze zo všetkých tých činností.
+kixj06oz01 1 excluded_region 438.991 441.744 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 441.744 445.994 <o,f5,unknown> ((na)) to jej nebráni myslieť na tie topánky. [smiech]
+kixj06oz01 1 excluded_region 445.994 452.178 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 452.178 460.537 <o,f5,unknown> mačka na polici. na ďalšej polici pestuje bylinky a kuchárske knihy si tam [ruch-] drží pod rukou. [-ruch]
+kixj06oz01 1 excluded_region 460.537 463.363 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 463.363 465.957 <o,f5,unknown> [ruch-] aj druhá platňa je rozžeravená. [-ruch]
+kixj06oz01 1 excluded_region 465.957 469.431 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 469.431 473.460 <o,f5,unknown> [ruch-] a: [-ruch]
+kixj06oz01 1 excluded_region 473.460 476.549 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 476.549 494.242 <o,f5,unknown> [hez] krásny zimný obrázok. okolo stromčeka [spk] šantia deti. prichádza otec trošku asi rozjarený pretože padá [hez] sa šmykol na hračkách. [hez] v popredí spí [hez] psík žena telefonuje.
+kixj06oz01 1 excluded_region 494.242 496.395 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 496.395 504.158 <o,f5,unknown> vonku sneží. ideálna vianočná atmosféra. [smiech] [hez]
+kixj06oz01 1 excluded_region 504.158 509.698 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 509.698 515.637 <o,f5,unknown> [hez] [ned-] z [-ned] zvonku [ruch-] sa pozerá [-ruch] [hez] druhé dieťa do izby.
+kixj06oz01 1 kixj06oz01_kixj06oz01 515.637 519.168 <o,f5,unknown> nevedno [spk] aký má vzťah k tejto rodine.
+kixj06oz01 1 excluded_region 519.168 521.679 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 521.679 532.186 <o,f5,unknown> [hez] [spk] pod stromčekom mi chýbajú darčeky. je tam nejaká rozbitá guľa nakláňa sa nakrivo asi ((je)) odfláknutý.
+kixj06oz01 1 kixj06oz01_kixj06oz01 532.186 540.393 <o,f5,unknown> a cez otvorené dvere [hez] vanie chlad do izby.
+kixj06oz01 1 kixj06oz01_kixj06oz01 540.393 546.941 <o,f5,unknown> izba má krásny fialový koberec [spk] a zelenú podlahu žlté steny.
+kixj06oz01 1 excluded_region 546.941 549.551 <o,,unknown> ignore_time_segment_in_scoring
+kixj06oz01 1 kixj06oz01_kixj06oz01 549.551 557.891 <o,f5,unknown> [hez] stromček je ovinutý [spk-] reťazami [-spk] a: farebne nezladenými guľami.
+kixj06oz01 1 excluded_region 557.891 559.051 <o,,unknown> ignore_time_segment_in_scoring

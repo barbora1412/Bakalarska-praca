@@ -1,0 +1,107 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:38 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvbefs01 1 excluded_region 0.000 1.229 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 1.229 10.046 <o,f5,unknown> special_vokal
+lpvvbefs01 1 excluded_region 10.046 11.840 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 11.840 19.780 <o,f5,unknown> special_pataka
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 19.780 22.160 <o,f5,unknown> melón [ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 22.160 25.180 <o,f5,unknown> [ruch-] [spk] [hez] cesta [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 25.180 27.920 <o,f5,unknown> [ruch-] s [hez] most [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 27.920 30.180 <o,f5,unknown> [ruch-] [spk] hodiny [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 30.180 32.320 <o,f5,unknown> [ruch-] bubon [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 32.320 34.760 <o,f5,unknown> [ruch-] traktor [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 34.760 37.080 <o,f5,unknown> [ruch-] fajka [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 37.080 39.520 <o,f5,unknown> [ruch-] akvárium [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 39.520 41.980 <o,f5,unknown> [ruch-] [hez] lievik alebo trachtár ((alebo ako sa to povie)) [-ruch]
+lpvvbefs01 1 excluded_region 41.980 44.940 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 44.940 49.175 <o,f5,unknown> [ruch-] [spk] [hez] ponorka loď alebo ((také niečo)) [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 49.175 51.060 <o,f5,unknown> kráľ [ex] [ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 51.060 53.400 <o,f5,unknown> [spk] topánky [ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 53.400 56.740 <o,f5,unknown> [spk] [hez] cigareta [ruch]
+lpvvbefs01 1 excluded_region 56.740 59.120 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 59.120 61.920 <o,f5,unknown> [ruch-] teplomer [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 61.920 64.540 <o,f5,unknown> [ruch-] električka [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 64.540 66.800 <o,f5,unknown> [ruch-] metla [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 66.800 69.440 <o,f5,unknown> [ruch-] hríby [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 69.440 72.320 <o,f5,unknown> [ruch-] [hez] kotva [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 72.320 81.178 <o,f5,unknown> [hez] [spk] ako/jak sa to vo vesmíre nie/ne pilot ale [smiech] %mhm [hez-] a astronaut/astronamt
+lpvvbefs01 1 excluded_region 81.178 82.540 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 82.540 84.880 <o,f5,unknown> [ruch-] kniha [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 84.880 87.800 <o,f5,unknown> [ruch-] [hez] autobus [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 87.800 90.840 <o,f5,unknown> [ruch-] [hez] koruna [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 90.840 93.680 <o,f5,unknown> [ruch-] koleso [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 93.680 96.220 <o,f5,unknown> [ruch-] [spk] lavička [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 96.220 99.240 <o,f5,unknown> [ruch-] zips [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 99.240 101.960 <o,f5,unknown> [ruch-] ťava [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 101.960 104.520 <o,f5,unknown> [ruch-] vešiak [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 104.520 107.240 <o,f5,unknown> [ruch-] [hez] žaluď [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 107.240 110.240 <o,f5,unknown> [ruch-] kaktus [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 110.240 113.020 <o,f5,unknown> [ruch-] [spk] plávanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 113.020 115.660 <o,f5,unknown> [ruch-] písanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 115.660 120.140 <o,f5,unknown> [ruch-] s [hez] smiech alebo radosť alebo no smiech [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 120.140 122.880 <o,f5,unknown> [ruch-] [spk] váženie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 122.880 125.940 <o,f5,unknown> [ruch-] plač [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 125.940 128.340 <o,f5,unknown> [ruch-] varenie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 128.340 130.920 <o,f5,unknown> [ruch-] telefonovanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 130.920 133.780 <o,f5,unknown> [ruch-] šitie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 133.780 136.460 <o,f5,unknown> [ruch-] [spk] krájanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 136.460 138.860 <o,f5,unknown> [ruch-] [spk] polievanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 138.860 141.580 <o,f5,unknown> [ruch-] [spk] štrikovanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 141.580 144.080 <o,f5,unknown> [ruch-] natieranie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 144.080 147.780 <o,f5,unknown> [ruch-] [spk] [hez] preťahovanie lanom [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 147.780 151.680 <o,f5,unknown> [ruch-] [spk] [hez] svieti žiarovka/žiarofka svietenie [spk] svetlo [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 151.680 153.708 <o,f5,unknown> [ruch-] [hez] horenie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 153.708 154.660 <o,f5,unknown> [ruch-] plameň/plamen [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 154.660 158.820 <o,f5,unknown> [ruch-] [spk] [hez] hod oštepom alebo ako sa to volá [veselost] [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 158.820 161.340 <o,f5,unknown> [ruch-] maľovanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 161.340 163.860 <o,f5,unknown> [ruch-] vŕtanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 163.860 166.300 <o,f5,unknown> [ruch-] [hez] hrabanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 166.300 168.900 <o,f5,unknown> [ruch-] pilovanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 168.900 171.540 <o,f5,unknown> [ruch-] veslovanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 171.540 174.020 <o,f5,unknown> [ruch-] spievanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 174.020 176.640 <o,f5,unknown> [ruch-] [hez] kúpanie sa umývanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 176.640 179.020 <o,f5,unknown> [ruch-] [hez] meranie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 179.020 181.320 <o,f5,unknown> [ruch-] pitie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 181.320 184.460 <o,f5,unknown> [ruch-] klopkanie na dvere [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 184.460 189.940 <o,f5,unknown> [ruch-] [spk] [hez] švihadlo [hez] preskakovanie na švihadle alebo skákanie na [ned-] švi [-ned] [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 189.940 192.360 <o,f5,unknown> [ruch-] lyžovanie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 192.360 198.540 <o,f5,unknown> [ruch-] [spk] [hez] pozeranie: ďalekohľadom alebo fotenie to je fotenie to nie_je/není [ned-] ďaleko [-ned]
+lpvvbefs01 1 excluded_region 198.540 201.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 201.620 204.040 <o,f5,unknown> [ruch-] [spk] žehlenie [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 204.040 223.538 <o,f5,unknown> [ruch-] [spk] je to ruka: ktorá má päť prstov: [hez] drží ju druhá ruka: [hez] s [hez] menšia za malíček. [hez] na tej ruke sú vidieť čiary a ((sa hovorí)) života alebo teda [hez] čiary [hez] na dlani. [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 223.538 233.960 <o,f5,unknown> [ruch-] [hez] ruka sa skladá z palca: ukazováka prostredníka prstenníka malička:. [hez] nie je by sa [ned-] nachádza [-ned] [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 233.960 251.860 <o,f5,unknown> [ruch-] s [hez] môže sa to používať teda v kaviarni ((je to)) stoličky stolík káva pariaca sa káva sú tam dve lyžičky je to stôl pripravený pre dvoch. [hez] : na také posedenie. [hez] [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 251.860 263.900 <o,f5,unknown> [ruch-] nie sú tam teda: nachádza sa to [hez] na voľnom priestranstve:. [hez] a čo ešte by som povedala také je to bez ľudí. [smiech] [-ruch]
+lpvvbefs01 1 excluded_region 263.900 265.561 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 265.561 288.737 <o,f5,unknown> [ruch-] [hez] tu vidieť že je otec [hez] so synom: v kuchyni syn umýva riad vyteká voda z umývadla. otec sa zaháňa varechou:. [hez] jedlo mu kypí z hrnca rozbil pritom lampu: [hez] ako naháňal muchu ktorá tam lietala. zo skrinky mu vyteká nejaká tekutina neviem čo je to ružové. [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 288.737 303.264 <o,f5,unknown> [ruch-] syn sa [hez] umýva: riad alebo neviem je v dreze/drese a teraz je naklonený na stoličke [hez] dočahuje si ovocie banán si berie má tam ešte nejakú jablko alebo paradajka neviem čo to presne. [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 303.264 309.153 <o,f5,unknown> [ruch-] a: má naklonenú stoličku. nachádza sa tam mačka ktorá zvedavá na to pozerá. [-ruch]
+lpvvbefs01 1 excluded_region 309.153 311.766 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 excluded_region 311.766 321.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 321.240 359.541 <o,f5,unknown> [ruch] [hez] mamička s [ruch-] dieťaťom [-ruch] [hez] sa nachádza varí pritom obed. [hez] má tam nožík. dieťa [ruch-] plače. mačka [-ruch] je vyskočená na poličke. hodiny ukazujú skoro [ruch-] po za o desať [-ruch] o dvanásť minút pol jednej. v [hez] ona [ned-] roz [-ned] telefonuje pritom. [hez] dieťa vrieska to už som hovorila [ruch-] a má [hez] má v hlave [-ruch] [hez] telefonuje o topánkach pritom [hez] sa nevenuje [hez] tomu dieťaťu. mačka zhodila [hez] [ruch] pohár s kvetmi vázu. tá jej padá na počítač.
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 359.541 369.622 <o,f5,unknown> [ruch-] [hez] má tam [hez] [hez-] nôž [hez] rozrezanú paradajku. cibuľa je tam myslím. [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 369.622 391.579 <o,f5,unknown> [ruch-] nachádzajú sa tam na poličke aj kvetiny na druhej poličke je [hez] tam [hez] mačka a: ktorá teda zhodila [hez] tú vázu: a má tam aj knihy sporák/šporák má zapnutý a v jednej ruke drží panvicu s vajíčkami a s nejakou slaninou alebo čo to opeká a: a čo ešte také. [-ruch]
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 391.579 403.084 <o,f5,unknown> mlieko [ruch-] je tam. mlieko [-ruch] tam má položené ešte tam má položený nejaký [ruch] %mm neviem čo je to [ruch] párok alebo rožok alebo čo.
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 403.084 405.150 <o,f5,unknown> [ruch-] ešte? [-ruch]
+lpvvbefs01 1 excluded_region 405.150 407.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 excluded_region 407.480 408.590 <o,,unknown> ignore_time_segment_in_scoring
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 408.590 451.560 <o,f5,unknown> [spk] [hez] [ruch-] no tuto vidieť že ((je)) vianočný stromček že budú asi vianoce vonku sneží. [hez] otec alebo teda pán vchádza dovnútra. [-ruch] hneď [ruch-] pri dverách sa šmykol/šmekol [-ruch] na autíčkach ktoré tam nechal/nehal syn [hez] takže padá. nesie nákupnú tašku [ruch-] asi bol nakupovať [hez] mama telefonuje. [-ruch] syn [hez] s ťahá stiahol svetielka [hez] zo stromčeka. letí stromček. pes si pritom kľudne spinká [ruch-] popadali gule zo stromčeka/stromku: [-ruch] . [spk] a [ex] a čo ešte také že.
+lpvvbefs01 1 lpvvbefs01_lpvvbefs01 451.560 459.035 <o,f5,unknown> a za oknom pozerá dovnútra nejaký chlapec v červenej [ruch-] čapici/čapice. [-ruch] [hez]
+lpvvbefs01 1 excluded_region 459.035 460.261 <o,,unknown> ignore_time_segment_in_scoring

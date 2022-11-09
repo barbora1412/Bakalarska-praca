@@ -1,0 +1,152 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:17 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220425
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvva6to01 1 lpvva6to01_lpvva6to01 0.000 14.920 <o,f0,unknown> special_vokal
+lpvva6to01 1 lpvva6to01_lpvva6to01 14.920 22.860 <o,f0,unknown> special_pataka
+lpvva6to01 1 lpvva6to01_lpvva6to01 22.860 24.861 <o,f0,unknown> cesta
+lpvva6to01 1 excluded_region 24.861 26.260 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 26.260 26.942 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 26.942 27.834 <o,f0,unknown> most
+lpvva6to01 1 excluded_region 27.834 29.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 29.080 30.695 <o,f0,unknown> hodinky
+lpvva6to01 1 excluded_region 30.695 31.800 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 31.800 33.390 <o,f0,unknown> bubon
+lpvva6to01 1 excluded_region 33.390 34.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 34.420 36.136 <o,f0,unknown> traktor
+lpvva6to01 1 excluded_region 36.136 37.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 37.160 39.960 <o,f0,unknown> fajka
+lpvva6to01 1 lpvva6to01_lpvva6to01 39.960 41.712 <o,f0,unknown> akvárium
+lpvva6to01 1 excluded_region 41.712 42.820 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 42.820 45.358 <o,f0,unknown> [hez] lievik
+lpvva6to01 1 excluded_region 45.358 46.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 46.460 48.606 <o,f0,unknown> domino
+lpvva6to01 1 excluded_region 48.606 49.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 49.700 52.306 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 52.306 54.560 <o,f0,unknown> ponorka
+lpvva6to01 1 lpvva6to01_lpvva6to01 54.560 57.071 <o,f0,unknown> písanie
+lpvva6to01 1 excluded_region 57.071 58.300 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 58.300 61.014 <o,f0,unknown> smiech
+lpvva6to01 1 excluded_region 61.014 62.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 62.480 65.017 <o,f0,unknown> váženie
+lpvva6to01 1 excluded_region 65.017 66.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 66.100 68.049 <o,f0,unknown> plač
+lpvva6to01 1 excluded_region 68.049 69.260 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 69.260 71.061 <o,f0,unknown> varenie
+lpvva6to01 1 excluded_region 71.061 72.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 72.340 73.102 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 73.102 74.596 <o,f0,unknown> telefonovanie
+lpvva6to01 1 excluded_region 74.596 75.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 75.440 78.480 <o,f0,unknown> šitie
+lpvva6to01 1 lpvva6to01_lpvva6to01 78.480 80.672 <o,f0,unknown> krájanie
+lpvva6to01 1 excluded_region 80.672 81.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 81.560 84.580 <o,f0,unknown> polievanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 84.580 86.973 <o,f0,unknown> štrikovanie
+lpvva6to01 1 excluded_region 86.973 87.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 87.760 93.037 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 93.037 100.685 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 100.685 102.960 <o,f0,unknown> kráľ
+lpvva6to01 1 lpvva6to01_lpvva6to01 102.960 104.863 <o,f0,unknown> topánky
+lpvva6to01 1 excluded_region 104.863 106.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 106.360 108.052 <o,f0,unknown> cigarety
+lpvva6to01 1 excluded_region 108.052 109.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 109.240 110.371 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 110.371 111.322 <o,f0,unknown> budík
+lpvva6to01 1 excluded_region 111.322 112.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 112.560 115.681 <o,f0,unknown> teplomer klasický
+lpvva6to01 1 lpvva6to01_lpvva6to01 115.681 116.672 <o,f0,unknown> máme ešte
+lpvva6to01 1 lpvva6to01_lpvva6to01 116.672 117.782 <o,f0,unknown> električka
+lpvva6to01 1 excluded_region 117.782 119.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 119.060 119.664 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 119.664 121.740 <o,f0,unknown> metla
+lpvva6to01 1 lpvva6to01_lpvva6to01 121.740 123.647 <o,f0,unknown> huby
+lpvva6to01 1 excluded_region 123.647 124.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 124.900 126.461 <o,f0,unknown> kotva
+lpvva6to01 1 excluded_region 126.461 127.800 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 127.800 130.540 <o,f0,unknown> kozmonaut
+lpvva6to01 1 excluded_region 130.540 132.039 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 132.039 134.920 <o,f0,unknown> natieranie chleba
+lpvva6to01 1 lpvva6to01_lpvva6to01 134.920 138.380 <o,f0,unknown> preťahovanie lanom
+lpvva6to01 1 lpvva6to01_lpvva6to01 138.380 142.800 <o,f0,unknown> svietenie žiarovka
+lpvva6to01 1 lpvva6to01_lpvva6to01 142.800 145.780 <o,f0,unknown> požiar
+lpvva6to01 1 lpvva6to01_lpvva6to01 145.780 149.840 <o,f0,unknown> hod oštepom
+lpvva6to01 1 lpvva6to01_lpvva6to01 149.840 152.920 <o,f0,unknown> maľovanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 152.920 155.960 <o,f0,unknown> vŕtanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 155.960 158.273 <o,f0,unknown> hrabanie
+lpvva6to01 1 excluded_region 158.273 159.300 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 159.300 161.225 <o,f0,unknown> pílenie
+lpvva6to01 1 excluded_region 161.225 162.180 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 162.180 165.220 <o,f0,unknown> veslovanie
+lpvva6to01 1 excluded_region 165.220 166.912 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 166.912 168.900 <o,f0,unknown> kniha
+lpvva6to01 1 excluded_region 168.900 169.865 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 169.865 171.720 <o,f0,unknown> autobus:
+lpvva6to01 1 lpvva6to01_lpvva6to01 171.720 175.100 <o,f0,unknown> koruna
+lpvva6to01 1 excluded_region 175.100 177.434 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 177.434 179.540 <o,f0,unknown> koleso
+lpvva6to01 1 lpvva6to01_lpvva6to01 179.540 182.040 <o,f0,unknown> lavička
+lpvva6to01 1 lpvva6to01_lpvva6to01 182.040 184.480 <o,f0,unknown> zips
+lpvva6to01 1 lpvva6to01_lpvva6to01 184.480 187.220 <o,f0,unknown> ťava
+lpvva6to01 1 lpvva6to01_lpvva6to01 187.220 189.660 <o,f0,unknown> vešiak
+lpvva6to01 1 lpvva6to01_lpvva6to01 189.660 193.599 <o,f0,unknown> no žaluď
+lpvva6to01 1 excluded_region 193.599 197.998 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 197.998 200.040 <o,f0,unknown> [smiech-] kaktus [-smiech]
+lpvva6to01 1 lpvva6to01_lpvva6to01 200.040 204.740 <o,f0,unknown> činnosť aha spev
+lpvva6to01 1 lpvva6to01_lpvva6to01 204.740 207.560 <o,f0,unknown> kúpanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 207.560 210.380 <o,f0,unknown> meranie
+lpvva6to01 1 lpvva6to01_lpvva6to01 210.380 213.580 <o,f0,unknown> pitie
+lpvva6to01 1 lpvva6to01_lpvva6to01 213.580 216.720 <o,f0,unknown> klopanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 216.720 221.340 <o,f0,unknown> cvičenie
+lpvva6to01 1 lpvva6to01_lpvva6to01 221.340 224.400 <o,f0,unknown> lyžovanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 224.400 227.420 <o,f0,unknown> fotografovanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 227.420 230.200 <o,f0,unknown> bicyklovanie
+lpvva6to01 1 lpvva6to01_lpvva6to01 230.200 233.460 <o,f0,unknown> žehlenie
+lpvva6to01 1 excluded_region 233.460 238.889 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 238.889 263.460 <o,f0,unknown> na obrázku vidím dve ruky. [hez] ruku dospelého človeka a detskú ruku. ako detská ruka stíska/stísa malíček dospelej ruky. ide o objatie. [spk] predpokladám že ide o matku s dieťaťom čiže môže tam byť veľmi/veľi vrúcny vzťah. je to prejav prejav lá .
+lpvva6to01 1 lpvva6to01_lpvva6to01 263.460 278.787 <o,f0,unknown> tak na obrázku vidím kaviarenskú zostavu. typický malý stôl/stvo:l dve stoličky dve šálky teplej kávy.
+lpvva6to01 1 lpvva6to01_lpvva6to01 278.787 283.919 <o,f0,unknown> na obrázku zatiaľ nie sú hostia ktorí tú kávu budú piť.
+lpvva6to01 1 lpvva6to01_lpvva6to01 283.919 293.400 <o,f0,unknown> stoličky sú prevažne z kovu. s [spk] stolík je malý taký standup/stendap stolík vyslovene pre dvoch pre súkrom .
+lpvva6to01 1 lpvva6to01_lpvva6to01 293.400 326.912 <o,f0,unknown> no na obrázku je muž v kuchyni s dieťaťom [smiech-] ktorý [-smiech] [smiech] ktorý je pravdepodobne sám. manželka ho nechala/nehala samého doma aby sa konečne aj on postaral o dieťa. čiže sa pokúša variť. zjavne mu to nejde. kypí z hrnca. [smiech] vylieva sa olej. dieťa si ide pomaly ublížiť. vytopí byt. už aj mačka je z toho [smiech-] zhrozená [-smiech] .
+lpvva6to01 1 lpvva6to01_lpvva6to01 326.912 328.450 <o,f0,unknown> neviem či stačí.
+lpvva6to01 1 excluded_region 328.450 330.107 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 330.107 335.512 <o,f0,unknown> áno svojou neopatrnosťou rozbije dokonca aj luster.
+lpvva6to01 1 lpvva6to01_lpvva6to01 335.512 339.427 <o,f0,unknown> čiže keď sa manželka vráti tak t bude doma veselo.
+lpvva6to01 1 excluded_region 339.427 341.508 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 341.508 346.898 <o,f0,unknown> kuchyňa je celkom zachovalá zelenej farby.
+lpvva6to01 1 lpvva6to01_lpvva6to01 346.898 352.240 <o,f0,unknown> obed bude pravdepodobne nejaká kaša ktorá vykypela.
+lpvva6to01 1 excluded_region 352.240 360.979 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 360.979 366.010 <o,f0,unknown> podlaha je modrá. pravdepodobne je to linoleum podľa vzoru.
+lpvva6to01 1 lpvva6to01_lpvva6to01 366.010 374.075 <o,f0,unknown> [spk] ovocie. chlapec sa nača naťa načahuje za banánom. má tam ešte aj jablko.
+lpvva6to01 1 excluded_region 374.075 378.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 378.160 381.648 <o,f0,unknown> kuchyňa je rohového tvaru.
+lpvva6to01 1 excluded_region 381.648 383.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 excluded_region 383.400 387.334 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 387.334 406.185 <o,f0,unknown> tak na obrázku vidíme [hez] mamičku s dieťaťom v kuchyni pri varení. zjavne ide o takzvaný multitasking keď mamička sa snaží naraz variť naraz tíšiť dieťa naraz [smiech-] telefonovať [-smiech] .
+lpvva6to01 1 lpvva6to01_lpvva6to01 406.185 409.090 <o,f0,unknown> čiže toto [hez] určite nedopadne dobre.
+lpvva6to01 1 lpvva6to01_lpvva6to01 409.090 428.402 <o,f0,unknown> j je k tomu aj mačka ktorá si teda robí čo chce. vidíme ju na poličke. čiže je to veselá mačička. zjavne sa zabáva. akurát prevrhla kvetináč ktorý asi spadne do notebooku/notbuku čiže [smiech] bude mať mamička problém.
+lpvva6to01 1 lpvva6to01_lpvva6to01 428.402 452.568 <o,f0,unknown> dieťa je ešte malé čiže ťažko mu asi mamička vysvetlí že naň práve nemá čas že musí variť že musí telefonovať. a pritom rozhovor telefónu je pravdepodobne o dámskych topánkach ktoré ju zaujali. čiže predpokladám že sa rozpráva s nejakou [smiech-] kamarátkou. [-smiech] [smiech] popisuje jej tie topánky [spk] .
+lpvva6to01 1 lpvva6to01_lpvva6to01 452.568 458.804 <o,f0,unknown> na stene sú hodiny na ktorých je ~C ~C ~A štvrť na jednu.
+lpvva6to01 1 lpvva6to01_lpvva6to01 458.804 473.400 <o,f0,unknown> kuchyňa je taká strohá taká moderná čiže len také poličky [smiech] ako to dnešní mladí ľudia vedia lebo nemyslia na to že veľa vecí bude treba aj niekde uskladniť.
+lpvva6to01 1 excluded_region 473.400 478.021 <o,,unknown> ignore_time_segment_in_scoring
+lpvva6to01 1 lpvva6to01_lpvva6to01 478.021 487.033 <o,f0,unknown> tak na obrázku vidíme vianočnú atmosféru domácnosť.
+lpvva6to01 1 lpvva6to01_lpvva6to01 487.033 518.715 <o,f0,unknown> pravdepodobne ešte nejde o priamo štedrý večer lebo manžel teda otec rodiny sa vracia zvonku ešte s nákupom čiže asi je to predvianočný čas kde ale vidíme nebezpečnú situáciu keďže mamička [hez] práve telefonuje a nedáva pozor čo robí jej dieťa za chrbtom ktoré sa snaží ktorého zaujali vianočné svetielka ale d tým pádom prevrhne stromček čiže môže byť problém.
+lpvva6to01 1 lpvva6to01_lpvva6to01 518.715 528.504 <o,f0,unknown> vracajúci/vracajúsi sa otec rodiny stúpi akurát na rozhádzané hračky čiže môže prísť k úrazu čiže vyzerá to že vianoce budú veselé.
+lpvva6to01 1 lpvva6to01_lpvva6to01 528.504 534.211 <o,f0,unknown> môže/mo:že im vyhorieť/vyhoreť stromček. manžel skončí pravdepodobne so zlomenou nohou.
+lpvva6to01 1 lpvva6to01_lpvva6to01 534.211 541.246 <o,f0,unknown> ale psík je zatiaľ spokojný. ten si: drieme kľudným spánkom na koberci.
+lpvva6to01 1 lpvva6to01_lpvva6to01 541.246 551.075 <o,f0,unknown> stromček je pekný vyzdobený. svetielka má hviezdu na vrcholci.
+lpvva6to01 1 lpvva6to01_lpvva6to01 551.075 559.408 <o,f0,unknown> tomuto všetkému za oknom je svedkom nejaký kamarát chlapca.

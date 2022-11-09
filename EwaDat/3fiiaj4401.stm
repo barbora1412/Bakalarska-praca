@@ -1,0 +1,132 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:36 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211220
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 0.000 15.008 <o,f0,unknown> special_vokal
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 15.008 23.018 <o,f0,unknown> special_pataka
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 23.018 24.252 <o,f0,unknown> [ruch-] melón [-ruch]
+3fiiaj4401 1 excluded_region 24.252 25.124 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 25.124 27.204 <o,f0,unknown> [ruch-] diaľni cesta [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 27.204 29.049 <o,f0,unknown> [ruch-] most [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 29.049 30.415 <o,f0,unknown> [ruch-] hodinky [-ruch]
+3fiiaj4401 1 excluded_region 30.415 30.862 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 30.862 32.867 <o,f0,unknown> [ruch-] bubon/buboj bubienok [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 32.867 34.749 <o,f0,unknown> traktor
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 34.749 36.429 <o,f0,unknown> fajka
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 36.429 38.455 <o,f0,unknown> [ruch-] akvárium [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 38.455 40.871 <o,f0,unknown> [ruch-] lievik [-ruch]
+3fiiaj4401 1 excluded_region 40.871 41.587 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 41.587 42.739 <o,f0,unknown> [ruch-] domino kocka [-ruch]
+3fiiaj4401 1 excluded_region 42.739 43.350 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 43.350 45.846 <o,f0,unknown> [ruch-] ponorka [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 45.846 48.251 <o,f0,unknown> [ruch-] kráľ [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 48.251 50.613 <o,f0,unknown> [ruch-] topánky [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 50.613 52.629 <o,f0,unknown> [ruch-] cigarety [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 52.629 54.575 <o,f0,unknown> [ruch-] budík [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 54.575 56.351 <o,f0,unknown> [ruch-] teplomer [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 56.351 58.158 <o,f0,unknown> električka/eletrička
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 58.158 59.902 <o,f0,unknown> metla
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 59.902 61.319 <o,f0,unknown> [ruch-] hríby [-ruch]
+3fiiaj4401 1 excluded_region 61.319 61.870 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 excluded_region 61.870 62.436 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 62.436 64.051 <o,f0,unknown> [ruch-] kotva [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 64.051 65.772 <o,f0,unknown> [ruch-] kozmonaut [-ruch]
+3fiiaj4401 1 excluded_region 65.772 66.370 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 66.370 68.333 <o,f0,unknown> [ruch-] knižka otvorená [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 68.333 70.172 <o,f0,unknown> [ruch-] autobus diaľkový [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 70.172 72.076 <o,f0,unknown> [ruch-] koruna [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 72.076 73.905 <o,f0,unknown> [ruch-] koleso [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 73.905 75.601 <o,f0,unknown> [ruch-] lavička [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 75.601 77.584 <o,f0,unknown> [ruch-] zips [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 77.584 80.117 <o,f0,unknown> [ruch-] dromedár dvojhrbá ťava [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 80.117 81.666 <o,f0,unknown> [ruch-] vešiak [-ruch]
+3fiiaj4401 1 excluded_region 81.666 82.213 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 82.213 86.186 <o,f0,unknown> [ruch-] čo to je: žaluď [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 86.186 88.452 <o,f0,unknown> [ruch-] kaktus: [-ruch]
+3fiiaj4401 1 excluded_region 88.452 89.484 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 89.484 90.213 <o,f0,unknown> [ruch-] pláva [-ruch]
+3fiiaj4401 1 excluded_region 90.213 91.001 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 91.001 93.171 <o,f0,unknown> [ruch-] píše [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 93.171 95.262 <o,f0,unknown> smeje sa
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 95.262 97.368 <o,f0,unknown> váži
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 97.368 99.261 <o,f0,unknown> plače
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 99.261 101.282 <o,f0,unknown> varí
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 101.282 103.516 <o,f0,unknown> telefonuje
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 103.516 105.575 <o,f0,unknown> [ruch-] šije [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 105.575 107.585 <o,f0,unknown> [ruch-] krája [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 107.585 109.761 <o,f0,unknown> polieva
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 109.761 112.134 <o,f0,unknown> pletie
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 112.134 114.619 <o,f0,unknown> maže
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 114.619 116.784 <o,f0,unknown> hra ťahá
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 116.784 118.783 <o,f0,unknown> svieti
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 118.783 120.975 <o,f0,unknown> horí
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 120.975 123.652 <o,f0,unknown> [ruch-] hádže oštep [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 123.652 126.084 <o,f0,unknown> maľuje niečo
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 126.084 128.451 <o,f0,unknown> [ruch-] vŕta [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 128.451 130.563 <o,f0,unknown> [ruch-] hrabe [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 130.563 132.850 <o,f0,unknown> [ruch-] reže [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 132.850 135.021 <o,f0,unknown> [ruch-] veslujú [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 135.021 137.650 <o,f0,unknown> [ruch-] spieva [-ruch]
+3fiiaj4401 1 excluded_region 137.650 138.545 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 138.545 139.679 <o,f0,unknown> [ruch-] kúpe sa [-ruch]
+3fiiaj4401 1 excluded_region 139.679 140.497 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 140.497 142.844 <o,f0,unknown> [ruch-] meria [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 142.844 144.769 <o,f0,unknown> [ruch-] pije [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 144.769 146.795 <o,f0,unknown> [ruch-] klope [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 146.795 148.949 <o,f0,unknown> [ruch-] skáče cez švihadlo [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 148.949 151.264 <o,f0,unknown> lyžuje
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 151.264 154.469 <o,f0,unknown> [ruch-] fotografuje [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 154.469 156.847 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 156.847 159.700 <o,f0,unknown> žehlí
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 159.700 169.729 <o,f0,unknown> ruka. predpokladám že je to matkina ruka ktoré s: za malíč ktorej sa za malíček [ruch-] drží ď ruka dieťaťa. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 169.729 176.245 <o,f0,unknown> má dobrú čiaru [ruch-] života. všetky prsty. [-ruch] dieťa je asi [ruch-] spokojné. [-ruch]
+3fiiaj4401 1 excluded_region 176.245 179.633 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 179.633 184.024 <o,f0,unknown> [ruch-] čiara života bude dobrá a ostatné neviem. [-ruch]
+3fiiaj4401 1 excluded_region 184.024 189.710 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 excluded_region 189.710 191.116 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 191.116 198.901 <o,f0,unknown> [ruch-] no jedál [hez] stolík v nejakej reštaurácii v kaviarni. dve stoličky. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 198.901 205.938 <o,f0,unknown> [ruch-] sú to také okrúhle stoly celé kovové výpletom na chrbáte kovovým. ((nie)). [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 205.938 219.720 <o,f0,unknown> [ruch-] na stolíku v trojno trojnohom dve šálky. pravdepodobne káva latte/laté a k tomu čierna káva s mliekom. je dosť horúca lebo sa z nej dymí ale tie lyžičky by mohli [-ruch]
+3fiiaj4401 1 excluded_region 219.720 222.436 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 222.436 227.794 <o,f0,unknown> [ruch-] takže toto je podarená kuchynská domácnosť. muž sa pustil do varenia. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 227.794 244.694 <o,f0,unknown> [ruch-] samozrejme pomáhajú mu dieťa ktoré ((by sa)) naťahuje na rozkývanej stoličke za banánom ale pritom si nevšimli že majú plnú výlevku jari a z ktorej už vyteká pena vo:n. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 244.694 260.643 <o,f0,unknown> [ruch-] muž sa snaží variť niečo dobré ale samozrejme už sa mu to prevarilo. ((vylejú)) kypí mu z hrnca. je nešťastný. mi v policiach minul všetky zásoby a mačka v pravom rohu je totálne udivená. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 260.643 274.971 <o,f0,unknown> [ruch-] takže chlapče môj milý budeš si musieť/museť urobiť kuchársky tes [hez] kurz lebo dieťa je dosť šantivé nefo neposedné. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 274.971 279.204 <o,f0,unknown> [ruch-] snaží sa najesť/najes aspoň toho banánu ktorý má v ruke. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 279.204 284.947 <o,f0,unknown> [ruch-] bude to mať veľmi ťažké. [-ruch]
+3fiiaj4401 1 excluded_region 284.947 286.469 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 286.469 299.813 <o,f0,unknown> %je:j tak toto je moderná rodinka. hlavne [ruch-] moderná ženuška ktorá sa učí variť ešte len a na rukách s:i drží nejakého malého krikľúňa. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 299.813 303.421 <o,f0,unknown> samozrejme jej to ide všetko veľmi dobre.
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 303.421 310.220 <o,f0,unknown> [ruch-] začala o štvrť na: jednu ale neviem či do tej druhej u: uvarí obed. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 310.220 320.580 <o,f0,unknown> [ruch-] samozrejme je rozkokošená celá. obracia čosi nejakési safaládky na tej panvici ale v hlave jej víria topánky ktoré videla v obchode. [-ruch]
+3fiiaj4401 1 excluded_region 320.580 322.220 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 322.220 327.353 <o,f0,unknown> [ruch-] na s: [-ruch] robí všetky vecí naraz.
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 327.353 332.178 <o,f0,unknown> má tam štyri tr jeden dva tri hrnc dva hrnce tri jednu panvicu.
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 332.178 338.452 <o,f0,unknown> a do hrnca sa jej čosi sype. ((alebo či to je)) kvetináč? nevidím na to dobre.
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 338.452 340.906 <o,f0,unknown> toto tu vľavo.
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 340.906 351.000 <o,f0,unknown> dobre už to mám. takže to bude niečo [ruch-] čudného čudného v hrnci uvarená nejaká asi polievka/polífka. neviem či bude na jedenie. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 351.000 360.150 <o,f0,unknown> [ruch-] rozkoko [hez] na spul na: pracovnom pulte rozhádzané nôž i: ovocie ze zelenina sa mi zdá tam vidím. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 360.150 369.104 <o,f0,unknown> na polici [ruch-] je neporiadok a dieťa kričí [-ruch] reve a dožaduje sa [ruch-] papať/papu papať/papu papať/papu:. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 369.104 374.957 <o,f0,unknown> [ruch-] hore na polici ešte vyššie mačka domáca ako/jak je to mačka [smiech-] domác [-smiech] [-ruch]
+3fiiaj4401 1 excluded_region 374.957 376.877 <o,,unknown> ignore_time_segment_in_scoring
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 376.877 387.181 <o,f0,unknown> [ruch-] ta:kže vianoce. mal by to byť najkrajší sviatok roka. hlavne pre deti a veľká starosť pre rodičov. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 387.181 404.305 <o,f0,unknown> [ruch-] v tomto prípade tatko prišiel trošku vo veselšej/veselejšej nálade a nevšimol si že už má synáčik porozkladané h hračky ktoré dostal. samozrejme autíčka na kolesách. ((tak keď)) na to stúpil tak začal tancovať odzemok. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 404.305 411.444 <o,f0,unknown> [ruch-] mamina si nevšíma: ničoho. tá je v pohode. telefonuje ako moderná žena. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 411.444 429.617 <o,f0,unknown> pes/punťo ktorý je žije v tejto domácnosti je tiež veľmi kľudný. vy asi je na to [ruch-] zvyknutý. a mládenec ktorý s:a doťahuje za tou/toho peknou hviezdou hore zrazu len zisťuje že sa dá stromček aj povaliť. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 429.617 435.361 <o,f0,unknown> [ruch-] ozdoby ktoré sú tam na tom stromčeku vyzerajú vcelku zaujímavo. [-ruch]
+3fiiaj4401 1 3fiiaj4401_3fiiaj4401 435.361 454.900 <o,f0,unknown> majú hlavne elektrické/eletrické napájanie. nie sú to našťastie sviečky že by spôsobili/spósobili [ruch-] požiar. za oknom začína chumelica/chumelenica čo v danom čase už by je je zázrak pretože v súčasnosti na vianoce sneh nie je. [-ruch]

@@ -1,0 +1,132 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:09 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 11 of 210905
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 0.000 12.577 <o,f0,unknown> vokal
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 12.577 19.200 <o,f0,unknown> bohužiaľ
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 19.200 26.432 <o,f0,unknown> pataka
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 26.432 30.528 <o,f0,unknown> cesta
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 30.528 33.664 <o,f0,unknown> most
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 33.664 36.800 <o,f0,unknown> hodinky
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 36.800 39.872 <o,f0,unknown> bubon
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 39.872 42.816 <o,f0,unknown> traktor
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 42.816 46.208 <o,f0,unknown> no fajka
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 46.208 49.728 <o,f0,unknown> akvárium
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 49.728 53.248 <o,f0,unknown> [hez] lievik
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 53.248 57.344 <o,f0,unknown> ko domino kocky
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 57.344 65.088 <o,f0,unknown> [hez] [spk] maják to je
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 65.088 68.352 <o,f0,unknown> píšem
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 68.352 71.424 <o,f0,unknown> smeje
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 71.424 74.688 <o,f0,unknown> váži
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 74.688 77.696 <o,f0,unknown> plače
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 77.696 80.832 <o,f0,unknown> varí
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 80.832 83.968 <o,f0,unknown> telefonuje
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 83.968 87.296 <o,f0,unknown> šije
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 87.296 91.008 <o,f0,unknown> krája [ned-] jabl [-ned] krája
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 91.008 94.208 <o,f0,unknown> polieva
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 94.208 97.472 <o,f0,unknown> štrikuje
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 97.472 101.248 <o,f0,unknown> kráľ
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 101.248 104.256 <o,f0,unknown> topánky
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 104.256 107.392 <o,f0,unknown> cigarety
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 107.392 110.528 <o,f0,unknown> hodinky
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 110.528 113.600 <o,f0,unknown> teplomer
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 113.600 116.608 <o,f0,unknown> električka
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 116.608 119.488 <o,f0,unknown> metla
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 119.488 122.496 <o,f0,unknown> hríby
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 122.496 125.696 <o,f0,unknown> kotva
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 125.696 129.856 <o,f0,unknown> [hez] kozmonaut
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 129.856 133.632 <o,f0,unknown> [ruch] [hez] natieram
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 133.632 136.896 <o,f0,unknown> ťahám
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 136.896 140.096 <o,f0,unknown> svietim
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 140.096 142.976 <o,f0,unknown> horím
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 142.976 146.176 <o,f0,unknown> hádžem
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 146.176 149.376 <o,f0,unknown> maľujem
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 149.376 152.448 <o,f0,unknown> vŕtam
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 152.448 155.584 <o,f0,unknown> hrabem
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 155.584 158.592 <o,f0,unknown> pílim
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 158.592 161.984 <o,f0,unknown> veslujem
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 161.984 164.928 <o,f0,unknown> kniha
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 164.928 168.192 <o,f0,unknown> autobus
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 168.192 171.520 <o,f0,unknown> [hez] koruna
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 171.520 174.656 <o,f0,unknown> koleso
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 174.656 177.728 <o,f0,unknown> lavica
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 177.728 180.800 <o,f0,unknown> zips
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 180.800 183.744 <o,f0,unknown> ťava
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 183.744 188.352 <o,f0,unknown> [hez] vešiak ramienko
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 188.352 196.480 <o,f0,unknown> [hez] to bude lieskovec nie nejaký plod
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 196.480 199.488 <o,f0,unknown> kaktus
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 199.488 202.944 <o,f0,unknown> spievam
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 202.944 205.888 <o,f0,unknown> kúpem sa
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 205.888 208.768 <o,f0,unknown> meria
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 208.768 211.776 <o,f0,unknown> pije
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 211.776 214.976 <o,f0,unknown> klope
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 214.976 218.112 <o,f0,unknown> skáče
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 218.112 221.376 <o,f0,unknown> lyžuje
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 221.376 224.576 <o,f0,unknown> fotí
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 224.576 227.712 <o,f0,unknown> bicykluje
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 227.712 230.720 <o,f0,unknown> žehlí
+1xk5w5lm01 1 excluded_region 230.720 233.672 <o,,unknown> ignore_time_segment_in_scoring
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 233.672 250.362 <o,f0,unknown> deti kradnú napečené koláče u mame v kuchyni ktorá umýva riad a z drezu/dresu jej preteká voda lebo pri [ned-] u [-ned] utieraní taniera si nevšimla že má pustenú batériu.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 250.362 253.774 <o,f0,unknown> za oknom je záhrada.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 253.774 258.577 <o,f0,unknown> [hez] na oknách má [hez] pekné závesy.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 258.577 267.000 <o,f0,unknown> chlapec ktorý s: [hez] [ned-] k [-ned] kradne tie koláčiky [ned-] s [-ned] [hez] stojí na stoličke ktorá sa mu zihla*.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 267.000 282.751 <o,f0,unknown> dievča sa ho pomaly snaží zachrániť s tým že ale jednou rukou si chce zobrať od neho koláčik. tie koláčiky sú v kuchynskej linke. chlapec už si otvoril dvere.
+1xk5w5lm01 1 excluded_region 282.751 285.062 <o,,unknown> ignore_time_segment_in_scoring
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 285.062 287.720 <o,f0,unknown> koláčiky sú v nádobe.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 287.720 290.735 <o,f0,unknown> nádoba je plná koláčikov.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 290.735 297.105 <o,f0,unknown> [hez] mama si nevšimla že deti jej z tých koláčikov berú.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 297.105 301.743 <o,f0,unknown> na kuchynskej linke má/ma už poutieraný riad.
+1xk5w5lm01 1 excluded_region 301.743 306.181 <o,,unknown> ignore_time_segment_in_scoring
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 306.181 316.774 <o,f0,unknown> [hez] chlapec a dievča sú letno oblečení takže pravdepodobne vonku svieti aj slnko a je teplo preto majú také tenké oblečenie.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 316.774 318.684 <o,f0,unknown> [hez]
+1xk5w5lm01 1 excluded_region 318.684 319.936 <o,,unknown> ignore_time_segment_in_scoring
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 319.936 348.398 <o,f0,unknown> muž je [ned-] oble [-ned] muž má na sebe oblečenú zásteru lebo sa snaží pomáhať v kuchyni. no akosi mu to nejde. rozbil lampu s varechou ktorou chcel miešať kašu no kaša sa mu vylieva vykypuje mu z hrnca. pritom má otvorené ešte dvere na kuchynskej linke ale tam sa mu vylial olej ktorý mu zrovna tečie do tej [hez] kaše.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 348.398 364.428 <o,f0,unknown> na stoličke má svojho syna ktorý si chce zobrať cukríky. no len sa mu šmykla stolička lebo z tečie z drezu/dresu voda [ned-] kt [-ned] lebo batériu zabudli zabudli zastaviť.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 364.428 379.621 <o,f0,unknown> [hez] chlapec má čo robiť aby nepadol z tej stoličky pritom tá lampa do ktorej buchol muž sa rozbila. na zemi sú malé kúsky z tej lampy. takže lampa asi ani nesvieti.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 379.621 383.777 <o,f0,unknown> [hez] kuchynská linka je v zelenej farbe.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 383.777 387.413 <o,f0,unknown> [hez] zásteru má modrú.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 387.413 399.834 <o,f0,unknown> pritom tá lampa ktorá je rozbitá je takej/také slabo hnedej farby a na zemi sú aj úlomky z tej slabo hnedej lampy.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 399.834 406.516 <o,f0,unknown> [hez] chlapec je oblečený do modrých [hez] nohavíc a pulóver.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 406.516 409.152 <o,f0,unknown> [hez] na tom tanieri je dos
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 409.152 414.201 <o,f0,unknown> mama je v kuchyni pritom robí veľa činností.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 414.201 418.401 <o,f0,unknown> opatruje dieťa ktoré momentálne má na rukách.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 418.401 425.951 <o,f0,unknown> súčasne jej telefonoval manžel aby mu nezabudla uvariť polievku ktorú už má na šporáku v hrnci.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 425.951 438.577 <o,f0,unknown> medzitým ale ešte by chcela urobiť nejaké palacinky ale tie palacinky alebo skôr mäso so zemiakmi sa jej nejak pripaľujú na tej panvici.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 438.577 445.721 <o,f0,unknown> pomaly muž prichádza podľa hodín z práce takže sa snaží čo najrýchlejšie urobiť obed.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 445.721 450.794 <o,f0,unknown> medzitým ale ešte má [hez] rozpracovanú prácu na notebooku/notbuku.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 450.794 461.751 <o,f0,unknown> mačka jej vyšla na policu kde z police jej zhodila kvetináč a stále ešte mama rozmýšľa že by si chcela objednať topánky.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 461.751 469.560 <o,f0,unknown> takže tým telefonovaním s manželom mu káže aby jej nezabudol vyzdvihnúť topánky [hez] v predajni.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 469.560 474.261 <o,f0,unknown> mačka pozerá čo by mohla z kuchynskej linky ukradnúť.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 474.261 480.968 <o,f0,unknown> hľadá tam či tam nemá nejaké mäsko. no mama krája [ned-] ze [-ned] no mama krája len zeleninu.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 480.968 483.818 <o,f0,unknown> to dieťa jej stále plače.
+1xk5w5lm01 1 excluded_region 483.818 485.028 <o,,unknown> ignore_time_segment_in_scoring
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 485.028 490.179 <o,f0,unknown> na polici má aj bylinky ktoré by mohla použiť do polievky.
+1xk5w5lm01 1 excluded_region 490.179 492.301 <o,,unknown> ignore_time_segment_in_scoring
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 492.301 498.368 <o,f0,unknown> [hez] mlieko chcela dať malému. má ho nachystané na kuchynskej linke.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 498.368 506.164 <o,f0,unknown> [hez] nadišiel [spk] čas vianoc. mama telefonuje lebo nemá ešte všetky darčeky pripravené.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 506.164 510.898 <o,f0,unknown> deti s otcom už ozdobili [hez] stromček. stromček je nachystaný/nachystany.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 510.898 518.384 <o,f0,unknown> no akosi sa im nezadaril lebo [ned-] z [-ned] začína padať hviezda n [hez] hviezda alebo hviezda na stromčeku.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 518.384 525.236 <o,f0,unknown> vonku začalo snežiť. oco má mokré papučky a sa mu šmyklo na [spk] detských hračkách.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 525.236 533.474 <o,f0,unknown> v rukách nesie [hez] nachystaný darček čo mal pre syna. pravdepodobne to bude asi nejaké živé zvieratko.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 533.474 539.439 <o,f0,unknown> malý sa už nevie dočkať darčekov a preto robí zle okolo stromčeka.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 539.439 544.841 <o,f0,unknown> z okna pozerá jeho kamarát či už si našiel pod stromčekom svoje darčeky.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 544.841 552.796 <o,f0,unknown> mama je stále vo vytržení jako to všetko dá. volá so svojou kamarátkou jak je ona na tom.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 552.796 563.828 <o,f0,unknown> snehu je stále stále a viac. vidíme to cez [ned-] ot [-ned] cez [hez] málo zastreté [ned-] ok [-ned] okno ktoré má závesy červenej farby.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 563.828 570.760 <o,f0,unknown> otec prichádza z vonku lebo je ešte oblečený vo svetri. má na sebe aj čiapku ešte aj šál.
+1xk5w5lm01 1 1xk5w5lm01_1xk5w5lm01 570.760 576.284 <o,f0,unknown> vidieť že pred tými sviatkami je rodina ešte celá nervózna.
+1xk5w5lm01 1 excluded_region 576.284 581.522 <o,,unknown> ignore_time_segment_in_scoring

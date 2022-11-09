@@ -1,0 +1,128 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:10 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220510
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665umjha01 1 665umjha01_665umjha01 0.000 14.900 <o,f0,unknown> special_vokal
+665umjha01 1 665umjha01_665umjha01 14.900 22.800 <o,f0,unknown> special_pataka
+665umjha01 1 665umjha01_665umjha01 22.800 25.800 <o,f0,unknown> cesta
+665umjha01 1 665umjha01_665umjha01 25.800 29.300 <o,f0,unknown> kráľ/chá
+665umjha01 1 665umjha01_665umjha01 29.300 31.920 <o,f0,unknown> kniha
+665umjha01 1 665umjha01_665umjha01 31.920 35.080 <o,f0,unknown> ((xxx)) či most mo
+665umjha01 1 excluded_region 35.080 35.739 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 35.739 37.640 <o,f0,unknown> topánky
+665umjha01 1 665umjha01_665umjha01 37.640 40.520 <o,f0,unknown> autobus
+665umjha01 1 665umjha01_665umjha01 40.520 43.100 <o,f0,unknown> hodinky
+665umjha01 1 665umjha01_665umjha01 43.100 45.780 <o,f0,unknown> ((cigarety))
+665umjha01 1 665umjha01_665umjha01 45.780 52.460 <o,f0,unknown> toto čo farár nosia. neviem ako/jak sa to volá. korunka
+665umjha01 1 665umjha01_665umjha01 52.460 55.240 <o,f0,unknown> bubon
+665umjha01 1 665umjha01_665umjha01 55.240 57.760 <o,f0,unknown> [spk] hodinky [ruch]
+665umjha01 1 665umjha01_665umjha01 57.760 60.400 <o,f0,unknown> [ruch] koleso
+665umjha01 1 665umjha01_665umjha01 60.400 62.760 <o,f0,unknown> traktor
+665umjha01 1 665umjha01_665umjha01 62.760 67.840 <o,f0,unknown> loď/gloď
+665umjha01 1 665umjha01_665umjha01 67.840 70.640 <o,f0,unknown> [ruch-] lavica [-ruch]
+665umjha01 1 665umjha01_665umjha01 70.640 73.220 <o,f0,unknown> fajka
+665umjha01 1 665umjha01_665umjha01 73.220 75.920 <o,f0,unknown> električka/eletrička
+665umjha01 1 665umjha01_665umjha01 75.920 78.560 <o,f0,unknown> zips
+665umjha01 1 665umjha01_665umjha01 78.560 81.680 <o,f0,unknown> kvety
+665umjha01 1 665umjha01_665umjha01 81.680 84.140 <o,f0,unknown> metla
+665umjha01 1 665umjha01_665umjha01 84.140 86.600 <o,f0,unknown> ťava
+665umjha01 1 665umjha01_665umjha01 86.600 89.340 <o,f0,unknown> lievik
+665umjha01 1 665umjha01_665umjha01 89.340 91.980 <o,f0,unknown> huby
+665umjha01 1 665umjha01_665umjha01 91.980 94.700 <o,f0,unknown> vešiak
+665umjha01 1 665umjha01_665umjha01 94.700 99.100 <o,f0,unknown> kalkulačka
+665umjha01 1 665umjha01_665umjha01 99.100 105.060 <o,f0,unknown> [hez] závažie ((toto čo je)) na lodi
+665umjha01 1 665umjha01_665umjha01 105.060 107.696 <o,f0,unknown> gaštan
+665umjha01 1 excluded_region 107.696 108.640 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 excluded_region 108.640 109.826 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 109.826 112.160 <o,f0,unknown> loď
+665umjha01 1 665umjha01_665umjha01 112.160 119.460 <o,f0,unknown> rukavi ((nie)) [hez] [spk] ((kozmonaut))
+665umjha01 1 665umjha01_665umjha01 119.460 129.100 <o,f0,unknown> [hez] no čo toto ako/jak sa to volá no ne ((xx)) kaktus kaktus
+665umjha01 1 665umjha01_665umjha01 129.100 132.100 <o,f0,unknown> píše
+665umjha01 1 665umjha01_665umjha01 132.100 135.620 <o,f0,unknown> reže
+665umjha01 1 665umjha01_665umjha01 135.620 138.240 <o,f0,unknown> spieva
+665umjha01 1 665umjha01_665umjha01 138.240 141.600 <o,f0,unknown> smeje sa/se
+665umjha01 1 665umjha01_665umjha01 141.600 144.260 <o,f0,unknown> ťahá
+665umjha01 1 665umjha01_665umjha01 144.260 146.840 <o,f0,unknown> kúpe/kúbe
+665umjha01 1 665umjha01_665umjha01 146.840 150.800 <o,f0,unknown> toto čo? váži
+665umjha01 1 665umjha01_665umjha01 150.800 153.640 <o,f0,unknown> žiarovka
+665umjha01 1 665umjha01_665umjha01 153.640 157.720 <o,f0,unknown> merá/mjerá
+665umjha01 1 665umjha01_665umjha01 157.720 160.560 <o,f0,unknown> plače
+665umjha01 1 665umjha01_665umjha01 160.560 163.160 <o,f0,unknown> horí
+665umjha01 1 665umjha01_665umjha01 163.160 166.060 <o,f0,unknown> pije
+665umjha01 1 665umjha01_665umjha01 166.060 168.600 <o,f0,unknown> varí
+665umjha01 1 665umjha01_665umjha01 168.600 171.440 <o,f0,unknown> hádže
+665umjha01 1 665umjha01_665umjha01 171.440 174.460 <o,f0,unknown> otvára
+665umjha01 1 665umjha01_665umjha01 174.460 177.260 <o,f0,unknown> telefonuje
+665umjha01 1 665umjha01_665umjha01 177.260 179.767 <o,f0,unknown> farbí
+665umjha01 1 excluded_region 179.767 180.700 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 180.700 183.360 <o,f0,unknown> skáče
+665umjha01 1 665umjha01_665umjha01 183.360 186.120 <o,f0,unknown> šije
+665umjha01 1 665umjha01_665umjha01 186.120 188.760 <o,f0,unknown> vŕta
+665umjha01 1 665umjha01_665umjha01 188.760 191.440 <o,f0,unknown> lyžuje
+665umjha01 1 665umjha01_665umjha01 191.440 194.160 <o,f0,unknown> reže chlieb
+665umjha01 1 665umjha01_665umjha01 194.160 196.740 <o,f0,unknown> hrabe
+665umjha01 1 665umjha01_665umjha01 196.740 200.160 <o,f0,unknown> a t [hez] fotí/foti
+665umjha01 1 665umjha01_665umjha01 200.160 203.040 <o,f0,unknown> po polieva
+665umjha01 1 665umjha01_665umjha01 203.040 205.740 <o,f0,unknown> reže/hreže
+665umjha01 1 665umjha01_665umjha01 205.740 208.600 <o,f0,unknown> bicykluje sa
+665umjha01 1 665umjha01_665umjha01 208.600 212.840 <o,f0,unknown> štopká/štopkuje
+665umjha01 1 665umjha01_665umjha01 212.840 216.120 <o,f0,unknown> vesluje
+665umjha01 1 665umjha01_665umjha01 216.120 219.120 <o,f0,unknown> žehlí
+665umjha01 1 665umjha01_665umjha01 219.120 225.943 <o,f0,unknown> ru ruky ((x)) na prsia.
+665umjha01 1 665umjha01_665umjha01 225.943 234.647 <o,f0,unknown> mačká/mačka prsty. mačká/mačka mačka/mačká prsty.
+665umjha01 1 excluded_region 234.647 249.020 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 249.020 255.951 <o,f0,unknown> stolička stôl/stol a káva na tom/tým je.
+665umjha01 1 665umjha01_665umjha01 255.951 260.635 <o,f0,unknown> lyžičky tam či čo tam ((sú ja neviem)).
+665umjha01 1 665umjha01_665umjha01 260.635 264.566 <o,f0,unknown> ((xx)) stôl/stol stoličky káva.
+665umjha01 1 excluded_region 264.566 278.920 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 278.920 284.831 <o,f0,unknown> chlapec skáče.
+665umjha01 1 665umjha01_665umjha01 284.831 292.169 <o,f0,unknown> oco/oto s varechou/varechu. chlapec na stoličke. berie/bere tam dajaké/dajake ovocie. banán v ruke má alebo čo.
+665umjha01 1 665umjha01_665umjha01 292.169 299.215 <o,f0,unknown> tam varí polievku varia alebo dajaký/dáky ((x)) ja neviem/nevem čo.
+665umjha01 1 665umjha01_665umjha01 299.215 301.525 <o,f0,unknown> čo tam ešte paradajka je.
+665umjha01 1 665umjha01_665umjha01 301.525 306.378 <o,f0,unknown> mačka. vodovod tam ((je)) vidím.
+665umjha01 1 665umjha01_665umjha01 306.378 312.271 <o,f0,unknown> čo tam ešte je? ((xx)) to tam nevidím nič.
+665umjha01 1 665umjha01_665umjha01 312.271 322.356 <o,f0,unknown> malá paradajka. vodovod. [spk] lampa. okná/okna. [hez] skrinky.
+665umjha01 1 665umjha01_665umjha01 322.356 326.081 <o,f0,unknown> kuchynská linka to je tam.
+665umjha01 1 excluded_region 326.081 331.147 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 331.147 335.942 <o,f0,unknown> čo tam ešte ((viac je). mačka. som vravel mačka tam je.
+665umjha01 1 665umjha01_665umjha01 335.942 341.668 <o,f0,unknown> a kde tu čo to ešte. tu polievka. ((xxx)) ((nič nevidím)).
+665umjha01 1 excluded_region 341.668 342.071 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 342.071 346.347 <o,f0,unknown> to je svetlo. lampa svetelná lampa.
+665umjha01 1 665umjha01_665umjha01 346.347 349.293 <o,f0,unknown> varechu ruke oco má/ma.
+665umjha01 1 665umjha01_665umjha01 349.293 361.061 <o,f0,unknown> a viacej no č čo tu môže byť ((ešte)). na spod naspodku/naspodu je dačo tam vyliate. ja neviem čo.
+665umjha01 1 excluded_region 361.061 368.820 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 368.820 376.109 <o,f0,unknown> mamka s s deckom ((xx)) na ruke ho [hez] panvicu má takisto ruke.
+665umjha01 1 665umjha01_665umjha01 376.109 380.664 <o,f0,unknown> d na: poličke sedí mačka. ((hrá)) sa tam.
+665umjha01 1 665umjha01_665umjha01 380.664 384.084 <o,f0,unknown> med alebo olej či čo hodinky.
+665umjha01 1 665umjha01_665umjha01 384.084 389.108 <o,f0,unknown> tu je dajaký/daký paprika toto je také prísady do pa do polievky.
+665umjha01 1 665umjha01_665umjha01 389.108 400.739 <o,f0,unknown> tu je mlieko paradajky stôl [hez] hrniec/hrnec. tam polievka sa varí alebo čo. ja neviem čo.
+665umjha01 1 665umjha01_665umjha01 400.739 407.134 <o,f0,unknown> hodinky. ((je)) koľko je? za desať minút [hez] pol jednej.
+665umjha01 1 665umjha01_665umjha01 407.134 419.115 <o,f0,unknown> mačka víno ho toto čo tu je? to je taká poliev [hez] [hez] tie/tote kvety alebo čo spadnú/spadnu. mačka zvalila.
+665umjha01 1 665umjha01_665umjha01 419.115 432.666 <o,f0,unknown> viac [hez] a viac tu také nevidím čo tu by bolo/bol. [ruch-] nožík/nožik nôž paradajky cibuľa/cebuľa [-ruch] či ((xx)) to ja neviem čo tam je. a viacej ((nevidím)) tam nič také.
+665umjha01 1 excluded_region 432.666 458.720 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 excluded_region 458.720 463.397 <o,,unknown> ignore_time_segment_in_scoring
+665umjha01 1 665umjha01_665umjha01 463.397 466.944 <o,f0,unknown> s pes pes leží/leži.
+665umjha01 1 665umjha01_665umjha01 466.944 470.636 <o,f0,unknown> autíčka chlapec sa mu sedí/sedi na nich na stoličke.
+665umjha01 1 665umjha01_665umjha01 470.636 475.394 <o,f0,unknown> chlap [spk] dievča dievča pozoruje/podzoruje. chlapec tam hrá sa.
+665umjha01 1 665umjha01_665umjha01 475.394 481.149 <o,f0,unknown> tam je dajaký/dáky strom. stromček ozdobujú/obzdobujú. bombule.
+665umjha01 1 665umjha01_665umjha01 481.149 490.354 <o,f0,unknown> skriňa tam je ((či)) ((xxxxxxx)) ((neviem)). autíčka. topánky má. bombule. okno.
+665umjha01 1 665umjha01_665umjha01 490.354 494.133 <o,f0,unknown> chlapec sa smeje od odzdobuje stromček/stromšek.
+665umjha01 1 665umjha01_665umjha01 494.133 497.853 <o,f0,unknown> [ruch] [hez] pani telefonuje.
+665umjha01 1 665umjha01_665umjha01 497.853 502.865 <o,f0,unknown> pán sedí. polieva ((x)) ((bol na)) polievačke/polievačku ((či čo tam má v ruke)). ani neviem čo to tam má/ma.
+665umjha01 1 665umjha01_665umjha01 502.865 505.481 <o,f0,unknown> pes spí.
+665umjha01 1 665umjha01_665umjha01 505.481 510.777 <o,f0,unknown> okná/okna. záclony. hviezda/zviezda na stromčeku.

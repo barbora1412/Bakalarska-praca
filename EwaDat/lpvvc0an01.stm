@@ -1,0 +1,192 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:27 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 0.000 14.920 <o,f0,unknown> special_vokal
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 14.920 22.860 <o,f0,unknown> special_pataka
+lpvvc0an01 1 excluded_region 22.860 24.207 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 24.207 25.744 <o,f0,unknown> [hez] dyňa/vyňa
+lpvvc0an01 1 excluded_region 25.744 26.980 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 26.980 32.948 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 32.948 35.254 <o,f0,unknown> no tuším nejaké tornádo
+lpvvc0an01 1 excluded_region 35.254 37.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 37.160 39.373 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 39.373 44.072 <o,f0,unknown> [hez] [hez] toto je nejaký [hez] Golden_Bridge/goldenbridž [smiech] no
+lpvvc0an01 1 excluded_region 44.072 45.905 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 45.905 46.732 <o,f0,unknown> no most
+lpvvc0an01 1 excluded_region 46.732 47.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 47.220 50.060 <o,f0,unknown> [ruch-] bubienok [-ruch]
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 50.060 54.920 <o,f0,unknown> [hez] traktor
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 54.920 56.594 <o,f0,unknown> fajka
+lpvvc0an01 1 excluded_region 56.594 57.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 57.620 60.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 60.100 61.371 <o,f0,unknown> [hez] toto je lievik
+lpvvc0an01 1 excluded_region 61.371 62.920 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 62.920 66.544 <o,f0,unknown> [hez] ((to)) sú kocky z domina
+lpvvc0an01 1 excluded_region 66.544 68.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 68.020 71.492 <o,f0,unknown> toto je: ((veterný mlyn))
+lpvvc0an01 1 excluded_region 71.492 73.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 73.160 77.934 <o,f0,unknown> toto je tuším nejaký cisár
+lpvvc0an01 1 excluded_region 77.934 80.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 80.960 85.333 <o,f0,unknown> ((to sú)) top topánky
+lpvvc0an01 1 excluded_region 85.333 86.860 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 86.860 88.171 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 88.171 93.413 <o,f0,unknown> ((to sú)) uhorské salámy takto naklonené?
+lpvvc0an01 1 excluded_region 93.413 101.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 101.480 107.078 <o,f0,unknown> desať minút po desiatej
+lpvvc0an01 1 excluded_region 107.078 111.746 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 111.746 113.068 <o,f0,unknown> no hodinky
+lpvvc0an01 1 excluded_region 113.068 113.494 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 113.494 114.560 <o,f0,unknown> budík
+lpvvc0an01 1 excluded_region 114.560 125.431 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 125.431 127.835 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 127.835 131.027 <o,f0,unknown> [hez] toto ((je)) [hez] [hez] [hez] ((x)) teplomer ((ktorý)) ((neviem)) používať
+lpvvc0an01 1 excluded_region 131.027 133.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 133.440 135.638 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 135.638 142.160 <o,f0,unknown> toto je električka bratislavská/bratislavska [hez] [hez] alebo aj v Košiciach trebárs chodí
+lpvvc0an01 1 excluded_region 142.160 150.179 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 150.179 152.475 <o,f0,unknown> toto je metla ciroková
+lpvvc0an01 1 excluded_region 152.475 154.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 154.140 163.027 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 163.027 164.416 <o,f0,unknown> to sú huby/hugy
+lpvvc0an01 1 excluded_region 164.416 166.200 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 166.200 170.419 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 170.419 174.409 <o,f0,unknown> ozdobná kotva. možno že aj [hez] [hez] [hez] ((kotvia)) sa
+lpvvc0an01 1 excluded_region 174.409 183.320 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 183.320 196.964 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 196.964 200.199 <o,f0,unknown> [hez] to je [hez] [hez] [hez] človek na mesiaci
+lpvvc0an01 1 excluded_region 200.199 202.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 202.240 206.210 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 206.210 209.780 <o,f0,unknown> [hez] toto ((je)) rozčítaná kniha
+lpvvc0an01 1 excluded_region 209.780 225.536 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 225.536 227.191 <o,f0,unknown> [hez] to je autobus
+lpvvc0an01 1 excluded_region 227.191 228.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 228.240 232.152 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 232.152 237.280 <o,f0,unknown> [hez] [hez] koruna kráľovská alebo/aleb niečo podobné
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 237.280 244.800 <o,f0,unknown> [hez] ((toto)) je k [hez] ((rezervné)) p [hez] rezervné koleso na auto
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 244.800 254.360 <o,f0,unknown> ((toto je)) [hez] [hez] [hez] st stolička/tolička [hez] [hez] lavička do parku
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 254.360 257.960 <o,f0,unknown> ((to je)) zips
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 257.960 261.617 <o,f0,unknown> no to je ((ako)) ťava
+lpvvc0an01 1 excluded_region 261.617 265.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 265.060 270.458 <o,f0,unknown> no toto je [hez] [hez] ramienko
+lpvvc0an01 1 excluded_region 270.458 271.980 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 271.980 275.005 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 275.005 280.720 <o,f0,unknown> [hez] [hez] toto je žaluď
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 280.720 283.770 <o,f0,unknown> toto je kaktus nejaký
+lpvvc0an01 1 excluded_region 283.770 285.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 285.080 292.924 <o,f0,unknown> [hez] to je nejaký úradník vypisuje nejaké listy/lesta
+lpvvc0an01 1 excluded_region 292.924 294.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 294.480 302.397 <o,f0,unknown> [hez] to je [hez] ((xxx)) slečna/snečna
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 302.397 306.559 <o,f0,unknown> ale čo robí? no smeje sa
+lpvvc0an01 1 excluded_region 306.559 308.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 308.140 319.674 <o,f0,unknown> [hez] toto je [hez] osoba ktorá [hez] [hez] váži na s
+lpvvc0an01 1 excluded_region 319.674 320.176 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 320.176 321.384 <o,f0,unknown> [hez] stolovej váhe
+lpvvc0an01 1 excluded_region 321.384 325.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 325.600 327.474 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 327.474 333.356 <o,f0,unknown> [hez] [hez] [hez] ((xx)) žena niečo varí
+lpvvc0an01 1 excluded_region 333.356 334.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 334.760 346.883 <o,f0,unknown> ((no to)) [hez] t pán sa snaží telefonovať ((ale)) či/ši sa mu podarilo to neviem lebo pery/pehy má zovreté
+lpvvc0an01 1 excluded_region 346.883 349.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 349.440 356.971 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 356.971 366.961 <o,f0,unknown> no [hez] neviem či je to dáma alebo nejaký muž. skôr ma skôr dáma. [hez] a šije/stžije na [hez] šijacom stroji
+lpvvc0an01 1 excluded_region 366.961 368.720 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 368.720 377.566 <o,f0,unknown> no ((toto)) [hez] ((toto)) ako k ktosi koho nevidno [hez] po polieva kvetinku
+lpvvc0an01 1 excluded_region 377.566 380.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 380.220 384.672 <o,f0,unknown> [hez] preťahovanie lanom sa tuho pro produkuje
+lpvvc0an01 1 excluded_region 384.672 387.140 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 387.140 395.480 <o,f0,unknown> žiarovka svieti
+lpvvc0an01 1 excluded_region 395.480 397.120 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 397.120 399.973 <o,f0,unknown> [hez] ho [hez] jedná sa o hod oštepom
+lpvvc0an01 1 excluded_region 399.973 401.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 401.760 413.203 <o,f0,unknown> toto je [hez] maliar ktorý [hez] maľuje/manuje obraz/oba tuším oce [hez] olejovými farbami
+lpvvc0an01 1 excluded_region 413.203 415.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 415.560 423.395 <o,f0,unknown> toto je [hez] malič [hez] [hez] ma [hez] ((xx)) vŕtačkou
+lpvvc0an01 1 excluded_region 423.395 431.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 431.080 434.666 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 434.666 445.300 <o,f0,unknown> to si asi na [hez] [hez] ha has [hez] [hez] ľadovej ploche [hez] asi upravuje nejaké nerovnosti
+lpvvc0an01 1 excluded_region 445.300 447.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 447.620 449.175 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 449.175 451.304 <o,f0,unknown> no mladá speváčka
+lpvvc0an01 1 excluded_region 451.304 453.254 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 453.254 454.540 <o,f0,unknown> spieva do ((xxx))
+lpvvc0an01 1 excluded_region 454.540 456.320 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 456.320 459.386 <o,f0,unknown> no toto je baby/bejbi čo ešte nevie čo ho čaká
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 459.386 463.707 <o,f0,unknown> všeličo s tebou budú robiť celý život
+lpvvc0an01 1 excluded_region 463.707 469.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 469.080 475.460 <o,f0,unknown> toto je za [hez] u utesňovanie okna
+lpvvc0an01 1 excluded_region 475.460 478.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 478.100 480.373 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 480.373 483.044 <o,f0,unknown> to je klepanie na dverách
+lpvvc0an01 1 excluded_region 483.044 484.180 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 484.180 486.621 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 486.621 491.468 <o,f0,unknown> toto je: [hez] [hez] [hez] [hez] nejaké cvičenie na chrbticu
+lpvvc0an01 1 excluded_region 491.468 493.380 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 493.380 497.350 <o,f0,unknown> toto je z [hez] [hez] zjazdové lyžovanie
+lpvvc0an01 1 excluded_region 497.350 499.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 499.340 506.512 <o,f0,unknown> nejaká snaha o fotografovanie
+lpvvc0an01 1 excluded_region 506.512 508.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 508.620 509.592 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 509.592 517.574 <o,f0,unknown> [hez] toto je: [hez] nejaký [hez] c [hez] c bicy bicyklista
+lpvvc0an01 1 excluded_region 517.574 519.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 519.480 522.474 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 522.474 527.311 <o,f0,unknown> no: d dospelú ruku ((alebo)) ((si)) si u uchmatlo baby/bejbi.
+lpvvc0an01 1 excluded_region 527.311 536.681 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 536.681 539.838 <o,f0,unknown> tá dospelá ruka to je [hez] [hez] ľa ľavá ruka.
+lpvvc0an01 1 excluded_region 539.838 546.720 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 546.720 560.983 <o,f0,unknown> no toto je z [hez] s s s súprava záhradného nábytku [hez] ((x)) teda pozostáva z dvoch stoličiek a jedného s jedného stolíka.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 560.983 567.347 <o,f0,unknown> tie: [hez] s stolič [hez] to je to [hez] to je zrejme kovový nábytok.
+lpvvc0an01 1 excluded_region 567.347 572.390 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 572.390 574.905 <o,f0,unknown> ((asi)) ((sedia)) ((na)) ((slniečku)) trošku.
+lpvvc0an01 1 excluded_region 574.905 576.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 576.660 586.488 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 586.488 597.049 <o,f0,unknown> no toto vyzerá že buď niekto zachraňuje hor hor požiar alebo [hez] druhá možnosť [hez] že [hez] [hez] [spk] utiera prach.
+lpvvc0an01 1 excluded_region 597.049 608.591 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 608.591 610.687 <o,f0,unknown> je tam muž.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 610.687 614.662 <o,f0,unknown> a [hez] ((x)) ((drží)) nejakú fakľu.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 614.662 626.572 <o,f0,unknown> ((že)) ((či)) ((či)) ((to)) ((drž )) alebo je to: [hez] nejaká handra ((xxxxxx)).
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 626.572 642.016 <o,f0,unknown> je tam no neviem či dieťa alebo mladá žena tam v č č v červenom tričku a. [hez] [hez] [hez] to sú gate modré?
+lpvvc0an01 1 excluded_region 642.016 647.664 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 647.664 653.494 <o,f0,unknown> no a tuto ešte kocúr sa vystrkuje spoza [hez] [hez] spoza hr [hez] oh ohraničenia obrázku.
+lpvvc0an01 1 excluded_region 653.494 663.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 663.580 669.831 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 669.831 673.511 <o,f0,unknown> to je k [hez] [hez] [hez] asi asi kuchyňa.
+lpvvc0an01 1 excluded_region 673.511 676.570 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 676.570 682.338 <o,f0,unknown> [hez] kuchárka [spk] je zrejme mama.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 682.338 689.102 <o,f0,unknown> to die to dieťa/dieťaťa ktoré [hez] z [hez] [hez] [hez] z za ((zaberá)) jej ((jej)) pozornosť.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 689.102 693.246 <o,f0,unknown> [hez] zrejme tam vzniká asi krízová situácia.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 693.246 706.469 <o,f0,unknown> ona [hez] jej v ľa [hez] v ľavej ruke drží/drži [hez] panvicu na [hez] opekanie z [hez] palaciniek.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 706.469 721.739 <o,f0,unknown> na stene má hodiny. ((tam)) vidno že [hez] je to [hez] dej ktorý prebieha o št štvrtej hodine asi.
+lpvvc0an01 1 excluded_region 721.739 726.690 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 726.690 739.568 <o,f0,unknown> [hez] [hez] snaží sa asi [hez] niečo čítať. ((xx)) má tam poličku. na poličke sú rozobraté knihy. tri štyri minimálne päť ich je tam.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 739.568 748.257 <o,f0,unknown> [hez] na stene je nejaká polička na ktorej sedí kocúr/kocur.
+lpvvc0an01 1 excluded_region 748.257 753.520 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 excluded_region 753.520 759.919 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 759.919 762.476 <o,f0,unknown> no toto je asi v záhra záhrada.
+lpvvc0an01 1 excluded_region 762.476 774.698 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 774.698 777.147 <o,f0,unknown> no je to [hez] záhradná cestička.
+lpvvc0an01 1 excluded_region 777.147 779.379 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 779.379 780.661 <o,f0,unknown> ((a tam)) [hez]
+lpvvc0an01 1 excluded_region 780.661 785.157 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 785.157 788.024 <o,f0,unknown> ((chovajú)) tam korytnačku.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 788.024 796.944 <o,f0,unknown> tá dievčina s sa s [hez] tiež snaží čosi pr predvádzať.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 796.944 800.577 <o,f0,unknown> ((zas)) ((tuto)) su tie knihy.
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 800.577 802.743 <o,f0,unknown> alebo o i dvere [hez] .
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 802.743 805.551 <o,f0,unknown> [hez] [hez] [hez] ((otvorené)) dvere.
+lpvvc0an01 1 excluded_region 805.551 811.966 <o,,unknown> ignore_time_segment_in_scoring
+lpvvc0an01 1 lpvvc0an01_lpvvc0an01 811.966 814.186 <o,f0,unknown> no: viac toho ((asi)) nenarobím.

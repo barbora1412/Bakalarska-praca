@@ -1,0 +1,108 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:29 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 211212
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 0.000 11.193 <o,f0,unknown> special_vokal
+dvd59v4h01 1 excluded_region 11.193 12.160 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 12.160 20.040 <o,f0,unknown> special_pataka
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 20.040 22.680 <o,f0,unknown> [ruch-] cesta [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 22.680 25.340 <o,f0,unknown> [ruch-] kráľ [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 25.340 27.680 <o,f0,unknown> [ruch-] kniha [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 27.680 30.460 <o,f0,unknown> [ruch-] most [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 30.460 33.060 <o,f0,unknown> [ruch-] topánky [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 33.060 35.880 <o,f0,unknown> [ruch-] autobus [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 35.880 38.440 <o,f0,unknown> [ruch-] hodinky [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 38.440 41.080 <o,f0,unknown> [ruch-] cigarety [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 41.080 43.940 <o,f0,unknown> [ruch-] koruna [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 43.940 46.680 <o,f0,unknown> [ruch-] bubon [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 46.680 49.120 <o,f0,unknown> [ruch-] hodiny [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 49.120 51.540 <o,f0,unknown> [ruch-] koleso [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 51.540 54.080 <o,f0,unknown> [ruch-] traktor [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 54.080 56.540 <o,f0,unknown> [ruch-] teplomer [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 56.540 59.120 <o,f0,unknown> [ruch-] lavička [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 59.120 61.480 <o,f0,unknown> [ruch-] fajka [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 61.480 64.580 <o,f0,unknown> [ruch-] električka [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 64.580 66.940 <o,f0,unknown> [ruch-] zips [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 66.940 69.640 <o,f0,unknown> [ruch-] akvárium [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 69.640 72.060 <o,f0,unknown> [ruch-] metla [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 72.060 74.280 <o,f0,unknown> [ruch-] ťava [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 74.280 76.880 <o,f0,unknown> [ruch-] lievik [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 76.880 79.460 <o,f0,unknown> [ruch-] hríby [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 79.460 81.780 <o,f0,unknown> [ruch-] vešiak [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 81.780 84.340 <o,f0,unknown> [ruch-] domino [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 84.340 86.820 <o,f0,unknown> [ruch-] kotva [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 86.820 90.160 <o,f0,unknown> [ruch-] žaluď [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 90.160 92.920 <o,f0,unknown> [ruch-] ponorka [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 92.920 95.480 <o,f0,unknown> [ruch-] kozmonaut [-ruch]
+dvd59v4h01 1 excluded_region 95.480 97.501 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 97.501 99.300 <o,f0,unknown> kaktus [ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 99.300 101.960 <o,f0,unknown> píše [-ruch]
+dvd59v4h01 1 excluded_region 101.960 103.195 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 103.195 105.260 <o,f0,unknown> [ruch-] natiera [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 105.260 107.840 <o,f0,unknown> [ruch-] spieva [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 107.840 110.600 <o,f0,unknown> [ruch-] smeje sa [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 110.600 113.400 <o,f0,unknown> [ruch-] ťahá [-ruch]
+dvd59v4h01 1 excluded_region 113.400 115.167 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 115.167 117.420 <o,f0,unknown> [ruch-] kúpe sa [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 117.420 120.200 <o,f0,unknown> [ruch-] váži [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 120.200 122.980 <o,f0,unknown> [ruch-] svieti [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 122.980 125.023 <o,f0,unknown> [ruch-] meria [-ruch]
+dvd59v4h01 1 excluded_region 125.023 126.460 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 126.460 129.140 <o,f0,unknown> [ruch-] plače [-ruch]
+dvd59v4h01 1 excluded_region 129.140 130.613 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 130.613 132.540 <o,f0,unknown> [ruch-] horí
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 132.540 134.940 <o,f0,unknown> [ruch] pije
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 134.940 137.280 <o,f0,unknown> [ruch-] varí [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 137.280 140.420 <o,f0,unknown> [ruch] hádže
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 140.420 143.280 <o,f0,unknown> klope [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 143.280 145.980 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 145.980 148.400 <o,f0,unknown> [ruch-] maľuje [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 148.400 151.080 <o,f0,unknown> skáče [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 151.080 153.820 <o,f0,unknown> [ruch-] šije [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 153.820 156.140 <o,f0,unknown> [ruch-] vŕta [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 156.140 158.780 <o,f0,unknown> [ruch-] [spk] lyžuje [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 158.780 161.160 <o,f0,unknown> [ruch-] krája [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 161.160 163.740 <o,f0,unknown> [ruch-] hrabe [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 163.740 166.540 <o,f0,unknown> [ruch-] fotí [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 166.540 169.080 <o,f0,unknown> [ruch-] polieva [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 169.080 171.720 <o,f0,unknown> [ruch-] píli [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 171.720 174.060 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 174.060 176.960 <o,f0,unknown> [ruch-] štrikuje [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 176.960 179.940 <o,f0,unknown> [ruch-] vesluje [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 179.940 182.440 <o,f0,unknown> [ruch-] žehlí
+dvd59v4h01 1 excluded_region 182.440 184.961 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 184.961 191.186 <o,f0,unknown> [hez] [ruch] dve ruky detská drží [ruch] prst dospelej ruky. [ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 191.186 199.684 <o,f0,unknown> ruka je nejaká staršia a detská [ruch] drží sa za [ruch-] malíček. [-ruch]
+dvd59v4h01 1 excluded_region 199.684 201.784 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 201.784 204.000 <o,f0,unknown> [ruch-] neviem čo ešte. [-ruch]
+dvd59v4h01 1 excluded_region 204.000 205.714 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 205.714 219.698 <o,f0,unknown> [ruch-] dve stoličky stôl káva pripravená v reštaurácii pre dvoch ľudí. [hez] prídu si [veselost-] sadnúť budú piť v reštaurácii [-veselost] kávu alebo v kaviarni. [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 219.698 225.200 <o,f0,unknown> [ruch] neviem. dve kávy dve lyžičky dve stoličky. [ruch]
+dvd59v4h01 1 excluded_region 225.200 229.572 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 229.572 255.695 <o,f0,unknown> [ruch-] v kuchyni muž dieťa [veselost-] potopa [-veselost] voda sa vylieva z drezu/dresu rozbitá lampa. muž s vareškou asi rozbil tú lampu. to dieťa si berie ovocie banán jablko. niečo kypí na sporáku a [hez] zo skrinky tiež niečo/dačo vypadlo. dieťa na stoličke spadne. a rozbité črepy z lampy. čierna mačka. [-ruch]
+dvd59v4h01 1 excluded_region 255.695 259.620 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 excluded_region 259.620 263.022 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 263.022 280.899 <o,f0,unknown> [ruch-] žena s malým dieťaťom robí asi praženicu na palacinkárni niečo sa varí. [hez] hodiny na poličke knihy nejaké rastlinky. rozmýšľa o topánkach pri varení. dieťa plače. [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 280.899 292.645 <o,f0,unknown> [ruch-] na: polici je mačka fľaša ((na)) nejaký kompót. mačka asi zrútila vázu s kvetmi tá padá. [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 292.645 300.354 <o,f0,unknown> [ruch-] žena varí tam z nejakej zeleniny má nôž tam [-hez] paradajky. [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 300.354 303.409 <o,f0,unknown> [ruch-] neviem aká zelenina je tam ešte mlieko. [-ruch]
+dvd59v4h01 1 excluded_region 303.409 305.617 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 305.617 310.040 <o,f0,unknown> [ruch-] ešte? neviem čo už. [-ruch]
+dvd59v4h01 1 excluded_region 310.040 313.958 <o,,unknown> ignore_time_segment_in_scoring
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 313.958 324.009 <o,f0,unknown> [ruch-] vianočný stromček ktorý [hez] spadol [-hez] má hviezdu má svetielka gule všetko sa to [veselost-] %h [-veselost] rúca na zem. [-ruch]
+dvd59v4h01 1 dvd59v4h01_dvd59v4h01 324.009 344.156 <o,f0,unknown> [ruch-] nejaký otecko sa cez dvere dostáva dnu do bytu s taškou s nákupom padá na autíčkach on asi zrútil ten stromček. matka telefonuje pes spí ((a)) chlapec chlapec tiež ťahá nejakú šnúru asi tie svetielka za oknom je ešte druhé dieťa. [-ruch]

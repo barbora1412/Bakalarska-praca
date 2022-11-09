@@ -1,0 +1,155 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:36 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 11 of 220428
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665ufsr901 1 665ufsr901_665ufsr901 0.000 14.880 <o,f0,unknown> vokal
+665ufsr901 1 665ufsr901_665ufsr901 14.880 22.780 <o,f0,unknown> pataka
+665ufsr901 1 665ufsr901_665ufsr901 22.780 25.540 <o,f0,unknown> cesta
+665ufsr901 1 665ufsr901_665ufsr901 25.540 28.080 <o,f0,unknown> most
+665ufsr901 1 665ufsr901_665ufsr901 28.080 30.460 <o,f0,unknown> hodinky
+665ufsr901 1 665ufsr901_665ufsr901 30.460 32.760 <o,f0,unknown> bubon
+665ufsr901 1 665ufsr901_665ufsr901 32.760 35.080 <o,f0,unknown> traktor
+665ufsr901 1 665ufsr901_665ufsr901 35.080 37.280 <o,f0,unknown> fajka
+665ufsr901 1 665ufsr901_665ufsr901 37.280 40.160 <o,f0,unknown> akvárium
+665ufsr901 1 665ufsr901_665ufsr901 40.160 42.800 <o,f0,unknown> lievik
+665ufsr901 1 665ufsr901_665ufsr901 42.800 45.720 <o,f0,unknown> ponorka
+665ufsr901 1 665ufsr901_665ufsr901 45.720 48.480 <o,f0,unknown> píše
+665ufsr901 1 665ufsr901_665ufsr901 48.480 51.300 <o,f0,unknown> smeje sa
+665ufsr901 1 665ufsr901_665ufsr901 51.300 54.860 <o,f0,unknown> jablko váha
+665ufsr901 1 665ufsr901_665ufsr901 54.860 57.360 <o,f0,unknown> plače
+665ufsr901 1 665ufsr901_665ufsr901 57.360 59.920 <o,f0,unknown> varí
+665ufsr901 1 665ufsr901_665ufsr901 59.920 62.600 <o,f0,unknown> telefonuje
+665ufsr901 1 665ufsr901_665ufsr901 62.600 65.120 <o,f0,unknown> šije
+665ufsr901 1 665ufsr901_665ufsr901 65.120 67.840 <o,f0,unknown> reže
+665ufsr901 1 665ufsr901_665ufsr901 67.840 70.380 <o,f0,unknown> polieva
+665ufsr901 1 665ufsr901_665ufsr901 70.380 73.040 <o,f0,unknown> štrikuje
+665ufsr901 1 665ufsr901_665ufsr901 73.040 77.160 <o,f0,unknown> cesta
+665ufsr901 1 665ufsr901_665ufsr901 77.160 79.360 <o,f0,unknown> most
+665ufsr901 1 665ufsr901_665ufsr901 79.360 81.580 <o,f0,unknown> hodinky
+665ufsr901 1 665ufsr901_665ufsr901 81.580 84.160 <o,f0,unknown> [hez] bubon
+665ufsr901 1 665ufsr901_665ufsr901 84.160 86.540 <o,f0,unknown> traktor
+665ufsr901 1 665ufsr901_665ufsr901 86.540 88.700 <o,f0,unknown> fajka
+665ufsr901 1 665ufsr901_665ufsr901 88.700 91.140 <o,f0,unknown> akvárium
+665ufsr901 1 665ufsr901_665ufsr901 91.140 93.440 <o,f0,unknown> lievik
+665ufsr901 1 665ufsr901_665ufsr901 93.440 94.875 <o,f0,unknown> domino
+665ufsr901 1 665ufsr901_665ufsr901 94.875 95.920 <o,f0,unknown> [smiech]
+665ufsr901 1 665ufsr901_665ufsr901 95.920 98.680 <o,f0,unknown> [smiech-] ponorka [-smiech]
+665ufsr901 1 665ufsr901_665ufsr901 98.680 101.200 <o,f0,unknown> píše
+665ufsr901 1 665ufsr901_665ufsr901 101.200 104.440 <o,f0,unknown> [ned-] s [-ned] [hez] smeje sa
+665ufsr901 1 665ufsr901_665ufsr901 104.440 107.220 <o,f0,unknown> jablko
+665ufsr901 1 665ufsr901_665ufsr901 107.220 109.740 <o,f0,unknown> plače
+665ufsr901 1 665ufsr901_665ufsr901 109.740 112.160 <o,f0,unknown> varí
+665ufsr901 1 665ufsr901_665ufsr901 112.160 114.760 <o,f0,unknown> telefonuje
+665ufsr901 1 665ufsr901_665ufsr901 114.760 117.140 <o,f0,unknown> šije
+665ufsr901 1 665ufsr901_665ufsr901 117.140 119.660 <o,f0,unknown> krája
+665ufsr901 1 665ufsr901_665ufsr901 119.660 122.120 <o,f0,unknown> polieva
+665ufsr901 1 665ufsr901_665ufsr901 122.120 124.500 <o,f0,unknown> štrikuje
+665ufsr901 1 665ufsr901_665ufsr901 124.500 126.880 <o,f0,unknown> kráľ
+665ufsr901 1 665ufsr901_665ufsr901 126.880 129.420 <o,f0,unknown> topánky
+665ufsr901 1 665ufsr901_665ufsr901 129.420 132.420 <o,f0,unknown> cigarety
+665ufsr901 1 665ufsr901_665ufsr901 132.420 135.220 <o,f0,unknown> hodinky
+665ufsr901 1 665ufsr901_665ufsr901 135.220 137.940 <o,f0,unknown> teplomer
+665ufsr901 1 665ufsr901_665ufsr901 137.940 140.560 <o,f0,unknown> električka
+665ufsr901 1 665ufsr901_665ufsr901 140.560 143.040 <o,f0,unknown> metla
+665ufsr901 1 665ufsr901_665ufsr901 143.040 145.780 <o,f0,unknown> hríby
+665ufsr901 1 665ufsr901_665ufsr901 145.780 148.280 <o,f0,unknown> kotva
+665ufsr901 1 665ufsr901_665ufsr901 148.280 151.200 <o,f0,unknown> kozmonaut
+665ufsr901 1 excluded_region 151.200 152.881 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 152.881 153.731 <o,f0,unknown> maže
+665ufsr901 1 665ufsr901_665ufsr901 153.731 154.740 <o,f0,unknown> [smiech]
+665ufsr901 1 665ufsr901_665ufsr901 154.740 157.720 <o,f0,unknown> ťahá
+665ufsr901 1 665ufsr901_665ufsr901 157.720 160.980 <o,f0,unknown> žiarovka
+665ufsr901 1 665ufsr901_665ufsr901 160.980 163.540 <o,f0,unknown> horí
+665ufsr901 1 665ufsr901_665ufsr901 163.540 166.580 <o,f0,unknown> oštep
+665ufsr901 1 665ufsr901_665ufsr901 166.580 169.380 <o,f0,unknown> maliar
+665ufsr901 1 665ufsr901_665ufsr901 169.380 172.060 <o,f0,unknown> vŕta
+665ufsr901 1 665ufsr901_665ufsr901 172.060 174.580 <o,f0,unknown> hrabe
+665ufsr901 1 665ufsr901_665ufsr901 174.580 177.300 <o,f0,unknown> reže
+665ufsr901 1 665ufsr901_665ufsr901 177.300 180.860 <o,f0,unknown> veslujú
+665ufsr901 1 inter_segment_gap 180.860 181.803 <o,f0,> 
+665ufsr901 1 665ufsr901_665ufsr901 181.803 183.600 <o,f0,unknown> kniha
+665ufsr901 1 665ufsr901_665ufsr901 183.600 186.300 <o,f0,unknown> autobus
+665ufsr901 1 665ufsr901_665ufsr901 186.300 188.960 <o,f0,unknown> koruna
+665ufsr901 1 665ufsr901_665ufsr901 188.960 191.620 <o,f0,unknown> koleso
+665ufsr901 1 665ufsr901_665ufsr901 191.620 194.160 <o,f0,unknown> lavička
+665ufsr901 1 665ufsr901_665ufsr901 194.160 196.680 <o,f0,unknown> zips
+665ufsr901 1 665ufsr901_665ufsr901 196.680 199.020 <o,f0,unknown> ťava
+665ufsr901 1 665ufsr901_665ufsr901 199.020 201.600 <o,f0,unknown> vešiak
+665ufsr901 1 665ufsr901_665ufsr901 201.600 204.440 <o,f0,unknown> žaluď/žalud
+665ufsr901 1 665ufsr901_665ufsr901 204.440 207.620 <o,f0,unknown> kokos
+665ufsr901 1 excluded_region 207.620 208.457 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 208.457 210.340 <o,f0,unknown> spieva
+665ufsr901 1 665ufsr901_665ufsr901 210.340 213.040 <o,f0,unknown> kúpe sa
+665ufsr901 1 665ufsr901_665ufsr901 213.040 215.920 <o,f0,unknown> meria
+665ufsr901 1 665ufsr901_665ufsr901 215.920 218.380 <o,f0,unknown> pije
+665ufsr901 1 665ufsr901_665ufsr901 218.380 221.160 <o,f0,unknown> klope
+665ufsr901 1 665ufsr901_665ufsr901 221.160 223.580 <o,f0,unknown> skáče
+665ufsr901 1 665ufsr901_665ufsr901 223.580 226.440 <o,f0,unknown> lyžuje sa
+665ufsr901 1 665ufsr901_665ufsr901 226.440 229.300 <o,f0,unknown> fotí/foti
+665ufsr901 1 665ufsr901_665ufsr901 229.300 232.400 <o,f0,unknown> bicykluje sa
+665ufsr901 1 665ufsr901_665ufsr901 232.400 237.180 <o,f0,unknown> žehlí
+665ufsr901 1 excluded_region 237.180 239.223 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 239.223 252.571 <o,f0,unknown> ruka detská ruka: prsty: vrásky: [hez] [hez] palec ukazovák malíček prstenník.
+665ufsr901 1 excluded_region 252.571 255.824 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 255.824 258.392 <o,f0,unknown> päsť [smiech-] dieťaťa drží sa [-smiech] .
+665ufsr901 1 excluded_region 258.392 262.524 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 262.524 263.931 <o,f0,unknown> nechtíky.
+665ufsr901 1 excluded_region 263.931 267.080 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 excluded_region 267.080 269.490 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 269.490 273.045 <o,f0,unknown> stolička stôl.
+665ufsr901 1 excluded_region 273.045 275.006 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 275.006 275.978 <o,f0,unknown> káva.
+665ufsr901 1 excluded_region 275.978 277.330 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 277.330 296.980 <o,f0,unknown> [hez] šálky: nožičky na stoličke stôl nožičky na stole sedadlo ornament okrasný lyžička: tanierik para z kávy.
+665ufsr901 1 excluded_region 296.980 300.964 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 300.964 320.585 <o,f0,unknown> kuchynská linka: [hez] svetlo varecha: [hez] stolička: dieťa banán tanier jablko hrniec kypí.
+665ufsr901 1 excluded_region 320.585 321.791 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 321.791 326.195 <o,f0,unknown> vodovod ventil voda.
+665ufsr901 1 excluded_region 326.195 327.921 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 327.921 362.258 <o,f0,unknown> [hez] luster [hez] poličky neviem/neznam čo/co toto tu farebné [hez] papučky: zástera nohavice tričko: žlté tričko červené nohavice sivé papučky červené rozbitý luster mačka: oči: uši: utierka/uterka:.
+665ufsr901 1 excluded_region 362.258 368.191 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 368.191 369.046 <o,f0,unknown> nohy.
+665ufsr901 1 excluded_region 369.046 386.880 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 excluded_region 386.880 389.199 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 389.199 399.217 <o,f0,unknown> [ned-] hodink [-ned] hodina* na stene topánky fľaška kompót mačka: polička:.
+665ufsr901 1 excluded_region 399.217 402.286 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 402.286 422.276 <o,f0,unknown> mamka: dieťa: pekáč. potraviny na pekáči/pekáču sa pečú. hrniec šporák varí nôž soľ doska.
+665ufsr901 1 excluded_region 422.276 429.736 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 429.736 439.878 <o,f0,unknown> mamka telefo:nuje. zásteru zástera tričko: sivé dupačky.
+665ufsr901 1 excluded_region 439.878 443.644 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 443.644 445.122 <o,f0,unknown> hnedý šporák.
+665ufsr901 1 excluded_region 445.122 447.240 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 447.240 458.364 <o,f0,unknown> mäso na pekáči. zemiaky knižky polička: vázy okrasné.
+665ufsr901 1 excluded_region 458.364 460.147 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 460.147 461.634 <o,f0,unknown> mačka chvost.
+665ufsr901 1 excluded_region 461.634 464.629 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 464.629 468.512 <o,f0,unknown> myšlienka: v hlave [smiech] topánky.
+665ufsr901 1 excluded_region 468.512 471.405 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 471.405 473.515 <o,f0,unknown> dvanásť hodín dvadsať minút.
+665ufsr901 1 excluded_region 473.515 476.780 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 excluded_region 476.780 480.150 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 480.150 482.499 <o,f0,unknown> stromček padá.
+665ufsr901 1 excluded_region 482.499 484.436 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 484.436 506.095 <o,f0,unknown> otec [smiech-] padá [-smiech] . autíčko žlté autíčko červené. mamka telefonuje. hnedé vlasy zelený oblek tričko: ružové/ružove nohavice modré papučky červené.
+665ufsr901 1 excluded_region 506.095 508.930 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 508.930 534.455 <o,f0,unknown> syn stiahol stromček/stromík. š žlt [hez] modré tričko: žlté trenírky hnedé vlasy. záves červenobordový. okno m modrá obloha sneženie. druhý chlapec okno čiapka na hlave.
+665ufsr901 1 excluded_region 534.455 536.161 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 536.161 549.164 <o,f0,unknown> dvere otvorené. sneženie ta:ška zelenkavá [hez] kabát hnedý šál.
+665ufsr901 1 excluded_region 549.164 550.499 <o,,unknown> ignore_time_segment_in_scoring
+665ufsr901 1 665ufsr901_665ufsr901 550.499 554.880 <o,f0,unknown> fialové/fialovie tričko alebo/abo sveter nohavice tmavé.
+665ufsr901 1 excluded_region 554.880 558.761 <o,,unknown> ignore_time_segment_in_scoring

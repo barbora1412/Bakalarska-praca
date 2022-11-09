@@ -1,3 +1,64 @@
+Počet váhaní: 2
+Počet slov: 20
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 4.0
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 4.636
+Dĺžka nahrávky [s]: 23.18
+Počet slov vo vete(priemer): 2.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.2
+Predĺžené slová: 1
+
+Počet váhaní: 3
+Počet slov: 168
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 21.0
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.253
+Dĺžka nahrávky [s]: 90.026
+Počet slov vo vete(priemer): 8.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.143
+Predĺžené slová: 5
+
+Počet váhaní: 7
+Počet slov: 117
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 16.714
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.857
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 3.545
+Počet citosloviec: 
+                   s: 1
+Počet váhaní vo vete(priemer): 0.212
+Predĺžené slová: 3
+
+Počet váhaní: 0
+Počet slov: 0
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 0.0
+Počet segmentov: 1
+Priemerná dĺžka segmentu [s]: 1.834
+Dĺžka nahrávky [s]: 1.834
+Počet slov vo vete(priemer): 0.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 13
+Počet slov: 136
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 45.333
+Počet segmentov: 3
+Priemerná dĺžka segmentu [s]: 30.0
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 15.111
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 1.444
+Predĺžené slová: 13
+
 Počet váhaní: 5
 Počet slov: 52
 Počet unikátnych slov: 0
@@ -9,6 +70,30 @@ Počet slov vo vete(priemer): 3.059
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.294
 Predĺžené slová: 1
+
+Počet váhaní: 1
+Počet slov: 201
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 13.4
+Počet segmentov: 15
+Priemerná dĺžka segmentu [s]: 5.997
+Dĺžka nahrávky [s]: 89.96
+Počet slov vo vete(priemer): 11.824
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.059
+Predĺžené slová: 0
+
+Počet váhaní: 6
+Počet slov: 177
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 19.667
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.993
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 8.85
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.3
+Predĺžené slová: 0
 
 Počet váhaní: 14
 Počet slov: 89
@@ -47,6 +132,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.476
 Predĺžené slová: 9
 
+Počet váhaní: 0
+Počet slov: 70
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.0
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 10.596
+Dĺžka nahrávky [s]: 52.98
+Počet slov vo vete(priemer): 6.364
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
 Počet váhaní: 5
 Počet slov: 94
 Počet unikátnych slov: 0
@@ -72,6 +169,19 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 0
 
+Počet váhaní: 4
+Počet slov: 82
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.467
+Počet segmentov: 15
+Priemerná dĺžka segmentu [s]: 4.505
+Dĺžka nahrávky [s]: 67.58
+Počet slov vo vete(priemer): 2.645
+Počet citosloviec: 
+                   ach: 1
+Počet váhaní vo vete(priemer): 0.129
+Predĺžené slová: 2
+
 Počet váhaní: 28
 Počet slov: 155
 Počet unikátnych slov: 0
@@ -83,6 +193,30 @@ Počet slov vo vete(priemer): 4.429
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.8
 Predĺžené slová: 15
+
+Počet váhaní: 6
+Počet slov: 120
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.667
+Počet segmentov: 18
+Priemerná dĺžka segmentu [s]: 4.947
+Dĺžka nahrávky [s]: 89.04
+Počet slov vo vete(priemer): 2.927
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.146
+Predĺžené slová: 0
+
+Počet váhaní: 5
+Počet slov: 91
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 9.1
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 6.516
+Dĺžka nahrávky [s]: 65.16
+Počet slov vo vete(priemer): 4.136
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.227
+Predĺžené slová: 0
 
 Počet váhaní: 8
 Počet slov: 150
@@ -121,17 +255,66 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.529
 Predĺžené slová: 5
 
-Počet váhaní: 2
-Počet slov: 62
+Počet váhaní: 3
+Počet slov: 96
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 3.875
+Počet slov za segment(priemer): 7.385
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 6.918
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.174
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.13
+Predĺžené slová: 0
+
+Počet váhaní: 1
+Počet slov: 107
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 11.889
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 8.818
+Dĺžka nahrávky [s]: 79.36
+Počet slov vo vete(priemer): 4.864
+Počet citosloviec: 
+                   a: 1
+Počet váhaní vo vete(priemer): 0.045
+Predĺžené slová: 2
+
+Počet váhaní: 5
+Počet slov: 63
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.727
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 5.851
+Dĺžka nahrávky [s]: 64.36
+Počet slov vo vete(priemer): 3.5
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.278
+Predĺžené slová: 1
+
+Počet váhaní: 2
+Počet slov: 63
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.938
 Počet segmentov: 16
 Priemerná dĺžka segmentu [s]: 5.505
 Dĺžka nahrávky [s]: 88.075
-Počet slov vo vete(priemer): 1.879
+Počet slov vo vete(priemer): 1.909
 Počet citosloviec: 
                    hm: 1
 Počet váhaní vo vete(priemer): 0.061
+Predĺžené slová: 0
+
+Počet váhaní: 2
+Počet slov: 69
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.9
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 4.274
+Dĺžka nahrávky [s]: 42.74
+Počet slov vo vete(priemer): 3.632
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.105
 Predĺžené slová: 0
 
 Počet váhaní: 5
@@ -145,6 +328,31 @@ Počet slov vo vete(priemer): 4.875
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.156
 Predĺžené slová: 2
+
+Počet váhaní: 0
+Počet slov: 60
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.667
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 5.471
+Dĺžka nahrávky [s]: 49.24
+Počet slov vo vete(priemer): 2.727
+Počet citosloviec: 
+                   mm: 1
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 1
+
+Počet váhaní: 1
+Počet slov: 59
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.75
+Počet segmentov: 4
+Priemerná dĺžka segmentu [s]: 8.615
+Dĺžka nahrávky [s]: 34.46
+Počet slov vo vete(priemer): 6.556
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.111
+Predĺžené slová: 1
 
 Počet váhaní: 7
 Počet slov: 157
@@ -182,6 +390,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.75
 Predĺžené slová: 8
 
+Počet váhaní: 32
+Počet slov: 176
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.571
+Počet segmentov: 14
+Priemerná dĺžka segmentu [s]: 6.424
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.513
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.821
+Predĺžené slová: 2
+
 Počet váhaní: 6
 Počet slov: 38
 Počet unikátnych slov: 0
@@ -206,17 +426,17 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.375
 Predĺžené slová: 2
 
-Počet váhaní: 8
-Počet slov: 103
+Počet váhaní: 0
+Počet slov: 20
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 11.444
-Počet segmentov: 9
-Priemerná dĺžka segmentu [s]: 10.12
-Dĺžka nahrávky [s]: 91.08
-Počet slov vo vete(priemer): 4.905
+Počet slov za segment(priemer): 6.667
+Počet segmentov: 3
+Priemerná dĺžka segmentu [s]: 11.513
+Dĺžka nahrávky [s]: 34.54
+Počet slov vo vete(priemer): 3.333
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.381
-Predĺžené slová: 3
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 1
 
 Počet váhaní: 2
 Počet slov: 116
@@ -254,6 +474,31 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.429
 Predĺžené slová: 1
 
+Počet váhaní: 5
+Počet slov: 104
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.857
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 10.137
+Dĺžka nahrávky [s]: 70.96
+Počet slov vo vete(priemer): 4.333
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.208
+Predĺžené slová: 0
+
+Počet váhaní: 6
+Počet slov: 165
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.333
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.993
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 6.6
+Počet citosloviec: 
+                   aha: 1
+Počet váhaní vo vete(priemer): 0.24
+Predĺžené slová: 1
+
 Počet váhaní: 3
 Počet slov: 113
 Počet unikátnych slov: 0
@@ -267,17 +512,17 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.091
 Predĺžené slová: 0
 
-Počet váhaní: 16
+Počet váhaní: 17
 Počet slov: 154
 Počet unikátnych slov: 0
 Počet slov za segment(priemer): 30.8
 Počet segmentov: 5
 Priemerná dĺžka segmentu [s]: 18.476
 Dĺžka nahrávky [s]: 92.38
-Počet slov vo vete(priemer): 15.4
+Počet slov vo vete(priemer): 9.625
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 1.6
-Predĺžené slová: 3
+Počet váhaní vo vete(priemer): 1.062
+Predĺžené slová: 5
 
 Počet váhaní: 9
 Počet slov: 85
@@ -293,6 +538,31 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.562
 Predĺžené slová: 1
 
+Počet váhaní: 5
+Počet slov: 32
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.0
+Počet segmentov: 4
+Priemerná dĺžka segmentu [s]: 10.0
+Dĺžka nahrávky [s]: 40.0
+Počet slov vo vete(priemer): 3.556
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.556
+Predĺžené slová: 1
+
+Počet váhaní: 2
+Počet slov: 27
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 2.077
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 3.059
+Dĺžka nahrávky [s]: 39.765
+Počet slov vo vete(priemer): 1.174
+Počet citosloviec: 
+                   aha: 1
+Počet váhaní vo vete(priemer): 0.087
+Predĺžené slová: 0
+
 Počet váhaní: 15
 Počet slov: 125
 Počet unikátnych slov: 0
@@ -306,6 +576,18 @@ Počet váhaní vo vete(priemer): 0.536
 Predĺžené slová: 6
 
 Počet váhaní: 3
+Počet slov: 32
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 4.571
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 4.909
+Dĺžka nahrávky [s]: 34.36
+Počet slov vo vete(priemer): 2.133
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.2
+Predĺžené slová: 1
+
+Počet váhaní: 3
 Počet slov: 50
 Počet unikátnych slov: 0
 Počet slov za segment(priemer): 4.167
@@ -316,6 +598,18 @@ Počet slov vo vete(priemer): 2.083
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.125
 Predĺžené slová: 2
+
+Počet váhaní: 1
+Počet slov: 104
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 11.556
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 8.82
+Dĺžka nahrávky [s]: 79.38
+Počet slov vo vete(priemer): 6.118
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.059
+Predĺžené slová: 3
 
 Počet váhaní: 1
 Počet slov: 129
@@ -353,17 +647,80 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 6
 
-Počet váhaní: 0
-Počet slov: 72
+Počet váhaní: 3
+Počet slov: 45
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 72.0
-Počet segmentov: 1
-Priemerná dĺžka segmentu [s]: 58.96
-Dĺžka nahrávky [s]: 58.96
-Počet slov vo vete(priemer): 24.0
+Počet slov za segment(priemer): 2.812
+Počet segmentov: 16
+Priemerná dĺžka segmentu [s]: 3.58
+Dĺžka nahrávky [s]: 57.28
+Počet slov vo vete(priemer): 1.552
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.103
+Predĺžené slová: 0
+
+Počet váhaní: 9
+Počet slov: 97
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.778
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.991
+Dĺžka nahrávky [s]: 89.92
+Počet slov vo vete(priemer): 4.409
+Počet citosloviec: 
+                   á: 1
+Počet váhaní vo vete(priemer): 0.409
+Predĺžené slová: 1
+
+Počet váhaní: 0
+Počet slov: 21
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.0
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 5.491
+Dĺžka nahrávky [s]: 38.44
+Počet slov vo vete(priemer): 1.615
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 1
+
+Počet váhaní: 1
+Počet slov: 61
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.778
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 4.376
+Dĺžka nahrávky [s]: 39.38
+Počet slov vo vete(priemer): 2.652
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.043
+Predĺžené slová: 0
+
+Počet váhaní: 5
+Počet slov: 69
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.273
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 7.227
+Dĺžka nahrávky [s]: 79.5
+Počet slov vo vete(priemer): 2.76
+Počet citosloviec: 
+                   mm: 1
+                   jaj: 1
+Počet váhaní vo vete(priemer): 0.2
 Predĺžené slová: 2
+
+Počet váhaní: 0
+Počet slov: 26
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.714
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 9.579
+Dĺžka nahrávky [s]: 67.05
+Počet slov vo vete(priemer): 1.733
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 1
 
 Počet váhaní: 13
 Počet slov: 73
@@ -376,6 +733,18 @@ Počet slov vo vete(priemer): 2.607
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.464
 Predĺžené slová: 11
+
+Počet váhaní: 2
+Počet slov: 167
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.438
+Počet segmentov: 16
+Priemerná dĺžka segmentu [s]: 5.619
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 4.514
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.054
+Predĺžené slová: 0
 
 Počet váhaní: 3
 Počet slov: 48
@@ -390,13 +759,13 @@ Počet váhaní vo vete(priemer): 0.158
 Predĺžené slová: 0
 
 Počet váhaní: 10
-Počet slov: 195
+Počet slov: 196
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 39.0
+Počet slov za segment(priemer): 39.2
 Počet segmentov: 5
 Priemerná dĺžka segmentu [s]: 17.992
 Dĺžka nahrávky [s]: 89.96
-Počet slov vo vete(priemer): 13.929
+Počet slov vo vete(priemer): 14.0
 Počet citosloviec: 
                    o: 1
 Počet váhaní vo vete(priemer): 0.714
@@ -414,6 +783,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.167
 Predĺžené slová: 7
 
+Počet váhaní: 0
+Počet slov: 146
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 48.667
+Počet segmentov: 3
+Priemerná dĺžka segmentu [s]: 29.98
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 11.231
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
 Počet váhaní: 13
 Počet slov: 123
 Počet unikátnych slov: 0
@@ -427,6 +808,18 @@ Počet váhaní vo vete(priemer): 0.481
 Predĺžené slová: 1
 
 Počet váhaní: 12
+Počet slov: 155
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 11.071
+Počet segmentov: 14
+Priemerná dĺžka segmentu [s]: 6.43
+Dĺžka nahrávky [s]: 90.026
+Počet slov vo vete(priemer): 5.741
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.444
+Predĺžené slová: 0
+
+Počet váhaní: 12
 Počet slov: 163
 Počet unikátnych slov: 0
 Počet slov za segment(priemer): 40.75
@@ -437,6 +830,43 @@ Počet slov vo vete(priemer): 10.867
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.8
 Predĺžené slová: 0
+
+Počet váhaní: 7
+Počet slov: 108
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.0
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 9.557
+Dĺžka nahrávky [s]: 57.34
+Počet slov vo vete(priemer): 6.75
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.438
+Predĺžené slová: 5
+
+Počet váhaní: 2
+Počet slov: 152
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 21.714
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.849
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 6.609
+Počet citosloviec: 
+                   joj: 1
+Počet váhaní vo vete(priemer): 0.087
+Predĺžené slová: 0
+
+Počet váhaní: 1
+Počet slov: 251
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 25.1
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 8.994
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 8.964
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.036
+Predĺžené slová: 1
 
 Počet váhaní: 5
 Počet slov: 103
@@ -449,6 +879,18 @@ Počet slov vo vete(priemer): 5.15
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.25
 Predĺžené slová: 0
+
+Počet váhaní: 16
+Počet slov: 109
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 9.909
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 7.249
+Dĺžka nahrávky [s]: 79.74
+Počet slov vo vete(priemer): 4.955
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.727
+Predĺžené slová: 3
 
 Počet váhaní: 0
 Počet slov: 26
@@ -475,6 +917,31 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.345
 Predĺžené slová: 5
 
+Počet váhaní: 10
+Počet slov: 57
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 4.75
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.492
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 2.85
+Počet citosloviec: 
+                   mhm: 1
+Počet váhaní vo vete(priemer): 0.5
+Predĺžené slová: 2
+
+Počet váhaní: 4
+Počet slov: 161
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 23.0
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 11.42
+Dĺžka nahrávky [s]: 79.94
+Počet slov vo vete(priemer): 10.062
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.25
+Predĺžené slová: 9
+
 Počet váhaní: 6
 Počet slov: 94
 Počet unikátnych slov: 0
@@ -487,6 +954,55 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.545
 Predĺžené slová: 2
 
+Počet váhaní: 0
+Počet slov: 62
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.4
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 9.872
+Dĺžka nahrávky [s]: 49.36
+Počet slov vo vete(priemer): 3.1
+Počet citosloviec: 
+                   mhm: 1
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 0
+Počet slov: 26
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.714
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 4.349
+Dĺžka nahrávky [s]: 30.44
+Počet slov vo vete(priemer): 1.857
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 12
+Počet slov: 122
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.2
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 8.99
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 4.88
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.48
+Predĺžené slová: 1
+
+Počet váhaní: 11
+Počet slov: 111
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.333
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.993
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 5.045
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.5
+Predĺžené slová: 4
+
 Počet váhaní: 5
 Počet slov: 195
 Počet unikátnych slov: 0
@@ -498,6 +1014,19 @@ Počet slov vo vete(priemer): 6.724
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.172
 Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 188
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 20.889
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.993
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 7.231
+Počet citosloviec: 
+                   jáj: 1
+Počet váhaní vo vete(priemer): 0.115
+Predĺžené slová: 6
 
 Počet váhaní: 8
 Počet slov: 116
@@ -523,7 +1052,7 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.154
 Predĺžené slová: 4
 
-Počet váhaní: 26
+Počet váhaní: 25
 Počet slov: 120
 Počet unikátnych slov: 0
 Počet slov za segment(priemer): 17.143
@@ -532,8 +1061,47 @@ Priemerná dĺžka segmentu [s]: 11.546
 Dĺžka nahrávky [s]: 80.82
 Počet slov vo vete(priemer): 5.714
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 1.238
+Počet váhaní vo vete(priemer): 1.19
 Predĺžené slová: 1
+
+Počet váhaní: 7
+Počet slov: 108
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.0
+Počet segmentov: 18
+Priemerná dĺžka segmentu [s]: 4.997
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.6
+Počet citosloviec: 
+                   á: 1
+Počet váhaní vo vete(priemer): 0.233
+Predĺžené slová: 3
+
+Počet váhaní: 0
+Počet slov: 105
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 7.0
+Počet segmentov: 15
+Priemerná dĺžka segmentu [s]: 5.996
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.387
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 1
+
+Počet váhaní: 0
+Počet slov: 30
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.0
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 4.944
+Dĺžka nahrávky [s]: 49.44
+Počet slov vo vete(priemer): 1.579
+Počet citosloviec: 
+                   hm: 1
+                   jej: 1
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 2
 
 Počet váhaní: 4
 Počet slov: 70
@@ -546,6 +1114,30 @@ Počet slov vo vete(priemer): 2.692
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.154
 Predĺžené slová: 2
+
+Počet váhaní: 1
+Počet slov: 64
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.0
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 7.027
+Dĺžka nahrávky [s]: 56.22
+Počet slov vo vete(priemer): 3.2
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.05
+Predĺžené slová: 0
+
+Počet váhaní: 1
+Počet slov: 180
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.0
+Počet segmentov: 15
+Priemerná dĺžka segmentu [s]: 5.996
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.5
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.025
+Predĺžené slová: 6
 
 Počet váhaní: 12
 Počet slov: 80
@@ -572,17 +1164,78 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 0
 
-Počet váhaní: 5
+Počet váhaní: 1
+Počet slov: 111
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 13.875
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.252
+Dĺžka nahrávky [s]: 90.016
+Počet slov vo vete(priemer): 4.826
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.043
+Predĺžené slová: 1
+
+Počet váhaní: 0
+Počet slov: 99
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.6
+Počet segmentov: 15
+Priemerná dĺžka segmentu [s]: 5.993
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 2.676
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 0
+Počet slov: 34
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.778
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 3.809
+Dĺžka nahrávky [s]: 34.28
+Počet slov vo vete(priemer): 1.789
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 60
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.571
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 5.934
+Dĺžka nahrávky [s]: 41.54
+Počet slov vo vete(priemer): 4.0
+Počet citosloviec: 
+                   á: 1
+Počet váhaní vo vete(priemer): 0.2
+Predĺžené slová: 0
+
+Počet váhaní: 1
+Počet slov: 101
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 16.833
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 10.747
+Dĺžka nahrávky [s]: 64.48
+Počet slov vo vete(priemer): 8.417
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.083
+Predĺžené slová: 0
+
+Počet váhaní: 4
 Počet slov: 192
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 17.455
-Počet segmentov: 11
-Priemerná dĺžka segmentu [s]: 8.182
+Počet slov za segment(priemer): 16.0
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.5
 Dĺžka nahrávky [s]: 90.0
-Počet slov vo vete(priemer): 5.486
+Počet slov vo vete(priemer): 5.333
 Počet citosloviec: 
                    aha: 1
-Počet váhaní vo vete(priemer): 0.143
+Počet váhaní vo vete(priemer): 0.111
 Predĺžené slová: 0
 
 Počet váhaní: 2
@@ -621,6 +1274,32 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.588
 Predĺžené slová: 2
 
+Počet váhaní: 1
+Počet slov: 67
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 11.167
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 8.597
+Dĺžka nahrávky [s]: 51.58
+Počet slov vo vete(priemer): 5.154
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.077
+Predĺžené slová: 2
+
+Počet váhaní: 4
+Počet slov: 92
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 4.6
+Počet segmentov: 20
+Priemerná dĺžka segmentu [s]: 4.498
+Dĺžka nahrávky [s]: 89.96
+Počet slov vo vete(priemer): 2.14
+Počet citosloviec: 
+                   mhm: 2
+                   jaj: 1
+Počet váhaní vo vete(priemer): 0.093
+Predĺžené slová: 0
+
 Počet váhaní: 0
 Počet slov: 107
 Počet unikátnych slov: 0
@@ -658,17 +1337,29 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.147
 Predĺžené slová: 1
 
-Počet váhaní: 3
-Počet slov: 94
+Počet váhaní: 8
+Počet slov: 95
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 7.833
-Počet segmentov: 12
-Priemerná dĺžka segmentu [s]: 7.493
-Dĺžka nahrávky [s]: 89.92
-Počet slov vo vete(priemer): 2.765
+Počet slov za segment(priemer): 3.276
+Počet segmentov: 29
+Priemerná dĺžka segmentu [s]: 3.091
+Dĺžka nahrávky [s]: 89.644
+Počet slov vo vete(priemer): 1.827
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.088
-Predĺžené slová: 2
+Počet váhaní vo vete(priemer): 0.154
+Predĺžené slová: 0
+
+Počet váhaní: 2
+Počet slov: 131
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 7.278
+Počet segmentov: 18
+Priemerná dĺžka segmentu [s]: 4.997
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.853
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.059
+Predĺžené slová: 0
 
 Počet váhaní: 17
 Počet slov: 144
@@ -680,6 +1371,18 @@ Dĺžka nahrávky [s]: 96.8
 Počet slov vo vete(priemer): 3.892
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.459
+Predĺžené slová: 0
+
+Počet váhaní: 6
+Počet slov: 61
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 15.25
+Počet segmentov: 4
+Priemerná dĺžka segmentu [s]: 9.69
+Dĺžka nahrávky [s]: 38.76
+Počet slov vo vete(priemer): 7.625
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.75
 Predĺžené slová: 0
 
 Počet váhaní: 9
@@ -721,16 +1424,30 @@ Počet váhaní vo vete(priemer): 0.227
 Predĺžené slová: 0
 
 Počet váhaní: 9
-Počet slov: 88
+Počet slov: 89
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 17.6
+Počet slov za segment(priemer): 17.8
 Počet segmentov: 5
 Priemerná dĺžka segmentu [s]: 11.26
 Dĺžka nahrávky [s]: 56.3
-Počet slov vo vete(priemer): 5.176
+Počet slov vo vete(priemer): 5.235
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.529
 Predĺžené slová: 3
+
+Počet váhaní: 5
+Počet slov: 85
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 9.444
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.989
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 4.722
+Počet citosloviec: 
+                   mm: 4
+                   mhm: 2
+Počet váhaní vo vete(priemer): 0.278
+Predĺžené slová: 11
 
 Počet váhaní: 0
 Počet slov: 130
@@ -759,17 +1476,16 @@ Počet váhaní vo vete(priemer): 0.033
 Predĺžené slová: 1
 
 Počet váhaní: 0
-Počet slov: 48
+Počet slov: 13
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 6.0
+Počet slov za segment(priemer): 1.625
 Počet segmentov: 8
-Priemerná dĺžka segmentu [s]: 5.803
-Dĺžka nahrávky [s]: 46.423
-Počet slov vo vete(priemer): 2.4
-Počet citosloviec: 
-                   jaj: 1
+Priemerná dĺžka segmentu [s]: 6.933
+Dĺžka nahrávky [s]: 55.466
+Počet slov vo vete(priemer): 0.812
+Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
-Predĺžené slová: 1
+Predĺžené slová: 0
 
 Počet váhaní: 11
 Počet slov: 134
@@ -783,17 +1499,101 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.688
 Predĺžené slová: 2
 
-Počet váhaní: 10
-Počet slov: 88
+Počet váhaní: 1
+Počet slov: 50
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 12.571
+Počet slov za segment(priemer): 5.0
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 5.988
+Dĺžka nahrávky [s]: 59.88
+Počet slov vo vete(priemer): 2.381
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.048
+Predĺžené slová: 0
+
+Počet váhaní: 2
+Počet slov: 26
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.714
 Počet segmentov: 7
-Priemerná dĺžka segmentu [s]: 12.849
-Dĺžka nahrávky [s]: 89.94
-Počet slov vo vete(priemer): 4.4
+Priemerná dĺžka segmentu [s]: 4.014
+Dĺžka nahrávky [s]: 28.1
+Počet slov vo vete(priemer): 2.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.154
+Predĺžené slová: 0
+
+Počet váhaní: 8
+Počet slov: 46
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.111
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 6.278
+Dĺžka nahrávky [s]: 56.5
+Počet slov vo vete(priemer): 2.875
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.5
+Predĺžené slová: 1
+
+Počet váhaní: 0
+Počet slov: 105
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 13.125
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 9.947
+Dĺžka nahrávky [s]: 79.58
+Počet slov vo vete(priemer): 4.2
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 2
+
+Počet váhaní: 0
+Počet slov: 98
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 16.333
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 9.78
+Dĺžka nahrávky [s]: 58.68
+Počet slov vo vete(priemer): 4.455
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 2
+
+Počet váhaní: 9
+Počet slov: 88
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 11.0
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.242
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.19
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.429
 Predĺžené slová: 3
+
+Počet váhaní: 1
+Počet slov: 98
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.167
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.493
+Dĺžka nahrávky [s]: 89.92
+Počet slov vo vete(priemer): 4.083
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.042
+Predĺžené slová: 0
+
+Počet váhaní: 12
+Počet slov: 91
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.111
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.996
+Dĺžka nahrávky [s]: 89.96
+Počet slov vo vete(priemer): 3.37
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.444
+Predĺžené slová: 2
 
 Počet váhaní: 5
 Počet slov: 132
@@ -830,6 +1630,30 @@ Počet slov vo vete(priemer): 5.897
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.276
 Predĺžené slová: 1
+
+Počet váhaní: 2
+Počet slov: 93
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 7.75
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.5
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 3.72
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.08
+Predĺžené slová: 1
+
+Počet váhaní: 9
+Počet slov: 107
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.917
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.5
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 3.242
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.273
+Predĺžené slová: 0
 
 Počet váhaní: 1
 Počet slov: 103
@@ -893,6 +1717,30 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 1
 
+Počet váhaní: 1
+Počet slov: 104
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.857
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 9.318
+Dĺžka nahrávky [s]: 65.226
+Počet slov vo vete(priemer): 5.474
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.053
+Predĺžené slová: 1
+
+Počet váhaní: 0
+Počet slov: 86
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.615
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 6.925
+Dĺžka nahrávky [s]: 90.026
+Počet slov vo vete(priemer): 2.529
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 2
+
 Počet váhaní: 12
 Počet slov: 157
 Počet unikátnych slov: 0
@@ -917,6 +1765,19 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.25
 Predĺžené slová: 4
 
+Počet váhaní: 6
+Počet slov: 116
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 16.571
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.849
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 6.105
+Počet citosloviec: 
+                   mm: 2
+Počet váhaní vo vete(priemer): 0.316
+Predĺžené slová: 0
+
 Počet váhaní: 2
 Počet slov: 132
 Počet unikátnych slov: 0
@@ -929,17 +1790,41 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.091
 Predĺžené slová: 2
 
-Počet váhaní: 9
+Počet váhaní: 7
 Počet slov: 111
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 11.1
-Počet segmentov: 10
-Priemerná dĺžka segmentu [s]: 9.0
+Počet slov za segment(priemer): 10.091
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 8.182
 Dĺžka nahrávky [s]: 90.0
-Počet slov vo vete(priemer): 5.045
+Počet slov vo vete(priemer): 4.826
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.409
+Počet váhaní vo vete(priemer): 0.304
 Predĺžené slová: 2
+
+Počet váhaní: 6
+Počet slov: 33
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 2.062
+Počet segmentov: 16
+Priemerná dĺžka segmentu [s]: 2.713
+Dĺžka nahrávky [s]: 43.413
+Počet slov vo vete(priemer): 1.5
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.273
+Predĺžené slová: 0
+
+Počet váhaní: 0
+Počet slov: 56
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.667
+Počet segmentov: 3
+Priemerná dĺžka segmentu [s]: 9.387
+Dĺžka nahrávky [s]: 28.16
+Počet slov vo vete(priemer): 7.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
 
 Počet váhaní: 3
 Počet slov: 100
@@ -957,13 +1842,13 @@ Počet váhaní vo vete(priemer): 0.097
 Predĺžené slová: 2
 
 Počet váhaní: 9
-Počet slov: 116
+Počet slov: 114
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 14.5
+Počet slov za segment(priemer): 14.25
 Počet segmentov: 8
 Priemerná dĺžka segmentu [s]: 11.13
 Dĺžka nahrávky [s]: 89.04
-Počet slov vo vete(priemer): 5.043
+Počet slov vo vete(priemer): 4.957
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.391
 Predĺžené slová: 2
@@ -979,6 +1864,30 @@ Počet slov vo vete(priemer): 4.692
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.038
 Predĺžené slová: 0
+
+Počet váhaní: 1
+Počet slov: 47
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 15.667
+Počet segmentov: 3
+Priemerná dĺžka segmentu [s]: 11.473
+Dĺžka nahrávky [s]: 34.42
+Počet slov vo vete(priemer): 3.917
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.083
+Predĺžené slová: 0
+
+Počet váhaní: 12
+Počet slov: 63
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.3
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 8.692
+Dĺžka nahrávky [s]: 86.92
+Počet slov vo vete(priemer): 3.316
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.632
+Predĺžené slová: 1
 
 Počet váhaní: 1
 Počet slov: 117
@@ -1016,6 +1925,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.6
 Predĺžené slová: 2
 
+Počet váhaní: 4
+Počet slov: 90
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.0
+Počet segmentov: 15
+Priemerná dĺžka segmentu [s]: 5.993
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 2.571
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.114
+Predĺžené slová: 6
+
 Počet váhaní: 8
 Počet slov: 174
 Počet unikátnych slov: 0
@@ -1040,18 +1961,67 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.556
 Predĺžené slová: 16
 
-Počet váhaní: 7
-Počet slov: 149
+Počet váhaní: 0
+Počet slov: 33
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 10.643
+Počet slov za segment(priemer): 16.5
+Počet segmentov: 2
+Priemerná dĺžka segmentu [s]: 13.31
+Dĺžka nahrávky [s]: 26.62
+Počet slov vo vete(priemer): 4.714
+Počet citosloviec: 
+                   mm: 1
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 2
+
+Počet váhaní: 10
+Počet slov: 86
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 9.556
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 8.876
+Dĺžka nahrávky [s]: 79.88
+Počet slov vo vete(priemer): 3.44
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.4
+Predĺžené slová: 0
+
+Počet váhaní: 7
+Počet slov: 150
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.714
 Počet segmentov: 14
 Priemerná dĺžka segmentu [s]: 6.424
 Dĺžka nahrávky [s]: 89.94
-Počet slov vo vete(priemer): 3.921
+Počet slov vo vete(priemer): 3.947
 Počet citosloviec: 
                    mhm: 1
 Počet váhaní vo vete(priemer): 0.184
 Predĺžené slová: 4
+
+Počet váhaní: 4
+Počet slov: 49
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 3.769
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 5.438
+Dĺžka nahrávky [s]: 70.7
+Počet slov vo vete(priemer): 1.75
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.143
+Predĺžené slová: 1
+
+Počet váhaní: 7
+Počet slov: 123
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 20.5
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 11.133
+Dĺžka nahrávky [s]: 66.8
+Počet slov vo vete(priemer): 5.591
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.318
+Predĺžené slová: 1
 
 Počet váhaní: 7
 Počet slov: 107
@@ -1141,6 +2111,30 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 0
 
+Počet váhaní: 3
+Počet slov: 112
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.0
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 8.688
+Dĺžka nahrávky [s]: 69.5
+Počet slov vo vete(priemer): 4.87
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.13
+Predĺžené slová: 1
+
+Počet váhaní: 10
+Počet slov: 196
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 15.077
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 6.94
+Dĺžka nahrávky [s]: 90.22
+Počet slov vo vete(priemer): 5.444
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.278
+Predĺžené slová: 2
+
 Počet váhaní: 0
 Počet slov: 39
 Počet unikátnych slov: 0
@@ -1167,16 +2161,40 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 1.267
 Predĺžené slová: 5
 
+Počet váhaní: 14
+Počet slov: 137
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 17.125
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.242
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 6.227
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.636
+Predĺžené slová: 1
+
+Počet váhaní: 3
+Počet slov: 139
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.176
+Počet segmentov: 17
+Priemerná dĺžka segmentu [s]: 5.297
+Dĺžka nahrávky [s]: 90.053
+Počet slov vo vete(priemer): 2.837
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.061
+Predĺžené slová: 2
+
 Počet váhaní: 17
 Počet slov: 125
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 11.364
-Počet segmentov: 11
-Priemerná dĺžka segmentu [s]: 8.182
+Počet slov za segment(priemer): 10.417
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.5
 Dĺžka nahrávky [s]: 90.0
-Počet slov vo vete(priemer): 5.208
+Počet slov vo vete(priemer): 5.0
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.708
+Počet váhaní vo vete(priemer): 0.68
 Predĺžené slová: 4
 
 Počet váhaní: 7
@@ -1190,6 +2208,55 @@ Počet slov vo vete(priemer): 2.889
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.194
 Predĺžené slová: 2
+
+Počet váhaní: 4
+Počet slov: 51
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.1
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 7.118
+Dĺžka nahrávky [s]: 71.18
+Počet slov vo vete(priemer): 2.217
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.174
+Predĺžené slová: 2
+
+Počet váhaní: 7
+Počet slov: 83
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 11.857
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 10.266
+Dĺžka nahrávky [s]: 71.86
+Počet slov vo vete(priemer): 4.882
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.412
+Predĺžené slová: 1
+
+Počet váhaní: 0
+Počet slov: 46
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 15.333
+Počet segmentov: 3
+Priemerná dĺžka segmentu [s]: 11.74
+Dĺžka nahrávky [s]: 35.22
+Počet slov vo vete(priemer): 5.111
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 106
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.889
+Počet segmentov: 18
+Priemerná dĺžka segmentu [s]: 4.997
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.212
+Počet citosloviec: 
+                   jaj: 1
+Počet váhaní vo vete(priemer): 0.091
+Predĺžené slová: 1
 
 Počet váhaní: 1
 Počet slov: 91
@@ -1227,6 +2294,60 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.556
 Predĺžené slová: 4
 
+Počet váhaní: 15
+Počet slov: 145
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 16.111
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.993
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.816
+Počet citosloviec: 
+                   aha: 1
+Počet váhaní vo vete(priemer): 0.395
+Predĺžené slová: 8
+
+Počet váhaní: 3
+Počet slov: 77
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 7.0
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 8.176
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.053
+Počet citosloviec: 
+                   mhm: 1
+Počet váhaní vo vete(priemer): 0.158
+Predĺžené slová: 1
+
+Počet váhaní: 15
+Počet slov: 155
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.091
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 8.182
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 4.697
+Počet citosloviec: 
+                   h: 1
+                   mm: 1
+                   uf: 1
+Počet váhaní vo vete(priemer): 0.455
+Predĺžené slová: 2
+
+Počet váhaní: 7
+Počet slov: 178
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 25.429
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.849
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 9.368
+Počet citosloviec: 
+                   z: 1
+Počet váhaní vo vete(priemer): 0.368
+Predĺžené slová: 3
+
 Počet váhaní: 3
 Počet slov: 132
 Počet unikátnych slov: 0
@@ -1238,6 +2359,19 @@ Počet slov vo vete(priemer): 5.077
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.115
 Predĺžené slová: 0
+
+Počet váhaní: 1
+Počet slov: 75
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 9.375
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 4.91
+Dĺžka nahrávky [s]: 39.28
+Počet slov vo vete(priemer): 4.412
+Počet citosloviec: 
+                   jaj: 1
+Počet váhaní vo vete(priemer): 0.059
+Predĺžené slová: 4
 
 Počet váhaní: 0
 Počet slov: 80
@@ -1279,6 +2413,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.045
 Predĺžené slová: 0
 
+Počet váhaní: 0
+Počet slov: 9
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 0.818
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 3.46
+Dĺžka nahrávky [s]: 38.058
+Počet slov vo vete(priemer): 0.5
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
 Počet váhaní: 1
 Počet slov: 51
 Počet unikátnych slov: 0
@@ -1303,6 +2449,18 @@ Počet citosloviec:
                    eh: 1
 Počet váhaní vo vete(priemer): 0.025
 Predĺžené slová: 1
+
+Počet váhaní: 1
+Počet slov: 122
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.714
+Počet segmentov: 14
+Priemerná dĺžka segmentu [s]: 4.613
+Dĺžka nahrávky [s]: 64.58
+Počet slov vo vete(priemer): 3.297
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.027
+Predĺžené slová: 6
 
 Počet váhaní: 17
 Počet slov: 122
@@ -1329,6 +2487,81 @@ Počet slov vo vete(priemer): 4.912
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.618
 Predĺžené slová: 5
+
+Počet váhaní: 2
+Počet slov: 165
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 13.75
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.495
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 5.69
+Počet citosloviec: 
+                   ajáj: 1
+Počet váhaní vo vete(priemer): 0.069
+Predĺžené slová: 0
+
+Počet váhaní: 2
+Počet slov: 157
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 22.429
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.857
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 5.607
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.071
+Predĺžené slová: 2
+
+Počet váhaní: 4
+Počet slov: 132
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.154
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 6.918
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.258
+Počet citosloviec: 
+                   ou: 1
+                   am: 1
+Počet váhaní vo vete(priemer): 0.129
+Predĺžené slová: 1
+
+Počet váhaní: 2
+Počet slov: 22
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 2.0
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 3.607
+Dĺžka nahrávky [s]: 39.68
+Počet slov vo vete(priemer): 1.222
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.111
+Predĺžené slová: 1
+
+Počet váhaní: 11
+Počet slov: 130
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 14.444
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 10.142
+Dĺžka nahrávky [s]: 91.28
+Počet slov vo vete(priemer): 6.19
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.524
+Predĺžené slová: 1
+
+Počet váhaní: 8
+Počet slov: 173
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 21.625
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.242
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 9.611
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.444
+Predĺžené slová: 1
 
 Počet váhaní: 7
 Počet slov: 95
@@ -1376,7 +2609,19 @@ Dĺžka nahrávky [s]: 89.96
 Počet slov vo vete(priemer): 5.68
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.68
-Predĺžené slová: 10
+Predĺžené slová: 9
+
+Počet váhaní: 7
+Počet slov: 136
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.5
+Počet segmentov: 16
+Priemerná dĺžka segmentu [s]: 5.625
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 3.778
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.194
+Predĺžené slová: 1
 
 Počet váhaní: 5
 Počet slov: 188
@@ -1390,6 +2635,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.161
 Predĺžené slová: 5
 
+Počet váhaní: 6
+Počet slov: 109
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.167
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 11.15
+Dĺžka nahrávky [s]: 66.9
+Počet slov vo vete(priemer): 7.267
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.4
+Predĺžené slová: 0
+
 Počet váhaní: 2
 Počet slov: 49
 Počet unikátnych slov: 0
@@ -1400,6 +2657,19 @@ Dĺžka nahrávky [s]: 50.04
 Počet slov vo vete(priemer): 2.722
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.111
+Predĺžené slová: 0
+
+Počet váhaní: 7
+Počet slov: 148
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.5
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.25
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 6.435
+Počet citosloviec: 
+                   mm: 1
+Počet váhaní vo vete(priemer): 0.304
 Predĺžené slová: 0
 
 Počet váhaní: 5
@@ -1414,42 +2684,77 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.2
 Predĺžené slová: 0
 
-Počet váhaní: 3
-Počet slov: 84
+Počet váhaní: 4
+Počet slov: 83
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 7.0
+Počet slov za segment(priemer): 6.917
 Počet segmentov: 12
 Priemerná dĺžka segmentu [s]: 5.505
 Dĺžka nahrávky [s]: 66.06
-Počet slov vo vete(priemer): 3.36
+Počet slov vo vete(priemer): 3.32
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.12
+Počet váhaní vo vete(priemer): 0.16
 Predĺžené slová: 3
 
-Počet váhaní: 0
-Počet slov: 70
+Počet váhaní: 5
+Počet slov: 103
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 11.667
-Počet segmentov: 6
-Priemerná dĺžka segmentu [s]: 9.825
-Dĺžka nahrávky [s]: 58.951
-Počet slov vo vete(priemer): 4.118
-Počet citosloviec: 
-                   aha: 2
-Počet váhaní vo vete(priemer): 0.0
+Počet slov za segment(priemer): 7.923
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 6.918
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.478
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.217
 Predĺžené slová: 0
 
 Počet váhaní: 1
-Počet slov: 136
+Počet slov: 135
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 9.714
+Počet slov za segment(priemer): 9.643
 Počet segmentov: 14
 Priemerná dĺžka segmentu [s]: 6.421
 Dĺžka nahrávky [s]: 89.9
-Počet slov vo vete(priemer): 3.886
+Počet slov vo vete(priemer): 3.857
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.029
 Predĺžené slová: 1
+
+Počet váhaní: 13
+Počet slov: 110
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.333
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 15.0
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 5.238
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.619
+Predĺžené slová: 1
+
+Počet váhaní: 5
+Počet slov: 185
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 23.125
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.242
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 8.81
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.238
+Predĺžené slová: 1
+
+Počet váhaní: 3
+Počet slov: 203
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 20.3
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 8.994
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 8.826
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.13
+Predĺžené slová: 5
 
 Počet váhaní: 5
 Počet slov: 93
@@ -1464,6 +2769,18 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.109
 Predĺžené slová: 1
 
+Počet váhaní: 22
+Počet slov: 133
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.091
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 8.182
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 4.433
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.733
+Predĺžené slová: 2
+
 Počet váhaní: 11
 Počet slov: 168
 Počet unikátnych slov: 0
@@ -1476,14 +2793,39 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.733
 Predĺžené slová: 1
 
-Počet váhaní: 0
-Počet slov: 59
+Počet váhaní: 11
+Počet slov: 79
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 11.8
-Počet segmentov: 5
-Priemerná dĺžka segmentu [s]: 12.0
+Počet slov za segment(priemer): 8.778
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.991
+Dĺžka nahrávky [s]: 89.92
+Počet slov vo vete(priemer): 3.16
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.44
+Predĺžené slová: 0
+
+Počet váhaní: 5
+Počet slov: 112
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.182
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 5.682
+Dĺžka nahrávky [s]: 62.506
+Počet slov vo vete(priemer): 3.733
+Počet citosloviec: 
+                   a: 1
+Počet váhaní vo vete(priemer): 0.167
+Predĺžené slová: 2
+
+Počet váhaní: 0
+Počet slov: 58
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.286
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 8.571
 Dĺžka nahrávky [s]: 60.0
-Počet slov vo vete(priemer): 4.917
+Počet slov vo vete(priemer): 4.143
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 0
@@ -1498,6 +2840,19 @@ Dĺžka nahrávky [s]: 50.54
 Počet slov vo vete(priemer): 4.095
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.143
+Predĺžené slová: 0
+
+Počet váhaní: 10
+Počet slov: 161
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 20.125
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.25
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 7.318
+Počet citosloviec: 
+                   aha: 1
+Počet váhaní vo vete(priemer): 0.455
 Predĺžené slová: 0
 
 Počet váhaní: 12
@@ -1523,6 +2878,18 @@ Počet slov vo vete(priemer): 4.0
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.062
 Predĺžené slová: 3
+
+Počet váhaní: 1
+Počet slov: 65
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.909
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 4.649
+Dĺžka nahrávky [s]: 51.14
+Počet slov vo vete(priemer): 2.097
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.032
+Predĺžené slová: 0
 
 Počet váhaní: 6
 Počet slov: 105
@@ -1562,6 +2929,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.111
 Predĺžené slová: 0
 
+Počet váhaní: 2
+Počet slov: 109
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 15.571
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 7.569
+Dĺžka nahrávky [s]: 52.98
+Počet slov vo vete(priemer): 5.45
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.1
+Predĺžené slová: 0
+
 Počet váhaní: 11
 Počet slov: 195
 Počet unikátnych slov: 0
@@ -1574,7 +2953,32 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.229
 Predĺžené slová: 9
 
-Počet váhaní: 8
+Počet váhaní: 2
+Počet slov: 37
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.286
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 4.926
+Dĺžka nahrávky [s]: 34.48
+Počet slov vo vete(priemer): 2.176
+Počet citosloviec: 
+                   hm: 1
+Počet váhaní vo vete(priemer): 0.118
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 42
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.0
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 6.263
+Dĺžka nahrávky [s]: 43.84
+Počet slov vo vete(priemer): 3.231
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.231
+Predĺžené slová: 0
+
+Počet váhaní: 9
 Počet slov: 86
 Počet unikátnych slov: 0
 Počet slov za segment(priemer): 14.333
@@ -1583,56 +2987,95 @@ Priemerná dĺžka segmentu [s]: 12.437
 Dĺžka nahrávky [s]: 74.62
 Počet slov vo vete(priemer): 6.143
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.571
+Počet váhaní vo vete(priemer): 0.643
 Predĺžené slová: 1
 
-Počet váhaní: 9
-Počet slov: 131
+Počet váhaní: 4
+Počet slov: 77
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 43.667
-Počet segmentov: 3
-Priemerná dĺžka segmentu [s]: 29.98
-Dĺžka nahrávky [s]: 89.94
-Počet slov vo vete(priemer): 7.278
+Počet slov za segment(priemer): 9.625
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 6.193
+Dĺžka nahrávky [s]: 49.54
+Počet slov vo vete(priemer): 4.812
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.5
-Predĺžené slová: 1
-
-Počet váhaní: 0
-Počet slov: 49
-Počet unikátnych slov: 0
-Počet slov za segment(priemer): 2.882
-Počet segmentov: 17
-Priemerná dĺžka segmentu [s]: 3.465
-Dĺžka nahrávky [s]: 58.909
-Počet slov vo vete(priemer): 1.581
-Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.0
+Počet váhaní vo vete(priemer): 0.25
 Predĺžené slová: 0
+
+Počet váhaní: 4
+Počet slov: 70
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.364
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 3.876
+Dĺžka nahrávky [s]: 42.64
+Počet slov vo vete(priemer): 3.5
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.2
+Predĺžené slová: 0
+
+Počet váhaní: 4
+Počet slov: 132
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 13.2
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 8.994
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.889
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.148
+Predĺžené slová: 2
 
 Počet váhaní: 3
 Počet slov: 122
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 20.333
-Počet segmentov: 6
-Priemerná dĺžka segmentu [s]: 15.0
+Počet slov za segment(priemer): 17.429
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.857
 Dĺžka nahrávky [s]: 90.0
-Počet slov vo vete(priemer): 5.81
+Počet slov vo vete(priemer): 5.545
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.143
+Počet váhaní vo vete(priemer): 0.136
 Predĺžené slová: 4
 
 Počet váhaní: 9
-Počet slov: 143
+Počet slov: 51
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 17.875
-Počet segmentov: 8
-Priemerná dĺžka segmentu [s]: 11.24
+Počet slov za segment(priemer): 10.2
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 10.896
+Dĺžka nahrávky [s]: 54.48
+Počet slov vo vete(priemer): 5.667
+Počet citosloviec: 
+                   mm: 1
+Počet váhaní vo vete(priemer): 1.0
+Predĺžené slová: 2
+
+Počet váhaní: 7
+Počet slov: 144
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 28.8
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 17.984
 Dĺžka nahrávky [s]: 89.92
-Počet slov vo vete(priemer): 7.15
-Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.45
-Predĺžené slová: 5
+Počet slov vo vete(priemer): 10.286
+Počet citosloviec: 
+                   mm: 1
+Počet váhaní vo vete(priemer): 0.5
+Predĺžené slová: 6
+
+Počet váhaní: 15
+Počet slov: 150
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 30.0
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 17.984
+Dĺžka nahrávky [s]: 89.92
+Počet slov vo vete(priemer): 8.333
+Počet citosloviec: 
+                   ee: 1
+Počet váhaní vo vete(priemer): 0.833
+Predĺžené slová: 1
 
 Počet váhaní: 11
 Počet slov: 144
@@ -1646,6 +3089,30 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.647
 Predĺžené slová: 7
 
+Počet váhaní: 2
+Počet slov: 26
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.2
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 7.286
+Dĺžka nahrávky [s]: 36.432
+Počet slov vo vete(priemer): 2.364
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.182
+Predĺžené slová: 1
+
+Počet váhaní: 1
+Počet slov: 101
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.312
+Počet segmentov: 16
+Priemerná dĺžka segmentu [s]: 5.627
+Dĺžka nahrávky [s]: 90.026
+Počet slov vo vete(priemer): 2.886
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.029
+Predĺžené slová: 0
+
 Počet váhaní: 11
 Počet slov: 151
 Počet unikátnych slov: 0
@@ -1657,6 +3124,30 @@ Počet slov vo vete(priemer): 4.081
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.297
 Predĺžené slová: 1
+
+Počet váhaní: 2
+Počet slov: 35
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.833
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 10.76
+Dĺžka nahrávky [s]: 64.56
+Počet slov vo vete(priemer): 2.692
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.154
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 51
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.375
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 6.168
+Dĺžka nahrávky [s]: 49.34
+Počet slov vo vete(priemer): 3.643
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.214
+Predĺžené slová: 0
 
 Počet váhaní: 22
 Počet slov: 122
@@ -1683,6 +3174,18 @@ Počet slov vo vete(priemer): 4.0
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.042
 Predĺžené slová: 4
+
+Počet váhaní: 1
+Počet slov: 124
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 15.5
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.242
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 6.889
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.056
+Predĺžené slová: 0
 
 Počet váhaní: 3
 Počet slov: 181
@@ -1734,7 +3237,7 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.269
 Predĺžené slová: 0
 
-Počet váhaní: 4
+Počet váhaní: 5
 Počet slov: 39
 Počet unikátnych slov: 0
 Počet slov za segment(priemer): 4.333
@@ -1743,8 +3246,20 @@ Priemerná dĺžka segmentu [s]: 9.989
 Dĺžka nahrávky [s]: 89.9
 Počet slov vo vete(priemer): 2.6
 Počet citosloviec: None
-Počet váhaní vo vete(priemer): 0.267
+Počet váhaní vo vete(priemer): 0.333
 Predĺžené slová: 9
+
+Počet váhaní: 0
+Počet slov: 68
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.5
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 6.367
+Dĺžka nahrávky [s]: 50.94
+Počet slov vo vete(priemer): 3.091
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
 
 Počet váhaní: 16
 Počet slov: 116
@@ -1770,6 +3285,18 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
 Predĺžené slová: 0
 
+Počet váhaní: 4
+Počet slov: 190
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 21.111
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.444
+Dĺžka nahrávky [s]: 85.0
+Počet slov vo vete(priemer): 6.552
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.138
+Predĺžené slová: 1
+
 Počet váhaní: 3
 Počet slov: 99
 Počet unikátnych slov: 0
@@ -1782,6 +3309,19 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.12
 Predĺžené slová: 1
 
+Počet váhaní: 6
+Počet slov: 150
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 21.429
+Počet segmentov: 7
+Priemerná dĺžka segmentu [s]: 12.851
+Dĺžka nahrávky [s]: 89.96
+Počet slov vo vete(priemer): 6.0
+Počet citosloviec: 
+                   och: 1
+Počet váhaní vo vete(priemer): 0.24
+Predĺžené slová: 2
+
 Počet váhaní: 1
 Počet slov: 117
 Počet unikátnych slov: 0
@@ -1793,6 +3333,19 @@ Počet slov vo vete(priemer): 4.875
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.042
 Predĺžené slová: 2
+
+Počet váhaní: 5
+Počet slov: 172
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 34.4
+Počet segmentov: 5
+Priemerná dĺžka segmentu [s]: 17.984
+Dĺžka nahrávky [s]: 89.92
+Počet slov vo vete(priemer): 9.556
+Počet citosloviec: 
+                   mm: 1
+Počet váhaní vo vete(priemer): 0.278
+Predĺžené slová: 7
 
 Počet váhaní: 7
 Počet slov: 119
@@ -1818,6 +3371,19 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.1
 Predĺžené slová: 4
 
+Počet váhaní: 23
+Počet slov: 104
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.4
+Počet segmentov: 10
+Priemerná dĺžka segmentu [s]: 8.994
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.952
+Počet citosloviec: 
+                   hm: 1
+Počet váhaní vo vete(priemer): 1.095
+Predĺžené slová: 3
+
 Počet váhaní: 3
 Počet slov: 132
 Počet unikátnych slov: 0
@@ -1829,6 +3395,31 @@ Počet slov vo vete(priemer): 2.538
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.058
 Predĺžené slová: 10
+
+Počet váhaní: 1
+Počet slov: 96
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 24.0
+Počet segmentov: 4
+Priemerná dĺžka segmentu [s]: 9.36
+Dĺžka nahrávky [s]: 37.44
+Počet slov vo vete(priemer): 6.857
+Počet citosloviec: 
+                   ach: 1
+Počet váhaní vo vete(priemer): 0.071
+Predĺžené slová: 0
+
+Počet váhaní: 14
+Počet slov: 104
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 9.455
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 8.182
+Dĺžka nahrávky [s]: 90.0
+Počet slov vo vete(priemer): 4.727
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.636
+Predĺžené slová: 0
 
 Počet váhaní: 0
 Počet slov: 93
@@ -1865,6 +3456,18 @@ Počet slov vo vete(priemer): 5.25
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.75
 Predĺžené slová: 9
+
+Počet váhaní: 4
+Počet slov: 70
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 5.833
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.502
+Dĺžka nahrávky [s]: 90.026
+Počet slov vo vete(priemer): 3.043
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.174
+Predĺžené slová: 1
 
 Počet váhaní: 0
 Počet slov: 74
@@ -1904,6 +3507,19 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.143
 Predĺžené slová: 2
 
+Počet váhaní: 4
+Počet slov: 115
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.846
+Počet segmentov: 13
+Priemerná dĺžka segmentu [s]: 6.918
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.71
+Počet citosloviec: 
+                   joj: 2
+Počet váhaní vo vete(priemer): 0.129
+Predĺžené slová: 0
+
 Počet váhaní: 3
 Počet slov: 25
 Počet unikátnych slov: 0
@@ -1917,13 +3533,13 @@ Počet váhaní vo vete(priemer): 0.143
 Predĺžené slová: 0
 
 Počet váhaní: 0
-Počet slov: 107
+Počet slov: 108
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 7.133
+Počet slov za segment(priemer): 7.2
 Počet segmentov: 15
 Priemerná dĺžka segmentu [s]: 5.993
 Dĺžka nahrávky [s]: 89.9
-Počet slov vo vete(priemer): 3.147
+Počet slov vo vete(priemer): 3.176
 Počet citosloviec: 
                    tjz: 1
 Počet váhaní vo vete(priemer): 0.0
@@ -1966,6 +3582,18 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.241
 Predĺžené slová: 4
 
+Počet váhaní: 3
+Počet slov: 151
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 18.875
+Počet segmentov: 8
+Priemerná dĺžka segmentu [s]: 11.237
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 8.389
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.167
+Predĺžené slová: 0
+
 Počet váhaní: 9
 Počet slov: 135
 Počet unikátnych slov: 0
@@ -1977,6 +3605,67 @@ Počet slov vo vete(priemer): 5.0
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.333
 Predĺžené slová: 11
+
+Počet váhaní: 1
+Počet slov: 107
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.688
+Počet segmentov: 16
+Priemerná dĺžka segmentu [s]: 5.619
+Dĺžka nahrávky [s]: 89.9
+Počet slov vo vete(priemer): 2.277
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.021
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 152
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 12.667
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.495
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 5.067
+Počet citosloviec: 
+                   aha: 1
+Počet váhaní vo vete(priemer): 0.1
+Predĺžené slová: 2
+
+Počet váhaní: 2
+Počet slov: 84
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 7.0
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.495
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 3.5
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.083
+Predĺžené slová: 1
+
+Počet váhaní: 10
+Počet slov: 192
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 21.333
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 9.991
+Dĺžka nahrávky [s]: 89.92
+Počet slov vo vete(priemer): 6.621
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.345
+Predĺžené slová: 4
+
+Počet váhaní: 4
+Počet slov: 44
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 22.0
+Počet segmentov: 2
+Priemerná dĺžka segmentu [s]: 14.709
+Dĺžka nahrávky [s]: 29.418
+Počet slov vo vete(priemer): 4.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.364
+Predĺžené slová: 0
 
 Počet váhaní: 5
 Počet slov: 128
@@ -1990,20 +3679,57 @@ Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.192
 Predĺžené slová: 7
 
+Počet váhaní: 0
+Počet slov: 49
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 4.083
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 4.98
+Dĺžka nahrávky [s]: 59.76
+Počet slov vo vete(priemer): 2.333
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 73
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 8.111
+Počet segmentov: 9
+Priemerná dĺžka segmentu [s]: 5.509
+Dĺžka nahrávky [s]: 49.58
+Počet slov vo vete(priemer): 3.476
+Počet citosloviec: 
+                   oj: 1
+Počet váhaní vo vete(priemer): 0.143
+Predĺžené slová: 2
+
 Počet váhaní: 1
 Počet slov: 107
 Počet unikátnych slov: 0
-Počet slov za segment(priemer): 9.727
-Počet segmentov: 11
-Priemerná dĺžka segmentu [s]: 5.853
+Počet slov za segment(priemer): 8.917
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 5.365
 Dĺžka nahrávky [s]: 64.38
-Počet slov vo vete(priemer): 3.452
+Počet slov vo vete(priemer): 3.344
 Počet citosloviec: 
                    ajaj: 1
                    oj: 1
                    hm: 1
-Počet váhaní vo vete(priemer): 0.032
+Počet váhaní vo vete(priemer): 0.031
 Predĺžené slová: 1
+
+Počet váhaní: 4
+Počet slov: 44
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 7.333
+Počet segmentov: 6
+Priemerná dĺžka segmentu [s]: 5.693
+Dĺžka nahrávky [s]: 34.16
+Počet slov vo vete(priemer): 3.143
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.286
+Predĺžené slová: 4
 
 Počet váhaní: 0
 Počet slov: 90
@@ -2032,6 +3758,18 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.158
 Predĺžené slová: 3
 
+Počet váhaní: 0
+Počet slov: 74
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 6.727
+Počet segmentov: 11
+Priemerná dĺžka segmentu [s]: 5.849
+Dĺžka nahrávky [s]: 64.34
+Počet slov vo vete(priemer): 2.846
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 1
+
 Počet váhaní: 1
 Počet slov: 37
 Počet unikátnych slov: 0
@@ -2054,6 +3792,18 @@ Dĺžka nahrávky [s]: 89.96
 Počet slov vo vete(priemer): 3.088
 Počet citosloviec: None
 Počet váhaní vo vete(priemer): 0.0
+Predĺžené slová: 0
+
+Počet váhaní: 13
+Počet slov: 103
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 25.75
+Počet segmentov: 4
+Priemerná dĺžka segmentu [s]: 22.485
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 7.357
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.929
 Predĺžené slová: 0
 
 Počet váhaní: 1
@@ -2081,6 +3831,18 @@ Počet citosloviec:
 Počet váhaní vo vete(priemer): 0.737
 Predĺžené slová: 1
 
+Počet váhaní: 8
+Počet slov: 128
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 10.667
+Počet segmentov: 12
+Priemerná dĺžka segmentu [s]: 7.495
+Dĺžka nahrávky [s]: 89.94
+Počet slov vo vete(priemer): 4.571
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.286
+Predĺžené slová: 0
+
 Počet váhaní: 0
 Počet slov: 111
 Počet unikátnych slov: 0
@@ -2104,5 +3866,17 @@ Počet slov vo vete(priemer): 8.389
 Počet citosloviec: 
                    mhm: 1
 Počet váhaní vo vete(priemer): 0.667
+Predĺžené slová: 0
+
+Počet váhaní: 3
+Počet slov: 60
+Počet unikátnych slov: 0
+Počet slov za segment(priemer): 4.286
+Počet segmentov: 14
+Priemerná dĺžka segmentu [s]: 6.431
+Dĺžka nahrávky [s]: 90.032
+Počet slov vo vete(priemer): 2.0
+Počet citosloviec: None
+Počet váhaní vo vete(priemer): 0.1
 Predĺžené slová: 0
 

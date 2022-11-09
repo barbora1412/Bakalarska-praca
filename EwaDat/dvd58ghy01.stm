@@ -1,0 +1,116 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:41 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210920
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+dvd58ghy01 1 excluded_region 0.000 1.744 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 1.744 4.180 <o,f0,unknown> cesta
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 4.180 7.320 <o,f0,unknown> kráľ
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 7.320 10.100 <o,f0,unknown> kniha
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 10.100 13.400 <o,f0,unknown> most
+dvd58ghy01 1 excluded_region 13.400 14.322 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 14.322 16.240 <o,f0,unknown> topánky
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 16.240 19.220 <o,f0,unknown> autobus
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 19.220 21.820 <o,f0,unknown> hodinky
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 21.820 24.940 <o,f0,unknown> cigarety
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 24.940 28.960 <o,f0,unknown> kráľovská koruna
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 28.960 31.960 <o,f0,unknown> bubon
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 31.960 34.620 <o,f0,unknown> hodinky
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 34.620 38.440 <o,f0,unknown> koleso od auta
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 38.440 41.020 <o,f0,unknown> traktor
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 41.020 43.980 <o,f0,unknown> teplomer
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 43.980 46.820 <o,f0,unknown> lavica
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 46.820 49.280 <o,f0,unknown> fajka
+dvd58ghy01 1 excluded_region 49.280 50.520 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 50.520 53.600 <o,f0,unknown> električka/erektrička
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 53.600 56.380 <o,f0,unknown> zips
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 56.380 59.500 <o,f0,unknown> akvárium
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 59.500 61.780 <o,f0,unknown> metla
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 61.780 64.500 <o,f0,unknown> ťava
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 64.500 67.360 <o,f0,unknown> lievik
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 67.360 69.820 <o,f0,unknown> huby
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 69.820 72.560 <o,f0,unknown> vešiak
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 72.560 76.220 <o,f0,unknown> kocky domino
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 76.220 79.340 <o,f0,unknown> kotva
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 79.340 83.000 <o,f0,unknown> žaluď
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 83.000 92.568 <o,f0,unknown> to je čo to dajaká/dáka loď či? čo toto [smiech-] je [-smiech] ? ponorka či?
+dvd58ghy01 1 excluded_region 92.568 93.600 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 93.600 98.800 <o,f0,unknown> [ex] kozmonaut
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 98.800 101.340 <o,f0,unknown> kaktus
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 101.340 105.600 <o,f0,unknown> [ex] píše
+dvd58ghy01 1 excluded_region 105.600 107.657 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 107.657 110.800 <o,f0,unknown> [ex] natiera na chlieb maslo
+dvd58ghy01 1 excluded_region 110.800 111.647 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 111.647 113.520 <o,f0,unknown> spieva
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 113.520 116.840 <o,f0,unknown> [ex] smeje sa [smiech]
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 116.840 120.660 <o,f0,unknown> ťahá lano
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 120.660 123.740 <o,f0,unknown> kúpe sa
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 123.740 127.160 <o,f0,unknown> váži sa
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 127.160 131.160 <o,f0,unknown> sva [hez] žiarovka svieti
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 131.160 135.340 <o,f0,unknown> me [hez] meria okno
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 135.340 138.400 <o,f0,unknown> plače
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 138.400 141.040 <o,f0,unknown> horí
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 141.040 143.880 <o,f0,unknown> pije
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 143.880 146.500 <o,f0,unknown> varí/vari
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 146.500 151.280 <o,f0,unknown> [ex] hodí oštep alebo [ex]
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 151.280 154.960 <o,f0,unknown> klope na dvere
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 154.960 157.760 <o,f0,unknown> telefonuje
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 157.760 160.240 <o,f0,unknown> maľuje
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 160.240 164.600 <o,f0,unknown> [ex] skáče cez švihadlo
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 164.600 167.320 <o,f0,unknown> šije
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 167.320 170.140 <o,f0,unknown> vŕta
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 170.140 173.180 <o,f0,unknown> lyžuje
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 173.180 177.000 <o,f0,unknown> krája jablko
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 177.000 180.080 <o,f0,unknown> hrabe
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 180.080 183.420 <o,f0,unknown> fotí
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 183.420 186.620 <o,f0,unknown> polieva kvet
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 186.620 190.780 <o,f0,unknown> reže dosku
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 190.780 193.940 <o,f0,unknown> bicykluje
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 193.940 196.560 <o,f0,unknown> pletie
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 196.560 205.783 <o,f0,unknown> [ex] [smiech] ta plavú sa na rieke
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 205.783 209.560 <o,f0,unknown> žehlí
+dvd58ghy01 1 excluded_region 209.560 212.808 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 212.808 224.717 <o,f0,unknown> no to vidím ruka jednu veľkú [hez] ruka veľkú a malá rúčka stláča malíček na tej prvej ruke.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 224.717 231.120 <o,f0,unknown> stláča a nič viac nevidím.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 231.120 233.660 <o,f0,unknown> [spk]
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 233.660 239.554 <o,f0,unknown> stôl stoličky. [hez] na stole je káva.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 239.554 242.474 <o,f0,unknown> jeden stôl a dve/dva stoličky.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 242.474 248.366 <o,f0,unknown> káva sa s je ešte horúca [smiech-] lebo ide z/s nej [-smiech] .
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 248.366 251.300 <o,f0,unknown> nič viac.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 251.300 267.280 <o,f0,unknown> [ex] no tak kuchyňu. je tam muž. je tam dieťa. dieťa [hez] vzalo tam sa naťahuje za banánom a asi spadne zo/so stoličky.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 267.280 281.930 <o,f0,unknown> [hez] [ex] umývadlo sa vylialo [hez] a on [ex] ((nie)) trepe do lampy a tiež niečo vylial. tam za chrbtom niečo mu vyteká ((do)) sporáka.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 281.930 289.942 <o,f0,unknown> a ešte mačka [smiech] v kúte je ešte mačka.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 289.942 295.298 <o,f0,unknown> asi rozbil to svetlo lebo sú črepy na zemi.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 295.298 298.552 <o,f0,unknown> no a z toho/tu umývadla tiež už tečie na zemi.
+dvd58ghy01 1 excluded_region 298.552 302.940 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 302.940 312.166 <o,f0,unknown> [spk] jedna žena jedno dieťa. niečo varí panvici.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 312.166 329.640 <o,f0,unknown> [ex] sú tam hodinky [hez] regál s knihami stôl hrniec. má tam nejakú zeleninu nôž. neviem/niem či tam neni aj dajaký/dáky.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 329.640 341.892 <o,f0,unknown> mačka na regáli fľaša nejaký kompót topánky ihličky a dajaká/dáka váza s kvetmi [hez] už asi tá mačka zhodila.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 341.892 348.646 <o,f0,unknown> ešte potom notebook asi je tam.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 348.646 357.076 <o,f0,unknown> a ona robí dajakú/dáku praženicu. dajaké/dáke vajíčka a dajakú/dáku klobásu tam vidím.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 357.076 361.654 <o,f0,unknown> [spk] a dieťa plače.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 361.654 366.038 <o,f0,unknown> ona robí [smiech-] grimasy [-smiech] .
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 366.038 369.255 <o,f0,unknown> a v hrnci sa dačo varí.
+dvd58ghy01 1 excluded_region 369.255 372.340 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 excluded_region 372.340 375.778 <o,,unknown> ignore_time_segment_in_scoring
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 375.778 387.182 <o,f0,unknown> vianočná atmosféra. vonku sneží. je tam jedna pani jeden pán. asi spadne [smiech] .
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 387.182 392.942 <o,f0,unknown> na zemi sú dajaké/dáke autíčka. psíček leží a spí/spi.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 392.942 396.446 <o,f0,unknown> stromček ale asi ho stiahli.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 396.446 404.377 <o,f0,unknown> [hez] jeden chlapec pozerá d [hez] cez okno a druhý asi ťahá stromček.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 404.377 408.054 <o,f0,unknown> a pani telefonuje.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 408.054 415.247 <o,f0,unknown> no a ten pán má nejakú tašku.
+dvd58ghy01 1 dvd58ghy01_dvd58ghy01 415.247 420.342 <o,f0,unknown> [ruch-] a vonku sneží. [-ruch]

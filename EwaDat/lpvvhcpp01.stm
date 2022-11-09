@@ -1,0 +1,102 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:42 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 0.000 14.940 <o,f0,male> special_vokal
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 14.940 22.860 <o,f0,male> special_pataka
+lpvvhcpp01 1 excluded_region 22.860 26.830 <o,,unknown> ignore_time_segment_in_scoring
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 26.830 29.080 <o,f0,male> ulica
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 29.080 31.660 <o,f0,male> kráľ
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 31.660 33.880 <o,f0,male> kniha
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 33.880 36.040 <o,f0,male> most
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 36.040 38.320 <o,f0,male> topánky
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 38.320 40.800 <o,f0,male> autobus
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 40.800 43.340 <o,f0,male> hodinky
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 43.340 46.280 <o,f0,male> [hez] cigarety
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 46.280 48.740 <o,f0,male> koruna
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 48.740 51.000 <o,f0,male> bubon
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 51.000 54.320 <o,f0,male> ho hodiny budíky
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 54.320 57.280 <o,f0,male> koleso
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 57.280 59.820 <o,f0,male> traktor
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 59.820 62.300 <o,f0,male> teplomer
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 62.300 64.800 <o,f0,male> lavica
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 64.800 67.320 <o,f0,male> fajka
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 67.320 70.600 <o,f0,male> električka/e:letrička
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 70.600 72.820 <o,f0,male> zips
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 72.820 75.480 <o,f0,male> akvárium
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 75.480 77.760 <o,f0,male> metla
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 77.760 80.220 <o,f0,male> s ťava
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 80.220 82.540 <o,f0,male> lievik
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 82.540 85.740 <o,f0,male> hríby/ríby
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 85.740 88.260 <o,f0,male> vešiak
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 88.260 91.120 <o,f0,male> domino
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 91.120 93.460 <o,f0,male> kotva
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 93.460 95.780 <o,f0,male> žaluď
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 95.780 98.460 <o,f0,male> ponorka
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 98.460 101.220 <o,f0,male> astronaut
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 101.220 103.800 <o,f0,male> kaktus
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 103.800 106.080 <o,f0,male> píše
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 106.080 108.860 <o,f0,male> natiera
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 108.860 111.620 <o,f0,male> spieva
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 111.620 114.080 <o,f0,male> smeje sa
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 114.080 116.720 <o,f0,male> ťahá
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 116.720 119.380 <o,f0,male> kúpe
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 119.380 122.060 <o,f0,male> váži
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 122.060 124.420 <o,f0,male> svieti
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 124.420 127.000 <o,f0,male> meria
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 127.000 129.620 <o,f0,male> plače
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 129.620 132.080 <o,f0,male> horí
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 132.080 134.500 <o,f0,male> pije
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 134.500 136.980 <o,f0,male> varí
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 136.980 139.420 <o,f0,male> hádže
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 139.420 142.040 <o,f0,male> klope
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 142.040 144.700 <o,f0,male> telefonuje
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 144.700 147.400 <o,f0,male> maľuje
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 147.400 150.700 <o,f0,male> skáče
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 150.700 153.580 <o,f0,male> šije
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 153.580 155.840 <o,f0,male> vŕta
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 155.840 158.140 <o,f0,male> lyžuje
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 158.140 160.500 <o,f0,male> krája
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 160.500 162.700 <o,f0,male> hrabe
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 162.700 165.740 <o,f0,male> fotí
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 165.740 168.160 <o,f0,male> polieva
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 168.160 170.880 <o,f0,male> píli
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 170.880 175.000 <o,f0,male> bicykluje
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 175.000 178.280 <o,f0,male> štrikuje
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 178.280 180.940 <o,f0,male> vesluje
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 180.940 183.460 <o,f0,male> žehlí
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 183.460 213.400 <o,f0,male> tak malé dieťa sa chytá malíčka [hez] ot otca alebo mamky a teda zrejme si pri tom rozprávajú nejakú rozprávku rozpráva maminka alebo tatinko dieťa ku kuká pozerá otvorenými očk
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 213.400 226.661 <o,f0,male> tak dohodol som si stretnutie s manželkou ide z roboty ideme si sadnúť na na kávu.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 226.661 237.556 <o,f0,male> a potom [hez] manželka naplánuje [hez] nákup v obchod [smiech] v obchode [hez] na ktorý sa veľmi neteším.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 237.556 243.340 <o,f0,male> [smiech] budem chodiť s vozíkom a manželka bude nakladať.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 243.340 256.963 <o,f0,male> tak. otec otec sa pokúša variť zrejme sa mu to n nedarí lebo mu mu tam kypí z hrnca.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 256.963 269.803 <o,f0,male> vyteká nejaká tekutina zo skrinky ja a: ((xxx)) snaží sa zabiť muchu. takže [hez] preto mu sa mu nedarí [hez] variť.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 269.803 281.815 <o,f0,male> medzitým dieťa tam šantí takisto mu veľmi asi pomáha [hez] chce banán ale už vidím že to dopadne zle lebo spadne zo stoličky.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 281.815 304.845 <o,f0,male> do [hez] do [hez] do drezu/dresu je napustená [hez] voda sa napúšťa voda so saponátom [hez] k ktorý už vypeňuje [hez] až na zem a na všetko to sa [hez] pozerá s úžasom kocúr.
+lpvvhcpp01 1 inter_segment_gap 304.845 309.916 <o,f0,> 
+lpvvhcpp01 1 excluded_region 309.916 317.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 317.960 332.041 <o,f0,male> no [spk] takže [hez] [hez] [hez] to je maminka v domácnosti na d na [hez] [hez] dovolenke [hez] .
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 332.041 345.448 <o,f0,male> [hez] v jednej ruke drží dieťa druhú druhou/druheou [hez] [hez] [hez] varí niečo [hez] nejaké zemiaky a s: nejakým mäsom asi zrejme.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 345.448 362.407 <o,f0,male> má prichystané na doske [spk] [hez] zeleninu na na pokrájanie ale neviem či sa do do k tomu dostane lebo dieťa [hez] veľmi plače.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 362.407 374.874 <o,f0,male> maminka asi recept robí prvýkrát lebo má [hez] notebook pri sebe asi recept od odtiaľ berie.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 374.874 393.012 <o,f0,male> [hez] ďalej [hez] vy vystrája tam nejaký kocúr ktorý tam išiel na víno alebo čo to tam je zhodil pritom nejakú vázu %aha maminka by radšej išla na nákup kúpiť si nejaké topánky.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 393.012 407.960 <o,f0,male> je štvrť na jednu a už asi mešká s obedom.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 407.960 435.783 <o,f0,male> [hez] takže [hez] tu vidím že sa chystajú sa Vianoce s stromček už je dovezený dokonca už aj je [hez] ozdobený čiastočne. [hez] [hez] maminka telefonuje zrejme ešte nejakú donášku niečo zabudla.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 435.783 463.336 <o,f0,male> [hez] to tatino prišiel asi z nákupu alebo z roboty. o [hez] vonku sneží [spk] pekne teda čo už dávno u nás nebolo. [hez] [ex] asi dopadne nie najlepšie lebo stúpil/stupil na au [hez] [hez] hračkárske auto ktoré [hez] na ktorom sa asi podkĺzne a dopadne na zadnú časť tela.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 463.336 478.872 <o,f0,male> na to všetko sa kuká susedov chlapec. a zrejme sa zabáva a v kľud kľudný je tam akurát tak ten psík ktorý si pekne podriemkava/podriemkáva.
+lpvvhcpp01 1 lpvvhcpp01_lpvvhcpp01 478.872 488.848 <o,f0,male> [spk] a ten strom a t ten strom je tiež nahnutý takže ten tiež skončí asi jak tatinko.

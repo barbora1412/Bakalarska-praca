@@ -1,0 +1,128 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:18 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 210905
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj908y01 1 kixj908y01_kixj908y01 0.000 14.940 <o,f0,unknown> special_vokal
+kixj908y01 1 kixj908y01_kixj908y01 14.940 22.880 <o,f0,unknown> special_pataka
+kixj908y01 1 kixj908y01_kixj908y01 22.880 24.923 <o,f0,unknown> cestovať
+kixj908y01 1 excluded_region 24.923 25.197 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 25.197 25.832 <o,f0,unknown> cestovanie
+kixj908y01 1 excluded_region 25.832 29.100 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 29.100 32.800 <o,f0,unknown> kraľovanie
+kixj908y01 1 kixj908y01_kixj908y01 32.800 36.100 <o,f0,unknown> čítanie
+kixj908y01 1 kixj908y01_kixj908y01 36.100 39.720 <o,f0,unknown> cestovanie
+kixj908y01 1 kixj908y01_kixj908y01 39.720 44.320 <o,f0,unknown> [ned-] k [-ned] [hez] chodenie
+kixj908y01 1 kixj908y01_kixj908y01 44.320 49.640 <o,f0,unknown> [hez] cestovanie
+kixj908y01 1 kixj908y01_kixj908y01 49.640 52.980 <o,f0,unknown> cesta
+kixj908y01 1 kixj908y01_kixj908y01 52.980 56.760 <o,f0,unknown> kráľ/kral
+kixj908y01 1 kixj908y01_kixj908y01 56.760 59.660 <o,f0,unknown> kniha
+kixj908y01 1 kixj908y01_kixj908y01 59.660 63.040 <o,f0,unknown> most/bost most
+kixj908y01 1 kixj908y01_kixj908y01 63.040 66.260 <o,f0,unknown> topánky
+kixj908y01 1 kixj908y01_kixj908y01 66.260 69.560 <o,f0,unknown> autobus
+kixj908y01 1 kixj908y01_kixj908y01 69.560 72.300 <o,f0,unknown> hodinky
+kixj908y01 1 kixj908y01_kixj908y01 72.300 75.220 <o,f0,unknown> cigarety
+kixj908y01 1 kixj908y01_kixj908y01 75.220 78.160 <o,f0,unknown> koruna
+kixj908y01 1 kixj908y01_kixj908y01 78.160 81.600 <o,f0,unknown> bubon
+kixj908y01 1 kixj908y01_kixj908y01 81.600 85.040 <o,f0,unknown> budík
+kixj908y01 1 kixj908y01_kixj908y01 85.040 87.920 <o,f0,unknown> koleso
+kixj908y01 1 kixj908y01_kixj908y01 87.920 90.980 <o,f0,unknown> traktor
+kixj908y01 1 kixj908y01_kixj908y01 90.980 93.880 <o,f0,unknown> teplomer
+kixj908y01 1 kixj908y01_kixj908y01 93.880 96.640 <o,f0,unknown> lavička
+kixj908y01 1 kixj908y01_kixj908y01 96.640 99.260 <o,f0,unknown> fajka
+kixj908y01 1 kixj908y01_kixj908y01 99.260 102.200 <o,f0,unknown> električka
+kixj908y01 1 kixj908y01_kixj908y01 102.200 105.040 <o,f0,unknown> zips
+kixj908y01 1 kixj908y01_kixj908y01 105.040 107.960 <o,f0,unknown> akvárium
+kixj908y01 1 kixj908y01_kixj908y01 107.960 110.940 <o,f0,unknown> metla
+kixj908y01 1 kixj908y01_kixj908y01 110.940 116.620 <o,f0,unknown> [hez] velbloud* ťava
+kixj908y01 1 kixj908y01_kixj908y01 116.620 119.840 <o,f0,unknown> lievik
+kixj908y01 1 kixj908y01_kixj908y01 119.840 122.980 <o,f0,unknown> huby
+kixj908y01 1 kixj908y01_kixj908y01 122.980 125.860 <o,f0,unknown> vešiak
+kixj908y01 1 kixj908y01_kixj908y01 125.860 128.820 <o,f0,unknown> domino
+kixj908y01 1 kixj908y01_kixj908y01 128.820 131.440 <o,f0,unknown> kotva
+kixj908y01 1 kixj908y01_kixj908y01 131.440 132.941 <o,f0,unknown> žaluď
+kixj908y01 1 excluded_region 132.941 135.500 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 135.500 138.700 <o,f0,unknown> ponorka
+kixj908y01 1 kixj908y01_kixj908y01 138.700 141.760 <o,f0,unknown> kozmonaut
+kixj908y01 1 kixj908y01_kixj908y01 141.760 144.580 <o,f0,unknown> kaktus
+kixj908y01 1 kixj908y01_kixj908y01 144.580 149.020 <o,f0,unknown> úradník
+kixj908y01 1 kixj908y01_kixj908y01 149.020 153.400 <o,f0,unknown> maslo
+kixj908y01 1 kixj908y01_kixj908y01 153.400 158.920 <o,f0,unknown> speváčka
+kixj908y01 1 kixj908y01_kixj908y01 158.920 162.420 <o,f0,unknown> smiech
+kixj908y01 1 kixj908y01_kixj908y01 162.420 167.100 <o,f0,unknown> hra
+kixj908y01 1 kixj908y01_kixj908y01 167.100 171.900 <o,f0,unknown> kúpanie
+kixj908y01 1 kixj908y01_kixj908y01 171.900 176.360 <o,f0,unknown> váženie
+kixj908y01 1 kixj908y01_kixj908y01 176.360 180.640 <o,f0,unknown> žiarovka
+kixj908y01 1 kixj908y01_kixj908y01 180.640 185.060 <o,f0,unknown> meranie
+kixj908y01 1 kixj908y01_kixj908y01 185.060 188.740 <o,f0,unknown> plač
+kixj908y01 1 kixj908y01_kixj908y01 188.740 193.260 <o,f0,unknown> oheň
+kixj908y01 1 kixj908y01_kixj908y01 193.260 197.080 <o,f0,unknown> smäd
+kixj908y01 1 kixj908y01_kixj908y01 197.080 202.100 <o,f0,unknown> obed
+kixj908y01 1 kixj908y01_kixj908y01 202.100 207.540 <o,f0,unknown> vrh oštep
+kixj908y01 1 kixj908y01_kixj908y01 207.540 212.360 <o,f0,unknown> návšteva
+kixj908y01 1 kixj908y01_kixj908y01 212.360 216.040 <o,f0,unknown> telefonát
+kixj908y01 1 kixj908y01_kixj908y01 216.040 220.160 <o,f0,unknown> maliar
+kixj908y01 1 kixj908y01_kixj908y01 220.160 224.340 <o,f0,unknown> švihadlo
+kixj908y01 1 kixj908y01_kixj908y01 224.340 228.460 <o,f0,unknown> krajčírka
+kixj908y01 1 kixj908y01_kixj908y01 228.460 232.320 <o,f0,unknown> vŕtačka
+kixj908y01 1 kixj908y01_kixj908y01 232.320 236.360 <o,f0,unknown> lyžiar
+kixj908y01 1 kixj908y01_kixj908y01 236.360 240.320 <o,f0,unknown> krájanie
+kixj908y01 1 kixj908y01_kixj908y01 240.320 244.300 <o,f0,unknown> hrabanie
+kixj908y01 1 kixj908y01_kixj908y01 244.300 247.680 <o,f0,unknown> fotograf/fotogra
+kixj908y01 1 kixj908y01_kixj908y01 247.680 252.920 <o,f0,unknown> polievanie
+kixj908y01 1 kixj908y01_kixj908y01 252.920 258.540 <o,f0,unknown> pílka
+kixj908y01 1 kixj908y01_kixj908y01 258.540 261.940 <o,f0,unknown> cyklista
+kixj908y01 1 kixj908y01_kixj908y01 261.940 265.460 <o,f0,unknown> štrikovanie
+kixj908y01 1 kixj908y01_kixj908y01 265.460 269.520 <o,f0,unknown> kanoistika
+kixj908y01 1 kixj908y01_kixj908y01 269.520 272.620 <o,f0,unknown> žehlenie
+kixj908y01 1 excluded_region 272.620 275.172 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 275.172 281.801 <o,f0,unknown> na obrázku je ruka [hez] otca ktorú drží ruka dieťaťa.
+kixj908y01 1 kixj908y01_kixj908y01 281.801 290.717 <o,f0,unknown> je to vlastne taký prvý prvý dotyk otca a/a: dieťaťa ktorý ho prevedie životom.
+kixj908y01 1 excluded_region 290.717 294.540 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 excluded_region 294.540 297.342 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 297.342 302.506 <o,f0,unknown> je to stôl na/na: terase jednej kaviarne kde už sú nachystané dve kapučína.
+kixj908y01 1 kixj908y01_kixj908y01 302.506 309.681 <o,f0,unknown> zároveň tu môžeme/môžme vidieť dve/dve: retro stoličky ktoré doplnia vlastne tú scenériu.
+kixj908y01 1 kixj908y01_kixj908y01 309.681 319.704 <o,f0,unknown> pre mňa tento obrázok symbolizuje/symbolizuje: stretnutie dvoch kamarátov pri/pri: príjemnej príležitosti ktorá je momentálne veľmi vzácna pre mňa osobne.
+kixj908y01 1 excluded_region 319.704 322.020 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 excluded_region 322.020 325.861 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 325.861 333.623 <o,f0,unknown> a tuto na obrázku môžeme/môžme vidieť ako to vyzerá ak mama má voľno a otec sa musí starať o deti.
+kixj908y01 1 kixj908y01_kixj908y01 333.623 338.687 <o,f0,unknown> ako vždy je to chaos kedy/kedy: otec hravou formou sa snaží zachrániť čo sa dá.
+kixj908y01 1 kixj908y01_kixj908y01 338.687 344.192 <o,f0,unknown> vidíme tu kypiace/kypiace: kypiaci obed z/z: veľkého hrnca.
+kixj908y01 1 kixj908y01_kixj908y01 344.192 348.754 <o,f0,unknown> vidíme tu dieťa ktoré balancuje nebezpečne** na stoličke kde sa môže šmyknúť.
+kixj908y01 1 kixj908y01_kixj908y01 348.754 354.916 <o,f0,unknown> pretože tu vidím vytekajúcu vodu ktorá je naozaj stále otvorená a preteká umývadlom.
+kixj908y01 1 kixj908y01_kixj908y01 354.916 373.405 <o,f0,unknown> to dieťa si ani neuvedomuje to riziko pretože/pretože: má chuť na/na: niečo sladké a tým že je vychovávané v zdravom prostredí siahlo po banáne a otec si to žiaľ vôbec nevšíma ktorý sa snaží zabiť včelu a tým pádom ako netrafil čo sa niekedy stáva.
+kixj908y01 1 kixj908y01_kixj908y01 373.405 383.421 <o,f0,unknown> rozbil veľkú lampu ktorá má osvetľovať a ešte čo by som tu naozaj vypichla je/je: že do hrnca nám tečie sirup.
+kixj908y01 1 kixj908y01_kixj908y01 383.421 394.120 <o,f0,unknown> myslím že to bude malinový sirup a mačka ktorá je čierna z rohu iba pozerá čo sa to tu vlastne deje s veľkým strachom v očiach.
+kixj908y01 1 excluded_region 394.120 396.448 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 396.448 401.731 <o,f0,unknown> takže/takže: a takto vyzerá vlastne život mladej mamičky v súčasnosti.
+kixj908y01 1 kixj908y01_kixj908y01 401.731 408.403 <o,f0,unknown> vzhľadom na to že musíme pracovať [ned-] pr [-ned] pretože peniažkov nie je veľa tak mamička robí na homeoffice*/homofise.
+kixj908y01 1 kixj908y01_kixj908y01 408.403 410.696 <o,f0,unknown> každý rozumie to že/že: deti kričia.
+kixj908y01 1 kixj908y01_kixj908y01 410.696 427.190 <o,f0,unknown> sme na calle*/kóle pritom sa snažíme naozaj dochystať raňajky aj manželovi pretože/pretože: deti už sú najedené ale manželovi treba urobiť obľúbené vajíčka so slaninkou. zároveň už sa pripravujeme na tú predpoludňajšiu [hez] obed pre deti.
+kixj908y01 1 kixj908y01_kixj908y01 427.190 436.326 <o,f0,unknown> čiže polievočka sa nám už varí. medzitým máme všetko všade. máme mlieko pri počítači. máme nožík pri/pri: rajčinkách paprikách.
+kixj908y01 1 kixj908y01_kixj908y01 436.326 439.773 <o,f0,unknown> snažíme sa to všetko. ešte máme pod uchom mobil.
+kixj908y01 1 kixj908y01_kixj908y01 439.773 455.625 <o,f0,unknown> zároveň vidíme že/že: mačka nám tu lieta hore-dole. momentálne je na jednej poličke kde sa jej už podarilo zhodiť [hez] kvetinku ktorá už práve teraz v tejto chvíli padá padá domov padá dole.
+kixj908y01 1 kixj908y01_kixj908y01 455.625 461.305 <o,f0,unknown> zároveň tá mama rozmýšľa že/že: čo teda s tými topánkami a to už je pritom štvrť na jednu.
+kixj908y01 1 excluded_region 461.305 463.880 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 excluded_region 463.880 466.975 <o,,unknown> ignore_time_segment_in_scoring
+kixj908y01 1 kixj908y01_kixj908y01 466.975 470.527 <o,f0,unknown> takže na obrázku vidíme krásnu atmosféru.
+kixj908y01 1 kixj908y01_kixj908y01 470.527 478.739 <o,f0,unknown> [ned-] de [-ned] deti alebo teda dieťa jedno už už veľmi pekne obaľuje: stromček so svietivými žiarovkami.
+kixj908y01 1 kixj908y01_kixj908y01 478.739 484.141 <o,f0,unknown> vidíme že nevieme práve či obaľuje ale vyzerá že ide strhnúť práve celý stromček.
+kixj908y01 1 kixj908y01_kixj908y01 484.141 487.482 <o,f0,unknown> druhé dieťa sa na to pozerá cez okno.
+kixj908y01 1 kixj908y01_kixj908y01 487.482 491.966 <o,f0,unknown> pozerá že čo sa to deje vlastne v rámci [ned-] toht/tocht [-ned] tejto domácnosti.
+kixj908y01 1 kixj908y01_kixj908y01 491.966 506.815 <o,f0,unknown> mamička bohužiaľ nevšíma si že za chvíľku jej padne celý strom pretože je na telefóne a/a: ocko práve dorazil domov ktorý akurát vyzerá že spadne na autíčkach pretože neboli odpratané od cesty.
+kixj908y01 1 kixj908y01_kixj908y01 506.815 510.948 <o,f0,unknown> nevšimol si to pretože mal oči zafúkané od snehových vločiek.
+kixj908y01 1 kixj908y01_kixj908y01 510.948 521.167 <o,f0,unknown> s v [ned-] ruko [-ned] [hez] v rukách plný nákup takže bude to asi zaujímavý pád a popritom ten malý psík si spokojne ležká a podriemkava.

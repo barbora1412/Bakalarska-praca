@@ -1,0 +1,154 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:31 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvao1201 1 lpvvao1201_lpvvao1201 0.000 14.920 <o,f0,unknown> special_vokal
+lpvvao1201 1 lpvvao1201_lpvvao1201 14.920 22.920 <o,f0,unknown> special_pataka
+lpvvao1201 1 excluded_region 22.920 24.088 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 24.088 24.784 <o,f0,unknown> melón
+lpvvao1201 1 excluded_region 24.784 25.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 25.960 28.480 <o,f0,unknown> cesta
+lpvvao1201 1 lpvvao1201_lpvvao1201 28.480 30.700 <o,f0,unknown> most
+lpvvao1201 1 lpvvao1201_lpvvao1201 30.700 33.060 <o,f0,unknown> hodinky
+lpvvao1201 1 lpvvao1201_lpvvao1201 33.060 35.480 <o,f0,unknown> bubon
+lpvvao1201 1 lpvvao1201_lpvvao1201 35.480 37.980 <o,f0,unknown> traktor
+lpvvao1201 1 lpvvao1201_lpvvao1201 37.980 40.480 <o,f0,unknown> fajka
+lpvvao1201 1 lpvvao1201_lpvvao1201 40.480 43.100 <o,f0,unknown> akvárium
+lpvvao1201 1 lpvvao1201_lpvvao1201 43.100 47.040 <o,f0,unknown> lievik
+lpvvao1201 1 lpvvao1201_lpvvao1201 47.040 51.080 <o,f0,unknown> domino
+lpvvao1201 1 lpvvao1201_lpvvao1201 51.080 53.660 <o,f0,unknown> ponorka
+lpvvao1201 1 lpvvao1201_lpvvao1201 53.660 56.280 <o,f0,unknown> kráľ
+lpvvao1201 1 lpvvao1201_lpvvao1201 56.280 59.040 <o,f0,unknown> topánky
+lpvvao1201 1 lpvvao1201_lpvvao1201 59.040 62.120 <o,f0,unknown> cigarety
+lpvvao1201 1 lpvvao1201_lpvvao1201 62.120 65.120 <o,f0,unknown> [pron=ned-] hodink [-pron=ned] budík
+lpvvao1201 1 lpvvao1201_lpvvao1201 65.120 67.500 <o,f0,unknown> teplomer
+lpvvao1201 1 lpvvao1201_lpvvao1201 67.500 70.060 <o,f0,unknown> električka
+lpvvao1201 1 lpvvao1201_lpvvao1201 70.060 75.003 <o,f0,unknown> [hez] no
+lpvvao1201 1 lpvvao1201_lpvvao1201 75.003 76.124 <o,f0,unknown> zmeták
+lpvvao1201 1 excluded_region 76.124 77.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 77.600 79.767 <o,f0,unknown> hríbiky
+lpvvao1201 1 excluded_region 79.767 80.680 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 excluded_region 80.680 83.202 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 83.202 85.380 <o,f0,unknown> kotva
+lpvvao1201 1 lpvvao1201_lpvvao1201 85.380 88.260 <o,f0,unknown> kozmonaut
+lpvvao1201 1 lpvvao1201_lpvvao1201 88.260 90.880 <o,f0,unknown> kniha
+lpvvao1201 1 lpvvao1201_lpvvao1201 90.880 93.540 <o,f0,unknown> autobus
+lpvvao1201 1 lpvvao1201_lpvvao1201 93.540 97.060 <o,f0,unknown> koruna kráľovská
+lpvvao1201 1 lpvvao1201_lpvvao1201 97.060 99.840 <o,f0,unknown> koleso
+lpvvao1201 1 lpvvao1201_lpvvao1201 99.840 102.680 <o,f0,unknown> lavička
+lpvvao1201 1 lpvvao1201_lpvvao1201 102.680 105.120 <o,f0,unknown> zips
+lpvvao1201 1 lpvvao1201_lpvvao1201 105.120 107.358 <o,f0,unknown> ťava
+lpvvao1201 1 excluded_region 107.358 108.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 108.340 110.840 <o,f0,unknown> vešiak
+lpvvao1201 1 lpvvao1201_lpvvao1201 110.840 116.760 <o,f0,unknown> oriešok/oriešo [hez] [hez] [pron=ned-] to: [-pron=ned]
+lpvvao1201 1 excluded_region 116.760 118.061 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 118.061 119.336 <o,f0,unknown> kaktus
+lpvvao1201 1 excluded_region 119.336 119.740 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 excluded_region 119.740 120.724 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 120.724 121.452 <o,f0,unknown> pláve
+lpvvao1201 1 excluded_region 121.452 122.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 122.560 125.120 <o,f0,unknown> píše
+lpvvao1201 1 lpvvao1201_lpvvao1201 125.120 127.860 <o,f0,unknown> smeje sa
+lpvvao1201 1 lpvvao1201_lpvvao1201 127.860 131.500 <o,f0,unknown> [hez] meria váži no
+lpvvao1201 1 lpvvao1201_lpvvao1201 131.500 134.276 <o,f0,unknown> plače
+lpvvao1201 1 lpvvao1201_lpvvao1201 134.276 136.940 <o,f0,unknown> varí
+lpvvao1201 1 lpvvao1201_lpvvao1201 136.940 139.700 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+lpvvao1201 1 lpvvao1201_lpvvao1201 139.700 142.500 <o,f0,unknown> šije
+lpvvao1201 1 lpvvao1201_lpvvao1201 142.500 145.580 <o,f0,unknown> [hez] krája
+lpvvao1201 1 lpvvao1201_lpvvao1201 145.580 148.700 <o,f0,unknown> [pron=ned-] zaliev [-pron=ned] polieva
+lpvvao1201 1 lpvvao1201_lpvvao1201 148.700 151.440 <o,f0,unknown> štrikuje
+lpvvao1201 1 lpvvao1201_lpvvao1201 151.440 155.880 <o,f0,unknown> [hez] namaže chleba maže
+lpvvao1201 1 lpvvao1201_lpvvao1201 155.880 158.820 <o,f0,unknown> ťahá lano
+lpvvao1201 1 lpvvao1201_lpvvao1201 158.820 161.920 <o,f0,unknown> svieti
+lpvvao1201 1 lpvvao1201_lpvvao1201 161.920 164.340 <o,f0,unknown> horí
+lpvvao1201 1 lpvvao1201_lpvvao1201 164.340 167.820 <o,f0,unknown> hádže
+lpvvao1201 1 lpvvao1201_lpvvao1201 167.820 170.800 <o,f0,unknown> maľuje
+lpvvao1201 1 lpvvao1201_lpvvao1201 170.800 173.580 <o,f0,unknown> vŕta
+lpvvao1201 1 lpvvao1201_lpvvao1201 173.580 177.840 <o,f0,unknown> [pron=ned-] hr [-pron=ned] [hez] hrabe
+lpvvao1201 1 lpvvao1201_lpvvao1201 177.840 180.820 <o,f0,unknown> píli
+lpvvao1201 1 lpvvao1201_lpvvao1201 180.820 183.600 <o,f0,unknown> vesluje
+lpvvao1201 1 lpvvao1201_lpvvao1201 183.600 187.280 <o,f0,unknown> spieva
+lpvvao1201 1 lpvvao1201_lpvvao1201 187.280 191.100 <o,f0,unknown> kúpe sa kúpe
+lpvvao1201 1 lpvvao1201_lpvvao1201 191.100 194.600 <o,f0,unknown> meria
+lpvvao1201 1 lpvvao1201_lpvvao1201 194.600 197.040 <o,f0,unknown> pije
+lpvvao1201 1 lpvvao1201_lpvvao1201 197.040 199.920 <o,f0,unknown> klope
+lpvvao1201 1 lpvvao1201_lpvvao1201 199.920 202.440 <o,f0,unknown> skáče
+lpvvao1201 1 lpvvao1201_lpvvao1201 202.440 204.780 <o,f0,unknown> lyžuje
+lpvvao1201 1 lpvvao1201_lpvvao1201 204.780 207.900 <o,f0,unknown> fotí/sfotí
+lpvvao1201 1 lpvvao1201_lpvvao1201 207.900 210.640 <o,f0,unknown> bicykluje
+lpvvao1201 1 lpvvao1201_lpvvao1201 210.640 213.400 <o,f0,unknown> žehlí
+lpvvao1201 1 excluded_region 213.400 218.163 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 218.163 219.956 <o,f0,unknown> no je tam ruka.
+lpvvao1201 1 lpvvao1201_lpvvao1201 219.956 225.496 <o,f0,unknown> [hez] a: druhá ruka ho drží za malíček.
+lpvvao1201 1 excluded_region 225.496 228.863 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 228.863 231.637 <o,f0,unknown> ruka je vráskavá.
+lpvvao1201 1 lpvvao1201_lpvvao1201 231.637 234.819 <o,f0,unknown> druhá ruka je menšia.
+lpvvao1201 1 lpvvao1201_lpvvao1201 234.819 238.666 <o,f0,unknown> malíček je silne [pron=ned-] dr [-pron=ned] silno držaný.
+lpvvao1201 1 lpvvao1201_lpvvao1201 238.666 241.331 <o,f0,unknown> dlaň je otvorená.
+lpvvao1201 1 lpvvao1201_lpvvao1201 241.331 243.360 <o,f0,unknown> a [hez] druhá ruka.
+lpvvao1201 1 excluded_region 243.360 244.732 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 244.732 254.790 <o,f0,unknown> stôl/stól dve stoličky. na stole dve kávy. stoličky sú prázdne. čakajú na hostí.
+lpvvao1201 1 lpvvao1201_lpvvao1201 254.790 260.709 <o,f0,unknown> káva je pripravená lebo asi sa z/s nej dymí.
+lpvvao1201 1 lpvvao1201_lpvvao1201 260.709 265.814 <o,f0,unknown> stoličky sú kovové moderné. pekne dizajnované.
+lpvvao1201 1 excluded_region 265.814 268.033 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 268.033 270.829 <o,f0,unknown> je to pre [hez] dve osoby.
+lpvvao1201 1 lpvvao1201_lpvvao1201 270.829 273.280 <o,f0,unknown> takže to bude nejaké stretnutie vo [pron=ned-] dvoji [-pron=ned] .
+lpvvao1201 1 excluded_region 273.280 275.897 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 275.897 279.522 <o,f0,unknown> je to kuchyňa s mužom a s dieťaťom.
+lpvvao1201 1 lpvvao1201_lpvvao1201 279.522 287.398 <o,f0,unknown> muž [hez] zjavne [hez] je pripravený na to aby varil. má varešku v ruke.
+lpvvao1201 1 lpvvao1201_lpvvao1201 287.398 298.325 <o,f0,unknown> dieťa je nezbedné skáče po stoličke. [hez] asi niečo prihorelo lebo [hez] z hrnca [pron=ned-] vykep [-pron=ned] vykypelo/vykepelo.
+lpvvao1201 1 excluded_region 298.325 299.864 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 299.864 302.080 <o,f0,unknown> v kuchyni je neporiadok.
+lpvvao1201 1 lpvvao1201_lpvvao1201 302.080 306.996 <o,f0,unknown> je tam aj čierna mačka ktorá asi prináša nešťastie.
+lpvvao1201 1 lpvvao1201_lpvvao1201 306.996 313.766 <o,f0,unknown> dieťa sa snaží zobrať zo stola teda z kuchynskej linky/linke nejaké ovocie.
+lpvvao1201 1 lpvvao1201_lpvvao1201 313.766 327.350 <o,f0,unknown> a: muž [hez] [hez] varechou narieka že čo to tam má. niečo padlo aj na zem. a je tam pomerne veľký neporiadok.
+lpvvao1201 1 lpvvao1201_lpvvao1201 327.350 330.442 <o,f0,unknown> lampa sa kymáca/kymáce.
+lpvvao1201 1 lpvvao1201_lpvvao1201 330.442 333.176 <o,f0,unknown> skrinka je otvorená.
+lpvvao1201 1 lpvvao1201_lpvvao1201 333.176 335.688 <o,f0,unknown> voda je pustená.
+lpvvao1201 1 lpvvao1201_lpvvao1201 335.688 337.591 <o,f0,unknown> no je tam úplný chaos.
+lpvvao1201 1 lpvvao1201_lpvvao1201 337.591 348.746 <o,f0,unknown> takže v kuchyni/kuchyňa s mužom a s malým dieťaťom neprináša nejakú veľkú pohodu lebo je tam dosť veľký bordel.
+lpvvao1201 1 lpvvao1201_lpvvao1201 348.746 360.970 <o,f0,unknown> ale je to čo sa s často stáva a celkom je to zo života [hez] je to milé.
+lpvvao1201 1 lpvvao1201_lpvvao1201 360.970 363.280 <o,f0,unknown> niečo aj vytieklo z umývadla lebo [pron=ned-] na [-pron=ned] .
+lpvvao1201 1 excluded_region 363.280 365.797 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 365.797 378.628 <o,f0,unknown> takisto kuchyňa kde varí matka ktorá je veľmi zaneprázdnená lebo má v ruke aj dieťa. [pron=ned-] d [-pron=ned] v jednej/jednom ruke/ruko v jednej ruke [pron=ned-] ď [-pron=ned] dieťa v druhej ruke panvicu.
+lpvvao1201 1 lpvvao1201_lpvvao1201 378.628 385.862 <o,f0,unknown> a: [hez] nestíha zjavne jedným pohybom robiť všetko.
+lpvvao1201 1 lpvvao1201_lpvvao1201 385.862 391.901 <o,f0,unknown> ak dobre vidím neviem či dobre vidím že má aj nejaký laptop na stole ale možno to nebude laptop.
+lpvvao1201 1 lpvvao1201_lpvvao1201 391.901 399.744 <o,f0,unknown> hrniec na poličke. [hez] nejaké prísady do kuchyne hodinky fungujú.
+lpvvao1201 1 lpvvao1201_lpvvao1201 399.744 407.789 <o,f0,unknown> na druhej poličke mačka možno že to iba dekorácia alebo je to živá ťažko povedať.
+lpvvao1201 1 lpvvao1201_lpvvao1201 407.789 416.105 <o,f0,unknown> [hez] matka myslí na to že by si mala kúpiť asi topánky.
+lpvvao1201 1 lpvvao1201_lpvvao1201 416.105 422.024 <o,f0,unknown> z poličky padajú dole veci. tak asi to bude mačka keď sa to zhodilo.
+lpvvao1201 1 lpvvao1201_lpvvao1201 422.024 429.361 <o,f0,unknown> a: dieťa plače. je nervózne.
+lpvvao1201 1 lpvvao1201_lpvvao1201 429.361 433.689 <o,f0,unknown> na kuchynskej linke je pomerne veľký neporiadok.
+lpvvao1201 1 lpvvao1201_lpvvao1201 433.689 437.891 <o,f0,unknown> v panvici asi niečo prihorelo.
+lpvvao1201 1 lpvvao1201_lpvvao1201 437.891 453.200 <o,f0,unknown> [hez] na [hez] kuchynskej linke je aj krabica mlieka. nejaké veci na varenie a matka je dosť nešťastná z celej situácie.
+lpvvao1201 1 excluded_region 453.200 455.496 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 455.496 457.420 <o,f0,unknown> [hez] vianočná scénka.
+lpvvao1201 1 excluded_region 457.420 461.873 <o,,unknown> ignore_time_segment_in_scoring
+lpvvao1201 1 lpvvao1201_lpvvao1201 461.873 466.867 <o,f0,unknown> prichádza domov asi hlava rodiny.
+lpvvao1201 1 lpvvao1201_lpvvao1201 466.867 473.618 <o,f0,unknown> v [hez] v byte je už postavený stromček ktorý akurát práve padá.
+lpvvao1201 1 lpvvao1201_lpvvao1201 473.618 476.181 <o,f0,unknown> matka telefonuje.
+lpvvao1201 1 lpvvao1201_lpvvao1201 476.181 479.848 <o,f0,unknown> na zemi spí pes.
+lpvvao1201 1 lpvvao1201_lpvvao1201 479.848 485.281 <o,f0,unknown> otec ktorý prišiel zakopol o nejaké hračky ktoré boli na koberci.
+lpvvao1201 1 lpvvao1201_lpvvao1201 485.281 490.386 <o,f0,unknown> dieťa ťahá ozdobu zo stromu/stroma.
+lpvvao1201 1 lpvvao1201_lpvvao1201 490.386 494.529 <o,f0,unknown> a: je to taký predvianočný zhon.
+lpvvao1201 1 lpvvao1201_lpvvao1201 494.529 496.970 <o,f0,unknown> vonku sneží.
+lpvvao1201 1 lpvvao1201_lpvvao1201 496.970 503.629 <o,f0,unknown> stromček je ináč pekne [smiech-] vyzdobený [-smiech] . má aj hviezdu na vrchu.
+lpvvao1201 1 lpvvao1201_lpvvao1201 503.629 514.486 <o,f0,unknown> otec sa asi zjavne šmykol na tom autíčku ktoré bolo [hez] ktoré je na [hez] koberci lebo podľa tejto snímky padá na zem.
+lpvvao1201 1 lpvvao1201_lpvvao1201 514.486 517.575 <o,f0,unknown> sú tam ešte ďalšie veci na zemi.
+lpvvao1201 1 lpvvao1201_lpvvao1201 517.575 530.822 <o,f0,unknown> a na zemi pravdepodobne skončí aj strom [ruch] ktorý je naklonený a [pron=ned-] k [-pron=ned] je [ruch-] veľká šanca [-ruch] že sa pekné ozdoby aj rozbijú.
+lpvvao1201 1 lpvvao1201_lpvvao1201 530.822 540.477 <o,f0,unknown> dieťa je zjavne veľmi [hez] dobre naladené a plné energie.

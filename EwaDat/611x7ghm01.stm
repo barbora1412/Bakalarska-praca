@@ -1,0 +1,107 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:23 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 211122
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+611x7ghm01 1 611x7ghm01_611x7ghm01 0.000 13.751 <o,f0,unknown> special_vokal
+611x7ghm01 1 excluded_region 13.751 14.900 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 14.900 22.820 <o,f0,unknown> special_pataka
+611x7ghm01 1 611x7ghm01_611x7ghm01 22.820 25.700 <o,f0,unknown> melón [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 25.700 28.960 <o,f0,unknown> cesta [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 28.960 31.740 <o,f0,unknown> [ruch-] most [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 31.740 34.700 <o,f0,unknown> [ruch-] hodinky [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 34.700 37.320 <o,f0,unknown> [ruch-] bubon [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 37.320 39.780 <o,f0,unknown> [ruch-] traktor [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 39.780 42.300 <o,f0,unknown> [ruch-] fajka [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 42.300 44.940 <o,f0,unknown> [ruch] akvárium
+611x7ghm01 1 611x7ghm01_611x7ghm01 44.940 47.420 <o,f0,unknown> [ruch-] [spk] lievik [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 47.420 50.380 <o,f0,unknown> [ruch-] domino [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 50.380 53.000 <o,f0,unknown> [ruch-] ponorka [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 53.000 55.600 <o,f0,unknown> [ruch-] kráľ [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 55.600 58.380 <o,f0,unknown> [ruch-] topánky [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 58.380 61.020 <o,f0,unknown> [ruch-] cigarety [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 61.020 63.900 <o,f0,unknown> [ruch-] budík [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 63.900 66.380 <o,f0,unknown> [ruch-] teplomer [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 66.380 68.960 <o,f0,unknown> [ruch-] električka [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 68.960 71.280 <o,f0,unknown> metla [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 71.280 74.140 <o,f0,unknown> [ruch-] huby [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 74.140 76.460 <o,f0,unknown> [ruch] kotva
+611x7ghm01 1 611x7ghm01_611x7ghm01 76.460 78.880 <o,f0,unknown> [ruch-] kozmonaut [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 78.880 81.260 <o,f0,unknown> [ruch] kniha
+611x7ghm01 1 611x7ghm01_611x7ghm01 81.260 83.740 <o,f0,unknown> autobus
+611x7ghm01 1 611x7ghm01_611x7ghm01 83.740 86.620 <o,f0,unknown> [ruch-] koruna [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 86.620 90.014 <o,f0,unknown> [ruch-] [hez] pneumatika [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 90.014 91.000 <o,f0,unknown> alebo koleso
+611x7ghm01 1 611x7ghm01_611x7ghm01 91.000 93.780 <o,f0,unknown> lavička [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 93.780 96.380 <o,f0,unknown> zips [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 96.380 98.780 <o,f0,unknown> ťava [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 98.780 101.220 <o,f0,unknown> [ruch-] vešiak [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 101.220 103.920 <o,f0,unknown> [ruch-] žaluď [-ruch]
+611x7ghm01 1 excluded_region 103.920 104.841 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 104.841 107.000 <o,f0,unknown> kaktus [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 107.000 110.260 <o,f0,unknown> [ruch-] [hez] pláve [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 110.260 113.080 <o,f0,unknown> píše [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 113.080 115.980 <o,f0,unknown> smeje sa [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 115.980 119.380 <o,f0,unknown> váži [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 119.380 121.900 <o,f0,unknown> [ruch-] plače [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 121.900 124.600 <o,f0,unknown> [ruch-] varí [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 124.600 127.380 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 127.380 129.920 <o,f0,unknown> šije [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 129.920 132.580 <o,f0,unknown> krája [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 132.580 135.960 <o,f0,unknown> [ned-] polie [-ned] zalieva [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 135.960 139.220 <o,f0,unknown> [ruch-] pletie [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 139.220 142.940 <o,f0,unknown> maže [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 142.940 146.660 <o,f0,unknown> preťahuje [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 146.660 149.600 <o,f0,unknown> [ruch-] svieti [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 149.600 152.480 <o,f0,unknown> [ruch-] horí [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 152.480 155.840 <o,f0,unknown> hádže [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 155.840 158.520 <o,f0,unknown> maľuje [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 158.520 161.180 <o,f0,unknown> vŕta [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 161.180 163.780 <o,f0,unknown> hrabe [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 163.780 166.800 <o,f0,unknown> reže [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 166.800 170.260 <o,f0,unknown> vesluje [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 170.260 172.780 <o,f0,unknown> spieva
+611x7ghm01 1 611x7ghm01_611x7ghm01 172.780 176.580 <o,f0,unknown> umýva sa [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 176.580 179.620 <o,f0,unknown> meria [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 179.620 182.100 <o,f0,unknown> pije [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 182.100 184.720 <o,f0,unknown> klope [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 184.720 187.560 <o,f0,unknown> [ruch-] skáče [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 187.560 190.380 <o,f0,unknown> [ruch-] lyžuje [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 190.380 193.020 <o,f0,unknown> [ruch-] fotí [-ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 193.020 196.440 <o,f0,unknown> bicykluje [ruch]
+611x7ghm01 1 611x7ghm01_611x7ghm01 196.440 199.320 <o,f0,unknown> [ruch-] žehlí [-ruch]
+611x7ghm01 1 excluded_region 199.320 200.848 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 200.848 216.183 <o,f0,unknown> malá rúčka ťahá veľkú ((do)) prst veľkej ruky [hez] a: snaží sa ju/u stiahnuť k sebe. veľká ruka drží a nechá malú ruku nech ju/u ťahá ďalej.
+611x7ghm01 1 excluded_region 216.183 221.233 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 221.233 229.260 <o,f0,unknown> (no a malá) veľká ruka vyzerá že nie starého človeka pretože nemá zatiaľ [hez] veľa vrások.
+611x7ghm01 1 excluded_region 229.260 231.221 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 231.221 242.783 <o,f0,unknown> [ruch-] dve stoličky stolík kávový [-ruch] na stolíku sú dve kávičky z každej sa dymí v každej je lyžička. je to pekné zákutie.
+611x7ghm01 1 611x7ghm01_611x7ghm01 242.783 259.140 <o,f0,unknown> bude to asi pre dvoch [hez] ľudí ktorí si sadnú ku kávičkám a budú si ich vychutnávať. stoličky sú tonetkového typu stolík je takého záhradného typu [ex] [hez] a: [ned-] kávič [-ned]
+611x7ghm01 1 excluded_region 259.140 262.111 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 262.111 299.170 <o,f0,unknown> no v kuchyni muž odháňa muchu ktorá letí ponad [hez] luster má pootvárané [hez] skrinky horné má tam niektoré prevrhnuté [hez] veci [hez] v z ktorých mu [hez] vyteká nejaká tekutina. muž varí je sám doma v kuchyni [hez] je vidno že muž to nemá pod kontrolou pretože má všade kopu porozhadzovaných vecí. malý [hez] chlapec stojí na stoličke ktorá sa ide každú chvíľu prevrhnúť. snaží sa zobrať si banán.
+611x7ghm01 1 611x7ghm01_611x7ghm01 299.170 316.845 <o,f0,unknown> zároveň má pustenú vodu do drezu kde niečo umýva. voda preteká na dlážku. čierny kocúrik spoza rohu pozerá na to všetko. [ex] [hez] muž má oblečenú modrú zástenu zásteru [hez] .
+611x7ghm01 1 611x7ghm01_611x7ghm01 316.845 333.115 <o,f0,unknown> je tam pri kuchynskom dreze je ešte utierka [hez] [hez] voda ktorá je napustená v kuchynskom drez %ee [hez] dreze je napenená takže asi tam idú umývať riady alebo chceli by umývať riady.
+611x7ghm01 1 611x7ghm01_611x7ghm01 333.115 349.060 <o,f0,unknown> [hez] s na zemi je zhodený nejaký aha to sú črepy z toho z lustru kde [hez] ten: muž ktorý odháňa muchu [hez] narazil vareškou do lustru a rozbil ho. črepy sú na zemi.
+611x7ghm01 1 excluded_region 349.060 350.877 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 350.877 369.646 <o,f0,unknown> [hez] zas [hez] dej sa odohráva v kuchyni. matka robí [hez] nejaký obed alebo večeru v ruke má [veselost-] panvicu [-veselost] kde smaží vajíčka. [hez] zároveň tam je nejaká slaninka: alebo šunka na tom zrejme zrejme robí nejaký hemendex.
+611x7ghm01 1 611x7ghm01_611x7ghm01 369.646 405.004 <o,f0,unknown> pred sebou má [hez] [spk] lopárik na ktorom má zeleninu no opretý nôž krájala tu zeleninu. na [hez] sporáku má hrniec kde sa jej varí nejaké jedlo. [hez] vedľa [hez] má položený počítač na ktorom má asi recept podľa ktorého to robí. [hez] potom tam mám krabicu mlieka [spk] [hez] drží v ruke dieťa [veselost-] telefonuje [-veselost] dieťa plače [hez] matka myslí pri tej činnosti na topánky.
+611x7ghm01 1 611x7ghm01_611x7ghm01 405.004 438.980 <o,f0,unknown> [hez] sú tam zavesené hodiny. na hodinách je: dvanásť hodín [hez] dvadsať minút. potom je tam polička s knihami s nejakými [hez] kvietkami alebo neviem čo to je. [hez] potom je tam druhá polička. na poličke je mačka [hez] vedľa nej je fľaša: a: nejaký téglik. [hez] mačka zhodila [hez] vázičku s kvetmi. %@ vázička padá dole. kvety z nej vypadávajú [ex] matka [ned-] je [-ned] .
+611x7ghm01 1 excluded_region 438.980 442.125 <o,,unknown> ignore_time_segment_in_scoring
+611x7ghm01 1 611x7ghm01_611x7ghm01 442.125 443.202 <o,f0,unknown> no.
+611x7ghm01 1 611x7ghm01_611x7ghm01 443.202 474.019 <o,f0,unknown> takže zjavne sa dej odohráva na vianoce lebo je tam vianočný stromček. je to v miestnosti asi v obývačke vonku sneží pretože za oknom a pri otvorených dverách vidno že sneží. cez otvorené dvere prichádza otec. [ex] nesie v ruke tašku. [ex] na hlave má čapicu okolo krku šál. [ex] [hez] ako vchádza dovnútra šliapol/šlapol na autíčko [hez] malého chlapca ktorý tam pobehuje. [ex] [hez] za [hez] pošmykol sa na ňom a padá.
+611x7ghm01 1 611x7ghm01_611x7ghm01 474.019 492.790 <o,f0,unknown> [ruch] pred ním leží spokojne psík ktorý spí vôbec ho to nijako nerozčuľuje. matka ktorá je ďalej miestnosti telefonuje s niekým je celá spokojná na rozdiel od syna ktorý [hez] strháva stromček so všetkými ozdobami na seba.
+611x7ghm01 1 611x7ghm01_611x7ghm01 492.790 503.550 <o,f0,unknown> [hez] stromček padá gule sa rozbíjajú. [hez] [hez] majú fialový koberec krásne červené závesy na oknách [hez] .

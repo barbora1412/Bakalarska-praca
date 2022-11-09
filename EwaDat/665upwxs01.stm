@@ -1,0 +1,138 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:13 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 9 of 220509
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665upwxs01 1 665upwxs01_665upwxs01 0.000 14.900 <o,f0,unknown> special_vokal
+665upwxs01 1 665upwxs01_665upwxs01 14.900 22.800 <o,f0,unknown> special_pataka
+665upwxs01 1 665upwxs01_665upwxs01 22.800 26.080 <o,f0,unknown> cesta
+665upwxs01 1 665upwxs01_665upwxs01 26.080 29.020 <o,f0,unknown> most
+665upwxs01 1 excluded_region 29.020 29.702 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 29.702 30.440 <o,f0,unknown> hodinky
+665upwxs01 1 excluded_region 30.440 31.520 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 31.520 32.920 <o,f0,unknown> bubon
+665upwxs01 1 excluded_region 32.920 33.980 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 33.980 35.352 <o,f0,unknown> traktor
+665upwxs01 1 excluded_region 35.352 36.520 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 36.520 38.800 <o,f0,unknown> fajka
+665upwxs01 1 665upwxs01_665upwxs01 38.800 41.760 <o,f0,unknown> akvárium
+665upwxs01 1 665upwxs01_665upwxs01 41.760 44.420 <o,f0,unknown> lievik
+665upwxs01 1 665upwxs01_665upwxs01 44.420 47.520 <o,f0,unknown> [hez] domino
+665upwxs01 1 excluded_region 47.520 48.826 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 48.826 49.758 <o,f0,unknown> ponorka
+665upwxs01 1 excluded_region 49.758 50.820 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 50.820 53.820 <o,f0,unknown> píše
+665upwxs01 1 665upwxs01_665upwxs01 53.820 57.140 <o,f0,unknown> smeje sa
+665upwxs01 1 665upwxs01_665upwxs01 57.140 60.140 <o,f0,unknown> váži
+665upwxs01 1 665upwxs01_665upwxs01 60.140 63.280 <o,f0,unknown> plače
+665upwxs01 1 665upwxs01_665upwxs01 63.280 66.020 <o,f0,unknown> varí/vari
+665upwxs01 1 665upwxs01_665upwxs01 66.020 68.680 <o,f0,unknown> telefonuje
+665upwxs01 1 665upwxs01_665upwxs01 68.680 72.160 <o,f0,unknown> šije
+665upwxs01 1 665upwxs01_665upwxs01 72.160 74.800 <o,f0,unknown> krája
+665upwxs01 1 665upwxs01_665upwxs01 74.800 77.380 <o,f0,unknown> polieva
+665upwxs01 1 665upwxs01_665upwxs01 77.380 80.180 <o,f0,unknown> štrikuje
+665upwxs01 1 665upwxs01_665upwxs01 80.180 83.900 <o,f0,unknown> kráľ/kral
+665upwxs01 1 665upwxs01_665upwxs01 83.900 86.300 <o,f0,unknown> topánky
+665upwxs01 1 665upwxs01_665upwxs01 86.300 88.800 <o,f0,unknown> cigarety
+665upwxs01 1 665upwxs01_665upwxs01 88.800 91.100 <o,f0,unknown> hodinky budík/budik
+665upwxs01 1 665upwxs01_665upwxs01 91.100 93.680 <o,f0,unknown> teplomer
+665upwxs01 1 665upwxs01_665upwxs01 93.680 97.360 <o,f0,unknown> trolejbus
+665upwxs01 1 665upwxs01_665upwxs01 97.360 99.760 <o,f0,unknown> metla
+665upwxs01 1 665upwxs01_665upwxs01 99.760 102.580 <o,f0,unknown> hríby
+665upwxs01 1 665upwxs01_665upwxs01 102.580 105.380 <o,f0,unknown> kotva
+665upwxs01 1 665upwxs01_665upwxs01 105.380 108.460 <o,f0,unknown> kozmonaut
+665upwxs01 1 665upwxs01_665upwxs01 108.460 111.960 <o,f0,unknown> maže
+665upwxs01 1 665upwxs01_665upwxs01 111.960 115.080 <o,f0,unknown> preťahuje
+665upwxs01 1 665upwxs01_665upwxs01 115.080 117.540 <o,f0,unknown> svieti
+665upwxs01 1 665upwxs01_665upwxs01 117.540 120.060 <o,f0,unknown> horí/hori
+665upwxs01 1 excluded_region 120.060 121.231 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 121.231 123.060 <o,f0,unknown> hádže
+665upwxs01 1 665upwxs01_665upwxs01 123.060 125.720 <o,f0,unknown> maľuje
+665upwxs01 1 665upwxs01_665upwxs01 125.720 128.440 <o,f0,unknown> vŕta
+665upwxs01 1 665upwxs01_665upwxs01 128.440 131.240 <o,f0,unknown> hrabe
+665upwxs01 1 665upwxs01_665upwxs01 131.240 134.320 <o,f0,unknown> píli
+665upwxs01 1 665upwxs01_665upwxs01 134.320 137.180 <o,f0,unknown> vesluje
+665upwxs01 1 665upwxs01_665upwxs01 137.180 139.740 <o,f0,unknown> kniha
+665upwxs01 1 665upwxs01_665upwxs01 139.740 142.600 <o,f0,unknown> autobus
+665upwxs01 1 665upwxs01_665upwxs01 142.600 145.600 <o,f0,unknown> koruna
+665upwxs01 1 665upwxs01_665upwxs01 145.600 148.120 <o,f0,unknown> koleso
+665upwxs01 1 665upwxs01_665upwxs01 148.120 150.520 <o,f0,unknown> lavička
+665upwxs01 1 665upwxs01_665upwxs01 150.520 152.900 <o,f0,unknown> zips
+665upwxs01 1 665upwxs01_665upwxs01 152.900 155.280 <o,f0,unknown> ťava
+665upwxs01 1 665upwxs01_665upwxs01 155.280 157.480 <o,f0,unknown> vešiak
+665upwxs01 1 665upwxs01_665upwxs01 157.480 161.460 <o,f0,unknown> [hez] žaluď
+665upwxs01 1 665upwxs01_665upwxs01 161.460 164.040 <o,f0,unknown> kaktus
+665upwxs01 1 excluded_region 164.040 164.814 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 164.814 165.588 <o,f0,unknown> spieva
+665upwxs01 1 excluded_region 165.588 166.580 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 166.580 169.780 <o,f0,unknown> kúpe sa
+665upwxs01 1 665upwxs01_665upwxs01 169.780 172.500 <o,f0,unknown> meria
+665upwxs01 1 665upwxs01_665upwxs01 172.500 175.020 <o,f0,unknown> pije
+665upwxs01 1 665upwxs01_665upwxs01 175.020 177.660 <o,f0,unknown> klope
+665upwxs01 1 665upwxs01_665upwxs01 177.660 179.940 <o,f0,unknown> skáče
+665upwxs01 1 665upwxs01_665upwxs01 179.940 182.200 <o,f0,unknown> lyžuje
+665upwxs01 1 665upwxs01_665upwxs01 182.200 185.020 <o,f0,unknown> fotografuje
+665upwxs01 1 665upwxs01_665upwxs01 185.020 187.380 <o,f0,unknown> bicykluje
+665upwxs01 1 665upwxs01_665upwxs01 187.380 189.880 <o,f0,unknown> žehlí/žehli
+665upwxs01 1 665upwxs01_665upwxs01 189.880 201.260 <o,f0,unknown> [hez] na obrázku je dospelá ruka/ruka: ktorú drží za malíček malá rúčka dieťaťa.
+665upwxs01 1 excluded_region 201.260 209.842 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 209.842 219.780 <o,f0,unknown> zrejme to bude ruka rodičia rodiča niektorého/nektorého a je to taký pocit istoty.
+665upwxs01 1 665upwxs01_665upwxs01 219.780 224.634 <o,f0,unknown> na obrázku/obrazku je/je: stolík/stolik.
+665upwxs01 1 665upwxs01_665upwxs01 224.634 227.864 <o,f0,unknown> myslím že môže byť kaviarenský/kaviarensky.
+665upwxs01 1 665upwxs01_665upwxs01 227.864 235.742 <o,f0,unknown> na stolíku/stoliku sú dve kávičky horúce lebo sa z nich dymí ešte.
+665upwxs01 1 665upwxs01_665upwxs01 235.742 241.246 <o,f0,unknown> pri stolíku/stoliku sú dve stoličky.
+665upwxs01 1 665upwxs01_665upwxs01 241.246 246.504 <o,f0,unknown> je to veľmi pekný dizajn čo sa toho týka zariadenia.
+665upwxs01 1 excluded_region 246.504 249.700 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 excluded_region 249.700 254.121 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 254.121 259.878 <o,f0,unknown> no/no: tak je tu/tu: kuchynská linka zelenej farby.
+665upwxs01 1 665upwxs01_665upwxs01 259.878 265.752 <o,f0,unknown> otec drží varechu/varechu: čiže zrejme varí.
+665upwxs01 1 665upwxs01_665upwxs01 265.752 275.818 <o,f0,unknown> dieťa sa pokúša/pokuša: dosiahnuť banán a popritom myslím že umýva aj riad.
+665upwxs01 1 665upwxs01_665upwxs01 275.818 284.002 <o,f0,unknown> veľmi dalo veľa vody a peny lebo sa mu to všetko/všecko vylieva na zem tá voda.
+665upwxs01 1 665upwxs01_665upwxs01 284.002 300.278 <o,f0,unknown> otec s tou varechou stihol rozbiť luster a v rohu je čierna mačka ktorá zvedavo/zvedaloa zvedavo pozerá zelenými očami.
+665upwxs01 1 665upwxs01_665upwxs01 300.278 308.331 <o,f0,unknown> na šporáku* vyvrela možno polievka.
+665upwxs01 1 665upwxs01_665upwxs01 308.331 316.392 <o,f0,unknown> zo skrinky sa vylialo nejaký džúsik alebo nejaká tekutina.
+665upwxs01 1 665upwxs01_665upwxs01 316.392 321.691 <o,f0,unknown> na zemi ešte vidím črepy z lustra.
+665upwxs01 1 665upwxs01_665upwxs01 321.691 330.326 <o,f0,unknown> chlapček má oblečené červené tričko modré kraťasky* červené [ned-] panč [-ned] [hez] ponožky.
+665upwxs01 1 665upwxs01_665upwxs01 330.326 334.282 <o,f0,unknown> pán má peknú modrú zásteru.
+665upwxs01 1 excluded_region 334.282 339.600 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 excluded_region 339.600 341.608 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 341.608 356.453 <o,f0,unknown> no/n:o tak na obrázku je veľmi veľmi vyťažená mama ktorá sa snaží telefonovať zároveň utíšiť bábätko a pritom aj variť.
+665upwxs01 1 665upwxs01_665upwxs01 356.453 363.946 <o,f0,unknown> varí/vari niečo na panvici. zrejme to bude hemendex keď dobre vidím/vidim.
+665upwxs01 1 665upwxs01_665upwxs01 363.946 372.359 <o,f0,unknown> na poličke sedí šedá/šeda mačka ktorá zhodila z poličky vázu s kvetmi.
+665upwxs01 1 excluded_region 372.359 377.870 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 377.870 381.130 <o,f0,unknown> na stene/stene: sú hodiny.
+665upwxs01 1 665upwxs01_665upwxs01 381.130 388.041 <o,f0,unknown> pod hodinami je polička/polička: na ktorej sú kvetinky a knihy.
+665upwxs01 1 665upwxs01_665upwxs01 388.041 400.808 <o,f0,unknown> mama sa zrejme zrejme rozpráva o svojom sne kúpiť si nové topánky.
+665upwxs01 1 665upwxs01_665upwxs01 400.808 406.678 <o,f0,unknown> na pracovnej doske vidím mlieko nejakú zeleninu.
+665upwxs01 1 665upwxs01_665upwxs01 406.678 409.808 <o,f0,unknown> v hrnci/hrnci: zrejme sa varí polievka.
+665upwxs01 1 665upwxs01_665upwxs01 409.808 418.111 <o,f0,unknown> je tam ešte notebook čiže/čiže: mama robí asi päť vecí naraz.
+665upwxs01 1 excluded_region 418.111 422.258 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 422.258 425.336 <o,f0,unknown> dieťatko ostošesť reve.
+665upwxs01 1 excluded_region 425.336 429.500 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 excluded_region 429.500 432.630 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 432.630 438.099 <o,f0,unknown> no/n:o tak vidím tam veľkú prípravu na vianoce.
+665upwxs01 1 665upwxs01_665upwxs01 438.099 448.615 <o,f0,unknown> ozdobený [ned-] s [-ned] [hez] stromček ktorý myslím že deti/deti: hravo/hravo: [hez] zvalia.
+665upwxs01 1 665upwxs01_665upwxs01 448.615 456.300 <o,f0,unknown> sú tam krásne gule krásne reťaze osvetlenie ale myslím že za chvíľku to spadne všetko.
+665upwxs01 1 excluded_region 456.300 457.777 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 457.777 459.711 <o,f0,unknown> mama telefonuje/telefonuje:.
+665upwxs01 1 665upwxs01_665upwxs01 459.711 474.191 <o,f0,unknown> psík spí a tato/ta:to vyšiel práve/práve: do bytu kde sa mu podarilo stúpnuť na autíčko čiže zrejme bude za chvíľku na zemi.
+665upwxs01 1 665upwxs01_665upwxs01 474.191 476.020 <o,f0,unknown> myslím ten tato/ta:to.
+665upwxs01 1 excluded_region 476.020 478.692 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 478.692 491.862 <o,f0,unknown> za oknom pekne sneží vonku sneží a/a: nakukuje/zakukuje tam možno nejaký ich kamarát v peknej čapici budajke.
+665upwxs01 1 665upwxs01_665upwxs01 491.862 496.838 <o,f0,unknown> na stromčeku vidím ešte krásnu žltú/žl:tu hviezdu.
+665upwxs01 1 excluded_region 496.838 499.863 <o,,unknown> ignore_time_segment_in_scoring
+665upwxs01 1 665upwxs01_665upwxs01 499.863 510.098 <o,f0,unknown> majú pekný pekné zariadenie ružový koberec a myslím že zelenú podlahu a červené závesy čiže je to krásna farebná izba.

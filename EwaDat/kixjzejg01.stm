@@ -1,0 +1,120 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:16 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjzejg01 1 kixjzejg01_kixjzejg01 0.000 14.940 <o,f5,unknown> special_vokal
+kixjzejg01 1 excluded_region 14.940 16.625 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 16.625 22.880 <o,f5,unknown> special_pataka
+kixjzejg01 1 kixjzejg01_kixjzejg01 22.880 25.520 <o,f5,unknown> [ruch-] melón [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 25.520 28.452 <o,f5,unknown> [ruch-] cesta %e teda jedno [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 28.452 29.380 <o,f5,unknown> [ruch-] tam je aj oblak [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 29.380 30.288 <o,f5,unknown> [ruch-] most [-ruch]
+kixjzejg01 1 excluded_region 30.288 31.600 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 31.600 34.280 <o,f5,unknown> [ruch-] [spk] hodinky [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 34.280 37.120 <o,f5,unknown> [ruch-] bubon [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 37.120 39.940 <o,f5,unknown> [ruch-] traktor [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 39.940 42.640 <o,f5,unknown> [ruch-] fajka [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 42.640 45.660 <o,f5,unknown> [ruch-] [spk] akvárium [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 45.660 49.360 <o,f5,unknown> [ruch-] %ee lievik [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 49.360 52.720 <o,f5,unknown> [ruch-] domino kocky [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 52.720 56.160 <o,f5,unknown> [ruch-] [spk] ponorka [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 56.160 59.560 <o,f5,unknown> [ruch-] [spk] kráľ [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 59.560 62.560 <o,f5,unknown> [ruch-] topánky [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 62.560 65.700 <o,f5,unknown> [ruch-] cigarety [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 65.700 69.040 <o,f5,unknown> [ruch-] [spk] budík/budik [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 69.040 72.200 <o,f5,unknown> [ruch-] teplomer [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 72.200 75.200 <o,f5,unknown> [ruch-] električka [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 75.200 78.160 <o,f5,unknown> [ruch-] metla [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 78.160 81.500 <o,f5,unknown> [ruch-] hríby [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 81.500 84.500 <o,f5,unknown> [ruch-] [spk] kotva [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 84.500 87.840 <o,f5,unknown> [ruch-] [spk] astronaut alebo kozmonaut [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 87.840 90.800 <o,f5,unknown> [ruch-] [spk] kniha [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 90.800 93.960 <o,f5,unknown> [ruch-] autobus [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 93.960 97.200 <o,f5,unknown> [ruch-] koruna [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 97.200 100.260 <o,f5,unknown> [ruch-] koleso [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 100.260 104.340 <o,f5,unknown> [ruch-] lavička alebo lavica [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 104.340 107.460 <o,f5,unknown> [ruch-] zips [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 107.460 110.440 <o,f5,unknown> [ruch-] ťava [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 110.440 113.800 <o,f5,unknown> [ruch-] vešiak [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 113.800 117.680 <o,f5,unknown> [ruch-] [hez] žaluď [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 117.680 121.240 <o,f5,unknown> [ruch-] kaktus [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 121.240 124.260 <o,f5,unknown> [ruch-] pláva [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 124.260 127.180 <o,f5,unknown> [ruch-] píše [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 127.180 130.140 <o,f5,unknown> [ruch-] smeje sa [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 130.140 132.528 <o,f5,unknown> [ruch-] [spk] váži [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 132.528 136.566 <o,f5,unknown> [ruch-] sa alebo neviem teda či váži jablko alebo sa [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 136.566 139.200 <o,f5,unknown> [ruch-] plače [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 139.200 142.640 <o,f5,unknown> [ruch-] varí [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 142.640 145.780 <o,f5,unknown> [ruch-] telefonuje [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 145.780 148.880 <o,f5,unknown> [ruch-] šije [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 148.880 152.180 <o,f5,unknown> [ruch-] [spk] krája [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 152.180 155.440 <o,f5,unknown> [ruch-] polieva [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 155.440 159.200 <o,f5,unknown> [ruch-] [hez] pletie [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 159.200 162.860 <o,f5,unknown> [ruch-] natiera chlieb [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 162.860 167.517 <o,f5,unknown> [ruch-] %mm preťahuje sa lanom alebo neviem [-ruch]
+kixjzejg01 1 excluded_region 167.517 168.163 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 168.163 171.580 <o,f5,unknown> [ruch-] [hez] žiarovka [hez] svieti [veselost] [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 171.580 174.960 <o,f5,unknown> [ruch-] [spk] [hez] horí [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 174.960 178.960 <o,f5,unknown> [ruch-] [hez] hádže: oštepom [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 178.960 182.360 <o,f5,unknown> [ruch-] [hez] maľuje [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 182.360 185.580 <o,f5,unknown> [ruch-] [spk] vŕta [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 185.580 189.360 <o,f5,unknown> [ruch-] [hez] hrabe hrabľami [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 189.360 192.460 <o,f5,unknown> [ruch-] píli [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 192.460 196.460 <o,f5,unknown> [ruch-] [spk] veslujú [ex] [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 196.460 199.280 <o,f5,unknown> [ruch-] spieva [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 199.280 202.340 <o,f5,unknown> [ruch-] kúpe sa [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 202.340 205.540 <o,f5,unknown> [ruch-] meria [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 205.540 208.440 <o,f5,unknown> [ruch-] pije [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 208.440 212.160 <o,f5,unknown> [ruch-] klope na dvere [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 212.160 215.780 <o,f5,unknown> [ruch-] [spk] [hez] skáče na švihadle [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 215.780 219.361 <o,f5,unknown> [ruch-] [spk] [hez] ide na lyžiach alebo [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 219.361 220.540 <o,f5,unknown> [ruch-] teda zjazduje [-ruch]
+kixjzejg01 1 excluded_region 220.540 222.580 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 222.580 226.060 <o,f5,unknown> [ruch-] fotografuje [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 226.060 229.360 <o,f5,unknown> [ruch-] bicykluje [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 229.360 232.800 <o,f5,unknown> [ruch-] [hez] žehlí [-ruch]
+kixjzejg01 1 excluded_region 232.800 235.735 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 235.735 247.244 <o,f5,unknown> [ruch-] %mm dieťa: predpokladám že dieťa drží dospelého človeka alebo staršiu osobu za ruku. konkrétne za: malíček. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 247.244 256.369 <o,f5,unknown> [ruch-] predpokladám že sa hrajú alebo: je to možno pocit bezpečia alebo niečo podobné. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 256.369 262.740 <o,f5,unknown> [ruch-] a: viac ma teda k tomu nenapadá lebo nevidíme na do tváre [ned-] že [-ned] [-ruch]
+kixjzejg01 1 excluded_region 262.740 264.600 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 264.600 276.396 <o,f5,unknown> [ruch-] %aha tak [-hez] na stole: sú dve kávičky pripravené zrejme pre nejaké paničky ktoré si ju prídu: vypiť. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 276.396 292.680 <o,f5,unknown> [ruch-] objednali si to: po telefóne a: aby bola káva akurát akurát prídu možno o dvadsať sekúnd už si dávajú dole kabáty a pekne sa posadia/posedia za stôl. [-ruch]
+kixjzejg01 1 excluded_region 292.680 295.854 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 excluded_region 295.854 304.761 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 304.761 311.054 <o,f5,unknown> [ruch-] nič nestíha. pretiekla nám aj voda: vykypel nám aj [hez-] hrniec [-hez] . [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 311.054 329.032 <o,f5,unknown> [ruch-] ((a)) dieťa nikto nezachraňuje ale veľmi pravdepodobne: spadne: zo stoličky to dieťa. už by som hneď naňho alebo na ňu nakričala. to je teda on. na chlapca nakričala nech sa zase nekýve na tej stoličke lebo to zle dopadne. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 329.032 333.606 <o,f5,unknown> [ruch-] a okrem toho sa nám ešte aj lampa rozbila. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 333.606 351.127 <o,f5,unknown> [ruch-] tak neviem či ešte bude elektrika na: dovarenie toho: obeda. snáď tam nejaké poistky to nevyrazí tak ako to vyrazilo mne minule na chalupe tak som bola potom jednu celú noc úplne bez elektriky ale prežili sme. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 351.127 358.045 <o,f5,unknown> [ruch-] no a zdá sa že najmä sa to páči tej mačke. tá z toho má asi najväčšiu zábavu. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 358.045 370.329 <o,f5,unknown> [ruch-] len [-hez] ktovie či by nemala ísť trošku oblízať ten hrniec možno že by jej tam niečo aj zachutilo len aby sa preboha živého nepopálila aj ona. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 370.329 382.620 <o,f5,unknown> [ruch-] %jáj a ešte nám tu niečo vytieklo aj zo skrinky aj tam sa niečo vylieva možno že nejaký kečup. no tak to bude strašne chutné myslím si že tá mačka by si prišla na svoje keby [ned-] teda [-ned] . [-ruch]
+kixjzejg01 1 excluded_region 382.620 384.895 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 384.895 396.106 <o,f5,unknown> [ruch-] %mm skoro ako moja nevesta. tak [-hez] dve staršie pobehujú po kuchyni a to najmladšie tak to roznáša neustále v rukách. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 396.106 416.077 <o,f5,unknown> [ruch-] doteraz som nepochopila že načo sú tie postieľky alebo nejaké také tie hopsátka a tak prečo musia tie novodobé matky roznášať tie decká stále buď v šatke alebo na rukách. [spk] no a vidím že tiež majú doma aj zvieratko ktoré opätovne tam šantí. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 416.077 437.415 <o,f5,unknown> [ruch-] mamička namiesto toho aby: varila a pozerala sa do počítača čo má robiť ďalej tak sníva o topánkach alebo možno že si práve na internete tie topánky [hez] objednáva je to taká [hez] multitasking mamička ktorá asi si myslí že len takto sa to dá robiť. [-ruch]
+kixjzejg01 1 excluded_region 437.415 453.267 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 453.267 467.579 <o,f5,unknown> [ruch-] možno že dieťa by v tej postieľke aj lepšie zaspalo ako takto pri takomto horúcom hrnci na stole respektíve na sporáku/šporáku. no a neviem ešte čo %jáj aj nožík tam máme v niečom zabodnutý. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 467.579 470.545 <o,f5,unknown> dúfam že to nie je [hez-] odrezaný prst.
+kixjzejg01 1 kixjzejg01_kixjzejg01 470.545 472.560 <o,f5,unknown> a: ešte aj [ned-] mliek [-ned] .
+kixjzejg01 1 excluded_region 472.560 476.430 <o,,unknown> ignore_time_segment_in_scoring
+kixjzejg01 1 kixjzejg01_kixjzejg01 476.430 493.917 <o,f5,unknown> [ruch-] no vianoce ako z rozprávky. vonku tam krásne sneží. všetci už prišli na návštevu. %a: najviac asi bude oddychovať pes/havo. tomu je tam asi najlepšie. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 493.917 511.111 <o,f5,unknown> [ruch-] a hračky sú porozhadzované všade takže ako klasika sa o ne vždy aj ja potkýnam v tomto prípade: to je: tento pánko ktorý asi je otec. a ešte nesie nejaké darčeky alebo možno nákup v nejakej taške. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 511.111 532.018 <o,f5,unknown> [ruch-] myslím si že stromček to už dlhšie nevydrží asi to o chvíľu všetko padne dole aj z guľami a s tými reťazami aj so všetkým a mamička už preventívne volá záchranku. ja myslím že ambulancia tam bude do piatich minút akurát aby to stihli detičky všetko zlikvidovať. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 532.018 539.323 <o,f5,unknown> [ruch-] a nevidím tam žiadnu horiacu sviečku ale to by nám pomohlo aby sa tá nehoda ešte urýchlila. [-ruch]
+kixjzejg01 1 kixjzejg01_kixjzejg01 539.323 558.257 <o,f5,unknown> [ruch-] a: je tam asi veľmi teplo lebo tie detičky sú nejaké povyzliekané. ((je)) tam ten jeden nakukuje iba spoza okna ten má čiapku našťastie. [spk] no a mamička myslím si že už dotelefonovala a otecko už asi spadne aj na zadok keď sa zatvoria tie dvere. [-ruch]

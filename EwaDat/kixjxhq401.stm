@@ -1,0 +1,116 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:15 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 9 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixjxhq401 1 kixjxhq401_kixjxhq401 0.000 14.940 <o,f0,unknown> special_vokal
+kixjxhq401 1 kixjxhq401_kixjxhq401 14.940 22.880 <o,f0,unknown> special_pataka
+kixjxhq401 1 kixjxhq401_kixjxhq401 22.880 26.080 <o,f0,unknown> cesta
+kixjxhq401 1 kixjxhq401_kixjxhq401 26.080 29.420 <o,f0,unknown> kráľ [ruch]
+kixjxhq401 1 kixjxhq401_kixjxhq401 29.420 32.400 <o,f0,unknown> kniha
+kixjxhq401 1 kixjxhq401_kixjxhq401 32.400 35.480 <o,f0,unknown> most
+kixjxhq401 1 kixjxhq401_kixjxhq401 35.480 38.440 <o,f0,unknown> topánky/topanky
+kixjxhq401 1 kixjxhq401_kixjxhq401 38.440 41.360 <o,f0,unknown> autobus
+kixjxhq401 1 kixjxhq401_kixjxhq401 41.360 44.580 <o,f0,unknown> hodinky [ruch] [ruch]
+kixjxhq401 1 kixjxhq401_kixjxhq401 44.580 47.780 <o,f0,unknown> cigarety
+kixjxhq401 1 kixjxhq401_kixjxhq401 47.780 51.120 <o,f0,unknown> koruna
+kixjxhq401 1 kixjxhq401_kixjxhq401 51.120 54.260 <o,f0,unknown> bubon
+kixjxhq401 1 kixjxhq401_kixjxhq401 54.260 57.680 <o,f0,unknown> budík
+kixjxhq401 1 kixjxhq401_kixjxhq401 57.680 62.100 <o,f0,unknown> koleso
+kixjxhq401 1 kixjxhq401_kixjxhq401 62.100 65.520 <o,f0,unknown> traktor
+kixjxhq401 1 kixjxhq401_kixjxhq401 65.520 68.920 <o,f0,unknown> teplomer
+kixjxhq401 1 kixjxhq401_kixjxhq401 68.920 72.400 <o,f0,unknown> lavička
+kixjxhq401 1 kixjxhq401_kixjxhq401 72.400 76.120 <o,f0,unknown> fajka
+kixjxhq401 1 kixjxhq401_kixjxhq401 76.120 79.780 <o,f0,unknown> električka
+kixjxhq401 1 kixjxhq401_kixjxhq401 79.780 82.920 <o,f0,unknown> zips
+kixjxhq401 1 kixjxhq401_kixjxhq401 82.920 86.380 <o,f0,unknown> akvárium
+kixjxhq401 1 kixjxhq401_kixjxhq401 86.380 89.500 <o,f0,unknown> metla
+kixjxhq401 1 kixjxhq401_kixjxhq401 89.500 93.940 <o,f0,unknown> ťava
+kixjxhq401 1 kixjxhq401_kixjxhq401 93.940 97.760 <o,f0,unknown> lievik
+kixjxhq401 1 kixjxhq401_kixjxhq401 97.760 100.960 <o,f0,unknown> huby
+kixjxhq401 1 kixjxhq401_kixjxhq401 100.960 103.800 <o,f0,unknown> vešiak
+kixjxhq401 1 kixjxhq401_kixjxhq401 103.800 106.840 <o,f0,unknown> domino
+kixjxhq401 1 kixjxhq401_kixjxhq401 106.840 109.960 <o,f0,unknown> kotva
+kixjxhq401 1 kixjxhq401_kixjxhq401 109.960 119.540 <o,f0,unknown> orech žaluď
+kixjxhq401 1 kixjxhq401_kixjxhq401 119.540 122.540 <o,f0,unknown> ponorka
+kixjxhq401 1 kixjxhq401_kixjxhq401 122.540 125.880 <o,f0,unknown> kozmonaut
+kixjxhq401 1 kixjxhq401_kixjxhq401 125.880 128.860 <o,f0,unknown> kaktus [ruch]
+kixjxhq401 1 kixjxhq401_kixjxhq401 128.860 135.140 <o,f0,unknown> [ruch] písanie
+kixjxhq401 1 kixjxhq401_kixjxhq401 135.140 139.520 <o,f0,unknown> [hez] natieranie
+kixjxhq401 1 kixjxhq401_kixjxhq401 139.520 142.940 <o,f0,unknown> spievanie
+kixjxhq401 1 kixjxhq401_kixjxhq401 142.940 147.000 <o,f0,unknown> smiech
+kixjxhq401 1 kixjxhq401_kixjxhq401 147.000 150.680 <o,f0,unknown> ťahanie
+kixjxhq401 1 kixjxhq401_kixjxhq401 150.680 153.960 <o,f0,unknown> kúpanie
+kixjxhq401 1 kixjxhq401_kixjxhq401 153.960 159.260 <o,f0,unknown> váženie
+kixjxhq401 1 kixjxhq401_kixjxhq401 159.260 164.080 <o,f0,unknown> svietenie
+kixjxhq401 1 kixjxhq401_kixjxhq401 164.080 167.820 <o,f0,unknown> meranie
+kixjxhq401 1 kixjxhq401_kixjxhq401 167.820 172.300 <o,f0,unknown> plač
+kixjxhq401 1 kixjxhq401_kixjxhq401 172.300 177.060 <o,f0,unknown> horí
+kixjxhq401 1 kixjxhq401_kixjxhq401 177.060 180.380 <o,f0,unknown> pije
+kixjxhq401 1 kixjxhq401_kixjxhq401 180.380 183.580 <o,f0,unknown> varí
+kixjxhq401 1 kixjxhq401_kixjxhq401 183.580 187.340 <o,f0,unknown> hádže
+kixjxhq401 1 kixjxhq401_kixjxhq401 187.340 190.620 <o,f0,unknown> klope
+kixjxhq401 1 kixjxhq401_kixjxhq401 190.620 193.900 <o,f0,unknown> telefonuje
+kixjxhq401 1 kixjxhq401_kixjxhq401 193.900 197.480 <o,f0,unknown> maľuje
+kixjxhq401 1 kixjxhq401_kixjxhq401 197.480 200.980 <o,f0,unknown> skáče
+kixjxhq401 1 kixjxhq401_kixjxhq401 200.980 205.100 <o,f0,unknown> [ruch] [hez] šije [ruch]
+kixjxhq401 1 kixjxhq401_kixjxhq401 205.100 208.360 <o,f0,unknown> vŕta
+kixjxhq401 1 kixjxhq401_kixjxhq401 208.360 211.720 <o,f0,unknown> lyžuje
+kixjxhq401 1 kixjxhq401_kixjxhq401 211.720 214.800 <o,f0,unknown> krája
+kixjxhq401 1 kixjxhq401_kixjxhq401 214.800 219.740 <o,f0,unknown> [hez] hrabe
+kixjxhq401 1 kixjxhq401_kixjxhq401 219.740 222.960 <o,f0,unknown> fotí
+kixjxhq401 1 kixjxhq401_kixjxhq401 222.960 226.260 <o,f0,unknown> polieva
+kixjxhq401 1 kixjxhq401_kixjxhq401 226.260 229.660 <o,f0,unknown> píli
+kixjxhq401 1 kixjxhq401_kixjxhq401 229.660 233.200 <o,f0,unknown> bicykluje
+kixjxhq401 1 kixjxhq401_kixjxhq401 233.200 236.780 <o,f0,unknown> [hez] štrikuje
+kixjxhq401 1 kixjxhq401_kixjxhq401 236.780 242.260 <o,f0,unknown> veslujú
+kixjxhq401 1 kixjxhq401_kixjxhq401 242.260 245.620 <o,f0,unknown> žehlí
+kixjxhq401 1 kixjxhq401_kixjxhq401 245.620 258.480 <o,f0,unknown> [ruch] na tomto obrázku je jedna veľká ruka a jedna malá ruka a tá/ta malá ruka drží tú veľkú ruku za malíček.
+kixjxhq401 1 kixjxhq401_kixjxhq401 258.480 262.509 <o,f0,unknown> [ruch] [ruch] je sú tu dve stoličky.
+kixjxhq401 1 kixjxhq401_kixjxhq401 262.509 270.626 <o,f0,unknown> medzi nimi je stôl a: na stole sú dve šálky z ktorých sa dymí/dymi.
+kixjxhq401 1 kixjxhq401_kixjxhq401 270.626 282.360 <o,f0,unknown> a šálky sú nasmerované ku stoličkám ako keby tam mal niekto sedieť a dať si to čo je v tej šálke.
+kixjxhq401 1 kixjxhq401_kixjxhq401 282.360 298.684 <o,f0,unknown> na obrázku je muž ktorý stojí v kuchyni a: v jeho kuchyni lieta včela alebo osa ktorú sa snaží zabiť varechou.
+kixjxhq401 1 kixjxhq401_kixjxhq401 298.684 305.659 <o,f0,unknown> a: osa [ned-] par [-ned] práve lieta pri lampe ktorá vyzerá byť polorozbitá.
+kixjxhq401 1 kixjxhq401_kixjxhq401 305.659 310.141 <o,f0,unknown> má tam prasklinu a visí zo stropu za kábel.
+kixjxhq401 1 kixjxhq401_kixjxhq401 310.141 316.983 <o,f0,unknown> potom v pravom dolnom rohu kuchyne je: čierna mačka so zelenými očami.
+kixjxhq401 1 kixjxhq401_kixjxhq401 316.983 321.573 <o,f0,unknown> na zemi sú črepiny oranžové pravdepodobne z tej lampy.
+kixjxhq401 1 kixjxhq401_kixjxhq401 321.573 335.303 <o,f0,unknown> vedľa toho je stolička ktorá akurát padá a na nej stojí dieťa ktoré sa snaží zobrať banán ktorý je na kuchynskej linke.
+kixjxhq401 1 kixjxhq401_kixjxhq401 335.303 345.013 <o,f0,unknown> a vedľa dieťaťa je pustené umývadlo ktoré preteká a za mužom je pretekajúci hrniec z ktorého sa dymí a preteká na kuchynskú linku.
+kixjxhq401 1 kixjxhq401_kixjxhq401 345.013 356.005 <o,f0,unknown> a: nad hrncom je polička s nejakou fľašou z ktorej [ned-] vytek [-ned] ktorá je: akože padnutá a vyteká z nej ružová tekutina.
+kixjxhq401 1 kixjxhq401_kixjxhq401 356.005 362.295 <o,f0,unknown> a: na napravo od umývadla sa nachádza ružová utierka.
+kixjxhq401 1 kixjxhq401_kixjxhq401 362.295 366.896 <o,f0,unknown> nad dieťaťom ešte zatvorená zelená skriňa.
+kixjxhq401 1 kixjxhq401_kixjxhq401 366.896 372.300 <o,f0,unknown> [hez] a muž má na sebe modrú zásteru žlté tričko.
+kixjxhq401 1 kixjxhq401_kixjxhq401 372.300 388.474 <o,f0,unknown> na [ruch-] obrázku vidíme [-ruch] matku ktorá má v: pravej ruke dieťa ktoré plače a zároveň má: pri uchu telefón a snaží sa telefonovať.
+kixjxhq401 1 kixjxhq401_kixjxhq401 388.474 399.564 <o,f0,unknown> vyzerá to že myslí na topánky a v druhej ruke v ktorej nemá dieťa má panvicu [spk] ktorej robí vajíčka so slaninou.
+kixjxhq401 1 kixjxhq401_kixjxhq401 399.564 413.204 <o,f0,unknown> a pred sebou má kuchynskú linku na ktorej má počítač mlieko nôž dosku na krájanie nejakú/nejaku zeleninu hrniec a: dva horáky.
+kixjxhq401 1 kixjxhq401_kixjxhq401 413.204 416.529 <o,f0,unknown> hrniec je na jednom z tých dvoch horákov.
+kixjxhq401 1 kixjxhq401_kixjxhq401 416.529 427.828 <o,f0,unknown> za ňou je sú dve poličky. na jednej z nich je mačka ktorá práve vyrútila/vyrúcila* [hez] kvetináč.
+kixjxhq401 1 kixjxhq401_kixjxhq401 427.828 434.567 <o,f0,unknown> a: vedľa mačky je nejaká fľaša a nejaký oný/ony. neviem nejaká nádoba.
+kixjxhq401 1 kixjxhq401_kixjxhq401 434.567 453.800 <o,f0,unknown> a na druhej poličke sú rastliny knihy a nad tou druhou poličkou sú ešte hodiny ktoré ukazujú na:. čo ti ja viem [smiech] [hez] dvanásť dvanásť devätnásť by som to nazval [smiech] .
+kixjxhq401 1 kixjxhq401_kixjxhq401 453.800 462.236 <o,f0,unknown> [ruch] no na obrázku vidíme obývačku v niekoho domácnosti.
+kixjxhq401 1 kixjxhq401_kixjxhq401 462.236 468.283 <o,f0,unknown> [hez] je v rohu vzadu v rohu. v pravom rohu je vianočný stromček.
+kixjxhq401 1 kixjxhq401_kixjxhq401 468.283 479.708 <o,f0,unknown> a: [ruch-] vedľa [-ruch] neho je: dieťa ktoré podľa všetkého ťahá stromček za svetielka a stromček padá na zem.
+kixjxhq401 1 kixjxhq401_kixjxhq401 479.708 490.464 <o,f0,unknown> za dieťaťom je okno s: červeným závesom a za oknom [ruch] s:tojí nejaký ujo ktorý im nakúka do: obývačky.
+kixjxhq401 1 kixjxhq401_kixjxhq401 490.464 493.919 <o,f0,unknown> [spk] a má na sebe čapicu ktorá vyzerá jak* hamburger.
+kixjxhq401 1 kixjxhq401_kixjxhq401 493.919 501.651 <o,f0,unknown> [spk] a: potom na pravej strane obrázka akurát vkročil muž do obývačky.
+kixjxhq401 1 kixjxhq401_kixjxhq401 501.651 506.932 <o,f0,unknown> a: šmykol sa na jednom z autíčiek ktoré ležia na zemi pred ním.
+kixjxhq401 1 kixjxhq401_kixjxhq401 506.932 511.128 <o,f0,unknown> jedno je žlté. na tom sa šmykol a druhé je červené [ruch] .
+kixjxhq401 1 kixjxhq401_kixjxhq401 511.128 519.110 <o,f0,unknown> a potom spredu vedľa autíčiek je: pes ktorý spí na zemi.
+kixjxhq401 1 kixjxhq401_kixjxhq401 519.110 522.974 <o,f0,unknown> a vedľa neho je: žena ktorá [ruch-] telefonuje. [-ruch]
+kixjxhq401 1 kixjxhq401_kixjxhq401 522.974 527.104 <o,f0,unknown> a ešte v strede obývačky je ružový koberec.
+kixjxhq401 1 kixjxhq401_kixjxhq401 527.104 538.097 <o,f0,unknown> muž má v ruke modrú igelitku [ruch] a má na sebe hnedý kabát hnedú čapicu ružový šál ružové tričko čierne gate hnedé topánky.
+kixjxhq401 1 kixjxhq401_kixjxhq401 538.097 540.885 <o,f0,unknown> pes je svetlohnedej farby.

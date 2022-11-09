@@ -1,0 +1,149 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:08 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220428
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 0.000 15.018 <o,f0,unknown> special_vokal
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 15.018 23.039 <o,f0,unknown> special_pataka
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 23.039 25.305 <o,f0,unknown> dy melón
+v0guq0nl01 1 excluded_region 25.305 27.071 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 excluded_region 27.071 28.176 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 28.176 30.100 <o,f0,unknown> cesta mraky
+v0guq0nl01 1 excluded_region 30.100 30.782 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 30.782 33.257 <o,f0,unknown> [hez] [hez] [hez] most
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 33.257 35.667 <o,f0,unknown> hodinky
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 35.667 37.992 <o,f0,unknown> [ruch-] bubon [-ruch] [ruch]
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 37.992 40.275 <o,f0,unknown> melón červený/červeme
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 40.275 43.154 <o,f0,unknown> mraky cesta
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 43.154 45.607 <o,f0,unknown> most
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 45.607 47.932 <o,f0,unknown> hodinky
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 47.932 50.172 <o,f0,unknown> bubon
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 50.172 52.326 <o,f0,unknown> traktor
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 52.326 54.779 <o,f0,unknown> fajka
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 54.779 58.064 <o,f0,unknown> [hez] lievik
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 58.064 62.117 <o,f0,unknown> toto šach alebo také
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 62.117 65.274 <o,f0,unknown> tu f kráľ
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 65.274 67.215 <o,f0,unknown> topánky
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 67.215 70.308 <o,f0,unknown> cigarety
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 70.308 72.718 <o,f0,unknown> hodinky
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 72.718 76.750 <o,f0,unknown> [hez] teplomer
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 76.750 79.502 <o,f0,unknown> električka
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 79.502 81.720 <o,f0,unknown> metla
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 81.720 84.558 <o,f0,unknown> huby mám rada
+v0guq0nl01 1 excluded_region 84.558 85.474 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 excluded_region 85.474 86.471 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 86.471 89.611 <o,f0,unknown> taký hák čo majú na loď
+v0guq0nl01 1 excluded_region 89.611 91.213 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 91.213 93.751 <o,f0,unknown> knižka
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 93.751 97.207 <o,f0,unknown> autobus
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 97.207 100.577 <o,f0,unknown> koruna
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 100.577 103.073 <o,f0,unknown> koleso
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 103.073 105.504 <o,f0,unknown> lavička
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 105.504 107.616 <o,f0,unknown> zips
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 107.616 112.522 <o,f0,unknown> [ruch-] dvojitý ten [-ruch] ťava
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 112.522 116.234 <o,f0,unknown> vešiak na šaty
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 116.234 118.039 <o,f0,unknown> [hez] mak
+v0guq0nl01 1 excluded_region 118.039 119.263 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 119.263 122.356 <o,f0,unknown> potom kaktus
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 122.356 127.241 <o,f0,unknown> čo je dole pod vodou/vodu pla:vec pláva/plávaa
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 127.241 129.886 <o,f0,unknown> pláva
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 129.886 131.571 <o,f0,unknown> píše
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 131.571 134.194 <o,f0,unknown> smeje sa [ruch]
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 134.194 138.461 <o,f0,unknown> [spk] váži
+v0guq0nl01 1 excluded_region 138.461 139.036 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 139.036 141.575 <o,f0,unknown> pani plače
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 141.575 144.348 <o,f0,unknown> pani varí [ruch]
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 144.348 148.166 <o,f0,unknown> ten/sen pán telefonuje
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 148.166 151.750 <o,f0,unknown> pani šije
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 151.750 152.710 <o,f0,unknown> stroji
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 152.710 156.549 <o,f0,unknown> chleba či ovocie krája
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 156.549 159.472 <o,f0,unknown> polieva kvety
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 159.472 162.095 <o,f0,unknown> štrikuje
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 162.095 165.295 <o,f0,unknown> mastí chleba
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 165.295 171.055 <o,f0,unknown> [hez] [hez] to sa [hez] deti naťahujú s lanom
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 171.055 174.254 <o,f0,unknown> [hez] žiarovka
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 174.254 178.222 <o,f0,unknown> horí budova horí
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 178.222 181.232 <o,f0,unknown> tu hádzaná
+v0guq0nl01 1 excluded_region 181.232 182.659 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 182.659 186.563 <o,f0,unknown> tu pán maľuje mali
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 186.563 189.890 <o,f0,unknown> ide vŕtať
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 189.890 194.327 <o,f0,unknown> hrabe [smiech] seno alebo/abo čo
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 194.327 197.889 <o,f0,unknown> a tu píli
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 197.889 202.540 <o,f0,unknown> tu je kajak myslím
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 202.540 205.777 <o,f0,unknown> spieva slečna
+v0guq0nl01 1 excluded_region 205.777 205.846 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 205.846 209.686 <o,f0,unknown> [smiech] maličký sa kúpe
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 209.686 215.723 <o,f0,unknown> no [spk] meria/merá okno
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 215.723 218.709 <o,f0,unknown> pije vodu
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 218.709 221.930 <o,f0,unknown> klope na dvere
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 221.930 224.511 <o,f0,unknown> [ruch] lyžuje
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 224.511 230.292 <o,f0,unknown> foto fot fotí
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 230.292 232.809 <o,f0,unknown> bicykluje
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 232.809 237.865 <o,f0,unknown> prst/prs. [hez] decko chytí/hytí mamke prst.
+v0guq0nl01 1 excluded_region 237.865 241.632 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 241.632 243.520 <o,f0,unknown> ďalej. ((ďalej)).
+v0guq0nl01 1 excluded_region 243.520 247.366 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 247.366 249.558 <o,f0,unknown> ja nevidím tam nič iné.
+v0guq0nl01 1 excluded_region 249.558 253.670 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 253.670 255.719 <o,f0,unknown> povedz že dajte ďalej.
+v0guq0nl01 1 excluded_region 255.719 262.825 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 262.825 268.555 <o,f0,unknown> no stoličky prázdne. ešte ne:prišli na kávu.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 268.555 273.495 <o,f0,unknown> [smiech] a čo potom mám rozprávať? [smiech] ne [hez] [hez] .
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 273.495 290.689 <o,f0,unknown> no nič neviem. čakáme že prídu. posedíme si porozprávame. asi meškali autobus. [smiech] [smiech-] ale prídu [-smiech] . [hez] budeme [hez] spolu veselo no.
+v0guq0nl01 1 excluded_region 290.689 292.840 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 292.840 304.757 <o,f0,unknown> no tu otec [smiech] otec/utec otec asi varí a nedá pozor na decko skoro spadne na stoličke.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 304.757 308.018 <o,f0,unknown> a už niečo/nieco sa mu kypí z hrnca.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 308.018 312.210 <o,f0,unknown> [smiech] mám pekné záste zásteru.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 312.210 316.567 <o,f0,unknown> aj mačka čaká na [smiech] [smiech] na jedlo.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 316.567 320.264 <o,f0,unknown> no a niečo/neco niečo/nečo tu sa vylieva.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 320.264 323.615 <o,f0,unknown> šmykne stolička decko spadne.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 323.615 330.781 <o,f0,unknown> no tak čo tam ešte ((je)). nezatvoril skriňu. [smiech] na linke dvere.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 330.781 334.583 <o,f0,unknown> tak čo čo také/daké môžem/možem povedať.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 334.583 344.693 <o,f0,unknown> no manželka keby prišla [smiech] [smiech-] č čím skôr [-smiech] žeby dala do poriadku kuchyňu lebo je bordel.
+v0guq0nl01 1 excluded_region 344.693 351.540 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 351.540 359.970 <o,f0,unknown> no čo mám povedať? už vrie a vykypí. [smiech] to už snáď bude koniec/konec. [smiech]
+v0guq0nl01 1 excluded_region 359.970 363.700 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 363.700 370.666 <o,f0,unknown> rozbije [hez] luster rozbije v kuchyni. nebudú mať luster. [smiech]
+v0guq0nl01 1 excluded_region 370.666 373.819 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 373.819 376.733 <o,f0,unknown> aj s zo skrine niečo/nečo tečie.
+v0guq0nl01 1 excluded_region 376.733 382.867 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 excluded_region 382.867 385.358 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 385.358 392.093 <o,f0,unknown> tu mamička/mamiška varí. decko drží. všetko naraz robí.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 392.093 394.615 <o,f0,unknown> nejde jej to veľmi.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 394.615 397.544 <o,f0,unknown> mačka/maška vyšla hore na poličku.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 397.544 408.596 <o,f0,unknown> vše:tko sa sype na linku. bordel. [smiech] [smiech-] už je [-smiech] pol jednej a ešte obed nemá/nema.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 408.596 422.731 <o,f0,unknown> %joj ale toto páska/paska veľmi pomaly [smiech-] ide [-smiech] . [smiech] de:cko pla:če a pla:če. t polož palacinkárňu a [hez] bav sa s de:ckom aby neplakalo.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 422.731 437.695 <o,f0,unknown> no všade bordel je. mačka hodila dolu. tak/ta čo také treba povedať? iba [smiech] povedzte niečo čo mám povedať preboha. [smiech]
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 437.695 442.493 <o,f0,unknown> môžte dať ďalej dajte. nejde ďalej?
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 442.493 447.430 <o,f0,unknown> ešte topánky hore vyložené. či myslí na topánky?
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 447.430 450.950 <o,f0,unknown> knihy pekne uložené.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 450.950 459.823 <o,f0,unknown> palacinkárni neni palacinky ale klobásu pečie/peče. špár [hez] jak sa to volá? špekáčky/špekačky.
+v0guq0nl01 1 excluded_region 459.823 462.975 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 462.975 468.384 <o,f0,unknown> čo tam všetko možné. no tak/ta už ((snáď)) dopečie/dopeče.
+v0guq0nl01 1 excluded_region 468.384 472.893 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 excluded_region 472.893 475.551 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 475.551 484.289 <o,f0,unknown> dostali asi darček/dalšek. skáču/skákajú ešte aj na ((motor)) stojí. telefonuje.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 484.289 488.407 <o,f0,unknown> psík spí kľudne. dobre sa najedol.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 488.407 500.461 <o,f0,unknown> a tam deti sa hrajú. tak sa hrajú že už vianočný stromček spadne na zem. to je [spk] strašne deti dneska/neska.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 500.461 504.473 <o,f0,unknown> tak čo tam je? vonku padá sneh.
+v0guq0nl01 1 excluded_region 504.473 510.744 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 510.744 515.815 <o,f0,unknown> tak čo tam je? no. telefonuje. nič nerobí.
+v0guq0nl01 1 excluded_region 515.815 523.239 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 523.239 527.578 <o,f0,unknown> mladý pán ja neviem nič povedať.
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 527.578 534.957 <o,f0,unknown> aj hviezda spadne z vianočný stromčeka. taký/taky nedobre deti.
+v0guq0nl01 1 excluded_region 534.957 547.700 <o,,unknown> ignore_time_segment_in_scoring
+v0guq0nl01 1 v0guq0nl01_v0guq0nl01 547.700 558.655 <o,f0,unknown> to už dotiahne/doťahne. [smiech] na i:de na svoju dráhu. [spk] také obrázky.

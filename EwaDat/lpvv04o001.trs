@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mar" audio_filename="lpvv04o001" version="2" version_date="211113">
+<Speakers>
+<Speaker id="spk1" name="lpvv04o001" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="special_vokal"/>
+<Topic id="to2" desc="special_pataka"/>
+<Topic id="to3" desc="naming_Melón"/>
+<Topic id="to4" desc="naming_Cesta"/>
+<Topic id="to5" desc="naming_Most"/>
+<Topic id="to6" desc="naming_Hodinky"/>
+<Topic id="to7" desc="naming_Bubon"/>
+<Topic id="to8" desc="naming_Traktor"/>
+<Topic id="to9" desc="naming_Fajka"/>
+<Topic id="to10" desc="naming_Akvárium"/>
+<Topic id="to11" desc="naming_Lievik"/>
+<Topic id="to12" desc="naming_Domino"/>
+<Topic id="to13" desc="naming_Ponorka"/>
+<Topic id="to14" desc="naming_Kráľ"/>
+<Topic id="to15" desc="naming_Topánky"/>
+<Topic id="to16" desc="naming_Cigarety"/>
+<Topic id="to17" desc="naming_Budík"/>
+<Topic id="to18" desc="naming_Teplomer"/>
+<Topic id="to19" desc="naming_Električka"/>
+<Topic id="to20" desc="naming_Metla"/>
+<Topic id="to21" desc="naming_Hríby"/>
+<Topic id="to22" desc="naming_Kotva"/>
+<Topic id="to23" desc="naming_Kozmonaut"/>
+<Topic id="to24" desc="naming_Kniha"/>
+<Topic id="to25" desc="naming_Autobus"/>
+<Topic id="to26" desc="naming_Koruna"/>
+<Topic id="to27" desc="naming_Koleso"/>
+<Topic id="to28" desc="naming_Lavička"/>
+<Topic id="to29" desc="naming_Zips"/>
+<Topic id="to30" desc="naming_Ťava"/>
+<Topic id="to31" desc="naming_Vešiak"/>
+<Topic id="to32" desc="naming_Žaluď"/>
+<Topic id="to33" desc="naming_Kaktus"/>
+<Topic id="to34" desc="naming_Pláve"/>
+<Topic id="to35" desc="naming_Píše"/>
+<Topic id="to36" desc="naming_Smeje"/>
+<Topic id="to37" desc="naming_Váži"/>
+<Topic id="to38" desc="naming_Plače"/>
+<Topic id="to39" desc="naming_Varí"/>
+<Topic id="to40" desc="naming_Telefonuje"/>
+<Topic id="to41" desc="naming_Šije"/>
+<Topic id="to42" desc="naming_Krája"/>
+<Topic id="to43" desc="naming_Polieva"/>
+<Topic id="to44" desc="naming_Štrikuje"/>
+<Topic id="to45" desc="naming_Natiera"/>
+<Topic id="to46" desc="naming_Ťahá"/>
+<Topic id="to47" desc="naming_Svieti"/>
+<Topic id="to48" desc="naming_Horí"/>
+<Topic id="to49" desc="naming_Hádže"/>
+<Topic id="to50" desc="naming_Maľuje"/>
+<Topic id="to51" desc="naming_Vŕta"/>
+<Topic id="to52" desc="naming_Hrabe"/>
+<Topic id="to53" desc="naming_Píli"/>
+<Topic id="to54" desc="naming_Veslujú"/>
+<Topic id="to55" desc="naming_Spieva"/>
+<Topic id="to56" desc="naming_Kúpe"/>
+<Topic id="to57" desc="naming_Meria"/>
+<Topic id="to58" desc="naming_Pije"/>
+<Topic id="to59" desc="naming_Klope"/>
+<Topic id="to60" desc="naming_Skáče"/>
+<Topic id="to61" desc="naming_Lyžuje"/>
+<Topic id="to62" desc="naming_Fotografuje"/>
+<Topic id="to63" desc="naming_Bicykluje"/>
+<Topic id="to64" desc="naming_Žehlí"/>
+<Topic id="to65" desc="big_big6"/>
+<Topic id="to66" desc="big_big7"/>
+<Topic id="to67" desc="big_big3"/>
+<Topic id="to68" desc="big_big4"/>
+<Topic id="to69" desc="big_big5"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0.0" endTime="14.94" topic="to1">
+<Turn speaker="spk1" startTime="0.0" endTime="14.94">
+<Sync time="0.0"/>
+special_vokal
+</Turn>
+</Section>
+<Section type="report" startTime="14.94" endTime="22.94" topic="to2">
+<Turn speaker="spk1" startTime="14.94" endTime="22.94">
+<Sync time="14.94"/>
+special_pataka
+</Turn>
+</Section>
+<Section type="report" startTime="22.94" endTime="25.26" topic="to3">
+<Turn speaker="spk1" startTime="22.94" endTime="25.26">
+<Sync time="22.94"/>
+
+<Event desc="ruch" type="noise" extent="instantaneous"/>
+ melón
+</Turn>
+</Section>
+<Section type="report" startTime="25.26" endTime="27.62" topic="to4">
+<Turn speaker="spk1" startTime="25.26" endTime="27.62">
+<Sync time="25.26"/>
+cesta 
+<Event desc="ruch" type="noise" extent="begin"/>
+mraky
+<Event desc="ruch" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="27.62" endTime="30.42" topic="to5">
+<Turn speaker="spk1" startTime="27.62" endTime="30.42">
+<Sync time="27.62"/>
+zeleň most
+</Turn>
+</Section>
+<Section type="report" startTime="30.42" endTime="32.9" topic="to6">
+<Turn speaker="spk1" startTime="30.42" endTime="32.9">
+<Sync time="30.42"/>
+hodiny 
+<Sync time="31.843"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="32.9" endTime="36.32" topic="to7">
+<Turn speaker="spk1" startTime="32.9" endTime="36.32">
+<Sync time="32.9"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="34.215"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ bubon paličky
+</Turn>
+</Section>
+<Section type="report" startTime="36.32" endTime="39.22" topic="to8">
+<Turn speaker="spk1" startTime="36.32" endTime="39.22">
+<Sync time="36.32"/>
+traktor
+</Turn>
+</Section>
+<Section type="report" startTime="39.22" endTime="41.82" topic="to9">
+<Turn speaker="spk1" startTime="39.22" endTime="41.82">
+<Sync time="39.22"/>
+fajka
+</Turn>
+</Section>
+<Section type="report" startTime="41.82" endTime="49.84" topic="to10">
+<Turn speaker="spk1" startTime="41.82" endTime="49.84">
+<Sync time="41.82"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="42.867"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ rybičky. %jaj ako/jako celok? tak akvárium.
+</Turn>
+</Section>
+<Section type="report" startTime="49.84" endTime="52.64" topic="to11">
+<Turn speaker="spk1" startTime="49.84" endTime="52.64">
+<Sync time="49.84"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ lievik
+</Turn>
+</Section>
+<Section type="report" startTime="52.64" endTime="64.54" topic="to12">
+<Turn speaker="spk1" startTime="52.64" endTime="64.54">
+<Sync time="52.64"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="53.803"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ tento 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ kocky: a volá sa to volá sa to v
+<Event desc="ned" type="pronounce" extent="previous"/>
+ p
+<Event desc="ned" type="pronounce" extent="previous"/>
+ 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ 
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ už som zabudla 
+<Event desc="smiech" type="noise" extent="instantaneous"/>
+
+<Sync time="62.249"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="64.54" endTime="69.8" topic="to13">
+<Turn speaker="spk1" startTime="64.54" endTime="69.8">
+<Sync time="64.54"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ dobre more a to bude asi ponorka nie? a mesiac je
+</Turn>
+</Section>
+<Section type="report" startTime="69.8" endTime="73.32" topic="to14">
+<Turn speaker="spk1" startTime="69.8" endTime="73.32">
+<Sync time="69.8"/>
+to je nejaký kráľ
+</Turn>
+</Section>
+<Section type="report" startTime="73.32" endTime="75.92" topic="to15">
+<Turn speaker="spk1" startTime="73.32" endTime="75.92">
+<Sync time="73.32"/>
+topánky pol
+<Event desc="ned" type="pronounce" extent="previous"/>
+ poltopán
+<Event desc="ned" type="pronounce" extent="previous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="75.92" endTime="78.76" topic="to16">
+<Turn speaker="spk1" startTime="75.92" endTime="78.76">
+<Sync time="75.92"/>
+cigarety s filtrom
+</Turn>
+</Section>
+<Section type="report" startTime="78.76" endTime="84.14" topic="to17">
+<Turn speaker="spk1" startTime="78.76" endTime="84.14">
+<Sync time="78.76"/>
+budík 
+<Sync time="80.707"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="84.14" endTime="87.42" topic="to18">
+<Turn speaker="spk1" startTime="84.14" endTime="87.42">
+<Sync time="84.14"/>
+teplomer taký mám 
+<Sync time="86.619"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="87.42" endTime="91.18" topic="to19">
+<Turn speaker="spk1" startTime="87.42" endTime="91.18">
+<Sync time="87.42"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="88.304"/>
+električka
+</Turn>
+</Section>
+<Section type="report" startTime="91.18" endTime="93.98" topic="to20">
+<Turn speaker="spk1" startTime="91.18" endTime="93.98">
+<Sync time="91.18"/>
+metla 
+<Sync time="92.776"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="93.98" endTime="97.88" topic="to21">
+<Turn speaker="spk1" startTime="93.98" endTime="97.88">
+<Sync time="93.98"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ to sú dubáky
+</Turn>
+</Section>
+<Section type="report" startTime="97.88" endTime="101.1" topic="to22">
+<Turn speaker="spk1" startTime="97.88" endTime="101.1">
+<Sync time="97.88"/>
+kotva s reťazou 
+<Event desc="ruch" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="101.1" endTime="105.4" topic="to23">
+<Turn speaker="spk1" startTime="101.1" endTime="105.4">
+<Sync time="101.1"/>
+
+<Event desc="ruch" type="noise" extent="instantaneous"/>
+ 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ to je kozmonaut
+</Turn>
+</Section>
+<Section type="report" startTime="105.4" endTime="108.16" topic="to24">
+<Turn speaker="spk1" startTime="105.4" endTime="108.16">
+<Sync time="105.4"/>
+kniha
+</Turn>
+</Section>
+<Section type="report" startTime="108.16" endTime="111.7" topic="to25">
+<Turn speaker="spk1" startTime="108.16" endTime="111.7">
+<Sync time="108.16"/>
+autobus
+</Turn>
+</Section>
+<Section type="report" startTime="111.7" endTime="117.54" topic="to26">
+<Turn speaker="spk1" startTime="111.7" endTime="117.54">
+<Sync time="111.7"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ táto koruna
+</Turn>
+</Section>
+<Section type="report" startTime="117.54" endTime="120.46" topic="to27">
+<Turn speaker="spk1" startTime="117.54" endTime="120.46">
+<Sync time="117.54"/>
+koleso 
+<Sync time="119.694"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="120.46" endTime="123.76" topic="to28">
+<Turn speaker="spk1" startTime="120.46" endTime="123.76">
+<Sync time="120.46"/>
+lavička
+</Turn>
+</Section>
+<Section type="report" startTime="123.76" endTime="126.52" topic="to29">
+<Turn speaker="spk1" startTime="123.76" endTime="126.52">
+<Sync time="123.76"/>
+zips
+</Turn>
+</Section>
+<Section type="report" startTime="126.52" endTime="129.44" topic="to30">
+<Turn speaker="spk1" startTime="126.52" endTime="129.44">
+<Sync time="126.52"/>
+ťava dvojhrbá
+</Turn>
+</Section>
+<Section type="report" startTime="129.44" endTime="133.4" topic="to31">
+<Turn speaker="spk1" startTime="129.44" endTime="133.4">
+<Sync time="129.44"/>
+ramienko na vešanie 
+<Sync time="132.203"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="133.4" endTime="137.36" topic="to32">
+<Turn speaker="spk1" startTime="133.4" endTime="137.36">
+<Sync time="133.4"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ žaluď
+</Turn>
+</Section>
+<Section type="report" startTime="137.36" endTime="140.14" topic="to33">
+<Turn speaker="spk1" startTime="137.36" endTime="140.14">
+<Sync time="137.36"/>
+kaktus
+</Turn>
+</Section>
+<Section type="report" startTime="140.14" endTime="143.38" topic="to34">
+<Turn speaker="spk1" startTime="140.14" endTime="143.38">
+<Sync time="140.14"/>
+pláva chlap
+</Turn>
+</Section>
+<Section type="report" startTime="143.38" endTime="146.46" topic="to35">
+<Turn speaker="spk1" startTime="143.38" endTime="146.46">
+<Sync time="143.38"/>
+píše 
+<Sync time="145.261"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="146.46" endTime="149.54" topic="to36">
+<Turn speaker="spk1" startTime="146.46" endTime="149.54">
+<Sync time="146.46"/>
+žena sa smeje
+<Sync time="148.805"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="149.54" endTime="154.66" topic="to37">
+<Turn speaker="spk1" startTime="149.54" endTime="154.66">
+<Sync time="149.54"/>
+váhy jablko žena
+</Turn>
+</Section>
+<Section type="report" startTime="154.66" endTime="158.68" topic="to38">
+<Turn speaker="spk1" startTime="154.66" endTime="158.68">
+<Sync time="154.66"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ plač žena plače
+</Turn>
+</Section>
+<Section type="report" startTime="158.68" endTime="162.24" topic="to39">
+<Turn speaker="spk1" startTime="158.68" endTime="162.24">
+<Sync time="158.68"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ žena varí
+<Sync time="161.309"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="162.24" endTime="165.52" topic="to40">
+<Turn speaker="spk1" startTime="162.24" endTime="165.52">
+<Sync time="162.24"/>
+((x)) sporáku/šporáku chlap telefonuje
+</Turn>
+</Section>
+<Section type="report" startTime="165.52" endTime="168.52" topic="to41">
+<Turn speaker="spk1" startTime="165.52" endTime="168.52">
+<Sync time="165.52"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ žena šije
+</Turn>
+</Section>
+<Section type="report" startTime="168.52" endTime="178.1" topic="to42">
+<Turn speaker="spk1" startTime="168.52" endTime="178.1">
+<Sync time="168.52"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="169.956"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ ruk
+<Event desc="ned" type="pronounce" extent="previous"/>
+ dve ruky a za
+<Event desc="ned" type="pronounce" extent="previous"/>
+ nôž a jablko a doska krája sa tam aj
+</Turn>
+</Section>
+<Section type="report" startTime="178.1" endTime="181.34" topic="to43">
+<Turn speaker="spk1" startTime="178.1" endTime="181.34">
+<Sync time="178.1"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ polievame kvety ženská ruka
+</Turn>
+</Section>
+<Section type="report" startTime="181.34" endTime="184.92" topic="to44">
+<Turn speaker="spk1" startTime="181.34" endTime="184.92">
+<Sync time="181.34"/>
+štrikuje žena
+</Turn>
+</Section>
+<Section type="report" startTime="184.92" endTime="193.8" topic="to45">
+<Turn speaker="spk1" startTime="184.92" endTime="193.8">
+<Sync time="184.92"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ skôr by som povedala že to je chlapská ruka či ženská chlapská ruka natiera ch:lieb
+</Turn>
+</Section>
+<Section type="report" startTime="193.8" endTime="197.28" topic="to46">
+<Turn speaker="spk1" startTime="193.8" endTime="197.28">
+<Sync time="193.8"/>
+dievča ťahá špagát
+</Turn>
+</Section>
+<Section type="report" startTime="197.28" endTime="200.98" topic="to47">
+<Turn speaker="spk1" startTime="197.28" endTime="200.98">
+<Sync time="197.28"/>
+žiarovka svieti
+</Turn>
+</Section>
+<Section type="report" startTime="200.98" endTime="206.24" topic="to48">
+<Turn speaker="spk1" startTime="200.98" endTime="206.24">
+<Sync time="200.98"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="202.297"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ plamene dom horí
+</Turn>
+</Section>
+<Section type="report" startTime="206.24" endTime="211.28" topic="to49">
+<Turn speaker="spk1" startTime="206.24" endTime="211.28">
+<Sync time="206.24"/>
+žena hádže oštepom
+</Turn>
+</Section>
+<Section type="report" startTime="211.28" endTime="214.7" topic="to50">
+<Turn speaker="spk1" startTime="211.28" endTime="214.7">
+<Sync time="211.28"/>
+chlap maľuje
+<Sync time="213.68"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="214.7" endTime="218.16" topic="to51">
+<Turn speaker="spk1" startTime="214.7" endTime="218.16">
+<Sync time="214.7"/>
+vŕta chlap do steny
+</Turn>
+</Section>
+<Section type="report" startTime="218.16" endTime="223.32" topic="to52">
+<Turn speaker="spk1" startTime="218.16" endTime="223.32">
+<Sync time="218.16"/>
+chlap že
+<Event desc="ned" type="pronounce" extent="previous"/>
+ 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ že žehlím hrabe
+</Turn>
+</Section>
+<Section type="report" startTime="223.32" endTime="227.22" topic="to53">
+<Turn speaker="spk1" startTime="223.32" endTime="227.22">
+<Sync time="223.32"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ chlap píli drevo
+</Turn>
+</Section>
+<Section type="report" startTime="227.22" endTime="236.24" topic="to54">
+<Turn speaker="spk1" startTime="227.22" endTime="236.24">
+<Sync time="227.22"/>
+to je osem? dva štyri še
+<Event desc="ned" type="pronounce" extent="previous"/>
+ nie šesť/šes. šesť/šes veslujú chlap
+<Event desc="ned" type="pronounce" extent="previous"/>
+ ženy a chlapi veslujú
+</Turn>
+</Section>
+<Section type="report" startTime="236.24" endTime="239.76" topic="to55">
+<Turn speaker="spk1" startTime="236.24" endTime="239.76">
+<Sync time="236.24"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ dievča spieva:
+</Turn>
+</Section>
+<Section type="report" startTime="239.76" endTime="243.82" topic="to56">
+<Turn speaker="spk1" startTime="239.76" endTime="243.82">
+<Sync time="239.76"/>
+%je miminko sa kúpe
+<Sync time="243.109"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="243.82" endTime="248.98" topic="to57">
+<Turn speaker="spk1" startTime="243.82" endTime="248.98">
+<Sync time="243.82"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ chlapská ruka a meria niečo
+</Turn>
+</Section>
+<Section type="report" startTime="248.98" endTime="252.96" topic="to58">
+<Turn speaker="spk1" startTime="248.98" endTime="252.96">
+<Sync time="248.98"/>
+die
+<Event desc="ned" type="pronounce" extent="previous"/>
+ dieťa pije vodu
+</Turn>
+</Section>
+<Section type="report" startTime="252.96" endTime="256.96" topic="to59">
+<Turn speaker="spk1" startTime="252.96" endTime="256.96">
+<Sync time="252.96"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ dieťa klope na dvere
+</Turn>
+</Section>
+<Section type="report" startTime="256.96" endTime="260.6" topic="to60">
+<Turn speaker="spk1" startTime="256.96" endTime="260.6">
+<Sync time="256.96"/>
+dievča skáče na švihadle
+</Turn>
+</Section>
+<Section type="report" startTime="260.6" endTime="265.58" topic="to61">
+<Turn speaker="spk1" startTime="260.6" endTime="265.58">
+<Sync time="260.6"/>
+to je dievča? asi. lyžuje.
+</Turn>
+</Section>
+<Section type="report" startTime="265.58" endTime="268.6" topic="to62">
+<Turn speaker="spk1" startTime="265.58" endTime="268.6">
+<Sync time="265.58"/>
+chlap fotí
+</Turn>
+</Section>
+<Section type="report" startTime="268.6" endTime="278.84" topic="to63">
+<Turn speaker="spk1" startTime="268.6" endTime="278.84">
+<Sync time="268.6"/>
+cyklista. cyklista stačí? na bicykli alebo chlap na bicykli.
+<Sync time="275.314"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="276.207"/>
+na bicykli 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ bicykluje
+</Turn>
+</Section>
+<Section type="report" startTime="278.84" endTime="282.36" topic="to64">
+<Turn speaker="spk1" startTime="278.84" endTime="282.36">
+<Sync time="278.84"/>
+
+<Event desc="spk" type="noise" extent="instantaneous"/>
+ 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ žehlí ruka
+</Turn>
+</Section>
+<Section type="report" startTime="282.36" endTime="312.32" topic="to65">
+<Turn speaker="spk1" startTime="282.36" endTime="312.32">
+<Sync time="282.36"/>
+ruka drží malíček. je tam jedna ruka: ľavá a: pravou rukou drží malíček.
+<Sync time="293.063"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ má zovretú ruku. jedna ruka je vystretá jedna je zovretá.
+<Sync time="299.921"/>
+a: čo ešte? vidieť že oddeľuje malíček od ostatných/odstatných prstov a vytvára veľkú silu lebo má zovretý aj palec na tej
+</Turn>
+</Section>
+<Section type="report" startTime="312.32" endTime="342.26" topic="to66">
+<Turn speaker="spk1" startTime="312.32" endTime="342.26">
+<Sync time="312.32"/>
+s
+<Event desc="ned" type="pronounce" extent="previous"/>
+ dve stoličky jeden stolík taký na kávu. dve šálky s podšálkami. v každej šálke je lyžička. z každej niečo je tam horúce naliate. je z toho dym.
+<Sync time="329.007"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ stoličky sú zasunuté ďalej pod stôl a: sú vyzdobené. sú z kovu: kovový po
+<Event desc="ned" type="pronounce" extent="previous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="342.26" endTime="400.94" topic="to67">
+<Turn speaker="spk1" startTime="342.26" endTime="400.94">
+<Sync time="342.26"/>
+ku
+<Event desc="ned" type="pronounce" extent="previous"/>
+ je to kuchyňa kuchynská linka zelená. farba ktorú nemám rada. jedny dvierka sú otvorené. dieťa je na stoličke z ktorej padá. voda preteká z umývadla/umyvadla. čierna kočka nakúka/nakuká.
+<Sync time="358.539"/>
+chlap niečo varí. to mu kypí. naháňa chlap muchu s mucholapkou na: lustri. mucha tam je prilepená.
+<Sync time="367.623"/>
+a: v tej otvorenej skrinke je niečo čo sa vylieva dole do umývadla/umyvadla.
+<Sync time="375.248"/>
+po zemi je rozliata voda. je tam špina a ch
+<Event desc="ned" type="pronounce" extent="previous"/>
+ dieťa dos
+<Event desc="ned" type="pronounce" extent="previous"/>
+ sa snaží dosiahnuť banán s jablkom na stoličke ktorá je naklonená a padá z/s nej.
+<Sync time="387.711"/>
+a v umývadle je veľká pena a ešte je tam utierka ružová na na riad.
+<Sync time="395.273"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="400.94" endTime="470.28" topic="to68">
+<Turn speaker="spk1" startTime="400.94" endTime="470.28">
+<Sync time="400.94"/>
+no to je asi kuchyňa. je tam je tam sporák/šporák na sporáku/šporáku sú zapnuté dve platničky. na jednej je hrniec 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ napustený. niečo sa tam varí.
+<Sync time="413.513"/>
+pri tom stojí žena s dieťaťom v náručí. medzitým telefonuje. v ľavej ruke drží palacinkáreň na ktorej niečo smaží. z/s nej je to vyteká. na: s
+<Event desc="ned" type="pronounce" extent="previous"/>
+ ešte ta
+<Event desc="ned" type="pronounce" extent="previous"/>
+ zapnutý notebook.
+<Sync time="427.236"/>
+nejaké kvapky pre dieťa. má tam nožík s ovocím nakrájaným.
+<Sync time="432.885"/>
+vzadu je polička. sú tam knihy a kvetinky v ho
+<Event desc="ned" type="pronounce" extent="previous"/>
+ hore je hodiny ktoré ukazujú o o osem minút pol jednej.
+<Sync time="440.651"/>
+
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ rozmýšľa nad topánkami alebo telefonuje o topánkach. potom je tam polička s mačkou.
+<Sync time="447.982"/>
+na tej poličke je ešte 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ poh
+<Event desc="ned" type="pronounce" extent="previous"/>
+ fľaša plná so šálkou a: mačka zhodila asi kvety sú to pravdepodobne. neviem. do niečoho padajú.
+<Sync time="459.378"/>
+a je tam ešte nožík vidlička a vzadu je stolička za ňou. a dieťa plače silno.
+<Sync time="467.092"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" startTime="470.28" endTime="523.560" topic="to69">
+<Turn speaker="spk1" startTime="470.28" endTime="523.560">
+<Sync time="470.28"/>
+no toto je vianočná atmosféra:. 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ je to byt. 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ okno na za oknom vidieť ako sneží. je tam nejaká silueta asi kostola alebo chlapec to pozerá. vyzerá to ako/jak vrch ale asi oči to má.
+<Sync time="487.313"/>
+vnútri je dieťa ktoré ť
+<Event desc="ned" type="pronounce" extent="previous"/>
+ siaha po ozdobách na stromčeku. stromček padá vyzdobený.
+<Sync time="494.031"/>
+žena telefonuje. nevšíma si dieťa. dole je pes ktorý tam spinká.
+<Sync time="498.955"/>
+chlap došiel domov s nákupom. stúpil na hračky a: šmykol sa a padá/pada na zem.
+<Sync time="504.944"/>
+na zemi je fialový koberec 
+<Event desc="hez" type="noise" extent="instantaneous"/>
+ a vidieť vonku aj cez dvere ako sneží/sneži. 
+<Sync time="510.657"/>
+a čo tam ešte také je? nič je tam žlté autíčko červené autíčko a nikto si nevšíma dieťa.
+<Sync time="519.485"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+<Sync time="523.560"/>
+</Turn>
+</Section>
+</Episode>
+</Trans>

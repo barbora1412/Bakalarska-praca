@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:30 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 7 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 0.000 10.380 <o,f0,unknown> special_vokal
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 10.380 18.320 <o,f0,unknown> special_pataka
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 18.320 20.820 <o,f0,unknown> [ruch-] melón [-ruch] [spk]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 20.820 23.840 <o,f0,unknown> [spk] [ruch-] diaľnica [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 23.840 26.480 <o,f0,unknown> [ruch-] most [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 26.480 28.800 <o,f0,unknown> [ruch-] [spk] hodiny [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 28.800 31.140 <o,f0,unknown> [ruch-] [spk] bubon [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 31.140 33.780 <o,f0,unknown> [ruch-] [spk] traktor [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 33.780 36.180 <o,f0,unknown> [ruch-] fajka [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 36.180 41.528 <o,f0,unknown> [spk] [hez] [spk] ako sa to [smiech-] volá [-smiech]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 41.528 44.800 <o,f0,unknown> nie skleník ale [hez] akvárium [-smiech] [ruch]
+lpvvz4gz01 1 excluded_region 44.800 46.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 46.360 51.608 <o,f0,unknown> [ruch-] [hez] to je [spk] na cedenie [hez] lievik [-ruch]
+lpvvz4gz01 1 excluded_region 51.608 53.940 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 53.940 61.400 <o,f0,unknown> [ruch-] [hez] hra to je [hez] [ned-] pex [-ned] nie/ne pexeso ale domino [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 61.400 65.440 <o,f0,unknown> [ruch-] [hez] ponorka [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 65.440 68.700 <o,f0,unknown> [ruch-] [hez] kráľ [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 68.700 72.080 <o,f0,unknown> [ruch-] topánky [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 72.080 75.120 <o,f0,unknown> [ruch-] [spk] cigarety [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 75.120 78.320 <o,f0,unknown> [ruch-] budík [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 78.320 81.220 <o,f0,unknown> [ruch-] teplomer [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 81.220 84.380 <o,f0,unknown> [ruch-] električka [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 84.380 87.080 <o,f0,unknown> [ruch-] metla [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 87.080 89.920 <o,f0,unknown> [ruch-] huby [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 89.920 101.458 <o,f0,unknown> [ruch-] [hez] no neviem pomenovať [hez] na lodi ako na ukotvenie kotva alebo [-ruch]
+lpvvz4gz01 1 excluded_region 101.458 103.940 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 103.940 107.820 <o,f0,unknown> [ruch-] [hez] to je kozmonaut [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 107.820 110.660 <o,f0,unknown> [spk] kniha [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 110.660 113.940 <o,f0,unknown> [hez] autobus [spk]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 113.940 117.640 <o,f0,unknown> [hez] kráľovská koruna
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 117.640 120.360 <o,f0,unknown> [spk] koleso
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 120.360 122.900 <o,f0,unknown> [spk] lavička [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 122.900 125.200 <o,f0,unknown> zips
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 125.200 127.600 <o,f0,unknown> ťava dvojhrbá [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 127.600 129.960 <o,f0,unknown> [ruch-] [spk] vešiak [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 129.960 133.500 <o,f0,unknown> [ruch-] žaluď [spk] [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 133.500 136.620 <o,f0,unknown> [ruch-] [hez] kaktus [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 136.620 140.480 <o,f0,unknown> [ruch-] [spk] ano to je plávanie [spk] [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 140.480 143.100 <o,f0,unknown> [spk] píše [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 143.100 145.880 <o,f0,unknown> [spk] [ruch-] smeje sa [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 145.880 148.640 <o,f0,unknown> váži [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 148.640 151.120 <o,f0,unknown> plače [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 151.120 153.560 <o,f0,unknown> [spk] varí [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 153.560 156.240 <o,f0,unknown> telefonuje [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 156.240 158.980 <o,f0,unknown> šije [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 158.980 161.720 <o,f0,unknown> krája [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 161.720 164.140 <o,f0,unknown> polieva [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 164.140 167.080 <o,f0,unknown> [spk] pletie [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 167.080 169.740 <o,f0,unknown> natiera [ruch-] [spk] chlieb/chleba [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 169.740 175.160 <o,f0,unknown> [spk] preťahuje [ruch] lanom alebo naťahovanie [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 175.160 178.020 <o,f0,unknown> [hez] svieti [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 178.020 180.480 <o,f0,unknown> [spk] horí [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 180.480 184.960 <o,f0,unknown> [ruch] hádže [ned-] šte [-ned] oštepom [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 184.960 187.520 <o,f0,unknown> maľuje [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 187.520 190.140 <o,f0,unknown> [spk] vŕta [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 190.140 192.780 <o,f0,unknown> [ruch-] hrabe [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 192.780 196.060 <o,f0,unknown> [spk] píli [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 196.060 199.780 <o,f0,unknown> [hez] vesluje [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 199.780 202.380 <o,f0,unknown> [spk] spieva [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 202.380 206.080 <o,f0,unknown> kúpe sa [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 206.080 210.480 <o,f0,unknown> [spk] meria [ex] [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 210.480 213.240 <o,f0,unknown> pije [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 213.240 216.600 <o,f0,unknown> [spk] klope [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 216.600 220.620 <o,f0,unknown> [ruch-] [ned-] šve [-ned] [hez] skáče [hez] cez švihadlo [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 220.620 223.240 <o,f0,unknown> [ruch-] [spk] lyžuje [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 223.240 226.100 <o,f0,unknown> [ruch-] [spk] fotí [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 226.100 228.660 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 228.660 231.120 <o,f0,unknown> [ruch-] [spk] žehlí [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 231.120 238.093 <o,f0,unknown> [ruch-] [spk] tak to je ruka neviem či mužská či panská [-ruch] má päť prstov.
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 238.093 256.139 <o,f0,unknown> je dlaň je to ruka myslím ešte mladého človeka [hez] za malíček [hez] chytá [ruch] malé dieťatko asi potrebuje [ruch-] nejakú oporu alebo [-ruch] [hez] vďaku. [spk]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 256.139 261.080 <o,f0,unknown> je to podľa mňa [hez] pra ľavá ruka.
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 261.080 267.742 <o,f0,unknown> [ruch] [hez] zariadenie v kuchyni obsahuje stolík.
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 267.742 284.183 <o,f0,unknown> [hez] k tomu sú dve stoličky [ruch-] na stole máme dve šálky [hez] buď je tam kávička alebo čaj. [ruch] tie stoličky sú veľmi dizajnovo pekné aj ten stôl [-ruch] [hez] taký modernejší typ a páči sa mi [-veselost] .
+lpvvz4gz01 1 excluded_region 284.183 285.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 excluded_region 285.460 288.063 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 288.063 311.925 <o,f0,unknown> [hez] [ruch-] no asi nahneval otecka malý fešák lebo umývaním alebo pustil vodu vytápa už kuchyňu otec má v ruke naberačku [-ruch] a medzitým malý je ešte si chce pochutnať má v ruke [hez] banán [ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 311.925 321.575 <o,f0,unknown> [ruch-] a nakúka na všetko [veselost-] čierna mačka [-veselost] [spk] [hez] dej sa odohráva v kuchyni. [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 321.575 326.766 <o,f0,unknown> [ruch-] krásny zelený nábytok. [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 326.766 329.184 <o,f0,unknown> [ruch-] neviem či to stačí. [-ruch]
+lpvvz4gz01 1 excluded_region 329.184 329.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 329.580 331.873 <o,f0,unknown> [ruch-] takto len. [-ruch]
+lpvvz4gz01 1 excluded_region 331.873 334.800 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 excluded_region 334.800 336.794 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 336.794 350.827 <o,f0,unknown> [ruch-] no v kuchyni sa nachádza mamička ktorá má to veľmi sťažené lebo potrebuje uvariť obed a pritom má ešte v ruke [hez] malinké bábätko ktoré [hez] zrejme plače. [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 350.827 357.958 <o,f0,unknown> [ruch-] neposedné a mamička má toho veľa [hez] rozhorúčenú platničku. [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 357.958 394.648 <o,f0,unknown> [ruch-] na panvici asi prevracia palacinky. [hez] v kuchyni sú hodiny ktoré ukazujú jedenásť hodín aj pätnásť minút. je tam aj polička na ktorej zrejme sa nachádzajú [hez] kuchárske knihy. [hez] na pracovnom stole vidím nôž mlieko hrniec a nejaký kvetináč. a na poličke vľavo ešte vidím mačičku hrnček a nejaký olej alebo nejaký masážny voňavý [smiech-] nejaký prvok [-smiech] . [-ruch]
+lpvvz4gz01 1 excluded_region 394.648 399.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 excluded_region 399.160 404.214 <o,,unknown> ignore_time_segment_in_scoring
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 404.214 411.082 <o,f0,unknown> [ruch-] vianočné obdobie. mamička telefonuje. [-ruch]
+lpvvz4gz01 1 lpvvz4gz01_lpvvz4gz01 411.082 434.353 <o,f0,unknown> [ruch-] synček sa teší zo stromčeka. [hez] dnu prichádza zrejme manžel. [hez] aj sa potkol lebo na zemi rozhádzané autíčka. v kúte leží psík [spk] [hez] [spk] mladý pán má čiapku kravatu [hez] rozložené rozhodené sako. [-ruch]

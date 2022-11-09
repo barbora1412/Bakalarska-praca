@@ -1,0 +1,139 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:25 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 210925
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv19em01 1 lpvv19em01_lpvv19em01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvv19em01 1 lpvv19em01_lpvv19em01 14.940 22.880 <o,f0,unknown> special_pataka
+lpvv19em01 1 excluded_region 22.880 25.305 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 25.305 28.020 <o,f0,unknown> oblaky a cesta
+lpvv19em01 1 lpvv19em01_lpvv19em01 28.020 31.240 <o,f0,unknown> kráľ
+lpvv19em01 1 excluded_region 31.240 32.037 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 32.037 33.940 <o,f0,unknown> knihu
+lpvv19em01 1 lpvv19em01_lpvv19em01 33.940 36.560 <o,f0,unknown> most
+lpvv19em01 1 lpvv19em01_lpvv19em01 36.560 39.060 <o,f0,unknown> topánky
+lpvv19em01 1 lpvv19em01_lpvv19em01 39.060 41.940 <o,f0,unknown> [spk] autobus
+lpvv19em01 1 lpvv19em01_lpvv19em01 41.940 44.196 <o,f0,unknown> hodiny hodinky
+lpvv19em01 1 excluded_region 44.196 44.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 44.700 47.400 <o,f0,unknown> cigarety
+lpvv19em01 1 lpvv19em01_lpvv19em01 47.400 49.561 <o,f0,unknown> kráľovská koruna
+lpvv19em01 1 excluded_region 49.561 50.500 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 50.500 53.880 <o,f0,unknown> bubon paličky
+lpvv19em01 1 excluded_region 53.880 55.097 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 55.097 57.240 <o,f0,unknown> budík
+lpvv19em01 1 lpvv19em01_lpvv19em01 57.240 58.974 <o,f0,unknown> koleso
+lpvv19em01 1 excluded_region 58.974 60.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 60.060 62.680 <o,f0,unknown> traktor
+lpvv19em01 1 lpvv19em01_lpvv19em01 62.680 65.220 <o,f0,unknown> teplomer
+lpvv19em01 1 lpvv19em01_lpvv19em01 65.220 67.840 <o,f0,unknown> lavica
+lpvv19em01 1 lpvv19em01_lpvv19em01 67.840 70.340 <o,f0,unknown> fajka
+lpvv19em01 1 lpvv19em01_lpvv19em01 70.340 73.240 <o,f0,unknown> električka
+lpvv19em01 1 lpvv19em01_lpvv19em01 73.240 75.860 <o,f0,unknown> zips
+lpvv19em01 1 lpvv19em01_lpvv19em01 75.860 78.800 <o,f0,unknown> [spk] akvárium
+lpvv19em01 1 lpvv19em01_lpvv19em01 78.800 81.040 <o,f0,unknown> metla
+lpvv19em01 1 lpvv19em01_lpvv19em01 81.040 83.460 <o,f0,unknown> ťava
+lpvv19em01 1 lpvv19em01_lpvv19em01 83.460 86.340 <o,f0,unknown> lievik
+lpvv19em01 1 lpvv19em01_lpvv19em01 86.340 89.060 <o,f0,unknown> huby
+lpvv19em01 1 excluded_region 89.060 89.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 89.880 91.660 <o,f0,unknown> vešiak
+lpvv19em01 1 lpvv19em01_lpvv19em01 91.660 94.100 <o,f0,unknown> domino
+lpvv19em01 1 lpvv19em01_lpvv19em01 94.100 96.640 <o,f0,unknown> kotva
+lpvv19em01 1 lpvv19em01_lpvv19em01 96.640 99.260 <o,f0,unknown> žaluď
+lpvv19em01 1 lpvv19em01_lpvv19em01 99.260 102.260 <o,f0,unknown> ponorka
+lpvv19em01 1 lpvv19em01_lpvv19em01 102.260 104.780 <o,f0,unknown> kozmonaut
+lpvv19em01 1 excluded_region 104.780 106.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 106.760 108.970 <o,f0,unknown> kaktus
+lpvv19em01 1 excluded_region 108.970 109.640 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 excluded_region 109.640 111.279 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 111.279 113.300 <o,f0,unknown> píše
+lpvv19em01 1 lpvv19em01_lpvv19em01 113.300 116.500 <o,f0,unknown> natiera chlieb
+lpvv19em01 1 excluded_region 116.500 117.682 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 117.682 119.640 <o,f0,unknown> spieva
+lpvv19em01 1 lpvv19em01_lpvv19em01 119.640 122.420 <o,f0,unknown> smeje sa
+lpvv19em01 1 lpvv19em01_lpvv19em01 122.420 125.340 <o,f0,unknown> ťahá
+lpvv19em01 1 lpvv19em01_lpvv19em01 125.340 130.400 <o,f0,unknown> u umýva sa
+lpvv19em01 1 lpvv19em01_lpvv19em01 130.400 134.900 <o,f0,unknown> váži jablko
+lpvv19em01 1 excluded_region 134.900 135.699 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 135.699 137.780 <o,f0,unknown> svieti
+lpvv19em01 1 lpvv19em01_lpvv19em01 137.780 140.500 <o,f0,unknown> meria
+lpvv19em01 1 lpvv19em01_lpvv19em01 140.500 142.920 <o,f0,unknown> plače
+lpvv19em01 1 excluded_region 142.920 143.915 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 143.915 145.580 <o,f0,unknown> horí
+lpvv19em01 1 lpvv19em01_lpvv19em01 145.580 148.140 <o,f0,unknown> pije
+lpvv19em01 1 lpvv19em01_lpvv19em01 148.140 150.137 <o,f0,unknown> varí
+lpvv19em01 1 excluded_region 150.137 150.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 excluded_region 150.900 152.866 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 152.866 154.980 <o,f0,unknown> hádže
+lpvv19em01 1 excluded_region 154.980 156.190 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 156.190 158.100 <o,f0,unknown> klope
+lpvv19em01 1 lpvv19em01_lpvv19em01 158.100 162.200 <o,f0,unknown> počúva
+lpvv19em01 1 lpvv19em01_lpvv19em01 162.200 165.100 <o,f0,unknown> maľuje
+lpvv19em01 1 lpvv19em01_lpvv19em01 165.100 168.760 <o,f0,unknown> skáče
+lpvv19em01 1 lpvv19em01_lpvv19em01 168.760 171.320 <o,f0,unknown> šije
+lpvv19em01 1 lpvv19em01_lpvv19em01 171.320 173.840 <o,f0,unknown> vŕta
+lpvv19em01 1 lpvv19em01_lpvv19em01 173.840 176.800 <o,f0,unknown> lyžuje
+lpvv19em01 1 excluded_region 176.800 177.487 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 177.487 179.440 <o,f0,unknown> krája
+lpvv19em01 1 lpvv19em01_lpvv19em01 179.440 182.220 <o,f0,unknown> hrabe
+lpvv19em01 1 lpvv19em01_lpvv19em01 182.220 185.040 <o,f0,unknown> fotí
+lpvv19em01 1 lpvv19em01_lpvv19em01 185.040 187.700 <o,f0,unknown> polieva
+lpvv19em01 1 lpvv19em01_lpvv19em01 187.700 191.040 <o,f0,unknown> [spk] píli
+lpvv19em01 1 lpvv19em01_lpvv19em01 191.040 194.720 <o,f0,unknown> bicykluje
+lpvv19em01 1 lpvv19em01_lpvv19em01 194.720 197.700 <o,f0,unknown> štrikuje
+lpvv19em01 1 lpvv19em01_lpvv19em01 197.700 201.100 <o,f0,unknown> veslujú
+lpvv19em01 1 lpvv19em01_lpvv19em01 201.100 206.000 <o,f0,unknown> [hez] žehlí
+lpvv19em01 1 excluded_region 206.000 212.227 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 212.227 228.951 <o,f0,unknown> jednou dlaňou drží malíček na ktorom. dlaň je vráskavá [ruch-] otvorená. druhá dlaň je zovretá v päsť. [-ruch]
+lpvv19em01 1 lpvv19em01_lpvv19em01 228.951 233.607 <o,f0,unknown> [ruch]
+lpvv19em01 1 lpvv19em01_lpvv19em01 233.607 235.940 <o,f0,unknown> prvá dlaň je väčšia ako tá
+lpvv19em01 1 excluded_region 235.940 242.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 242.440 247.940 <o,f0,unknown> [ruch-] na obrázku je kaviarenský stolík s dvomi stoličkami [ex] [-ruch] s dvomi šálkami kávy.
+lpvv19em01 1 lpvv19em01_lpvv19em01 247.940 254.332 <o,f0,unknown> [ruch] stoličky sú z ohýbaného [ruch-] zdobeného nábytku [-ruch] .
+lpvv19em01 1 excluded_region 254.332 260.133 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 260.133 265.214 <o,f0,unknown> je to pekné prostredie na posedenie pri káve s niekým blízkym.
+lpvv19em01 1 excluded_region 265.214 265.940 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 excluded_region 265.940 270.067 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 270.067 280.760 <o,f0,unknown> na obrázku je muž v kuchyni s vareškou. [ruch] [ruch-] má oblečené [-ruch] biele tričko modrú zásteru [ruch-] čierne nohavice papuče [-ruch] .
+lpvv19em01 1 lpvv19em01_lpvv19em01 280.760 288.786 <o,f0,unknown> [ruch-] na ďalš ďalej je syn [-ruch] ktorý je na kymácajúcej sa stoličke. asi padne. v rohu je [ruch-] mačka [-ruch] .
+lpvv19em01 1 lpvv19em01_lpvv19em01 288.786 291.275 <o,f0,unknown> chlapec si berie banán.
+lpvv19em01 1 lpvv19em01_lpvv19em01 291.275 309.622 <o,f0,unknown> [ruch] na: [ruch] [spk] [ruch-] šporáku kypí [-ruch] [ruch-] niečo varené [-ruch] . potom [hez] v umývadle pení je pena [ruch-] a [hez] tečie voda z umývadla [-ruch] .
+lpvv19em01 1 lpvv19em01_lpvv19em01 309.622 316.987 <o,f0,unknown> [ruch] lampa je oranžová [ruch-] s nejakou muškou. [-ruch]
+lpvv19em01 1 lpvv19em01_lpvv19em01 316.987 326.798 <o,f0,unknown> na stene sú dve police [ruch-] jedna dve dve police [-ruch] jedna zavretá druhá spo spolovice.
+lpvv19em01 1 lpvv19em01_lpvv19em01 326.798 333.342 <o,f0,unknown> na zemi sú nejaké črepy alebo smetie.
+lpvv19em01 1 lpvv19em01_lpvv19em01 333.342 341.846 <o,f0,unknown> [ruch-] a [-ruch] [ruch] kuchyňa je šedá nábytok zelený.
+lpvv19em01 1 lpvv19em01_lpvv19em01 341.846 355.940 <o,f0,unknown> [hez] [spk] dieťa má červené tričko modré trenírky červené papuče hnedé vlasy. aj otec má hnedé
+lpvv19em01 1 excluded_region 355.940 358.459 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 358.459 369.875 <o,f0,unknown> upracovaná mamička toho má strašne veľa. [hez] na ruke [hez] drží dieťa. v druhej ruke má va:rnicu [ruch-] kde [-ruch] prehadzuje niečo čo smaží.
+lpvv19em01 1 lpvv19em01_lpvv19em01 369.875 373.799 <o,f0,unknown> na [ruch-] šporáku je hrniec s nejakým jedlom [-ruch] .
+lpvv19em01 1 lpvv19em01_lpvv19em01 373.799 380.420 <o,f0,unknown> [hez] [hez] [hez] nôž nejaké ovocie zelenina.
+lpvv19em01 1 lpvv19em01_lpvv19em01 380.420 386.523 <o,f0,unknown> potom je tam asi krabica s mliekom. [ruch]
+lpvv19em01 1 lpvv19em01_lpvv19em01 386.523 402.112 <o,f0,unknown> [hez] mačka voľačo zosypala z police do našťastie do hrnca. [hez] mačka je na polici. vedľa má dve nejaké veci asi [ruch] asi nejaké do do kuchyne prísady.
+lpvv19em01 1 lpvv19em01_lpvv19em01 402.112 410.588 <o,f0,unknown> mamička mamka má myšlienku nad hlavou topánky. myslí na topánky. asi si pôjde/po:jde kúpiť.
+lpvv19em01 1 lpvv19em01_lpvv19em01 410.588 430.720 <o,f0,unknown> ďalej sú tam hodiny. [spk] ukazujú za desať minút pol jednej [ex] . na polici/police sú sú tri knihy a tri nejaké nejaké [ex] niečo š sivé ako pohár to vyzerá ale neviem to rozlíšiť.
+lpvv19em01 1 lpvv19em01_lpvv19em01 430.720 445.900 <o,f0,unknown> šporák je šporák a kuchynská linka je hnedá. mamka má [ex] dieťa je oblečené v modrom. mamka má červenú blúzku. ne
+lpvv19em01 1 excluded_region 445.900 449.523 <o,,unknown> ignore_time_segment_in_scoring
+lpvv19em01 1 lpvv19em01_lpvv19em01 449.523 459.532 <o,f0,unknown> na obrázku [ex] sú asi manželia [ex] a dve deti. jedno je vnútri druhé [ruch-] je [-ruch] za oblokom kde sneží.
+lpvv19em01 1 lpvv19em01_lpvv19em01 459.532 465.496 <o,f0,unknown> manžel prichádza zvonka pošmykol sa na jednom autíčku.
+lpvv19em01 1 lpvv19em01_lpvv19em01 465.496 468.922 <o,f0,unknown> mamička je spokojná. telefonuje.
+lpvv19em01 1 lpvv19em01_lpvv19em01 468.922 471.263 <o,f0,unknown> [ruch]
+lpvv19em01 1 lpvv19em01_lpvv19em01 471.263 475.186 <o,f0,unknown> na zemi je pe na dlážke je pes.
+lpvv19em01 1 lpvv19em01_lpvv19em01 475.186 479.783 <o,f0,unknown> asi sú vianoce lebo je vianočný/vianocný stromček ktorý padá.
+lpvv19em01 1 lpvv19em01_lpvv19em01 479.783 486.689 <o,f0,unknown> [hez] [ex] [hez] na obloku sú červ po bokoch červené závesy.
+lpvv19em01 1 lpvv19em01_lpvv19em01 486.689 497.719 <o,f0,unknown> mamička je má modré nohavice červené papuče zelený kabátik alebo vestu ružovú blúzku v ruke telefón hnedé vlasy.
+lpvv19em01 1 lpvv19em01_lpvv19em01 497.719 510.854 <o,f0,unknown> otec má hnedé topánky hnedé nohavice hnedý kabát k [hez] šál hnedú čapicu s gongolcom a fialové tričko sveter.
+lpvv19em01 1 lpvv19em01_lpvv19em01 510.854 516.248 <o,f0,unknown> potom sú tam ešte rozsypané na zemi sú rozsypané gule.
+lpvv19em01 1 lpvv19em01_lpvv19em01 516.248 532.179 <o,f0,unknown> chlapec vonku má oranžovú čapicu s brmbolcom a [hez] syn vnútri má modré tričko [hez] žlté fľakaté trenírky bosý a hnedé vlasy.

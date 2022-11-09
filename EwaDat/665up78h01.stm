@@ -1,0 +1,131 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:12 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+665up78h01 1 665up78h01_665up78h01 0.000 14.900 <o,f0,unknown> special_vokal
+665up78h01 1 665up78h01_665up78h01 14.900 22.800 <o,f0,unknown> special_pataka
+665up78h01 1 665up78h01_665up78h01 22.800 25.420 <o,f0,unknown> melón [ruch]
+665up78h01 1 665up78h01_665up78h01 25.420 27.560 <o,f0,unknown> melón
+665up78h01 1 665up78h01_665up78h01 27.560 30.180 <o,f0,unknown> cesta
+665up78h01 1 665up78h01_665up78h01 30.180 32.900 <o,f0,unknown> [ruch-] most [-ruch]
+665up78h01 1 665up78h01_665up78h01 32.900 35.300 <o,f0,unknown> hodinky [ruch]
+665up78h01 1 665up78h01_665up78h01 35.300 37.700 <o,f0,unknown> bubon [ruch]
+665up78h01 1 665up78h01_665up78h01 37.700 40.080 <o,f0,unknown> traktor
+665up78h01 1 665up78h01_665up78h01 40.080 42.380 <o,f0,unknown> [ruch-] fajka [-ruch]
+665up78h01 1 665up78h01_665up78h01 42.380 45.600 <o,f0,unknown> [hez] akvárium
+665up78h01 1 excluded_region 45.600 53.265 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 53.265 56.900 <o,f0,unknown> [ruch-] nenapadá mi ale viem čo to je [-ruch]
+665up78h01 1 665up78h01_665up78h01 56.900 59.620 <o,f0,unknown> [ruch-] domino [-ruch]
+665up78h01 1 665up78h01_665up78h01 59.620 62.660 <o,f0,unknown> [ruch-] [spk] ponorka [-ruch]
+665up78h01 1 665up78h01_665up78h01 62.660 65.400 <o,f0,unknown> [ruch-] kráľ [-ruch]
+665up78h01 1 665up78h01_665up78h01 65.400 67.740 <o,f0,unknown> [ruch] topánky
+665up78h01 1 665up78h01_665up78h01 67.740 70.840 <o,f0,unknown> cigarety [ruch]
+665up78h01 1 665up78h01_665up78h01 70.840 73.780 <o,f0,unknown> [ruch] [hez] hodinky
+665up78h01 1 665up78h01_665up78h01 73.780 76.160 <o,f0,unknown> [ruch-] teplomer [-ruch]
+665up78h01 1 665up78h01_665up78h01 76.160 78.720 <o,f0,unknown> [ruch-] električka [-ruch]
+665up78h01 1 665up78h01_665up78h01 78.720 81.060 <o,f0,unknown> [ruch-] metla [-ruch]
+665up78h01 1 665up78h01_665up78h01 81.060 83.420 <o,f0,unknown> hríb [ruch]
+665up78h01 1 665up78h01_665up78h01 83.420 85.800 <o,f0,unknown> [ruch-] kotva [-ruch]
+665up78h01 1 665up78h01_665up78h01 85.800 90.562 <o,f0,unknown> [ruch-] %azaaaa [-ruch]
+665up78h01 1 665up78h01_665up78h01 90.562 93.480 <o,f0,unknown> [ruch-] [ned-] ad [-ned] astronaut [-ruch]
+665up78h01 1 665up78h01_665up78h01 93.480 95.720 <o,f0,unknown> [ruch-] kniha [-ruch]
+665up78h01 1 665up78h01_665up78h01 95.720 98.480 <o,f0,unknown> [ruch-] autobus [-ruch]
+665up78h01 1 665up78h01_665up78h01 98.480 103.800 <o,f0,unknown> [ruch-] kráľovská [hez-] čiapka [-hez] [-ruch]
+665up78h01 1 665up78h01_665up78h01 103.800 107.000 <o,f0,unknown> [ruch-] [spk] koleso od auta [-ruch]
+665up78h01 1 665up78h01_665up78h01 107.000 110.180 <o,f0,unknown> [ruch-] [spk] lavica [-ruch]
+665up78h01 1 665up78h01_665up78h01 110.180 112.640 <o,f0,unknown> [ruch-] zips [-ruch]
+665up78h01 1 665up78h01_665up78h01 112.640 115.020 <o,f0,unknown> [ruch-] ťava [-ruch]
+665up78h01 1 665up78h01_665up78h01 115.020 117.420 <o,f0,unknown> [ruch-] vešiak [-ruch]
+665up78h01 1 665up78h01_665up78h01 117.420 120.420 <o,f0,unknown> [ruch-] lieskovec [-ruch]
+665up78h01 1 665up78h01_665up78h01 120.420 122.980 <o,f0,unknown> [ruch-] kaktus [-ruch]
+665up78h01 1 665up78h01_665up78h01 122.980 125.540 <o,f0,unknown> [ruch-] pláva [-ruch]
+665up78h01 1 665up78h01_665up78h01 125.540 127.840 <o,f0,unknown> [ruch-] píše [-ruch]
+665up78h01 1 665up78h01_665up78h01 127.840 130.400 <o,f0,unknown> [ruch-] smeje sa [-ruch]
+665up78h01 1 665up78h01_665up78h01 130.400 133.020 <o,f0,unknown> [ruch-] váži [-ruch]
+665up78h01 1 665up78h01_665up78h01 133.020 135.300 <o,f0,unknown> [ruch-] plače [-ruch]
+665up78h01 1 665up78h01_665up78h01 135.300 137.660 <o,f0,unknown> [ruch-] varí [-ruch]
+665up78h01 1 665up78h01_665up78h01 137.660 140.060 <o,f0,unknown> [ruch-] [spk] telefonuje [-ruch]
+665up78h01 1 665up78h01_665up78h01 140.060 142.520 <o,f0,unknown> [ruch-] šije [-ruch]
+665up78h01 1 665up78h01_665up78h01 142.520 145.220 <o,f0,unknown> [ruch-] krája [-ruch]
+665up78h01 1 665up78h01_665up78h01 145.220 147.580 <o,f0,unknown> [ruch-] polieva [-ruch]
+665up78h01 1 665up78h01_665up78h01 147.580 150.300 <o,f0,unknown> [ruch-] štrikuje [-ruch]
+665up78h01 1 665up78h01_665up78h01 150.300 152.980 <o,f0,unknown> [ruch-] natiera [-ruch]
+665up78h01 1 665up78h01_665up78h01 152.980 156.360 <o,f0,unknown> [ruch-] ťahá [-ruch]
+665up78h01 1 665up78h01_665up78h01 156.360 158.780 <o,f0,unknown> [ruch-] svieti [-ruch]
+665up78h01 1 665up78h01_665up78h01 158.780 161.240 <o,f0,unknown> [ruch-] horí %hm [-ruch]
+665up78h01 1 excluded_region 161.240 165.522 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 165.522 167.580 <o,f0,unknown> [ruch-] [hez] hádže [-ruch]
+665up78h01 1 665up78h01_665up78h01 167.580 169.900 <o,f0,unknown> [ruch-] maľuje [-ruch]
+665up78h01 1 665up78h01_665up78h01 169.900 172.220 <o,f0,unknown> [ruch-] vŕta [-ruch]
+665up78h01 1 665up78h01_665up78h01 172.220 174.460 <o,f0,unknown> [ruch-] hrabe [-ruch]
+665up78h01 1 665up78h01_665up78h01 174.460 177.060 <o,f0,unknown> [ruch-] píli [-ruch]
+665up78h01 1 665up78h01_665up78h01 177.060 179.860 <o,f0,unknown> [ruch-] vesluje [-ruch]
+665up78h01 1 665up78h01_665up78h01 179.860 182.340 <o,f0,unknown> [ruch-] spieva [-ruch]
+665up78h01 1 665up78h01_665up78h01 182.340 185.180 <o,f0,unknown> [ruch-] kúpe sa [-ruch]
+665up78h01 1 665up78h01_665up78h01 185.180 188.020 <o,f0,unknown> [ruch-] meria [-ruch]
+665up78h01 1 665up78h01_665up78h01 188.020 190.240 <o,f0,unknown> [ruch-] pije [-ruch]
+665up78h01 1 665up78h01_665up78h01 190.240 192.600 <o,f0,unknown> [ruch-] [spk] klope [-ruch]
+665up78h01 1 665up78h01_665up78h01 192.600 201.760 <o,f0,unknown> [hez] švihadlom švih švihuje [smiech-] švihadlo [-smiech] skáče [spk] najlepšie [ruch]
+665up78h01 1 665up78h01_665up78h01 201.760 204.200 <o,f0,unknown> [spk] lyžuje
+665up78h01 1 665up78h01_665up78h01 204.200 207.380 <o,f0,unknown> [ruch-] fotografuje [-ruch]
+665up78h01 1 665up78h01_665up78h01 207.380 210.020 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+665up78h01 1 excluded_region 210.020 215.536 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 215.536 218.340 <o,f0,unknown> [hez] jaj žehlí %mm
+665up78h01 1 excluded_region 218.340 221.328 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 221.328 225.376 <o,f0,unknown> [hez] mačka:. malíček. dieťa.
+665up78h01 1 excluded_region 225.376 227.461 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 227.461 230.321 <o,f0,unknown> %jaj. a čo ešte?
+665up78h01 1 excluded_region 230.321 236.588 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 236.588 243.041 <o,f0,unknown> [hez] dlaň a dieťa [hez] [hez] mačka malíček inšie tam ((snáď)) není.
+665up78h01 1 excluded_region 243.041 246.374 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 246.374 248.240 <o,f0,unknown> päste ((*olá))
+665up78h01 1 excluded_region 248.240 251.708 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 251.708 257.198 <o,f0,unknown> dve kávy na stolíku s dvoma [spk] [hez] stoličkami.
+665up78h01 1 excluded_region 257.198 269.779 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 269.779 273.509 <o,f0,unknown> z ká z kávy sa dymí.
+665up78h01 1 665up78h01_665up78h01 273.509 278.140 <o,f0,unknown> a stoličky sú také staromódne.
+665up78h01 1 excluded_region 278.140 284.093 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 284.093 304.525 <o,f0,unknown> [hez] muž varí v kuchyni [spk] [hez] pritom dieťa mu padá zo stoličky [spk] a varechou/varochou muž rozbíja [hez] svietidlo. za ten čas mu vykypí polievka z hrnca.
+665up78h01 1 excluded_region 304.525 308.879 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 308.879 324.716 <o,f0,unknown> a [hez] je tam vidieť aj [hez] čiernu mačku a: pretekajúci [hez] pretekajúcu vodu z umývadla [hez] kde sa: [hez] umýva riad.
+665up78h01 1 excluded_region 324.716 329.053 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 329.053 330.584 <o,f0,unknown> %mhm ((*tač))
+665up78h01 1 excluded_region 330.584 334.701 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 334.701 337.433 <o,f0,unknown> mi to až toľko trvá hovoriť?
+665up78h01 1 665up78h01_665up78h01 337.433 342.823 <o,f0,unknown> dobre už viem teraz že môžem [hez] môžem [hez] [spk] dlhšie.
+665up78h01 1 excluded_region 342.823 350.480 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 350.480 352.648 <o,f0,unknown> [spk] až toľko?
+665up78h01 1 excluded_region 352.648 368.040 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 excluded_region 368.040 369.595 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 369.595 402.369 <o,f0,unknown> matka je v kuchyni [ruch] blíži sa dvanásta hodina [spk] má veľa roboty pretože: [hez] na jednej ruke drží dieťa plačúce na druhej ruke: [hez] ruke má panvicu [hez] kde [hez] pripravuje obed. na obrázku je vidieť aj mačku ktorá je [hez] nad [hez] kuchárkou a [hez] vysypala kvetiny na zem [spk] .
+665up78h01 1 665up78h01_665up78h01 402.369 416.976 <o,f0,unknown> [hez] ďalej vidíme že: sú pripravené [spk] [hez] suroviny na obed. sú tam zeleniny mäso nôž a je tam: hrniec na polievku.
+665up78h01 1 excluded_region 416.976 419.877 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 419.877 423.705 <o,f0,unknown> na poličke sú aj knihy a nejaké bylinky.
+665up78h01 1 excluded_region 423.705 426.601 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 426.601 436.220 <o,f0,unknown> ďalej sa jej zdá [hez] o lodičkách miesto toho aby sa venovala kuchyni.
+665up78h01 1 665up78h01_665up78h01 436.220 439.532 <o,f0,unknown> ((a kde by sme ešte niečo povedali)).
+665up78h01 1 665up78h01_665up78h01 439.532 441.126 <o,f0,unknown> to je všetko/šetko.
+665up78h01 1 excluded_region 441.126 457.940 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 excluded_region 457.940 460.942 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 460.942 505.033 <o,f0,unknown> na obrázku vidieť [hez] prípravu vianoc keď manžel [hez] doniesol stromček. [hez] a nevie a sedí na [hez] okne tak čudne [hez] manželka telefonuje a: dieťa [hez] stromček ozdobuje svietidlami. na stromčeku je žltá hviezda [spk] a [hez] manžel tým že otvára dvere alebo čo je to okno tak zhadzuje stromček na zem.
+665up78h01 1 665up78h01_665up78h01 505.033 512.040 <o,f0,unknown> ((a je)) a ešte tu vidím psa ktorý je jediný kľudný a si podriemkava/podriemkáva.
+665up78h01 1 665up78h01_665up78h01 512.040 517.110 <o,f0,unknown> manželka telefonuje a nedáva pozor čo sa robí v izbe.
+665up78h01 1 excluded_region 517.110 521.771 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 521.771 532.785 <o,f0,unknown> je tam ešte jedno okno cez ktoré sa pozerá ďalší chlapec [hez] zvonku. a vonku sneží je vianočný čas.
+665up78h01 1 excluded_region 532.785 538.230 <o,,unknown> ignore_time_segment_in_scoring
+665up78h01 1 665up78h01_665up78h01 538.230 539.700 <o,f0,unknown> ((to nie_je/neni nič)).

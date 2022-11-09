@@ -1,0 +1,132 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:12 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 6 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvg1pb01 1 lpvvg1pb01 0.000 14.960 <o,f0,female> special_vokal
+lpvvg1pb01 1 lpvvg1pb01 14.960 22.960 <o,f0,female> special_pataka
+lpvvg1pb01 1 excluded_region 22.960 23.884 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 23.884 24.888 <o,f0,female> [ruch] dyňa
+lpvvg1pb01 1 excluded_region 24.888 26.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 26.340 31.400 <o,f0,female> [hez] diaľnica
+lpvvg1pb01 1 excluded_region 31.400 33.632 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 33.632 35.920 <o,f0,female> most [ruch]
+lpvvg1pb01 1 lpvvg1pb01 35.920 38.880 <o,f0,female> [ruch-] hodiny hodinky [-ruch]
+lpvvg1pb01 1 lpvvg1pb01 38.880 42.198 <o,f0,female> [hez] bubon
+lpvvg1pb01 1 excluded_region 42.198 43.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 43.880 46.920 <o,f0,female> traktor
+lpvvg1pb01 1 lpvvg1pb01 46.920 50.180 <o,f0,female> fajka
+lpvvg1pb01 1 lpvvg1pb01 50.180 52.600 <o,f0,female> akvárium/akvárko
+lpvvg1pb01 1 excluded_region 52.600 53.580 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 53.580 56.320 <o,f0,female> lievik
+lpvvg1pb01 1 lpvvg1pb01 56.320 59.960 <o,f0,female> ponorka
+lpvvg1pb01 1 lpvvg1pb01 59.960 62.466 <o,f0,female> kráľ
+lpvvg1pb01 1 excluded_region 62.466 63.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 63.760 66.960 <o,f0,female> topánky
+lpvvg1pb01 1 excluded_region 66.960 67.797 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 67.797 70.060 <o,f0,female> cigarety
+lpvvg1pb01 1 lpvvg1pb01 70.060 73.040 <o,f0,female> hodiny
+lpvvg1pb01 1 lpvvg1pb01 73.040 75.860 <o,f0,female> teplomer
+lpvvg1pb01 1 lpvvg1pb01 75.860 80.840 <o,f0,female> elektri %ee hej električka
+lpvvg1pb01 1 lpvvg1pb01 80.840 83.140 <o,f0,female> metla
+lpvvg1pb01 1 lpvvg1pb01 83.140 86.100 <o,f0,female> hríby dubáky
+lpvvg1pb01 1 lpvvg1pb01 86.100 89.140 <o,f0,female> kotva
+lpvvg1pb01 1 lpvvg1pb01 89.140 92.640 <o,f0,female> kozmonaut
+lpvvg1pb01 1 lpvvg1pb01 92.640 95.700 <o,f0,female> kniha
+lpvvg1pb01 1 lpvvg1pb01 95.700 98.980 <o,f0,female> autobus
+lpvvg1pb01 1 lpvvg1pb01 98.980 102.880 <o,f0,female> kráľovská koruna
+lpvvg1pb01 1 lpvvg1pb01 102.880 108.768 <o,f0,female> [hez] rezerva koleso
+lpvvg1pb01 1 excluded_region 108.768 109.640 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 excluded_region 109.640 110.266 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 110.266 112.620 <o,f0,female> lavička
+lpvvg1pb01 1 lpvvg1pb01 112.620 114.402 <o,f0,female> zips
+lpvvg1pb01 1 excluded_region 114.402 115.260 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 115.260 118.480 <o,f0,female> ťava dvojhrbá:
+lpvvg1pb01 1 lpvvg1pb01 118.480 121.260 <o,f0,female> vešiak
+lpvvg1pb01 1 lpvvg1pb01 121.260 124.240 <o,f0,female> žaluď
+lpvvg1pb01 1 lpvvg1pb01 124.240 127.220 <o,f0,female> kaktus
+lpvvg1pb01 1 lpvvg1pb01 127.220 129.479 <o,f0,female> plavec
+lpvvg1pb01 1 excluded_region 129.479 135.040 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 135.040 140.100 <o,f0,female> [hez] zapisuje
+lpvvg1pb01 1 excluded_region 140.100 142.868 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 142.868 146.280 <o,f0,female> nie smeje sa. premýšľa nad
+lpvvg1pb01 1 excluded_region 146.280 148.994 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 148.994 151.700 <o,f0,female> váži
+lpvvg1pb01 1 lpvvg1pb01 151.700 154.540 <o,f0,female> plače
+lpvvg1pb01 1 lpvvg1pb01 154.540 157.540 <o,f0,female> varí
+lpvvg1pb01 1 lpvvg1pb01 157.540 160.560 <o,f0,female> telefonuje
+lpvvg1pb01 1 lpvvg1pb01 160.560 163.460 <o,f0,female> šije na stroji
+lpvvg1pb01 1 lpvvg1pb01 163.460 166.991 <o,f0,female> krája jablko krája
+lpvvg1pb01 1 excluded_region 166.991 168.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 168.240 169.896 <o,f0,female> polieva
+lpvvg1pb01 1 excluded_region 169.896 171.120 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 171.120 174.160 <o,f0,female> [ruch] štrikuje
+lpvvg1pb01 1 lpvvg1pb01 174.160 177.480 <o,f0,female> natiera
+lpvvg1pb01 1 lpvvg1pb01 177.480 181.760 <o,f0,female> preťahuje lano
+lpvvg1pb01 1 lpvvg1pb01 181.760 187.845 <o,f0,female> žiarovka žiarivka či žiarovka je správne tuším
+lpvvg1pb01 1 excluded_region 187.845 189.460 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 189.460 197.280 <o,f0,female> [hez] požiar
+lpvvg1pb01 1 lpvvg1pb01 197.280 202.140 <o,f0,female> hod diskom
+lpvvg1pb01 1 lpvvg1pb01 202.140 205.920 <o,f0,female> maliar maľuje
+lpvvg1pb01 1 lpvvg1pb01 205.920 210.420 <o,f0,female> vŕta vŕtačka
+lpvvg1pb01 1 lpvvg1pb01 210.420 213.840 <o,f0,female> hrabe
+lpvvg1pb01 1 lpvvg1pb01 213.840 217.160 <o,f0,female> píli
+lpvvg1pb01 1 lpvvg1pb01 217.160 220.720 <o,f0,female> veslujú
+lpvvg1pb01 1 lpvvg1pb01 220.720 224.000 <o,f0,female> spieva
+lpvvg1pb01 1 lpvvg1pb01 224.000 227.980 <o,f0,female> kúpe sa
+lpvvg1pb01 1 lpvvg1pb01 227.980 231.420 <o,f0,female> meria
+lpvvg1pb01 1 lpvvg1pb01 231.420 234.420 <o,f0,female> pije
+lpvvg1pb01 1 lpvvg1pb01 234.420 237.940 <o,f0,female> klope na dvere
+lpvvg1pb01 1 lpvvg1pb01 237.940 242.220 <o,f0,female> skáče cez švihadlo
+lpvvg1pb01 1 lpvvg1pb01 242.220 245.600 <o,f0,female> lyžuje
+lpvvg1pb01 1 lpvvg1pb01 245.600 249.860 <o,f0,female> [hez] fotí
+lpvvg1pb01 1 lpvvg1pb01 249.860 253.220 <o,f0,female> bicykluje
+lpvvg1pb01 1 lpvvg1pb01 253.220 256.106 <o,f0,female> žehlí
+lpvvg1pb01 1 excluded_region 256.106 256.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 excluded_region 256.700 259.158 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 259.158 270.720 <o,f0,female> cvičí [ex] s rukou. [ruch-] konkrétne s malíčkom. môže to byť taká liečebná kúra. [-ruch]
+lpvvg1pb01 1 excluded_region 270.720 277.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 excluded_region 277.480 279.979 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 279.979 287.178 <o,f0,female> [ruch-] pripravené je pohostenie pre dvoch členov káva alebo čaj teplý. [-ruch]
+lpvvg1pb01 1 excluded_region 287.178 289.773 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 289.773 291.613 <o,f0,female> v šálkach.
+lpvvg1pb01 1 excluded_region 291.613 296.957 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 296.957 307.420 <o,f0,female> tam: [spk] ((čo bys)) o tom nábytku sa môže že ako je aj aj že je to je to: [hez] posedenie pre dvoch [hez]
+lpvvg1pb01 1 excluded_region 307.420 310.015 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 310.015 315.167 <o,f0,female> [hez] no: tu je: spolupráca otca so synom v kuchyni.
+lpvvg1pb01 1 lpvvg1pb01 315.167 334.867 <o,f0,female> otec chce niečo rozpráv otočí sa chrbátom ku sporáku/šporáku a tam im niečo kypí. nepostrehol ani že chlapček stojí na stoličke ktorá je nahnutá. naťahuje sa za ovocím.
+lpvvg1pb01 1 lpvvg1pb01 334.867 342.830 <o,f0,female> otec je sústredený na niečo úplne iné a všetko mu uniká čo sa okolo neho robí.
+lpvvg1pb01 1 lpvvg1pb01 342.830 349.897 <o,f0,female> majú tam aj mačičku. tá tiež niečo pozerá čo sa deje.
+lpvvg1pb01 1 lpvvg1pb01 349.897 366.424 <o,f0,female> z umývadla z teda z drezu/dresu vyteká voda. je tam plno plno chýb ktorých sa tatko dopúšťa pri starostlivosti a za prítomnosti svojho syna.
+lpvvg1pb01 1 lpvvg1pb01 366.424 381.999 <o,f0,female> no bude asi manželka bude mať asi radosť v úvodzovkách. ak ak syn nespadne tak to bude ešte v pohode.
+lpvvg1pb01 1 lpvvg1pb01 381.999 383.534 <o,f0,female> %a
+lpvvg1pb01 1 excluded_region 383.534 386.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 excluded_region 386.780 389.068 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 389.068 408.812 <o,f0,female> na obrázku je žena zaneprázdnená má veľa povinností. varí niečo v kastróliku/kastrólku popritom robí palacinky alebo dolky. [hez] v náručí má uplakané [ruch-] dieťatko. plno porozkladaných vecí. [-ruch]
+lpvvg1pb01 1 lpvvg1pb01 408.812 419.023 <o,f0,female> mačka vyliezla na policu. [spk] zrútila k kvetináč teda vázičku s kvetmi.
+lpvvg1pb01 1 lpvvg1pb01 419.023 445.295 <o,f0,female> je tam určite veľký zhon lebo matka toho má asi veľmi veľa. tiež je taká vystrašená. oči oči prevaľuje a popritom tuším ešte aj telefonuje takže robí toho príliš veľa. asi to nebude všetko asi môcť aj dobre dopadnúť. [ruch]
+lpvvg1pb01 1 lpvvg1pb01 445.295 452.320 <o,f0,female> je dvanásť hodín skoro pol jednej teda obed nemá na dvanástu hodinu.
+lpvvg1pb01 1 lpvvg1pb01 452.320 466.524 <o,f0,female> no a ešte má asi aj zeleninovú polievku variť alebo čo ešte má tam [ruch] na kraji/kraje rozloženú zeleninku. [ruch]
+lpvvg1pb01 1 lpvvg1pb01 466.524 470.780 <o,f0,female> no. čo ešte aj počítač má tuším zapnutý.
+lpvvg1pb01 1 excluded_region 470.780 472.566 <o,,unknown> ignore_time_segment_in_scoring
+lpvvg1pb01 1 lpvvg1pb01 472.566 478.356 <o,f0,female> %jéj najkrajšie sviatky radostné v rodine.
+lpvvg1pb01 1 lpvvg1pb01 478.356 501.843 <o,f0,female> stromček je už pripravený ale vyzerá tak že už aj prevalený. neviem či ho vtedy dávajú cez okno ale vyzerá to tak. chlapček sa už teší alebo sa naťahuje aj na náš ozdoby už ťahá za kábliky.
+lpvvg1pb01 1 lpvvg1pb01 501.843 506.306 <o,f0,female> hračky sú už porozhadzované.
+lpvvg1pb01 1 lpvvg1pb01 506.306 512.240 <o,f0,female> tatko sa vracia. pošmykol sa na autíčku a už letí.
+lpvvg1pb01 1 lpvvg1pb01 512.240 525.149 <o,f0,female> mamina telefonuje ešte vybavuje asi posledné posledné/posadné povinnosti k vianociam. jediný kto je tu v pokoji je psíček tomu to neprekáža.
+lpvvg1pb01 1 lpvvg1pb01 525.149 540.566 <o,f0,female> no. chystajú ešte asi pozývajú hostí na večeru. a budú mať aj stromček ak ho synáčik celkom nezničí nepoprevracia.
+lpvvg1pb01 1 lpvvg1pb01 540.566 554.013 <o,f0,female> no [spk] darčeky tam nevidím zatiaľ alebo to sú už aj vybalené dopredu. no je tam rušno. ako v sviatočný deň.

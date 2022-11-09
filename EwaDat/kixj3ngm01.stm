@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:26 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 210519
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 0.000 14.940 <o,f0,unknown> special_vokal
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 14.940 22.880 <o,f0,unknown> special_pataka
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 22.880 24.338 <o,f0,unknown> cesta
+kixj3ngm01 1 excluded_region 24.338 26.380 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 26.380 29.580 <o,f0,unknown> most
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 29.580 32.460 <o,f0,unknown> hodinky
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 32.460 35.600 <o,f0,unknown> bubon
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 35.600 37.308 <o,f0,unknown> traktor
+kixj3ngm01 1 excluded_region 37.308 43.540 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 43.540 46.920 <o,f0,unknown> fajka
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 46.920 50.220 <o,f0,unknown> akvárium
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 50.220 53.140 <o,f0,unknown> lievik
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 53.140 56.380 <o,f0,unknown> [hez] domino
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 56.380 59.380 <o,f0,unknown> ponorka
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 59.380 63.040 <o,f0,unknown> [hez] písanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 63.040 66.180 <o,f0,unknown> smiech
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 66.180 69.720 <o,f0,unknown> váženie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 69.720 72.720 <o,f0,unknown> plač
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 72.720 75.960 <o,f0,unknown> varenie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 75.960 79.280 <o,f0,unknown> telefonovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 79.280 82.640 <o,f0,unknown> šitie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 82.640 85.900 <o,f0,unknown> krájanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 85.900 89.100 <o,f0,unknown> polievanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 89.100 92.880 <o,f0,unknown> [ned-] ši [-ned] [hez] štrikovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 92.880 96.320 <o,f0,unknown> kráľ
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 96.320 99.240 <o,f0,unknown> topánky
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 99.240 102.360 <o,f0,unknown> cigarety
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 102.360 106.060 <o,f0,unknown> [hez] hodiny budík
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 106.060 108.940 <o,f0,unknown> teplomer
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 108.940 111.920 <o,f0,unknown> električka
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 111.920 114.860 <o,f0,unknown> metla
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 114.860 118.000 <o,f0,unknown> hríby
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 118.000 120.980 <o,f0,unknown> kotva
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 120.980 124.020 <o,f0,unknown> kozmonaut
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 124.020 127.900 <o,f0,unknown> natieranie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 127.900 131.280 <o,f0,unknown> [hez] preťahovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 131.280 134.940 <o,f0,unknown> svietenie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 134.940 137.780 <o,f0,unknown> horenie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 137.780 141.140 <o,f0,unknown> hádzanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 141.140 144.140 <o,f0,unknown> maľovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 144.140 147.440 <o,f0,unknown> vŕtanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 147.440 150.620 <o,f0,unknown> hrabanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 150.620 153.760 <o,f0,unknown> pílenie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 153.760 158.120 <o,f0,unknown> [hez] člnkovanie alebo/abo veslovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 158.120 161.920 <o,f0,unknown> čítanie kniha
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 161.920 164.960 <o,f0,unknown> autobus
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 164.960 168.140 <o,f0,unknown> koruna
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 168.140 170.700 <o,f0,unknown> koleso
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 170.700 173.300 <o,f0,unknown> lavička
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 173.300 175.860 <o,f0,unknown> zips
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 175.860 178.580 <o,f0,unknown> ťava
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 178.580 182.000 <o,f0,unknown> [hez] vešiak
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 182.000 184.840 <o,f0,unknown> žaluď
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 184.840 187.840 <o,f0,unknown> kaktus
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 187.840 191.080 <o,f0,unknown> spievanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 191.080 193.860 <o,f0,unknown> kúpanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 193.860 196.940 <o,f0,unknown> meranie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 196.940 199.960 <o,f0,unknown> pitie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 199.960 202.780 <o,f0,unknown> klopanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 202.780 206.480 <o,f0,unknown> [ned-] š [-ned] [hez] preskakovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 206.480 209.560 <o,f0,unknown> lyžovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 209.560 213.100 <o,f0,unknown> [ned-] fo [-ned] fotografovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 213.100 216.020 <o,f0,unknown> bicyklovanie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 216.020 219.020 <o,f0,unknown> žehlenie
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 219.020 225.237 <o,f0,unknown> ruka/vruka: dieťa drží palec [hez] malíček dospelej ruky.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 225.237 232.120 <o,f0,unknown> [hez] ruka je otvorená. [hez] dieťa má zavreté [hez] prsty.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 232.120 235.056 <o,f0,unknown> káva [hez] .
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 235.056 239.051 <o,f0,unknown> káva/kava čakajúca na dvoch ľudí v/v: kaviarni.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 239.051 240.781 <o,f0,unknown> [hez] káva je teplá.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 240.781 246.399 <o,f0,unknown> [hez] pravdepodobne majú cukor v káve a/a: nikto iný v kaviarni nie je.
+kixj3ngm01 1 excluded_region 246.399 250.796 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 250.796 251.132 <o,f0,unknown> [hez]
+kixj3ngm01 1 excluded_region 251.132 252.740 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 excluded_region 252.740 256.097 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 256.097 257.457 <o,f0,unknown> muž v kuchyni/kuchyni:.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 257.457 262.142 <o,f0,unknown> chaos vykypený šporák*. dieťa padajúce.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 262.142 266.435 <o,f0,unknown> [hez] umývadlo ktoré preteká. čudujúca sa mačka
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 266.435 268.003 <o,f0,unknown> rozbitá lampa.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 268.003 270.041 <o,f0,unknown> nedostatok potravín.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 270.041 282.660 <o,f0,unknown> zdravé/zdrave jedlo na/nas na tanieri a/a: vytekajúca nejaká fľaša zo skrine a/a: ružový uterák a pokojný chlap napriek všetkému.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 282.660 288.806 <o,f0,unknown> [hez] matka ktorá je veľmi/velmi: [hez] vystresovaná.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 288.806 290.750 <o,f0,unknown> držiace/držajúce sa dieťa.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 290.750 297.561 <o,f0,unknown> zároveň variaca [hez] raňajky ale/ale: napriek času je to asi obed.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 297.561 306.131 <o,f0,unknown> [hez] má tam nejakú/nejaku omáčku/omačku:. mačka zhodila kvetiny/kvetiny: na notebook ktorý sa pravdepodobne zničí.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 306.131 312.593 <o,f0,unknown> [hez] zdravé jedlo až na/na: [hez] tie tú slaninu s vajíčkami a/a: pritom myslí na topánky.
+kixj3ngm01 1 excluded_region 312.593 317.060 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 excluded_region 317.060 319.929 <o,,unknown> ignore_time_segment_in_scoring
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 319.929 326.425 <o,f0,unknown> [hez] vianoce padajúci stromček. otec/oteck šmýkajúci/šmýkajuci: sa na autíčkach.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 326.425 330.943 <o,f0,unknown> pes/pes: sa na/na: hluk nezobudil a matka si nič nevšíma počas telefonovania/tolo:fonovania.
+kixj3ngm01 1 kixj3ngm01_kixj3ngm01 330.943 341.522 <o,f0,unknown> otec došiel večer pravdepodobne z nákupu a/a: v izbe relatívne teplo. dieťa je/je: v kraťasoch* ale matka je oblečená vo svetri.

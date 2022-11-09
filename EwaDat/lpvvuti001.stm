@@ -1,0 +1,167 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:19 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 2 of 220110
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvvuti001 1 lpvvuti001_lpvvuti001 0.000 14.940 <o,f0,unknown> special_vokal
+lpvvuti001 1 lpvvuti001_lpvvuti001 14.940 22.860 <o,f0,unknown> special_pataka
+lpvvuti001 1 excluded_region 22.860 24.093 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 24.093 26.043 <o,f0,unknown> no to je melón červený
+lpvvuti001 1 excluded_region 26.043 31.260 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 31.260 33.673 <o,f0,unknown> [hez] to je diaľnica
+lpvvuti001 1 excluded_region 33.673 34.800 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 34.800 38.060 <o,f0,unknown> [hez] to je most
+lpvvuti001 1 lpvvuti001_lpvvuti001 38.060 40.338 <o,f0,unknown> to sú hodinky
+lpvvuti001 1 excluded_region 40.338 41.920 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 41.920 46.660 <o,f0,unknown> to je bubní bubon malý
+lpvvuti001 1 lpvvuti001_lpvvuti001 46.660 50.580 <o,f0,unknown> to je traktor veľký
+lpvvuti001 1 lpvvuti001_lpvvuti001 50.580 54.160 <o,f0,unknown> to je fajka
+lpvvuti001 1 lpvvuti001_lpvvuti001 54.160 59.180 <o,f0,unknown> [hez] to je: akvárium
+lpvvuti001 1 lpvvuti001_lpvvuti001 59.180 68.293 <o,f0,unknown> [hez] čo je [smiech] [hez] [smiech-] lievik/trychtýr [-smiech]
+lpvvuti001 1 excluded_region 68.293 70.200 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 excluded_region 70.200 71.154 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 71.154 72.835 <o,f0,unknown> [hez] to je domino
+lpvvuti001 1 excluded_region 72.835 74.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 74.660 80.320 <o,f0,unknown> [hez] [hez] to je: ponorka
+lpvvuti001 1 excluded_region 80.320 81.830 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 81.830 83.046 <o,f0,unknown> to/fo je kráľ
+lpvvuti001 1 excluded_region 83.046 84.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 84.880 86.915 <o,f0,unknown> topánky
+lpvvuti001 1 excluded_region 86.915 88.640 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 88.640 92.740 <o,f0,unknown> [hez] cigarety
+lpvvuti001 1 lpvvuti001_lpvvuti001 92.740 96.040 <o,f0,unknown> [hez] budík/budik
+lpvvuti001 1 lpvvuti001_lpvvuti001 96.040 100.440 <o,f0,unknown> [smiech] [smiech-] to je električka [-smiech]
+lpvvuti001 1 lpvvuti001_lpvvuti001 100.440 103.660 <o,f0,unknown> [hez] to je metla
+lpvvuti001 1 lpvvuti001_lpvvuti001 103.660 106.703 <o,f0,unknown> [hez] ((xx)) to sú dubáky
+lpvvuti001 1 excluded_region 106.703 108.840 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 108.840 110.773 <o,f0,unknown> [hez] [ruch-] kotva [-ruch]
+lpvvuti001 1 excluded_region 110.773 112.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 excluded_region 112.780 114.312 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 114.312 118.066 <o,f0,unknown> [hez] to je: astronaut alebo kozmonaut
+lpvvuti001 1 excluded_region 118.066 120.800 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 120.800 124.300 <o,f0,unknown> [hez] [ruch-] kniha [-ruch]
+lpvvuti001 1 lpvvuti001_lpvvuti001 124.300 126.815 <o,f0,unknown> [ruch-] autobus [-ruch]
+lpvvuti001 1 excluded_region 126.815 128.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 128.080 132.260 <o,f0,unknown> [hez] koruna kráľovská
+lpvvuti001 1 lpvvuti001_lpvvuti001 132.260 135.560 <o,f0,unknown> [spk] [hez] koleso
+lpvvuti001 1 lpvvuti001_lpvvuti001 135.560 138.560 <o,f0,unknown> [hez] lavica
+lpvvuti001 1 lpvvuti001_lpvvuti001 138.560 141.520 <o,f0,unknown> zips
+lpvvuti001 1 lpvvuti001_lpvvuti001 141.520 145.440 <o,f0,unknown> [hez] to je: ťava
+lpvvuti001 1 lpvvuti001_lpvvuti001 145.440 149.120 <o,f0,unknown> [hez] vešiak
+lpvvuti001 1 lpvvuti001_lpvvuti001 149.120 154.740 <o,f0,unknown> [hez] [ex] žaluď
+lpvvuti001 1 lpvvuti001_lpvvuti001 154.740 157.035 <o,f0,unknown> [hez] kaktus
+lpvvuti001 1 excluded_region 157.035 157.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 157.780 159.606 <o,f0,unknown> pláva/pláve
+lpvvuti001 1 excluded_region 159.606 161.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 161.100 164.720 <o,f0,unknown> píše
+lpvvuti001 1 lpvvuti001_lpvvuti001 164.720 166.592 <o,f0,unknown> smeje sa
+lpvvuti001 1 excluded_region 166.592 167.980 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 167.980 174.440 <o,f0,unknown> [hez] ve [hez] v váži
+lpvvuti001 1 lpvvuti001_lpvvuti001 174.440 177.880 <o,f0,unknown> plače
+lpvvuti001 1 lpvvuti001_lpvvuti001 177.880 180.383 <o,f0,unknown> [hez] varí
+lpvvuti001 1 excluded_region 180.383 181.740 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 181.740 184.015 <o,f0,unknown> telefonuje
+lpvvuti001 1 excluded_region 184.015 185.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 185.360 188.926 <o,f0,unknown> [hez] šije na stroji
+lpvvuti001 1 excluded_region 188.926 190.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 190.400 194.460 <o,f0,unknown> [hez] krája
+lpvvuti001 1 lpvvuti001_lpvvuti001 194.460 196.723 <o,f0,unknown> polieva
+lpvvuti001 1 excluded_region 196.723 198.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 198.220 202.415 <o,f0,unknown> [hez] [ex] [hez] [hez] [hez] pletie
+lpvvuti001 1 excluded_region 202.415 204.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 204.420 208.474 <o,f0,unknown> [hez] natiera ch chlieb
+lpvvuti001 1 excluded_region 208.474 210.040 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 210.040 214.760 <o,f0,unknown> ťahá
+lpvvuti001 1 lpvvuti001_lpvvuti001 214.760 218.540 <o,f0,unknown> [hez] svieti
+lpvvuti001 1 lpvvuti001_lpvvuti001 218.540 220.775 <o,f0,unknown> horí
+lpvvuti001 1 excluded_region 220.775 222.000 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 222.000 232.240 <o,f0,unknown> [hez] oštepom hádže hádže oštepom/očtepom neviem ako sa to ináč hovorí/hovori
+lpvvuti001 1 lpvvuti001_lpvvuti001 232.240 236.520 <o,f0,unknown> [hez] maľuje
+lpvvuti001 1 lpvvuti001_lpvvuti001 236.520 241.377 <o,f0,unknown> vŕta/vr_ta vŕtačkou/vrtačkou
+lpvvuti001 1 excluded_region 241.377 242.840 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 242.840 246.354 <o,f0,unknown> [hez] hrabe hrabličkami
+lpvvuti001 1 excluded_region 246.354 248.260 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 248.260 251.100 <o,f0,unknown> [hez] spieva
+lpvvuti001 1 lpvvuti001_lpvvuti001 251.100 254.700 <o,f0,unknown> [hez] kúpe sa dievča
+lpvvuti001 1 lpvvuti001_lpvvuti001 254.700 257.118 <o,f0,unknown> meria
+lpvvuti001 1 excluded_region 257.118 258.320 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 258.320 260.592 <o,f0,unknown> pije
+lpvvuti001 1 excluded_region 260.592 262.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 262.600 265.066 <o,f0,unknown> klope
+lpvvuti001 1 excluded_region 265.066 266.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 266.220 269.360 <o,f0,unknown> skáče na švihadle
+lpvvuti001 1 lpvvuti001_lpvvuti001 269.360 271.601 <o,f0,unknown> áno/ano lyžuje sa
+lpvvuti001 1 excluded_region 271.601 272.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 272.780 275.450 <o,f0,unknown> [hez] fotografuje
+lpvvuti001 1 excluded_region 275.450 276.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 276.340 280.260 <o,f0,unknown> [hez] bicykluje sa
+lpvvuti001 1 lpvvuti001_lpvvuti001 280.260 283.400 <o,f0,unknown> [hez] žehlí
+lpvvuti001 1 excluded_region 283.400 285.052 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 285.052 296.076 <o,f0,unknown> [ruch-] no [-ruch] ((udrel)) si palec [hez] [hez] malíček tak ho/cho drží. a je to malé dieťa ktoré to drží tej mame ten malíček.
+lpvvuti001 1 excluded_region 296.076 297.723 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 297.723 304.736 <o,f0,unknown> tá/ta mama to dieťa jej ((dvihne)). zodvihne s tie s tým malíčkom.
+lpvvuti001 1 excluded_region 304.736 307.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 307.280 309.645 <o,f0,unknown> možno sa hrajú/hraju. neviem.
+lpvvuti001 1 excluded_region 309.645 313.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 excluded_region 313.400 322.286 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 322.286 330.101 <o,f0,unknown> dvaja ľudkovia išli alebo prídu tam. [ruch-] a [-ruch] idú si vypiť kávu.
+lpvvuti001 1 lpvvuti001_lpvvuti001 330.101 335.025 <o,f0,unknown> a skôr/skor to vyzerá tak že už aj vypili a odišli.
+lpvvuti001 1 excluded_region 335.025 335.948 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 335.948 343.320 <o,f0,unknown> ako odišli to sa nedozvieme pravdepodobne to by musel byť ďalší obrázok ktorý b
+lpvvuti001 1 excluded_region 343.320 347.946 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 347.946 356.976 <o,f0,unknown> %a:ch [hez] tam [hez] otecko s malým dieťaťom sú v kuchyni.
+lpvvuti001 1 lpvvuti001_lpvvuti001 356.976 360.863 <o,f0,unknown> o:tec ten chytá muchy.
+lpvvuti001 1 lpvvuti001_lpvvuti001 360.863 371.134 <o,f0,unknown> a ten malý chlapček ten nedával pozor na umývadlo lebo mal chuť na banán.
+lpvvuti001 1 lpvvuti001_lpvvuti001 371.134 383.793 <o,f0,unknown> mačka tu/tuna tiež je ale tej si nikto nevšíma. a to je veľká škoda. mačka by si zaslúžila aby sa radšej s ňou zaoberali.
+lpvvuti001 1 lpvvuti001_lpvvuti001 383.793 385.870 <o,f0,unknown> hlavne ten chlapček.
+lpvvuti001 1 excluded_region 385.870 386.875 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 386.875 390.604 <o,f0,unknown> tomu [hez] by to dobre padlo aj tej mačičke.
+lpvvuti001 1 excluded_region 390.604 391.648 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 391.648 394.944 <o,f0,unknown> tá je taká čierna a vy [hez] vyľakaná/vyrakaná.
+lpvvuti001 1 excluded_region 394.944 395.313 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 395.313 396.907 <o,f0,unknown> čoho sa asi bojí/boli?
+lpvvuti001 1 lpvvuti001_lpvvuti001 396.907 399.446 <o,f0,unknown> bojí? nevieme.
+lpvvuti001 1 lpvvuti001_lpvvuti001 399.446 406.950 <o,f0,unknown> ale tí ostatní tí sú nahnevaní/nahnevani. všetci sa hnevajú/hnevaju.
+lpvvuti001 1 excluded_region 406.950 410.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 excluded_region 410.900 414.836 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 414.836 420.274 <o,f0,unknown> všetci sú. no/nu tá/ta mamička tá má plné ruky práce.
+lpvvuti001 1 lpvvuti001_lpvvuti001 420.274 423.038 <o,f0,unknown> tak to býva väčšinou.
+lpvvuti001 1 excluded_region 423.038 424.265 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 424.265 428.802 <o,f0,unknown> už je štvrť na jednu a ona obed nemá hotový/hotovej.
+lpvvuti001 1 lpvvuti001_lpvvuti001 428.802 434.509 <o,f0,unknown> a tam: ten malý ch chlapček je to keď je v modrom asi.
+lpvvuti001 1 lpvvuti001_lpvvuti001 434.509 437.148 <o,f0,unknown> ten plače ten tiež už má hlad.
+lpvvuti001 1 lpvvuti001_lpvvuti001 437.148 446.908 <o,f0,unknown> mačka tá vyskočila hore na tú/tu ((lásku)) a dáva pozor.
+lpvvuti001 1 lpvvuti001_lpvvuti001 446.908 453.085 <o,f0,unknown> čo to tu/tuna je? zhodila zhodila rádio. no.
+lpvvuti001 1 lpvvuti001_lpvvuti001 453.085 458.348 <o,f0,unknown> a tá mamička už by chcela byť hotová a si oddýchnuť.
+lpvvuti001 1 lpvvuti001_lpvvuti001 458.348 465.385 <o,f0,unknown> to malé bábo to by sa malo najesť a ísť spinkať.
+lpvvuti001 1 excluded_region 465.385 467.888 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 467.888 469.943 <o,f0,unknown> viacej k tomu neviem.
+lpvvuti001 1 lpvvuti001_lpvvuti001 469.943 475.042 <o,f0,unknown> tu/tuna skočia čo sú to vrabce alebo muchy.
+lpvvuti001 1 excluded_region 475.042 480.380 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 excluded_region 480.380 482.434 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 482.434 484.100 <o,f0,unknown> nuž vianoce.
+lpvvuti001 1 lpvvuti001_lpvvuti001 484.100 486.719 <o,f0,unknown> vianoce.
+lpvvuti001 1 excluded_region 486.719 491.492 <o,,unknown> ignore_time_segment_in_scoring
+lpvvuti001 1 lpvvuti001_lpvvuti001 491.492 494.324 <o,f0,unknown> stromček už majú postavený/postaveny.
+lpvvuti001 1 lpvvuti001_lpvvuti001 494.324 497.998 <o,f0,unknown> deti sa zabávajú/zabávaju.
+lpvvuti001 1 lpvvuti001_lpvvuti001 497.998 501.543 <o,f0,unknown> jeden chlapček je vonku ten malý/maly.
+lpvvuti001 1 lpvvuti001_lpvvuti001 501.543 507.251 <o,f0,unknown> druhý neviem. sa po [hez] rozprávajú/rozprávaju.
+lpvvuti001 1 lpvvuti001_lpvvuti001 507.251 509.397 <o,f0,unknown> mama telefonuje.
+lpvvuti001 1 lpvvuti001_lpvvuti001 509.397 516.146 <o,f0,unknown> hľadá asi muža a ten prichádza opitý/opity. no to bude mať radosť.
+lpvvuti001 1 lpvvuti001_lpvvuti001 516.146 520.473 <o,f0,unknown> ten psíček ten si z toho nič nerobí.
+lpvvuti001 1 lpvvuti001_lpvvuti001 520.473 524.533 <o,f0,unknown> sú to smutné vianoce.
+lpvvuti001 1 lpvvuti001_lpvvuti001 524.533 528.557 <o,f0,unknown> to sa mi nepáči. to sú smutné vianoce.

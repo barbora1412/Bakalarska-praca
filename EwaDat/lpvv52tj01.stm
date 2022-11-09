@@ -1,0 +1,220 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:24 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220429
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv52tj01 1 excluded_region 0.000 1.719 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 1.719 14.920 <o,f0,unknown> special_vokal
+lpvv52tj01 1 excluded_region 14.920 18.745 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 18.745 22.860 <o,f0,unknown> special_pataka
+lpvv52tj01 1 excluded_region 22.860 24.209 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 24.209 25.246 <o,f0,unknown> melón
+lpvv52tj01 1 excluded_region 25.246 26.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 26.440 27.483 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 27.483 28.526 <o,f0,unknown> cesta
+lpvv52tj01 1 excluded_region 28.526 29.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 29.400 30.659 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 30.659 31.795 <o,f0,unknown> most
+lpvv52tj01 1 excluded_region 31.795 32.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 32.620 33.432 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 33.432 34.507 <o,f0,unknown> [ruch-] hodiny [-ruch]
+lpvv52tj01 1 excluded_region 34.507 35.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 35.220 36.055 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 36.055 37.289 <o,f0,unknown> bubon
+lpvv52tj01 1 excluded_region 37.289 38.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 38.060 38.977 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 38.977 40.031 <o,f0,unknown> [ruch-] traktor [-ruch]
+lpvv52tj01 1 excluded_region 40.031 40.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 40.760 43.160 <o,f0,unknown> [ruch-] fajka [-ruch]
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 43.160 46.700 <o,f0,unknown> [hez] [ruch-] akvárium [-ruch]
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 46.700 50.200 <o,f0,unknown> [hez] ((traktár)) alebo [ned-] lie [-ned]
+lpvv52tj01 1 excluded_region 50.200 51.538 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 51.538 55.020 <o,f0,unknown> [hez] [ned-] ko [-ned] kocky domina
+lpvv52tj01 1 excluded_region 55.020 56.384 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 56.384 57.300 <o,f0,unknown> loď
+lpvv52tj01 1 excluded_region 57.300 58.520 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 58.520 59.835 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 59.835 61.498 <o,f0,unknown> [hez] nejaký kráľ
+lpvv52tj01 1 excluded_region 61.498 62.660 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 62.660 65.480 <o,f0,unknown> [ruch-] topánky [-ruch]
+lpvv52tj01 1 excluded_region 65.480 68.053 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 68.053 69.948 <o,f0,unknown> čo to môže byť?
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 69.948 76.180 <o,f0,unknown> neviem nejaké tie [ned-] c [-ned] tie ((činky)) [hez] [ruch-] cigarety %aha: [-ruch] ((cigarety)) ((nie))
+lpvv52tj01 1 excluded_region 76.180 77.434 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 77.434 78.598 <o,f0,unknown> [ruch-] hodiny [-ruch]
+lpvv52tj01 1 excluded_region 78.598 79.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 79.440 80.198 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 80.198 81.577 <o,f0,unknown> teplomer
+lpvv52tj01 1 excluded_region 81.577 82.560 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 82.560 83.716 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 83.716 85.452 <o,f0,unknown> [hez] trolejbus
+lpvv52tj01 1 excluded_region 85.452 86.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 86.600 87.353 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 87.353 88.356 <o,f0,unknown> metla
+lpvv52tj01 1 excluded_region 88.356 89.300 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 89.300 90.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 90.700 91.854 <o,f0,unknown> huby
+lpvv52tj01 1 excluded_region 91.854 93.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 93.060 94.308 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 94.308 95.172 <o,f0,unknown> kotva
+lpvv52tj01 1 excluded_region 95.172 96.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 96.160 98.315 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 98.315 102.033 <o,f0,unknown> [hez] nejaké [ned-] potru [-ned] %ja:j robot asi
+lpvv52tj01 1 excluded_region 102.033 104.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 104.020 105.294 <o,f0,unknown> astronaut
+lpvv52tj01 1 excluded_region 105.294 106.396 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 106.396 107.300 <o,f0,unknown> kniha
+lpvv52tj01 1 excluded_region 107.300 109.000 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 109.000 110.275 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 110.275 111.651 <o,f0,unknown> [hez] autobus
+lpvv52tj01 1 excluded_region 111.651 112.680 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 112.680 113.900 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 113.900 115.900 <o,f0,unknown> koruna kráľovská
+lpvv52tj01 1 excluded_region 115.900 117.057 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 117.057 118.691 <o,f0,unknown> koleso auta
+lpvv52tj01 1 excluded_region 118.691 119.720 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 119.720 120.593 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 120.593 121.846 <o,f0,unknown> lavička
+lpvv52tj01 1 excluded_region 121.846 122.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 122.960 124.516 <o,f0,unknown> zips
+lpvv52tj01 1 excluded_region 124.516 126.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 126.360 130.120 <o,f0,unknown> ťava dvojhrbá
+lpvv52tj01 1 excluded_region 130.120 131.396 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 131.396 133.387 <o,f0,unknown> vešiak ramienko
+lpvv52tj01 1 excluded_region 133.387 134.680 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 134.680 135.938 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 135.938 137.091 <o,f0,unknown> žaluď
+lpvv52tj01 1 excluded_region 137.091 138.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 138.100 139.540 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 139.540 140.557 <o,f0,unknown> kaktus
+lpvv52tj01 1 excluded_region 140.557 141.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 141.780 143.622 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 143.622 144.642 <o,f0,unknown> pláva
+lpvv52tj01 1 excluded_region 144.642 145.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 145.880 146.838 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 146.838 147.671 <o,f0,unknown> píše
+lpvv52tj01 1 excluded_region 147.671 148.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 148.780 150.737 <o,f0,unknown> smeje sa
+lpvv52tj01 1 excluded_region 150.737 151.820 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 151.820 153.164 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 153.164 154.521 <o,f0,unknown> váži
+lpvv52tj01 1 excluded_region 154.521 156.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 156.280 157.954 <o,f0,unknown> plače
+lpvv52tj01 1 excluded_region 157.954 159.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 159.060 161.016 <o,f0,unknown> varí
+lpvv52tj01 1 excluded_region 161.016 162.420 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 162.420 163.534 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 163.534 164.873 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+lpvv52tj01 1 excluded_region 164.873 166.100 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 166.100 167.255 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 167.255 168.287 <o,f0,unknown> šije
+lpvv52tj01 1 excluded_region 168.287 169.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 169.400 170.518 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 170.518 173.263 <o,f0,unknown> krája [ned-] jabl [-ned] [ned-] ja [-ned] krája
+lpvv52tj01 1 excluded_region 173.263 175.380 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 175.380 177.780 <o,f0,unknown> polieva
+lpvv52tj01 1 excluded_region 177.780 179.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 179.700 181.123 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 181.123 182.635 <o,f0,unknown> [hez] pletie
+lpvv52tj01 1 excluded_region 182.635 183.960 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 183.960 185.201 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 185.201 186.796 <o,f0,unknown> natiera
+lpvv52tj01 1 excluded_region 186.796 188.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 188.240 189.319 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 189.319 190.294 <o,f0,unknown> ťahá
+lpvv52tj01 1 excluded_region 190.294 191.440 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 191.440 192.621 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 192.621 193.971 <o,f0,unknown> svieti
+lpvv52tj01 1 excluded_region 193.971 196.200 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 196.200 198.057 <o,f0,unknown> horí
+lpvv52tj01 1 excluded_region 198.057 199.380 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 199.380 203.614 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 203.614 205.271 <o,f0,unknown> to je športuje
+lpvv52tj01 1 excluded_region 205.271 207.360 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 207.360 208.433 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 208.433 209.506 <o,f0,unknown> maľuje
+lpvv52tj01 1 excluded_region 209.506 210.780 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 210.780 212.017 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 212.017 213.117 <o,f0,unknown> vŕta
+lpvv52tj01 1 excluded_region 213.117 214.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 214.220 215.956 <o,f0,unknown> hrabe
+lpvv52tj01 1 excluded_region 215.956 217.160 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 217.160 219.244 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 219.244 221.906 <o,f0,unknown> [hez] piluje
+lpvv52tj01 1 excluded_region 221.906 223.180 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 223.180 224.693 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 224.693 227.314 <o,f0,unknown> [hez] no ako/jak sa
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 227.314 228.737 <o,f0,unknown> [hez] veslujú
+lpvv52tj01 1 excluded_region 228.737 230.880 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 230.880 232.123 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 232.123 234.240 <o,f0,unknown> spieva
+lpvv52tj01 1 excluded_region 234.240 235.987 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 235.987 236.991 <o,f0,unknown> kúpe sa
+lpvv52tj01 1 excluded_region 236.991 238.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 238.400 239.640 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 239.640 241.149 <o,f0,unknown> meria
+lpvv52tj01 1 excluded_region 241.149 243.280 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 243.280 244.573 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 244.573 245.326 <o,f0,unknown> pije
+lpvv52tj01 1 excluded_region 245.326 246.700 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 246.700 247.883 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 247.883 248.789 <o,f0,unknown> klope
+lpvv52tj01 1 excluded_region 248.789 250.300 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 250.300 251.755 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 251.755 253.091 <o,f0,unknown> skáče
+lpvv52tj01 1 excluded_region 253.091 254.400 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 254.400 255.455 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 255.455 256.592 <o,f0,unknown> lyžuje
+lpvv52tj01 1 excluded_region 256.592 258.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 258.240 261.551 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 261.551 263.483 <o,f0,unknown> [hez] [ruch-] fotografuje [-ruch]
+lpvv52tj01 1 excluded_region 263.483 265.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 265.080 267.289 <o,f0,unknown> bicykluje
+lpvv52tj01 1 excluded_region 267.289 269.060 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 269.060 271.455 <o,f0,unknown> [ruch-] žehlí [-ruch]
+lpvv52tj01 1 excluded_region 271.455 273.620 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 273.620 275.240 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 275.240 281.105 <o,f0,unknown> no ruka ktorú drží detská a ktorú za malíček drží detská ručička.
+lpvv52tj01 1 excluded_region 281.105 283.968 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 283.968 285.302 <o,f0,unknown> viac na tom neviem.
+lpvv52tj01 1 excluded_region 285.302 286.640 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 286.640 288.693 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 288.693 304.708 <o,f0,unknown> no je tam stolík. na ňom sú dve šálky pravdepodobne po káve. pri ňom sú dve stoličky to znamená že tam mohli sedieť dvaja ľudia a popíjať kávu z tých dvoch šáločiek.
+lpvv52tj01 1 excluded_region 304.708 306.760 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 306.760 309.492 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 309.492 318.978 <o,f0,unknown> [hez] no čo to je:? v [ned-] kuch [-ned] v [ned-] kuch [-ned] v kuchyni otec so synom.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 318.978 324.895 <o,f0,unknown> otec: tam čo ja viem varechou predvádza voľačo.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 324.895 339.678 <o,f0,unknown> a syn sa pokúša z taniera niečo zobrať a zjesť no ale stolička sa nakláňa pravdepodobne spadne a bude nariekať.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 339.678 356.430 <o,f0,unknown> a otec sa bude [ned-] hn [-ned] hnevať na seba že on sa tam hrá s nejakou ja [ned-] n [-ned] [ned-] ne [-ned] nejakou varechou a zatiaľ syn si robí čo chce a nedáva naňho pozor.
+lpvv52tj01 1 excluded_region 356.430 358.340 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 358.340 360.111 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 360.111 364.126 <o,f0,unknown> [hez] no no neviem či to je mama.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 364.126 368.469 <o,f0,unknown> ale možno že je to žena áno asi mama.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 368.469 372.548 <o,f0,unknown> tá aj varí aj pestuje dieťa.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 372.548 393.856 <o,f0,unknown> [smiech] to je obraz slovenskej ženy v kuchyni keď je na materskej dovolenke musí robiť alebo keď robí na [ned-] k [-ned] [ned-] ho [-ned] homeoffice/houmofise tak tiež aj varí aj varuje dieťa a tuna neviem nejaké palacinky vyhadzuje a prevracia.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 393.856 401.392 <o,f0,unknown> dieťa zatiaľ narieka. a: ako sa to skončí no tak to sa uvidí.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 401.392 415.129 <o,f0,unknown> je štvrť na jednu a obed sa [ned-] ch [-ned] a obed prichádza treba dieťa nakŕmiť. a to čo tam na tej panvici robí bude pravdepodobne obed pre toho malého.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 415.129 418.265 <o,f0,unknown> no a čo?
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 418.265 422.859 <o,f0,unknown> keď ho nakŕmi tak ho dá spinkať a bude pokoj.
+lpvv52tj01 1 excluded_region 422.859 424.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 excluded_region 424.020 425.634 <o,,unknown> ignore_time_segment_in_scoring
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 425.634 428.906 <o,f0,unknown> %hi: vianoce?
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 428.906 431.270 <o,f0,unknown> [spk] no toto.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 431.270 442.674 <o,f0,unknown> tak čo? miesto ježiška tam prikvitol [smiech] niekto no tak to teda ozaj nevie:m.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 442.674 450.769 <o,f0,unknown> [hez] kopol do hračky. tam sa to tak [spk] tak [hez] zvalil stromček.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 450.769 469.869 <o,f0,unknown> všetko sa tam no nejako rozhádzalo a mama telefonuje neviem u koho chce [hez] nájsť záchranu lebo si myslí že oknom sa tam vlúdil asi nejaký zlodej.
+lpvv52tj01 1 lpvv52tj01_lpvv52tj01 469.869 488.101 <o,f0,unknown> dieťa tam kričí. [hez] no a uvidíme čo z toho bude. asi neuvidíme no ale [ned-] bu [-ned] bude tam z toho veľa roboty pre mamu kým to poupratuje.

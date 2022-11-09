@@ -1,0 +1,114 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:30 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 5 of 220506
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+kixj4qv801 1 excluded_region 0.000 2.334 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 2.334 14.940 <o,f0,unknown> special_vokal
+kixj4qv801 1 kixj4qv801_kixj4qv801 14.940 22.880 <o,f0,unknown> special_pataka
+kixj4qv801 1 kixj4qv801_kixj4qv801 22.880 26.440 <o,f0,unknown> [ruch] melón
+kixj4qv801 1 excluded_region 26.440 28.890 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 28.890 30.880 <o,f0,unknown> cesta [ex] [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 30.880 33.680 <o,f0,unknown> [ruch] most
+kixj4qv801 1 kixj4qv801_kixj4qv801 33.680 36.160 <o,f0,unknown> [spk] hodiny [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 36.160 38.460 <o,f0,unknown> bubon
+kixj4qv801 1 kixj4qv801_kixj4qv801 38.460 40.680 <o,f0,unknown> [spk] traktor [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 40.680 43.080 <o,f0,unknown> fajka
+kixj4qv801 1 kixj4qv801_kixj4qv801 43.080 45.760 <o,f0,unknown> [spk] akvárium
+kixj4qv801 1 kixj4qv801_kixj4qv801 45.760 48.940 <o,f0,unknown> [spk] lievik
+kixj4qv801 1 kixj4qv801_kixj4qv801 48.940 51.800 <o,f0,unknown> domino [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 51.800 54.520 <o,f0,unknown> ponorka [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 54.520 57.380 <o,f0,unknown> [spk] kráľ [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 57.380 60.100 <o,f0,unknown> topánky [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 60.100 62.760 <o,f0,unknown> cigarety [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 62.760 65.440 <o,f0,unknown> budík [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 65.440 68.200 <o,f0,unknown> teplomer
+kixj4qv801 1 kixj4qv801_kixj4qv801 68.200 71.060 <o,f0,unknown> [ruch] električka
+kixj4qv801 1 kixj4qv801_kixj4qv801 71.060 73.380 <o,f0,unknown> metla
+kixj4qv801 1 kixj4qv801_kixj4qv801 73.380 76.020 <o,f0,unknown> [ruch] hríby
+kixj4qv801 1 kixj4qv801_kixj4qv801 76.020 78.320 <o,f0,unknown> [spk] kotva
+kixj4qv801 1 kixj4qv801_kixj4qv801 78.320 80.980 <o,f0,unknown> kozmonaut
+kixj4qv801 1 kixj4qv801_kixj4qv801 80.980 83.380 <o,f0,unknown> kniha
+kixj4qv801 1 kixj4qv801_kixj4qv801 83.380 86.080 <o,f0,unknown> [spk] autobus [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 86.080 88.480 <o,f0,unknown> [spk] koruna [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 88.480 90.860 <o,f0,unknown> koleso
+kixj4qv801 1 kixj4qv801_kixj4qv801 90.860 93.140 <o,f0,unknown> [spk] lavička [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 93.140 95.500 <o,f0,unknown> [ruch-] zips [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 95.500 97.740 <o,f0,unknown> ťava [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 97.740 99.980 <o,f0,unknown> vešiak
+kixj4qv801 1 kixj4qv801_kixj4qv801 99.980 102.500 <o,f0,unknown> žaluď
+kixj4qv801 1 kixj4qv801_kixj4qv801 102.500 104.960 <o,f0,unknown> [ruch] [spk] kaktus [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 104.960 108.280 <o,f0,unknown> [ruch-] pláva [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 108.280 110.840 <o,f0,unknown> [ruch-] píše [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 110.840 113.560 <o,f0,unknown> [ruch-] smeje sa [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 113.560 116.540 <o,f0,unknown> [ruch-] [spk] váži [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 116.540 119.060 <o,f0,unknown> [ruch-] plače [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 119.060 121.660 <o,f0,unknown> [ruch-] [spk] varí [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 121.660 123.960 <o,f0,unknown> [ruch-] telefonuje [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 123.960 126.400 <o,f0,unknown> [ruch-] šije [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 126.400 128.820 <o,f0,unknown> [ruch-] krája [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 128.820 131.460 <o,f0,unknown> [ruch-] polieva [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 131.460 134.220 <o,f0,unknown> [ruch-] štrikuje [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 134.220 137.060 <o,f0,unknown> [ruch-] natiera [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 137.060 139.800 <o,f0,unknown> [ruch-] ťahá [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 139.800 142.220 <o,f0,unknown> [ruch-] svieti [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 142.220 144.900 <o,f0,unknown> [ruch-] horí [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 144.900 148.100 <o,f0,unknown> [ruch-] hádže oštepom [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 148.100 151.020 <o,f0,unknown> [spk] maľuje
+kixj4qv801 1 kixj4qv801_kixj4qv801 151.020 153.740 <o,f0,unknown> [ruch-] vŕta [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 153.740 156.180 <o,f0,unknown> [ruch] hrabe [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 156.180 158.580 <o,f0,unknown> reže
+kixj4qv801 1 kixj4qv801_kixj4qv801 158.580 161.800 <o,f0,unknown> vesluje [ex] [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 161.800 164.460 <o,f0,unknown> [spk] spieva [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 164.460 167.600 <o,f0,unknown> [ruch-] [hez] umýva sa [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 167.600 170.520 <o,f0,unknown> meria
+kixj4qv801 1 kixj4qv801_kixj4qv801 170.520 172.920 <o,f0,unknown> pije [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 172.920 175.500 <o,f0,unknown> [ruch-] [spk] klope [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 175.500 177.900 <o,f0,unknown> [ruch-] skáče [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 177.900 180.160 <o,f0,unknown> [ruch-] [spk] lyžuje sa [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 180.160 182.980 <o,f0,unknown> [ruch-] fotí [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 182.980 185.620 <o,f0,unknown> [ruch-] bicykluje sa [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 185.620 188.100 <o,f0,unknown> [ruch-] žehlí [-ruch]
+kixj4qv801 1 excluded_region 188.100 190.804 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 190.804 203.547 <o,f0,unknown> [ex] to je detská ruka ktorá [hez] drží vyzerá to na [hez] ženskú ruku možno materinskú ruku.
+kixj4qv801 1 excluded_region 203.547 205.836 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 205.836 211.155 <o,f0,unknown> alebo niekoho [ruch] kto mu tú ruku podal.
+kixj4qv801 1 excluded_region 211.155 218.040 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 excluded_region 218.040 220.392 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 220.392 241.391 <o,f0,unknown> stôl [ex] s dvomi šálkami kávy dve stoličky ktoré čakajú zrejme na niekoho kto príde [ruch] vypiť tú kávu [ruch] niekde [ruch] v reštaurácii [ruch] alebo v kaviarni.
+kixj4qv801 1 excluded_region 241.391 247.980 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 excluded_region 247.980 253.104 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 253.104 265.047 <o,f0,unknown> činnosť ktorá nie [hez] veľmi ide [hez] chlapom [ex] alebo [ruch-] mužom v domácnosti a to je varenie. [-ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 265.047 280.745 <o,f0,unknown> vždy sa pritom [ruch] niečo udeje [ruch] a [hez] dokáže vyrušiť aj taká maličkosť ako lietajúca mucha.
+kixj4qv801 1 kixj4qv801_kixj4qv801 280.745 303.178 <o,f0,unknown> a skončí to [ruch] tragédiou tým že sa rozbije nový luster [spk] a: [ruch] vystrašené dieťa spadne zo stoličky [ruch] a na hranu [ruch] stola [ruch] si [ruch] na hlave urobí veľkú hrču. [ruch]
+kixj4qv801 1 excluded_region 303.178 307.224 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 307.224 318.088 <o,f0,unknown> na to všetko sa pozerá [ruch-] nešťastná [-ruch] mačka ktorá len ťažko chápe tomu čo sa deje [ruch] keď gazdiná nie doma.
+kixj4qv801 1 excluded_region 318.088 321.638 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 321.638 324.382 <o,f0,unknown> [ruch-] %mhm ešte? [-ruch]
+kixj4qv801 1 excluded_region 324.382 326.862 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 326.862 328.840 <o,f0,unknown> [ruch-] ((tu voľaaké dlhé)). [-ruch]
+kixj4qv801 1 excluded_region 328.840 337.920 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 excluded_region 337.920 341.809 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 341.809 394.381 <o,f0,unknown> zaneprázdnená žena takto to vyzerá v našich domácnostiach [ruch] keď [ruch] žena [ruch-] dokáže robiť niekoľko činností naraz [-ruch] [ruch] a: [ruch] manžel je niekde na služobnej ceste alebo [ruch-] na týždňovke [-ruch] kedy musí zvládať [ruch] plačúce dieťa prihárajúci [ruch] obed [ruch] odpovedať na otázky [ruch] priateľkám ktoré píšu [ruch-] na facebooku/fejsbuk alebo na iné tie [-ruch] [ruch] ako sa to povie [hez] [ruch] .
+kixj4qv801 1 kixj4qv801_kixj4qv801 394.381 412.264 <o,f0,unknown> a ešte do toho všetkého tá nešťastná mačka ktorá [ruch] prevrátila [ruch] a vysypala [ruch] nejaké koreniny. no hrôza [ruch] .
+kixj4qv801 1 excluded_region 412.264 427.860 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 427.860 428.805 <o,f0,unknown> hrnce
+kixj4qv801 1 excluded_region 428.805 434.913 <o,,unknown> ignore_time_segment_in_scoring
+kixj4qv801 1 kixj4qv801_kixj4qv801 434.913 446.693 <o,f0,unknown> vianoce mali byť [hez] sviatkami pokoja a radosti lenže [ruch-] v mnohých prípadoch to nie je tak [-ruch] .
+kixj4qv801 1 kixj4qv801_kixj4qv801 446.693 480.583 <o,f0,unknown> predvianočný [ruch-] zhon a stres a zháňanie všetkého [ned-] posl [-ned] všetkého na poslednú chvíľu [-ruch] dorábanie stromčeka ktorý postavený vydrží sotva niekoľko minút [ruch] lebo naše ratolesti ktoré prejavili oň veľký [ruch] záujem [ruch] ho ťahajú za sebou [ruch] nevedia sa dohodnúť kto [ruch] rozsvieti stromček. [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 480.583 501.488 <o,f0,unknown> [ruch] na to všetko podgurážený otec [ruch] prichádza s kaprom [spk] a [ex] [ruch] s nešťastnou náhodou [ruch-] sa pošmykol [-ruch] na aute autíčku ktoré tam zabudli [ruch] jeho ratolesti. [ruch]
+kixj4qv801 1 kixj4qv801_kixj4qv801 501.488 516.256 <o,f0,unknown> rozbije si hlavu o zárubňu [ruch] pritom spadne na psa [ruch] ktorý sa podplietol mu pod nohy. a je po [ruch] sviatkoch [ruch] vianočných.

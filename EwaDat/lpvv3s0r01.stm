@@ -1,0 +1,109 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:39 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 3 of 220428
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 0.000 14.940 <o,f0,unknown> special_vokal
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 14.940 22.880 <o,f0,unknown> special_pataka
+lpvv3s0r01 1 excluded_region 22.880 25.661 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 25.661 27.540 <o,f0,unknown> cesta
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 27.540 31.780 <o,f0,unknown> muž kráľ postava
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 31.780 35.280 <o,f0,unknown> kniha
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 35.280 38.140 <o,f0,unknown> most
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 38.140 41.320 <o,f0,unknown> topánky
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 41.320 44.560 <o,f0,unknown> autobus
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 44.560 47.460 <o,f0,unknown> hodinky
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 47.460 50.860 <o,f0,unknown> cigarety
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 50.860 53.640 <o,f0,unknown> koruna
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 53.640 56.860 <o,f0,unknown> bubon
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 56.860 62.120 <o,f0,unknown> hodiny budíky
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 62.120 66.000 <o,f0,unknown> pneumatika koleso
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 66.000 70.180 <o,f0,unknown> traktor
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 70.180 73.700 <o,f0,unknown> teplomer
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 73.700 77.940 <o,f0,unknown> lavica
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 77.940 81.240 <o,f0,unknown> fajka
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 81.240 84.840 <o,f0,unknown> električka
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 84.840 87.900 <o,f0,unknown> zips
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 87.900 91.480 <o,f0,unknown> akvárium
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 91.480 94.480 <o,f0,unknown> metla
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 94.480 97.760 <o,f0,unknown> ťava
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 97.760 101.400 <o,f0,unknown> lievik
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 101.400 106.500 <o,f0,unknown> [hez] hríby
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 106.500 111.740 <o,f0,unknown> [hez] vešiak ramienko
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 111.740 116.280 <o,f0,unknown> kocky [ruch-] domino [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 116.280 119.620 <o,f0,unknown> [ruch-] kotva [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 119.620 126.060 <o,f0,unknown> žaluď či bukvica
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 126.060 134.880 <o,f0,unknown> [spk] [spk] [ruch-] ponorka [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 134.880 139.600 <o,f0,unknown> [ruch-] kozmonaut [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 139.600 142.348 <o,f0,unknown> [ruch-] kaktus [-ruch]
+lpvv3s0r01 1 excluded_region 142.348 143.860 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 143.860 148.560 <o,f0,unknown> [ruch-] píše [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 148.560 151.880 <o,f0,unknown> [ruch-] natiera chlieb [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 151.880 154.700 <o,f0,unknown> [ruch-] spieva [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 154.700 158.860 <o,f0,unknown> smeje sa
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 158.860 162.840 <o,f0,unknown> ťahá lano [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 162.840 167.100 <o,f0,unknown> [spk] umýva sa kúpe
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 167.100 170.003 <o,f0,unknown> váži
+lpvv3s0r01 1 excluded_region 170.003 171.740 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 171.740 175.260 <o,f0,unknown> [ruch-] svieti [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 175.260 178.720 <o,f0,unknown> [ruch-] meria [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 178.720 182.080 <o,f0,unknown> [ruch-] plače [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 182.080 187.340 <o,f0,unknown> požiar [ruch-] horí [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 187.340 190.480 <o,f0,unknown> [ruch-] pije [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 190.480 193.660 <o,f0,unknown> [ruch-] varí [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 193.660 198.400 <o,f0,unknown> [hez] športuje [ruch-] hádže oštep [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 198.400 200.501 <o,f0,unknown> klope
+lpvv3s0r01 1 excluded_region 200.501 202.220 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 202.220 206.180 <o,f0,unknown> telefonuje [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 206.180 210.480 <o,f0,unknown> maľuje [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 210.480 213.800 <o,f0,unknown> [ruch-] skáče [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 213.800 217.780 <o,f0,unknown> šije [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 217.780 220.860 <o,f0,unknown> [ruch-] vŕta [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 220.860 224.380 <o,f0,unknown> [ruch-] lyžuje [-ruch]
+lpvv3s0r01 1 excluded_region 224.380 227.075 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 227.075 230.280 <o,f0,unknown> krája [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 230.280 233.980 <o,f0,unknown> [ruch-] hrabe [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 233.980 239.640 <o,f0,unknown> [ruch-] fotografuje [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 239.640 243.420 <o,f0,unknown> [ruch-] polieva [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 243.420 249.060 <o,f0,unknown> píli [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 249.060 252.600 <o,f0,unknown> [ruch-] bicykluje [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 252.600 256.440 <o,f0,unknown> [ruch-] štrikuje [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 256.440 261.220 <o,f0,unknown> [hez] [ruch-] vesluje [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 261.220 264.420 <o,f0,unknown> [ruch-] žehlí [-ruch]
+lpvv3s0r01 1 excluded_region 264.420 269.610 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 269.610 273.428 <o,f0,unknown> malá [ruch-] ruka drží [-ruch] ruku asi rodiča.
+lpvv3s0r01 1 excluded_region 273.428 285.080 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 excluded_region 285.080 287.724 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 287.724 300.159 <o,f0,unknown> no je to sedenie. na terase môže byť. dve stoličky stolík. na stolíku sú dve šálky asi s kávou. ((takže)) taká pohoda. [ruch]
+lpvv3s0r01 1 excluded_region 300.159 304.600 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 excluded_region 304.600 307.332 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 307.332 327.199 <o,f0,unknown> [ruch] [ruch-] no z kuchyne niečo sa tam deje. [-ruch] [ruch-] [spk] [spk] otec tam chce variť. sa mu to moc nedarí. [-ruch] [ruch-] mi mu vykypela asi polievka na hrnci. [-ruch] [ruch-] no tak chlap chlapec [-ruch] alebo dieťa ((tam)) tiež niečo chce umývať. ((sú))
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 327.199 332.314 <o,f0,unknown> z drezu/dresu vyteká voda. v [hez] [ruch-] čo tu je ešte? [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 332.314 341.610 <o,f0,unknown> [spk] mačka tá sa na to všetko pozerá. [ruch] ((no)) úplne katastrofa celá kuchyňa hore nohami.
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 341.610 345.705 <o,f0,unknown> ako dvaja chlapi v kuchyni.
+lpvv3s0r01 1 excluded_region 345.705 359.480 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 excluded_region 359.480 363.915 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 363.915 379.811 <o,f0,unknown> no tu je mamička s dieťaťom. no asi má toho veľa. nez nezvláda. z naj [ruch-] v jednej ruke drží plačúce [-ruch] dieťa: v druhej ruke: panvicu. chce zároveň variť. [ruch-] na sporáku má hrniec asi s polievkou. [-ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 379.811 386.722 <o,f0,unknown> ďalej má na stole [ruch-] ešte otvorený počítač notebook. niečo [-ruch] pravdepodobne/pravdepodeme tam rieši.
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 386.722 389.327 <o,f0,unknown> hodiny utekajú. [hez]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 389.327 396.971 <o,f0,unknown> [hez] myslí na to že na nejaké topánky či si chce kúpiť topánky alebo si chce objednať cez internet topánky. [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 396.971 403.972 <o,f0,unknown> [ruch-] no proste ako asi to [-ruch] [ruch-] asi si toho zobrala veľa na starosť [-ruch] a nezvláda to.
+lpvv3s0r01 1 excluded_region 403.972 413.020 <o,,unknown> ignore_time_segment_in_scoring
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 413.020 420.946 <o,f0,unknown> %aha máme asi vianoce. [ruch]
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 420.946 437.508 <o,f0,unknown> no s stromček vyzerá že je postavený no ale okol okolo neho detičky [ruch] [ruch-] ťahajú tam za reťaz [-ruch] . [ruch-] no: stromček to asi nevydrží [-ruch] . sa nakláňa. asi spadne. medzitým mamička telefonuje neh nestačí ich sledovať.
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 437.508 450.249 <o,f0,unknown> [ruch-] otecko práve prišiel. [-ruch] [ruch] vkročí do izby. tam sú porozhadzované/porozhádzané na zemi hračky. no hneď stúpi na nejaké autíčko na nejakú hračku. šmykne sa. spadne.
+lpvv3s0r01 1 lpvv3s0r01_lpvv3s0r01 450.249 456.629 <o,f0,unknown> jediný ktorý je spokojný na tej fotke je psík ktorý tam v kľude leží a [ruch-] spí [-ruch] . [ruch]

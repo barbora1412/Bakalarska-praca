@@ -1,0 +1,183 @@
+;; Transcriber conversion by parsetrs v0.74 on 09:41:28 2022/10/24 with encoding UTF-8
+;; program program of air_date
+;; transcribed by Mar, version 4 of 220405
+;;
+;; CATEGORY "0" "" ""
+;; LABEL "O" "Overall" "Overall"
+;;
+;; CATEGORY "1" "Hub4 Focus Conditions" ""
+;; LABEL "F0" "Baseline//Broadcast//Speech" ""
+;; LABEL "F1" "Spontaneous//Broadcast//Speech" ""
+;; LABEL "F2" "Speech Over//Telephone//Channels" ""
+;; LABEL "F3" "Speech in the//Presence of//Background Music" ""
+;; LABEL "F4" "Speech Under//Degraded//Acoustic Conditions" ""
+;; LABEL "F5" "Speech from//Non-Native//Speakers" ""
+;; LABEL "FX" "All other speech" ""
+;; CATEGORY "2" "Speaker Sex" ""
+;; LABEL "female" "Female" ""
+;; LABEL "male"   "Male" ""
+;; LABEL "unknown"   "Unknown" ""
+dvd5noa501 1 dvd5noa501_dvd5noa501 0.000 8.620 <o,f0,unknown> special_vokal
+dvd5noa501 1 dvd5noa501_dvd5noa501 8.620 16.520 <o,f0,unknown> special_pataka
+dvd5noa501 1 dvd5noa501_dvd5noa501 16.520 17.974 <o,f0,unknown> melón
+dvd5noa501 1 excluded_region 17.974 18.960 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 18.960 19.797 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 19.797 20.591 <o,f0,unknown> cesta
+dvd5noa501 1 excluded_region 20.591 21.480 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 21.480 23.207 <o,f0,unknown> most
+dvd5noa501 1 excluded_region 23.207 24.300 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 24.300 26.600 <o,f0,unknown> hodinky
+dvd5noa501 1 excluded_region 26.600 27.435 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 27.435 28.290 <o,f0,unknown> bubon
+dvd5noa501 1 excluded_region 28.290 29.120 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 29.120 29.961 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 29.961 30.797 <o,f0,unknown> traktor
+dvd5noa501 1 excluded_region 30.797 31.540 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 31.540 32.244 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 32.244 33.820 <o,f0,unknown> fajka
+dvd5noa501 1 excluded_region 33.820 34.675 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 34.675 36.460 <o,f0,unknown> akvárium
+dvd5noa501 1 excluded_region 36.460 37.412 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 37.412 38.355 <o,f0,unknown> lievik
+dvd5noa501 1 excluded_region 38.355 39.200 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 39.200 40.379 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 40.379 41.263 <o,f0,unknown> domino
+dvd5noa501 1 excluded_region 41.263 42.120 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 42.120 43.013 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 43.013 43.782 <o,f0,unknown> ponorka
+dvd5noa501 1 excluded_region 43.782 44.600 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 44.600 45.550 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 45.550 47.100 <o,f0,unknown> kráľ
+dvd5noa501 1 excluded_region 47.100 47.977 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 47.977 49.440 <o,f0,unknown> topánky
+dvd5noa501 1 excluded_region 49.440 50.655 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 50.655 51.367 <o,f0,unknown> cigarety
+dvd5noa501 1 excluded_region 51.367 52.260 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 52.260 53.307 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 53.307 54.030 <o,f0,unknown> budík
+dvd5noa501 1 excluded_region 54.030 54.860 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 54.860 55.967 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 55.967 56.894 <o,f0,unknown> teplomer
+dvd5noa501 1 excluded_region 56.894 57.520 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 57.520 59.620 <o,f0,unknown> električka
+dvd5noa501 1 excluded_region 59.620 60.279 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 60.279 61.135 <o,f0,unknown> metla
+dvd5noa501 1 excluded_region 61.135 61.800 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 61.800 62.800 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 62.800 63.579 <o,f0,unknown> hríby
+dvd5noa501 1 excluded_region 63.579 64.540 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 64.540 65.468 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 65.468 66.126 <o,f0,unknown> kotva
+dvd5noa501 1 excluded_region 66.126 66.900 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 66.900 67.827 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 67.827 69.360 <o,f0,unknown> kozmonaut/kosmonaut
+dvd5noa501 1 excluded_region 69.360 70.193 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 70.193 71.660 <o,f0,unknown> kniha
+dvd5noa501 1 dvd5noa501_dvd5noa501 71.660 73.820 <o,f0,unknown> autobus
+dvd5noa501 1 excluded_region 73.820 74.779 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 74.779 76.320 <o,f0,unknown> koruna
+dvd5noa501 1 excluded_region 76.320 77.185 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 77.185 78.640 <o,f0,unknown> koleso
+dvd5noa501 1 excluded_region 78.640 79.480 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 79.480 81.140 <o,f0,unknown> lavička
+dvd5noa501 1 excluded_region 81.140 81.948 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 81.948 82.690 <o,f0,unknown> zips
+dvd5noa501 1 excluded_region 82.690 83.660 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 83.660 85.740 <o,f0,unknown> ťava
+dvd5noa501 1 dvd5noa501_dvd5noa501 85.740 87.820 <o,f0,unknown> vešiak
+dvd5noa501 1 excluded_region 87.820 88.664 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 88.664 90.100 <o,f0,unknown> žaluď
+dvd5noa501 1 dvd5noa501_dvd5noa501 90.100 92.240 <o,f0,unknown> kaktus
+dvd5noa501 1 dvd5noa501_dvd5noa501 92.240 94.700 <o,f0,unknown> pláve
+dvd5noa501 1 excluded_region 94.700 96.099 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 96.099 97.740 <o,f0,unknown> píše
+dvd5noa501 1 excluded_region 97.740 98.652 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 98.652 100.200 <o,f0,unknown> smeje sa
+dvd5noa501 1 excluded_region 100.200 101.038 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 101.038 102.740 <o,f0,unknown> váži
+dvd5noa501 1 dvd5noa501_dvd5noa501 102.740 104.360 <o,f0,unknown> plače
+dvd5noa501 1 excluded_region 104.360 105.300 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 105.300 106.199 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 106.199 107.740 <o,f0,unknown> varí
+dvd5noa501 1 dvd5noa501_dvd5noa501 107.740 110.220 <o,f0,unknown> telefonuje
+dvd5noa501 1 dvd5noa501_dvd5noa501 110.220 112.700 <o,f0,unknown> šije
+dvd5noa501 1 dvd5noa501_dvd5noa501 112.700 115.160 <o,f0,unknown> krája
+dvd5noa501 1 excluded_region 115.160 116.297 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 116.297 118.060 <o,f0,unknown> zalieva
+dvd5noa501 1 excluded_region 118.060 119.111 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 119.111 121.480 <o,f0,unknown> [hez] háčkuje alebo pletie
+dvd5noa501 1 excluded_region 121.480 122.400 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 122.400 124.260 <o,f0,unknown> natiera chlieb
+dvd5noa501 1 excluded_region 124.260 125.097 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 125.097 125.959 <o,f0,unknown> ťahá
+dvd5noa501 1 excluded_region 125.959 126.720 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 126.720 127.616 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 127.616 129.060 <o,f0,unknown> svieti
+dvd5noa501 1 dvd5noa501_dvd5noa501 129.060 131.280 <o,f0,unknown> horí
+dvd5noa501 1 dvd5noa501_dvd5noa501 131.280 132.811 <o,f0,unknown> hádže
+dvd5noa501 1 excluded_region 132.811 133.780 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 133.780 136.020 <o,f0,unknown> maľuje
+dvd5noa501 1 dvd5noa501_dvd5noa501 136.020 138.280 <o,f0,unknown> vŕta/vrtá
+dvd5noa501 1 dvd5noa501_dvd5noa501 138.280 140.500 <o,f0,unknown> hrabe
+dvd5noa501 1 excluded_region 140.500 141.938 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 141.938 143.900 <o,f0,unknown> [hez] píli
+dvd5noa501 1 excluded_region 143.900 144.775 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 144.775 146.260 <o,f0,unknown> veslujú
+dvd5noa501 1 dvd5noa501_dvd5noa501 146.260 148.680 <o,f0,unknown> spieva
+dvd5noa501 1 excluded_region 148.680 149.700 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 149.700 151.160 <o,f0,unknown> kúpe sa
+dvd5noa501 1 excluded_region 151.160 152.160 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 152.160 152.980 <o,f0,unknown> meria
+dvd5noa501 1 excluded_region 152.980 153.880 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 153.880 154.644 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 154.644 155.415 <o,f0,unknown> pije
+dvd5noa501 1 excluded_region 155.415 156.120 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 156.120 156.877 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 156.877 157.698 <o,f0,unknown> klope
+dvd5noa501 1 excluded_region 157.698 158.560 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 158.560 161.160 <o,f0,unknown> skáče
+dvd5noa501 1 excluded_region 161.160 161.997 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 161.997 162.996 <o,f0,unknown> lyžuje
+dvd5noa501 1 excluded_region 162.996 163.940 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 163.940 164.755 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 164.755 165.457 <o,f0,unknown> fotí
+dvd5noa501 1 excluded_region 165.457 166.400 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 166.400 167.606 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 167.606 170.060 <o,f0,unknown> [hez] ide na bicykli
+dvd5noa501 1 dvd5noa501_dvd5noa501 170.060 172.680 <o,f0,unknown> žehlí
+dvd5noa501 1 excluded_region 172.680 177.815 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 177.815 180.662 <o,f0,unknown> dieťa drží ruku dospelého.
+dvd5noa501 1 excluded_region 180.662 182.600 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 182.600 186.956 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 186.956 189.914 <o,f0,unknown> pripravená káva v kaviarni.
+dvd5noa501 1 excluded_region 189.914 192.920 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 192.920 197.179 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 197.179 203.885 <o,f0,unknown> no ono to tak vyzerá že muž sa stará o dieťa v kuchyni a spolu varia.
+dvd5noa501 1 excluded_region 203.885 208.937 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 208.937 210.477 <o,f0,unknown> ako bližšie hej?
+dvd5noa501 1 excluded_region 210.477 211.510 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 211.510 217.920 <o,f0,unknown> dieťa sa snaží umyť ovocie zobrať ovocie. voda vyteká z drezu/dresu.
+dvd5noa501 1 excluded_region 217.920 220.908 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 220.908 224.118 <o,f0,unknown> muž chytá osu.
+dvd5noa501 1 dvd5noa501_dvd5noa501 224.118 235.817 <o,f0,unknown> medzitým mu vyteká tekutina z fľašky do hrnca a hrniec kypí.
+dvd5noa501 1 excluded_region 235.817 241.340 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 241.340 246.860 <o,f0,unknown> mačka to sleduje [smiech] z kúta.
+dvd5noa501 1 excluded_region 246.860 252.680 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 excluded_region 252.680 261.066 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 261.066 269.407 <o,f0,unknown> plačlivé dieťa je v náručí matky ktorá sa snaží uvariť nejaké jedlo.
+dvd5noa501 1 excluded_region 269.407 272.436 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 272.436 282.668 <o,f0,unknown> na: na: sporáku respektíve na platni má hrniec s potravinami.
+dvd5noa501 1 dvd5noa501_dvd5noa501 282.668 286.472 <o,f0,unknown> asi pravdepodobne/pravdepobne zemiaky.
+dvd5noa501 1 dvd5noa501_dvd5noa501 286.472 295.988 <o,f0,unknown> mačka zhodila kvetináč alebo kvietky.
+dvd5noa501 1 excluded_region 295.988 302.109 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 302.109 314.628 <o,f0,unknown> na na: na dreze/drese je položený nožík pripravený na krájanie zeleniny. je tam mlieko pre dieťa/dieťach.
+dvd5noa501 1 excluded_region 314.628 319.085 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 319.085 325.540 <o,f0,unknown> hodinky sú tam. a pritom všetkom ešte stíha myslieť na topánky.
+dvd5noa501 1 excluded_region 325.540 330.387 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 330.387 334.020 <o,f0,unknown> pravdepodobne/pravdepobne vianočné vianoce sú.
+dvd5noa501 1 excluded_region 334.020 336.204 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 336.204 343.586 <o,f0,unknown> deti [ned-] de [-ned] [ned-] dec [-ned] decko sa hraje s ozdobami na stromček.
+dvd5noa501 1 dvd5noa501_dvd5noa501 343.586 350.081 <o,f0,unknown> otec prišiel z obchodu šmykol sa na autíčku.
+dvd5noa501 1 dvd5noa501_dvd5noa501 350.081 356.149 <o,f0,unknown> pes to má ako v kľude v pohode všetko.
+dvd5noa501 1 excluded_region 356.149 358.359 <o,,unknown> ignore_time_segment_in_scoring
+dvd5noa501 1 dvd5noa501_dvd5noa501 358.359 365.286 <o,f0,unknown> matka má telefón takže je silne zaneprázdnená a nevšíma si okolie.
